@@ -32,7 +32,16 @@ def get_mongodb_client():
         raise ValueError("MONGODB_URI environment variable not set")
 
     try:
-        client = MongoClient(connection_string, serverSelectionTimeoutMS=5000)
+        # Connection options for GitHub Actions compatibility
+        client = MongoClient(
+            connection_string,
+            serverSelectionTimeoutMS=10000,
+            connectTimeoutMS=10000,
+            retryWrites=True,
+            maxPoolSize=50,
+            ssl=True,
+            ssl_cert_reqs='CERT_REQUIRED'
+        )
         # Verify connection
         client.admin.command("ping")
         print("✓ Connected to MongoDB Atlas")

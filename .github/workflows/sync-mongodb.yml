@@ -24,8 +24,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install MongoDB driver
-        run: pip install pymongo
+      - name: Install MongoDB driver and dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pymongo[srv]
+          pip install certifi
 
       - name: Sync exams to MongoDB Atlas
         env:
