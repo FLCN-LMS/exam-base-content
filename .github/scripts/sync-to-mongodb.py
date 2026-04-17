@@ -38,9 +38,7 @@ def get_mongodb_client():
             serverSelectionTimeoutMS=10000,
             connectTimeoutMS=10000,
             retryWrites=True,
-            maxPoolSize=50,
-            ssl=True,
-            ssl_cert_reqs='CERT_REQUIRED'
+            maxPoolSize=50
         )
         # Verify connection
         client.admin.command("ping")
