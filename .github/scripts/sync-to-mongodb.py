@@ -10,6 +10,7 @@ import os
 from pathlib import Path
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure, ServerSelectionTimeoutError
+import certifi
 
 REPO_ROOT = Path(__file__).parent.parent.parent
 EXAM_GLOB_PATTERN = str(REPO_ROOT / "**" / "*.json")
@@ -38,7 +39,8 @@ def get_mongodb_client():
             serverSelectionTimeoutMS=10000,
             connectTimeoutMS=10000,
             retryWrites=True,
-            maxPoolSize=50
+            maxPoolSize=50,
+            tlsCAFile=certifi.where()
         )
         # Verify connection
         client.admin.command("ping")
