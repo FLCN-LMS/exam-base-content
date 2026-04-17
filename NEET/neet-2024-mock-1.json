@@ -1,0 +1,88 @@
+{
+  "exam_id": "neet-2024-mock-1",
+  "title": "NEET 2024 Mock Test 1",
+  "category": "NEET",
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A ball is thrown vertically upward with a velocity of 20 m/s. What is the maximum height reached? (g = 10 m/s\u00b2)",
+          "options": {
+            "A": "10 m",
+            "B": "20 m",
+            "C": "30 m",
+            "D": "40 m"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MQ0u0cK1IhlYvHILDk/VpfsHM9sCRBeHGPfU9u7tC/SQ9jJMfUD2WpcoJJR9/IRJvKM169WHWAdP7IyEGsOV8JZCvNICWI0RrnDD54YU0TACPSfsn5soohkPV4QdaHgKbhUI0kJmzNp2iaz4R+W+5PoA2dGmO8+lifrVlRZeA9m1lYDQ6FzNlm4x6lleP5c4SbSDd0l5k9xZ8xTduEA/hCOyFh+qjlGMo6tdwqoJTtHdcIbSS3OznpOPMBNsvjSzvMdr9a/wSPPPviNhJ0ufQ3f2jBYTaas/8Nc5smWyBnuaLfZt8jATK4j/pXUtnXIfqxT6PkbidlqXBEru25xE3A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qoewiAEDjP8i/77FDDnDGAdd/LTkzIfO4ho5DmCAZ9xM+bi/DFy3YyvaAjpUJg8zFI7ru2TO0A6OCfXFP0qmc0tU+jkaCM1o6exPhvx2hztPbovp56Nzoanq/mIngTEqR7AawZKBbcOxtu1TY5VftMFSD/2F06jADYJbwMch6F4DzUffAeaBt3YdKlw3SczfRK7FMxBqi+VKWU9AxvzBINWqWe/QAweuZSsvRTqz9HhOuv6hOIe+BNsYZ2nB4JzPu5rn6l3f0wDr52eaoSZiI//pDg4ooJFiQpi6WdjaPrYL07JfgMUQ1d5catb24+9sejRJdGBIZuQPAI2C1JBafA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "What is the atomic number of Carbon?",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "YKGtn4iGaiMNKG5wvLGLsjoQctKQaIV/E4Ll5fCY65UvqaH+F7Fy0mAuE348O5xo1nhbdO4o9AiP7S+IH/crJubotRZxnyyr+ZEAbvmbi8bH4cYOLVJWZchYeK9R/FIP0krtn/Abea2noD9LI2Vcg4PayxRfKPiSjmhIdzDzGjCjsAMN1oBTBFU7bt2zCw1ZFJM8rxdKGFPzcbl/0lyN+BXe/HUFoTvpqikfZ0yraSXO8ZemedFhxMMiubS8wKMqAWP4P8rTOVGRWN8/jY5YWspXM8kcMH1QuQlDbH+dSwBt5C7AXs9dcP2xowJsf4GRgBYJT3gnOJpKVeHinf2SAQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jG6dDsvmA0bLgdeaOSnYZ/tNhIUewF05+kWYB+ZVFIdb/X0qtMzO7Q8a7ZKe4GumvN4hxKYqd3/LRcDv8TqaPnKns/t6JWZQwvXw0P34JZC65dWbNoquZkzo9VCUeNCpleAKCFz6Zy8GAZrab53Qz6B3lJNpRruOgiXBdHawdRuP1fnhXXZ2PUfbM6845XPVFuq/iCZxwPY7GvAWS9aFq+PY7SjsVIfhZkbqjSrbgG/HQsDSTCT7JO5lrgbGEd2BnUefPY9w76RYQ5yTwXRTfjZJ3Y9GL6w2dsQX8mKDm791aGuYqaWeAK9TzVl8P6m5c6kNpOhoGoIfTjigc6t+Xw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "Which organelle is known as the powerhouse of the cell?",
+          "options": {
+            "A": "Nucleus",
+            "B": "Ribosome",
+            "C": "Mitochondria",
+            "D": "Golgi apparatus"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "C0iFmxkV1Bu4S4oT9N0i455Ihmb4A/ureFvog4wQh29atT1kRcPmw1WdTwnJyGUhbnSxOt6NOuSpu8m/Mb+wqEZIG7U9UGqyravcVves8A7lImzwY8GCObLVE9GtcQg1N2N9RsTFKIWWJVq4Yys2CBY6yNBVwzsrbeHJ9ELpXxJ5E9b5Hfoc12QjGlU6qnxnQz7yUhbg6XStelWNjb1wWp0c8ZxZBxacE9oviozr7y2lCtAeOM1zOKSEYHrpHrwW7/qvXSOHKD45T6cK4zLrNl0l18W0kQd4Rg8TTthkugR55rWNECMmt8BmaRQP1L9vrVlT9DbnCgT2susmgk8KeA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PiGw0k0gdfEr8sXh2C0yjsMfSNfOCzQNinujX74Txsq0dE5J44AFAZLnFLoKJXMxVCrv8S80rg3Q1X1qbJ2Q3FBLmQRp9jY9LmGAebpV2Rh3YvtVr2w8YMH6PCOD4eantdsjcmsWTWXTJoZyU0VLALWIfsKVvk7Sli+bwwguCdEomwzQKKdHN2DR+A3FEFt4iS6/2G4QWImMaZZmAa1Q9D53BEECgl244qN7IUhz98ZBTg5XqWLhbqTcC7lF8Nk6AGtdHg9xG9ItQtKvxylenmZ46HhR/yNJwEkhpaeg/JWLF8MzAj5hjxbw+0TBzzth/6fJEp+P42Waxq9bF8F2Mg=="
+          }
+        }
+      ]
+    }
+  ]
+}

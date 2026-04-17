@@ -1,0 +1,332 @@
+{
+  "exam_id": "jee-2020-exam-2",
+  "title": "JEE 2020 - Exam 2",
+  "category": "JEE",
+  "year": 2020,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "De Broglie wavelength: \u03bb = ?",
+          "options": {
+            "A": "h/p",
+            "B": "p/h",
+            "C": "hv",
+            "D": "h\u00b7v\u00b7p"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gSK/r3p5q9ETKQhsWm673UyAmfJEWFVuj3l/U+HOljpVYproiM++C/6LAL0pEm6c2GR1w8G52EoxkOTeX6/Hem83G+s1ARaQcA3yt1dkc1nJjLr/+P/gq6+uF27qIgyiIDJNm8lsROe0y4AqfO2Ep7H1bdaRtmf7un+jZV7rKA/haJfzZ4COcV5d+Juxmvq+bjpFe4Iq3RaymMBYO+gZu2tu0o09fM5wA089L16xS6GzQl1iyaBOugS30dTpawjw7DF8Lg18SSRYth3V4Y5nCXtWevNGK5c4XwR5mQTUZdzav/pOEtfyyZcYvnZYbFdMkOxDrMEL4WrdpcohG2oCpA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "kYM2i0fECTz8Bv82uA8wlOdcPGTRDaj7koLrjsmoyKlZHKD04I0wbYQJIxtMO5I/W9K5phaBpMxmhz/9OH+CevKvOXtTozo42abORx8v0lxdqgcIvXJ6ZhDZ06YhscsmI7+A8X2/QBTSp88f9d4vuLkWqJD9Ztbz3KULQ7smxl+HkkcBX/82U9vd9kH/DiQGrb1epxD5VsF4+EQRxpzkIof3FuQ3Adu6n1hpTqVVl0DgD7pRoD9IDRB4x5hiDgf4UKv8DQHWi9SXutFtTbpW70VTWj4ivtK7kq1zM24Ih7NLvu6ycOzc467/sG3NOZ7HLq0LTHujqkJA6KyLgNAZgw=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "Capacitive reactance Xc = ?",
+          "options": {
+            "A": "\u03c9C",
+            "B": "1/(\u03c9C)",
+            "C": "\u03c9L",
+            "D": "1/(\u03c9L)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Zxrgr3uOv7qZt4dfOQd6jMo+ffAfEQr1nSzqnv94xx01O2DEopW+cQFKEalI4IH2gxyIliL+LU65Qge665e4+MlfvMTK53/WaNDzTpFo/Op3ERZ3moB54nZHkF09uf5gEzZFy9HVKGuFg3LcbaHTsYFExmTJ9dc/Bw4Fo4NBf2RMslL+ZYJEQuwjOJW38/Tko6nqQGnJJS3VdnmznFtzAkIh8cT2aXI9wL8RjW9wBUuy19OUWorOV2KvlLix5K8iem9nI+but+U9SxvlDzz0Ve+rBvGSX5IpxUbxy6LrmUtc7vVFDIR1xHhQiobuG7PaEUBa/KiDPT9CZlSH20qj4A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "rN9BtyQ8oYJ27GyQRQp42IX2wHmMi872qAxTBDrWSMgfQrKonsoK7RdQ/4j2hZ2b42VWsMJ8Q1j5mj0+BvQloPVtArVxXIBge1UK7VcfCTmNBqR7iQl5a3n4+Vft7f75ML2EDQVt9/0KeITjLvQgVsQg9+kAR+ofnk1LmXj+cGjTeWdiyJR/jtlvaqWE3S6O4Iirmv4hCQHAKipdCK9rk0aWh82Ay+XIBJDxR3t6vwhc+0eZpQusPvSwGjWG5U9sMU4qtY/K4HdDdFxngw1NpXZSCuje/+Get5SKKnPa0sxIwcFZ1z//dyyRIBUWE5IMxwEkLjscYZwjr5PhraFk1Q=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "Avogadro's number value:",
+          "options": {
+            "A": "6.02 \u00d7 10\u00b2\u00b3",
+            "B": "6.02 \u00d7 10\u00b2\u2074",
+            "C": "3.14 \u00d7 10\u00b2\u00b3",
+            "D": "1.67 \u00d7 10\u207b\u00b2\u2077"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RkkPWaVB+6UbMrWgJIZPfHahtryWEi+04+vYWy30Szjyr4/uxXRuPb7p896g2cF6aM2ClDdZvQcwJyxgwcQqn/bNWRQ8Uey4OKfnvd1v1C499IuA/MeNkyi2OSLOqlBLWgLTojzuzmv/Mt9Qy+aPOg7GO8HrKDuoz6H8emcm2kwV07X4By4Jbs6t8ctZtJsz13I1TexktdOYafk5TQ/coO3BAdxwgbXFFESVDFnyXhVuIVE0OIdkg6QQk9JhL6ZAuBucrWbw2z/aJNP7+G0pNi9lzSnWB78RTI/7NP92WsJYYKivT5+Wz0ggvGPKXPcKyzsvmUFIOegf9whWsON0Rw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cfoUaTFawTtj4EJihHi++9zMq9mdxsYBJNpGSjkTL4KqOBWPeyMgDPC/6DdW+wZ5Ja/M5g7GiLmuA+C2oWgQB4M/0pIWdVPf0HEzfEhOenChOF4GUAtqjmvBJDsnjUL6ueaqvz+ylJe1Npc2tEYb2B0of6Hm96PFMYA6jeihUCSkyCnfse+hTMsLEv6c5Jpk3iRibYi+Pvipe54GZq+WTM092VvguOk5AJQrizwC68kPWzjnscOXRSpJMf2HRqPhlo2D1ds88mbD7MdF24/NH86m1piN9TFBCONQcZr0PufeEqMGxlelLiJEEf94bKFF8hUWWuHHrH5ANHfzLZmWfA=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "Thermal conductivity unit:",
+          "options": {
+            "A": "Wm\u207b\u00b9K\u207b\u00b9",
+            "B": "J\u00b7m\u207b\u00b9K\u207b\u00b9",
+            "C": "Cal\u00b7m\u207b\u00b9K\u207b\u00b9\u00b7s\u207b\u00b9",
+            "D": "Wm\u00b7K"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "hmRR2iptI8Qnz3CHiUIyVo2gWLspT2GoIdl6oKqTid0sc1HOiAbhqMaJomT7mOm9CZ11l5FPqblfX3HCRlHg5rrzgVIbXzH0DLAPfcV6D344ULymQx8VvIXu82cPmATTJoYCwQLKak5rnUQzYlqXvW1suc43YQRg1HAhkdntdpTS1geg6Rognk/TwtyCm87GPhsm5aakgdkjY0yXezxRwHGW/fgiUJupLlm5seDAIlVQ9nxJkyq+e38t9/NaQv9eJ/jYRa0BIpJU1hb0Qhyuy4n5DYWEIhEoUp0f17gIRHszraurIyz7XbyxwagTewxOm8dTB0TfLN0m+xysn5/Z0g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "OL3vrPky3AuBB6/dvZNZGZ1FNp9ruHWAB2X8lU/FE6twHSmxLR5YtO8BqiSQPDmBb25q1qWpy2R9G2laf70RXTgRH5adoLobA2iU8mGs5r2lpBZHMsfG3K/60C5r6o+5XL8pBBn5yAzCdJNv2e2vJzxAbkGmqgzhNnCVOeBoCV802QYXrjC0eZ6FsFHZhRC97xvT00/tCU9pYbIl0KF+pkBGfptrYLfrGN3544sy7PGZhKkwwRhRhxSLJTrKALKi0UfnYhI96mL+/a/m2PlgnXu5iTOREiHRehbnwrRWkJN7gADLUdBoADdyNleu3yjqAOP/zaN/gx8bPn10Vlvl6g=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "Curie temperature is where:",
+          "options": {
+            "A": "Ferromagnetism disappears",
+            "B": "Paramagnetism appears",
+            "C": "Diamagnetism becomes strong",
+            "D": "Magnetization becomes zero"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FAdFbOjPcrX9Ox9OLzuuX5W69jjEk9W2iv7AibCphwj56UqABD64Zv5RcvCoSMTowtjszElPC5bXF+0rA7VgNsmrWUrp6mWF3FyEMA27H23wDUjVtS6Nvdmq2fW3g1EIjG/bEM9F2W8MVOh7U+rki/SD9J/RS5ijxZxmNoxfQvvEB9bnh9uZD5NzBBQ66N4/nmUA+7UH/S0uCS26ckZN/CQf4EP6T4yTpcWNC/KKukYcfLJQgUI+5RlT+nvBblgTQiu4opa0pmhUqujQbO+lVigSopEh8026P4h3Ya4PdsL4Jw2UdPXbsPwncItMTH3LBNdxi6zIgfLWvCTn4Jq+mg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ionxYWNxQcn29+XBsnmjxReY2894vyukb7GUh0HJSWpCe04qK7hJhF+Pvhi7ukyigQZ/b5OmaUVOd2NzOSnXjS3THpt/mozGBN7P6ICbwpSd8MsFxwLhAKrDz3RfvbP2rqz9gWqRZQwplIMekHcokdoxuL1lA6HrttDWrmSHtZi/+oTHJZU6Z+pAJqQox7i3YzU3p9G84f7a7ZJUteEcwslAoVa+rUxy3eKF3jNRGQXGAzc6CfMxqL/40nr3skVSyfu8v0b8x8guVLiw9DFJeW744boQNoPNKTQNQbzHlyo4lX2iGb6EPswHXTSVXq1cOmIQLYmM4PBDLqOV3fx+Rg=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 30
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Hund's rule states electrons occupy:",
+          "options": {
+            "A": "Paired orbitals first",
+            "B": "Degenerate orbitals singly first",
+            "C": "Lowest energy first",
+            "D": "Highest energy first"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ORx1n1efJDdsaBZyu8AAEwQHziimCzcIz+Sg+UGXaxbXJHhUo1E9WokeB9Z+uT2h8bpZAAEriWlmsHtTfRnyZ5O1wje2aPxOA2OCahQqkU3AWSXU9RxphGeV7N2zYH3W9n6o9i0OQKw6NQFbwtIOKJPzdhfPhS8NsD1Nk76z1Bif4dh4lE9P2wEvs0raV32/txzEPVZtwjU4LTI/cD8VM2R3XLTUGIWMK07QQo14unAYfS9FzaQuwxPXKHqyRtR2EPxKBjaU7QaiUYq3mmsJIZGNBKUNKKY2+JqdNOlqXevmDQaM/kKyVjVIaGR35avykN/fitiUHbAIdOXw9VGGqA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "j0eBCl7dXDv18uKZGv4CJDHNVznoyVb8RsDwdE9IMNH66o3p6dZZHzN7emIMXYfCzDPFU1WwgzsfrfJWB4YJGsNm8YtSgS1alHnPfdruvExypgF/qXXw9T3ZGTdK2rC9YT9o5EOboOuaOTDBqr+Fq3G8Iv2EkX2obUBxcurEDrYkB7fugVRnpTPK/QPIYfZvnFRLE3s1c9jjPJJaWZnnO0G4w9bAm8SDw1lNAWOs/G0CxJis1Peyo7b9TspX5po7R4/DCPr0P90bN1PxUGVfVG6aOMyOK1CRdevRfv1pqvKoK+0RLrdXHFhQ5WTcFo2m8wrS41+Ssflj6WVSDxHvkg=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Cannizzaro reaction requires:",
+          "options": {
+            "A": "Heat",
+            "B": "Catalyst",
+            "C": "Base and aldehyde without \u03b1-hydrogen",
+            "D": "Acid"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lCcC2PvxFuxxgR0uGY+mzonShMdfwbcZxsJbugsGvDmHmVx8rfYnjFgpaFzxli460/R3+/4fIJKdS3AV/1DSsXWFMVPCCsyJKGdaOVfnRTyA/oDoVgS4XMsX+LFLBJTX0H4VsfA0XIMvtZX9+VfQvPJuL5Zj/8uEhcuwKgmLlHtdPt8T28HOnZ98JClRJYDGqDPPXC7Og3YzRR3u3W9LNJDXWGAMt7HwUv/whne445vqgjk8B4UK2zXfQM8ISnYzZ1rUuJyOeOhGdAe1UhoNP40Th8AtC8pwikc4w5WbdxKmwiE8GvQLcVIGjmoGcYDqNUmlw+12kGLOc+sB5uZM3g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pJqLiiS7MaBGG1s3DTFCaTH/JZJhnCblzSkgLPTGt9+7KGo7bSHcpji1ClQaUBbvl9fq9koM2ZlpQqNjD26eRuOv10uYLzHyXrljC69N4QMy1akwY0hmZe/A8A7tUSF1fNpRH82oilwhBadvbP/A/DMlPS24+qwwLFyuQ0AexZRk5NIFieLOkoZNOJ9nrt72T4gLzBDY11Am1ocyao1VUgvXsc2BriS9iPoD23ekOMhFlSfcOYLyWLWzqz2HNJdv2K0p5E+UeIkzclVoRdl3yy8tncpO1m7l+sTZCRqRv5n8foP9jmelzqIofT0hvBi/JTuRTvfOyk1+CNVYSqV/Jg=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "Photon energy E = ?",
+          "options": {
+            "A": "hf",
+            "B": "hc/\u03bb",
+            "C": "pc",
+            "D": "All of above"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mBCaO/ABhaQ7JN/Z2+NXURHn20KAVTkObBpgOLjGim0QhSAOCCmp+fBuYR7tP135H2ez9OSlr9vFMh9qPbzbqkkuNJwL0sZmsPtcVSVqp+5aWev7UIQDBzqA0jYWVJgdrvFMr4bwjqhn3xcf60hqUYSTyajPI/utlSiS4TKI4vlgi9Zq8bVoznQ2ZB97xr3eARpqIE9cUM7uZESR73hAqNUALDPf/bNCehgI3ohXDyYNlQOMTKR9ORAGFVbS6XLIkCUuV1phzsAt0YKoTh9n/QQqTGYWgzGO445IDLFeqlM5oMcTeYn2siSvHg7ZJqrXBRFG0kucA9foNE9XXFq4lA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pT/i8VAi8CixjcU4neokQm+6LSL/GkacqrnZKYWfOOKWRdcfsld7Kr8gm0a9xZ0yVKSraZiuBlpaWtzdfl0heZ5qktKt5rxPTzGQx+JAlNGm8w/XxJAIF4ScD8aHKmjOMPVluDQiI88I7ouW52qUCvRLjSXCCBPsd64QkDi0txOzp+fNS0DPlkRDEiw4Q7+10iUbT+8Cv/aTsWl95wNEMxQV5NWGV0J2GNWRl9zr/WZgLn738qrxiITum81yJBNtsNfNfXAdA1TIrvj7uxK2hSUPmztWF9t46ZfmJ6eD8NWQ/M7PawmK6fyFHyeQd+ZlsKm5qkYaTaNgdn9t025wLA=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Specific rotation symbol:",
+          "options": {
+            "A": "[\u03b1]",
+            "B": "\u03b1",
+            "C": "\u03b8",
+            "D": "\u03a9"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qt+N/CgSCE2L1rnDS/dhl0r5kvLJqKFQI55hJEuV5SesMZryBXuQk434ZEAWyu8dQ7C45xC5rULmKNX6CBWCI0Pit1Pkr2nTSAWV7yintrYeN8B6XVqHUhT9EmlzglAIB5RwJEhyQaSw1r1sNnk8rav7fd8ek4DOoWxSH4HAe44hzDqJuAyM50Tq5kCZpZJkpuHrVb9lOvrkNzFrhKxllVQLnowroMzCgzCksCdr/JPfAoqdExA2G98GlWGkloylYEI1UCBagpDHL4rmSGgjw83d+G+K3BASZf3zDXXaEE9X8/VzQNfnikxUgDlXkVE4NEBW09L0/6VlveM2kWV4Mg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "bVhk+08vihYlKiQzCSfXWV4E50Qjr+KddMw2aQl4NDxYJWX2H2Ip21N3+w7YnsdUP1VtvADqKxDdPM0RLl4JRDA4dZeVOefwT80uDO4HFHfsnpsgYp0Wfm65+z4YvcqlCiGgqbqkZq4ehj804+jdPI6FFiY/HLq5WmYWquBw1/L3J9MvR8knsviRddJXlAHngfVSe6RhtzjpzElZvkgblgxaEPnxSoe1Obzi23oIwFCQ+Ky/bqUj2KPlC8CVdg3UEM1k/Tu7QFdAlpDU9WowQoZNImMUx+fuGxC+s1WeZb5Ho2MP0JWHhchRHCZ7KcqjcDdLgPjDHEIdnfi899Zt+w=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "Grignard reagent formula R-Mg-X attacks:",
+          "options": {
+            "A": "Aromatic rings",
+            "B": "Carbonyl carbon",
+            "C": "Alkene",
+            "D": "Alkyne"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "d08uIdNET8KjyGQMxRftbkJ6BJyrhqQK9VwIyfiZbh3MxKc2UW49GtHLBa2vNkN+fsUT7+76UqwGar1Cpc7w2KjpW7d+dtNxPVJ4UfieTDuk6pjPD5s5q4Yrq5gAi/jyjCY8oDQqI7nZKdYWtSnUuMG0MxYjteKhyBbw8SX2GNJn5LSW6LkaUISBPbDmWXL5mz5eqdYsNnqNY6oRaD08F9GqQY10DeF6ih/3MBDWZmrn3BhD7XOl9bVKP+2uoi/AFI6hY79A9qWzodCBxDcVXOSUgzSgbP44RukbjrepVlQZpQA3As6EQunT/WiZjJpyHBZpdzxXpPqwN1imuZzYQg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AY8PIdLfnQOZ5BwDn8xpV5JUzRHbqt+3DedCiH5jyMA9jbtOdFqLcnmxt7kU3TsGcKpWwxnPqvgMrjR/bKyk0vK04mji+VhPxKyUOk5QBE/KnALqG6UPxVDA3I9fnZ/wWOLYA/xKrCi3d6fK2yMHRsBwZ3JpOv3l0kFwGDJq8GddrM/YY9ymHDtdU+z5Lxgz9eS4f+tb94hvXdJrD3HBktVaIqaI3tTraDEJRruk9/T144fcoUbYaq17Q5hMAKvgMR3YAOsPSmqiodRhvNSDOIHbzkdypUu6uNig0S6QbnjfNuJloPAcKy5i/JtEqrEiMLO4Pwb0JFxTVA+OqlZASQ=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 30
+    },
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "Mean value theorem requires f'(c) = ?",
+          "options": {
+            "A": "f(a)",
+            "B": "[f(b) - f(a)]/(b - a)",
+            "C": "f(b)",
+            "D": "0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LKmaFHtYK9j6LU4/fTMknidg25sggZ971zeKhmPyggN/yUZh048OKj7sfijgCUtJX3yP3d015/0qLtNKAvShyE/KTf4XbYFTOVjfJbhrd43f0mdHRvBrT91Oz+IuFn8hv7AVXFyn8zlg2CAdkSuTwX9L5n3ZewrlcRu/iYNfjBg5jl5ULjos7C03Cgd1aSDncEGEOOHTpjnkgblgbJ+Fh9L6QKR9VLNtnEQ5M2eG2OL86AEtu/DgQT+1rSn92C+smINDblNbHoPmmsyFcQfSWaTi0Q7fKfrKXs/SrGAQSRa4Zv5aNVu1hSEDbRyBTEP8dHGxdesfUKGC/NcvZfiVag=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "rJUg2mMNT4yq6vtobFWxwl6+SsvQHp6d6YpnebAjqEibcUwYVh7DTxbc1kinvXEPDpIwn+09la/CldIwP5LUuQ7BW8Zp0XhQ37BEX73qWnGDiOvcxBf3mNH7gD00tDGR3Rx1Y3BB61JqRs3HIP7hnRZo+aC975HWGHi/v3Xu6rHV8p6L5zypGl6vQ6LAR1HVy4AeR3u9H2kLoLTY/MA2a3EUxwpkqld0949HqHk0sF9xQUjA+wtC5+yWkCK82qidwGu1he1LyARhYnh7RQaMvSwT5GKTTpmvFIQdhdK9wgVPc2BXEY0aVIvLV8Mdv31t/fm4OWRC0xmAVTpVWj/dkQ=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "Scalar triple product A\u00b7(B\u00d7C) is:",
+          "options": {
+            "A": "Vector",
+            "B": "Scalar",
+            "C": "Tensor",
+            "D": "Matrix"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nJJuVR2tPbi7GZ06ORw/zf9VAo15lSHaSZptEEvKsaOlF79FKpzfftTAAizVdPaD7Ti/hQORpTWkdgOtdkVwuBSQDVC2RPhosRyCNB/xHz4+bryGUGsDpWmtVml9iufru4VWgV/XZB+Zb/MLyJbQURmvuBky8ZQFWLqeoO2rCfW7JdJtttbFFHLWNnGIkP6eLgCrgIRYjpqe7TDChKdQj03awk6iOcB1WOWL6810qk8MwvSFFmaY/73SKAiDsiaoWRDnbPEn9bCnI/Stovw+J3b7YxMHCSOQ+e45wEDNc381HJJzQiD4Ut/2RUJ5EkvFXaIYjyfF6Z+VUBrc8zSEHw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "P2qTkLB1tWMy7JTHILjuP3irVa+YUrbsuIEY+o8smme8CspEr76sxSDA2JfqEH7CqA+Fty6CtRyzx2Q5rZb23G6JgVxKisNk593FTuyeEE8AFaCvIQCuvoWvrdKunPhsTR08SJYbPHwIcICx+MGONCy8GExnbSPlBS7nmC4axj77CxuGb86tqo1kT4kUmUTp9lncusFmlGz9omXwm6DxWZWGI5OXjdr2GJfs26UFCm3s9NltRSBmmizwt71CfmaZriTeJ9eeFw+ued4D5cmzF+/qTBgEvlEEgbbiw0xSPk/mIBbADM2kxscxg7tz5KTrQk4OBASNuyM0IyWGYLY/Xw=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "Maclaurin series of e\u02e3:",
+          "options": {
+            "A": "1 + x + x\u00b2/2! + ...",
+            "B": "x - x\u00b3/3! + ...",
+            "C": "1 - x + x\u00b2 - ...",
+            "D": "x + x\u00b2/2 + x\u00b3/3 + ..."
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aPL8bL5BhPUkBa+/ir2hl/PkdCF4fp67uK1ujd4siI3MWZpSvGwuN9qInNNYMjDPlBffPlOCy/1DdAZMEjQ+eswoDLem11579j0w7bPoj13Ya0ufCWVzfrKE1uRajPJ+kiV34fCXlrHWLET9qxqJh8g475dRaQUog+A621SQlQSaa1pn+g28N6M2oDUTqXKil3wQQtXNbzULb5ywAMhVMjiFgUk/RfZc/SWsAd6MgRFQQcu386x0jl2jsY4V5V5zAnw9Jkebr9o5HPBnktchxCdIDP9Tcab8LcirUKVnefomQSU33OR3ivcXy2tvrkPpV5uh3F/Cp6E2s2j3KMCViA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jLoaIoHCFn40WiftEkrz5ABbf+t72bLuSmXraDeYBDpiZbHxvIiYeCIxXl/WcefgtIcQtZ85c+bFWjYx0TgyPYrPDzYYkmpbcx2LTXrdTkNTIc8Mo6D/fKuntqDfVAwPhKRgNg/MbrrOtR2OhxlhnLkxhjL8kRGzrxfO+kPvdbFX1Gmle+S0TYTJXRTEb4Nsiq/TqyOJXaf3guQpkTfyp7VXUzPbuQawQmprJidocBHKdNVIyLSj50vItR99rpxEMgOPZ39mmBOazGi0oiUq/lzd+eb6gmx0uc/GZB1aci/ytvtDJ9LvGS4Z1q6tAtj0qhiBOuyXdsbA/C1Q4Eg4ZQ=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "Rank of matrix after row reduction = ?",
+          "options": {
+            "A": "Number of non-zero rows",
+            "B": "Number of columns",
+            "C": "Number of zero rows",
+            "D": "Number of elements"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SDfsXmaSZ9FBnpn2ThXL3jReFMHiMK9PPk2FwsAlOKw1johFXbYRE4NlBKb124Pd6cGAqyJSWWwUmd0gd374DaNFmkuLXG4GHPdrNPNsY4GeoeOVQOS3+PGe+4lWLtcH7hvGGa3VyIftJPaO3QMqCAjfHGiBRVJhD/Egh4GiXVSH3a++iFKIEwXefKzp/Q2nnbaqHIz05JmUQOCYf3pj4SHXzsS92l26nycoUdEgRTcPhJBtNJm4O96C3kkkyFgrM8whvGNrlNiywLTvM51LZNgV6S9r+79ElOZ/Lhz0dhhG9qdXv+4ewDTrDfo5e1dyf79GCnS457UVnUGtaGyMGA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "OjBDZm4/fG0MoiRTM5wQK5rzts6nzUTunH4A62wpV7ehaPEN7Lt2RudhlZ5Mili3A5x1ie1fX4+uxmqDTZEsMBFZ+8o8zX3KMtWRzRJRvOe0QQCgyEL6+8qEiKxUU8UYPSycX3B8wZT0FNI3dDZOCOkAEEo8k6GuKz9FBVzrUbES0qm8NHx7+M8KK9jUpKYaRdjnDpB13bYn/OUx7WN7rgM04FijvYMKBMwb6vSk2KfML7vF9RRnJRTqQMz3bbBIY334oXe2ouKapTEh1LFHd/m0fCnIyI/B7YpYz5tIkdaOFF+JUBuYEFkuXbDAib3j7gc147/iBZ9iB/Fx1/ITIw=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "Hyperbola eccentricity e:",
+          "options": {
+            "A": "e < 1",
+            "B": "e = 1",
+            "C": "e > 1",
+            "D": "e = 0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "O7jKkQ70/Qo4iohVT3s0wXAA7RpA8Nq7gKJ5XE6qDcnxDP6HEUwnjZ39+Sn0LQGQh0cIzHz8cZl+k0LZkmm8jROUP0RHFMFv8AvmpMZ8Xa/OGY4pMECnt9rQ0CMzuv8UnLqZEaIwM2CjPCxy9khhv8pQGosEOpIFFKwKvguW2rVY+Q4gMqcRBS657/N0ROcxUaouO9ik8uGAYoYI2VCF3MpB/Q8Fdl4BXO412xsm+YMkDMJiEPuVhZZrawRholgS/adWC5HyvfArxC+htgFtIHSEr+M9nj8OZMWDZzD4s4Q9hs/wkm/F6qjA/biH7+hsLcCYknyLAxCG6KJjZWU/Aw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mpvZ2LGOjzA3hEQOWwE8KnPpEgjI+4xzR025JsRkIkG0YhvhAhlWQGdygBpEAsxNYvxolxtHJKJ1AKf3qsa4izF6rqX4pwdz0X6izurxSG3T+pWzZTu7OA8/jzaNJK4qqEFsR0gFUocOZOLBUuXo7jWxpFgcU4yHmAGeMu8/OZIqmY6wzgNrFetV9Or4jePdPtbf7v98U3ir1IOCCFVc6pmU7ED4Mlv5Ypy1XZA5qPOjnit6w/AsXvVLQhF7MNHJNHbCvNhG70z6+Sq5RNJjbxLrG45I0bZzPjytZ/hcg3Yg0ihRQ3sMcIw1v0N5jGAgR0YL/7048bhxpPt8ZAZZ/Q=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 30
+    }
+  ]
+}

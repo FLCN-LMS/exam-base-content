@@ -1,0 +1,332 @@
+{
+  "exam_id": "ssc-cgl-2020-exam-1",
+  "title": "SSC CGL 2020 - Exam 1",
+  "category": "SSC",
+  "year": 2020,
+  "sections": [
+    {
+      "section_id": "reasoning",
+      "title": "Reasoning",
+      "duration_minutes": 60,
+      "total_questions": 25,
+      "questions": [
+        {
+          "q_id": "reas-001",
+          "text": "Complete series: AZ, BY, CX, DW, ?",
+          "options": {
+            "A": "EV",
+            "B": "EW",
+            "C": "FV",
+            "D": "FW"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XZueyNARIFbQuIgdsE74Mif30d4UvlR1jxvTwtiUsPBhtf/nJ1D0Pn3o6tknoTfibkcLbSZsRw7ShWsnHshFwfr1qaJhP9Qam8XiVpnju2ga3Zzhkc75VmBYVJlh/egOt9fBWyfcv0aTFKjsKAvHHuW2MP2rI3LMmgI29/mFytMsqNBFDcspJoDMrTibZg3luE3ciJkQcEGxUwakj6OBfew2ABwSMmVrfbLMVeUnc5HJHGzTRu7owSB8qMC4zaWDfeapI1YxUnQKtDAwoJFkqs13+9hV0jllaxVvNYarbv8xCMNfZUqHvzBX/oOMg3D6sXL3hE2hzXHdGJ/NcWuqHw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pOcra99/EVq40yw5Hg+ydbdyCWLKpJ1M3RC9GPg+jpT5VXSuqFFx0MtsDJWyvLu3tx3WQ5USntvY5ObSrXPl8KY3qxveBBpakIm0ImJUxmoUmBBb6fatidRcoxxfWEfjMrqfyUPuVY3um2Bkfc3ERFHWhkCj7IVY3fZFuRphMjgNZ+u9M2QEyUf3szCqdwT+UN1U86K29f1lXl0hbvMf+6XcrFWVQSf0XRLgBBb2qZd78rzGE5F/xvqKdkWaY4kNlKhY2ISrdJIhTgKO8uafSGpZaHAfdAFGfVSs8OjClq18Y6v8Fihih2GRvHhuoscRxWIKgmWBC7ZbTDuP4fa70g=="
+          }
+        },
+        {
+          "q_id": "reas-002",
+          "text": "If BOARD = 5, CARD = 4, then PLANT = ?",
+          "options": {
+            "A": "5",
+            "B": "4",
+            "C": "6",
+            "D": "3"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gZ1pEApCKzR2CKgqxpUx39SZSl3AjydfdNRkrRlhxmgguaLFxZWpu4D7vtx+S+aw9PCyrnWD5ZQ/aGilD5jApqsXjm27+BZdC8qTKbzwjWLX0jyEVLiO70YTAdDgIbP+HZ8zheNCoFP4DsKdjlie7OVydcR9gAcDJqnlbmJSr0LPWoVm2qhZ3rFPF8ohkEHLHyq8M6FPeoqrYFPPgpmtjac30+4Fs2v+P6a+UCtcOqRZEuZSkyCMZ7nlz/5ixVRrA2NTRRP1Fr/ybMmtgiFKT6CZitZIuDuH18BJQduHslMjH7et250Qp49cshVwMX1U6+IL9HiK2Ig/exXNDLKttw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cF0Xi2jIhqxGDNrxjNP4S48LZHJP6kg8BHFOvNfLQlGLgJK+uxRzZv7lndz8Wi7uZWaRK4kjYgyTgOLpxQxafvUbAUN+1TEByIzf4rdRn3k38we8HoLEj+l/BZzYnuwsibf1JEup6c9e2M067u0O7PjX5U4f3bV8f70uDaD/AFq0YA2Fxma31R+I1zHr9aeh5FfSbTACg4qWCj9j55blWJFa8EdLBh/ok5DaEVGN9x17klrU2c/hCaLGQqeldjJsygQpQJFH+5g0SZLiullN7DoIVwF4IrXefdoGywySbGYNBYtGTRXaAjHRE7eCVilZ8CdaEKop1xweaYU4lTp5oQ=="
+          }
+        },
+        {
+          "q_id": "reas-003",
+          "text": "Statements: Some pens are books. No book is pencil. Conclusion: No pen is pencil?",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Qag317rD4m6YxoCNOIoRX8aDcufKRmY9MeHQ5vQFX/dwQeD24WqeVUkI7hGtvOx+MPmrn11GxzG/npkuEEaecKhFZrIU1lLcx8DPd5QptdT3eSas+BwTDxh6ODb9qCMjCT0f4v8TFe8xJIdMu4BAiz/jx07ZvDOhnWCZcpL0Vamqp0FidgIs8zN/+eyLHC2ZFF+rnjHvphjdEDPYsjNfL4Q56wWIRNk3V1D3c1+C9luxcAoqJQrqVRD/DuYs/nwi8Ay04ODWCpipn//Z2y4IiV7TSTRtyMETpF3WNUksH8iUxRKKhQSz9CsbrnocsWalWaF7IDIPNtD5PvpSe+I0qA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YldnvvEPz+nnC1f97CDZgZ9eKa9FWlq2G5w0z3lxe9+5b08OindtiGXfWrDi9KJxdgNgrJibTq6FoXP6iIye8DeEk9V1pcrjMqeVOhGTkJt6ABHtYzDZdiFWhZ8F5FWzLefXFTpkKNoAQ1ehE+/k3igFWhJ87dNlUSa4PBBoKXg2fasbaxIBCxPGKnO2ihYxOc53IhdheDqiGp8LyywC9J/9s8ho5K0SK4I5i9XoFriYj4GVeldDbDegEfc/Q047eWtNsmwDT9tHUE8Qco2quLSTgPc51zc72kZnbyCvDzqUQywt4Z1DlBXm2ztaSB+ienMKkNN+bHktwgAgPQjhpQ=="
+          }
+        },
+        {
+          "q_id": "reas-004",
+          "text": "Kamal is facing North. He turns 90 degrees clockwise. Then 45 degrees counter-clockwise. Now facing:",
+          "options": {
+            "A": "East",
+            "B": "South-East",
+            "C": "North-East",
+            "D": "South"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "S14zm3puiU9nin5u1+FeE4TncgcV31qHB0474/xYgIFox9sbhPU1VhTWjlENzHI3mQvJ3gpxvftRVFm4JygGMGbvbS3pLf6ByKs72dj8ZHt/5/VMYbiIKlwdrmGEGQNgW/VUOikeen6Dyu516f1e/2JHCIvDUEMcUjg1TvDgbggU02dwgjbBuTUa+TrvSzk0aR4PUFOTIJMlN17j/tBxBCERRNCm4k+ImBLOBEk9gxCAkh9Hon/zNsbAOEyaTIvKIQBpUa21YyPK9ZODHg5CmcU9NY3A4Bv+Ok+IMRTe1OM8UCYByZ5FuWu2rbAhgwmRLQQ/QlqEIGgsFPYH//TpEg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "n7/k6tA/x8BZWr2JGeGUwyo9DA7vTZ4mAr+1JYs5xFNzTkJDfAAdaDysDEvVFKzm6IACA7+TPEvqW8C4fN/3okJCLH9sXDOTgmWPbXeDo0LF5MP8SrwI8EhrktkN9jidQ+uigUJNShjywkNscOAAWTq43W7ZpUlVdVzLxHpnqCJRf6P7EpBr7G/W86q9tWrvRLzGgHECq9sW781KAb176trOwXg+d/n4Kth3rR7z780BEStHLyltwAbkPTz/x/EUcBZja9QszIUi/Qdgv4aqyl70zpynFGxPt/QhEfhIzx1f5QqHpW5FwFKhmJzONcIZ3YJzkft9bE0kIOUX/MB6Ag=="
+          }
+        },
+        {
+          "q_id": "reas-005",
+          "text": "Which option is different? 124, 235, 346, 569",
+          "options": {
+            "A": "124",
+            "B": "235",
+            "C": "346",
+            "D": "569"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rA4IqvLCpoZgz/nDB19KZJ4amscQMpI1h/+6DLSK0On3crdY7URY1f6PSqiBSUTTuVQeuljHcdKgXS/YvTHtiv7tARdbohjK+oqrpTnFoPceRV4VaAatZuB/7Ux9I1E3Chc99UsVPsyjopuxZIPqY6GQJK007uhl7VLSuR6J/+pC/SLrrpaAI2EJA2T0QCFxDHj3t/kLxD3fJZjV6C4+vKjGd4W/ms9z6SqELmusNmXPrzA7ZVqMhsVw3bu9elr+us/Kwd9DcEQ4XeGzj5AiZd0ZsRDCNtDFyqcRtp61k4NGZFHkBhMltnEXN8YY6ATHyjFQfUZkUgTwPiYE6QX08w=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "h2JrBbJBjb1ki/ep2/0nldODn9rJg2RtgPpAKoxthSo6N+zq4it+Scx8gLfOZSS7zxBFi9xMpX0AezABSGbCxFPj7fetVS6MTswQ57/UjKzuKLletgDsvLizQ0SRpR2mZg1FWVqooMYinl0EVdu5kd4/Cs/NdVIC2+l2AXXBQp0yaYkWYNYl+vmow4O83yRjRrPY6ncqXu5WuYcqhw4DXtf/BBqULTg4yHYg351cg/d/Yui7FUwJYGF3suHsIQ3Z/GGGroJdQ8Q9BhU1Q/2kD13LPJz9buudZqLbtBIQoTZcZkFfc6ca2SOGy6GtX94+WPKDSlfJUun0WvLL7N29/g=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "quantitative",
+      "title": "Quantitative Aptitude",
+      "duration_minutes": 60,
+      "total_questions": 25,
+      "questions": [
+        {
+          "q_id": "quant-001",
+          "text": "What is 40% of 150?",
+          "options": {
+            "A": "50",
+            "B": "60",
+            "C": "70",
+            "D": "80"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "L6xWlRL1CmiVjd9Nf6NCnsaxr0cL72nxJFdmSdZ/qhzhguRTkpApZRvNFOzVYtje0S0ZaBR9RnrH4mAbcPWnHqHbF9qsca/uzUai+gwUT027lx0Sg/pxa/gVxzjKYDeZyOtUP/jHy1MMcQNPVIVNwTT6k52EfXSkWPPvp1ua+iCF2Q/CVQ3Mg+LPlnV74+9wdbCtgQJDRyiVRibQ/9mpA2PNnR/F4B8UJTxNVEfamGF2V6Grre9u0BsHsa70RqBbzOREmhPUiUcVlemq5ct0SXLiqummkFG/orgNRBEnr1lhN3SOuMtieMqSIF7x4Av63dv3rWmP1Eu2Yif5v7085A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "KfGU1l9NPHNt8fYfmoW9WzzcrqdXEk7cio1ilNMJ1wr4TXiKUZ06BImNXlbrrqNABmxlvxgJCiGL2ebCOL7WW/w6WZ3znLZRMIJNAGFbYO/ztBQI9+K4/BRrnTvHUaODEWFQVB62aDWSCEOCcfxNOZltD0DJRxpnOfnVUcAM21FA2Y6F+o/+WhJGCIGEIIy4XoXEHwS+Eam85kKY0/hFR05217Je3UT26xaIn7Z92m0qrw7E/hOv8a7NJHuZ1YDUOmztUzkMsxL77JdiUL2g9He7QOst8ykfNiNac/dM9VMzdABI1UvJd0E2k6eAX9jygHVY4YpJKF5n2UMyEzzMpw=="
+          }
+        },
+        {
+          "q_id": "quant-002",
+          "text": "If x = 4, then x^3 + 2x^2 - 5x = ?",
+          "options": {
+            "A": "36",
+            "B": "44",
+            "C": "48",
+            "D": "52"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ocMNGGB6MtHnSFbdHSSgEeOQjZLtXV8pNe1oUPba/ncClYgkc50ewc/Q7Gwn5Qs8OImEe0yxUJnTJspP+E/7IRNaMNx+Zp9RCSY5iDMFT1Nt1b+7xllvviAsGTKppp2v3DFRekwGchzrIu2pkjtLiuZ+JRijMQsr6yow5dH0zRd8avvLyYEaxtt90eXwE25FrWLFiztpuI6LfZlVLoRDrq4Hk0vZHoR2NyW+ocwnSUVFbtoPAUBJBp+GZv7GpccJUSuUqBuT2R3ttWiWQjWDmGX4GR1Kvc3UVnOj/djU7DyE+q650S4nIevLOq0k4MGXhLWWdlrxs+dL9XxK4KKD8g=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GW3OTHnzdwnGB1wocF9RPxzHJNCV4NRjYq0G0TzGRiSAhuhCF1MBaxOdqrm65RiujUu6w9hsLKTPvMrr27JTpXgoU1wzKNZkST7yoWrVuXB0kkiI7kzgEK8jlxLRIvxuzPiUdO226siZdF7+lPH84T5Oen5FuFE18HqwRb+sRg4cqSdgbrkq142uIEco/i8heMO/ZPD6y8/rXLnZgBk+nk0A2SSWSYfyLQExr7haH1HlLOOaIXgA8sJeSPZ5/YKFGW32fj3iRhUdN4EsTBRHlPRG6wgSWMV9ZISbVCQCGuW3YmZKWqZBo6HyOCTL/Jvz8gw7GaS1bqZYTaqDe8V0ow=="
+          }
+        },
+        {
+          "q_id": "quant-003",
+          "text": "10 men can do work in 8 days. 16 men can do it in:",
+          "options": {
+            "A": "4 days",
+            "B": "5 days",
+            "C": "6 days",
+            "D": "7 days"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "H83SB0IN2AI1yWjfkMmIKM1iDvvi6Q8bMuIx29R2yqZ42zytNU5q/qJ0Y291jQeVzJYNHiA84HZDoP5bFxjBFeK6TXKyTYEHPyQNSHhBrRWJ3JtkCfvTbT6NSUGmTnPpHN7uFI8jSP3okPUkq+Hshyk1mS2Sy8x9L3MH4veZODQz1q9ajF+2ZntFDbMJ/YM6wVk6c9H6pvlVjcZVBkBtgB/LyMW8G3kHDpR+jxGzrTRm4AkbvKfXz+v194AIIg7lAj6ClwzIqccDVS0whWKmljLc9KEGhd/ocZy0EhNpqBD/uCZkbqbL2cTbQK3O+xq/BhyLgGRaavM8e/N1ZQ3jxQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HSoL09FSZy9Q8NrYRd3PRQZKBBOaD3LNU0GeBRnz2GvH45fmbhRsGssH21Qm8TlTbQxqNyAFwf8tJGP3YwBrhKafckh9hled1RZo8f+LA90k4BTVUcdWob4vm6RQ1+EkPXiyEu6EJ/tS3WJZqz+RekJQOvmbZax/cxzfn2/iUjySwqOaEH4MIN1eHJN2uezjUyS3StPnIXVDXcwcLvXHjXn/sOTH7wxchvhSn0B94SxX4+TnTqU7sg2vP6AjvfG+IG0zY5xy6eyRMSBDwwENC0WVe9mMEoby7+nvrYApGO5Roafj/dQelQvxgH6dl3+rt9rlBfE8PzXMsLoR1UvzQQ=="
+          }
+        },
+        {
+          "q_id": "quant-004",
+          "text": "Ratio of 3 km to 300 m:",
+          "options": {
+            "A": "10:1",
+            "B": "100:1",
+            "C": "1:10",
+            "D": "1:100"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "F4I2V7Mx5xWUTxT2C3vkv8hZOIOXbCt7SmiCnXNuxs9LYGnCCU9jEPke/AZaf1FQtsogosORMbQPdMKcDfQ1uSnxgQWxLeXRmTQhaKGdkPM/oLrtRRoPfKBi2EcRXdg7GS/i9guNsJH2n0IUXnk8tx1io1XaMqr9+tLHqio4fU39lboBLthUpbr774+/nPnL6LIYY4x2g8NXR5WIvJ66YI2NaGbf64J5ty6FCN7Qb7f6LszbLK7CYc5rSHbFoEA2Zg7hhvnuPpy+towowyqObeCgv/XTwNvfVso8e3KmJdW9elg0MzV3mAhctY5XyJkxK6/3SeJ9/ppfQPbSdyhL0w=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LB3eWvTHwVU6IUc/2KDnYZM1ALd2KwDOt/pFaMxYPLL6/L4TGsErXrL4kaibrxt1LVE9RF1wmTzxnFjIse+xYRME3iI6jopACAL6+0uDTKzjC1Ph/URlSeblSDjrscLi0LtV9QXByUDf7PjfDtRICu/kzKUzs/Xm+ZFaQVQWYsH1zi9WXaopr44RPU3Jkjjk7xKT6YpxK9Fz46PHXQxsYncDrg08kAXmHdhJ629WBAKdUVUiSq0iI1hZ7Qo2AXd8P0mjv8SiSd++FfHPRhde4nSfWmaa0f8X4xeT/2ohSOEg83YEKwnjUK5FbyLCk4yg/y/djme+xTb02B8sDh73Cw=="
+          }
+        },
+        {
+          "q_id": "quant-005",
+          "text": "Average of 12, 14, 16, 18:",
+          "options": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "17"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aIL06G2OyxXOBWgV8dooZCqiRtG8j3H/6iLOTNkSVc+OOo57L+EN76xmPNxjdvRrlbXqDr95iKyffzhE+WGkoWKhe4woAdBZeSk5imhjtFS9kfHNowkbcW42vbvGJhgg4DSuwQVib0F5ZNQiU7/7gxAwDFdcJpkM6wDlM6okZuWSAJJEKYWwl9t+uuHhQO7H4S6W10Iwbdvm2fFKOZdf2lBa2pBJYlNIOmNWLTjkJttZlyDx48cWWxzPZiXbCvOVakvDPEYGzzDdIr9ngW47d0DUEXHtZCm1fH7Ntdnx7ZA5/SJtuQZ2shkBN2EfqZbXxEfpSjjQMh6ke5/pAYpiYg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hHuzGAzQS9sh5OpO7GtrrmE/5lDuFBB9BE1s0iZaiK3TTg/rKpwyqLfmYZMyrrEEsOPGWhpPCEDW13O/dqhu276ITVg5kGpABUDFjWzETAaDRuGDBPGEkAkHTgQei8+0q21MnTDm3xg1pLbx+aA1sZdNjKAc3itWmFRmaUbTEOJvzcgAqFXr3KKvOZ724gjhYU1opm44VH+SYVfF4+QB5J0WYOMyv/4eoYXPWOp7dYxctbrZ5Cfsiy+ELSNbyIdTlytuYiy8Zg8CcY103dRa8W1ukl01/Eyu70ENhpY413NYRUrHLKX1GLXM4z6rFAr/7d57eENejrLwmTo++SFDFw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "english",
+      "title": "English",
+      "duration_minutes": 60,
+      "total_questions": 25,
+      "questions": [
+        {
+          "q_id": "eng-001",
+          "text": "Synonym of 'Vigilant':",
+          "options": {
+            "A": "Careless",
+            "B": "Alert",
+            "C": "Lazy",
+            "D": "Slow"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qyUE1eeqAiiopixRslZnI0Yskc71qDvXo7vk8VQWveNbMs1sZQ24nw8RhuxCRQslXio4Jpp4MR89hr+2BgKJcv8z5/VaeF7PUxXAxdc5TkbSsSIzokjE3E3XO7+kj2byadzbmfccyKo9CE1evQ1TLSNO+GgVlw9pG7OxXkwrW4EgeDoRe37X+4nQeWKnAjwEr4lBhFoZeZPACFfUpKuioSWBHdHs1PXh94A18mD68Ko7bx+ztitxW9LXteNe2QG0OtAzrjTsrQB2ARHFvZjdoGIkk/Do9MrS09S3FXCChBIfatHB30aTbKjsD/tcNXy7nx7SLQNKJCh2A3856wgDjA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oCNxovspyr4nVgm0rub90O5SoMx4PDb82TqMrrHrb1ImSgOO1binNMSo7wIVBUsmPJhRZHaak1902+P6EsRhLUVBTDwTNaiI1wyj86BOqlRwoFGX20mCqaLfX7LR3LOCfu/SkhCknYcNA6RIrBkAupKiXMNy+H5ZOSqz9DJnhX2fN2G8MrQnr1gtIbu5G+46/5UBFf2FvE40Tz/QODyWGY6kyrqF6YO8goIvpsTXrKPRrq2CHzynKXk4HH0QXONQNNeLylBOmUfjpVP2HKPAqBO2pGP5fAptGqAxdCn4Jqa8JyIWE+7z3dsNsu19xu/VB8XwFohlcJTCF4wTVq0dBg=="
+          }
+        },
+        {
+          "q_id": "eng-002",
+          "text": "Opposite of 'Brave':",
+          "options": {
+            "A": "Strong",
+            "B": "Coward",
+            "C": "Weak",
+            "D": "Timid"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BFFQ5MXFcXq18HUEBXxNrFy1qXmV10Pz50yCd8eQBvI3OLDWXWvjhNmRCdcom8pSAB0VmgLyCR1Dc4gPiaVTl3PXbzvLrfb0Q6FUXd3WVPninTO1VVkDZUsHQtM2ZAlQ5glPE8Ahc1RoREm1AHJiIfw8m7RzyA0pI9OklxdSBozA3TcSBbsoOWhm8vdOO5IiVKjmp+nwlXqm0sqF2FVaFSJ3iZHO5EPjugTAM3/H+roha0JZCpb33uDxR7KFiPjlMocNJmiTJAyf3oBLHjWMYM2JQ6RJRqrz+KFTfVmYMKzUJPXLOSK3SRq6sQyQfu/6vYOTbuu5KVvscjXLG+ofQQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oCsalb33Ql+C9GeF6YxV4T/Eh1nPPM1oHxzmAumsHAblk6gyAT+vo6Ln5FrW7kI8GVyuvw1/uVMdYzxCDSHQCw//OXMnEnam668vshSZdT1XgaudWFPZJjSXco35wVxXg5c1KWVuRk3uXLgXQX3A2hIO1aosrLb7yOztq/qoN6L9fYfMclUrf+Fu9mJ/d0soT6xakHYpJndE5c8qHOtIwQRxjkONbeO4pXjmw696iIVRbrHugXj+35EwTvrwJgjQ1yxoIwUGY2843rmFEOG8Lmya3WDSUOOsZTAlW7SSmGVdfc60kk2phr6IPqbRmOkY6dfaRONU9UITBEnJQul4Sg=="
+          }
+        },
+        {
+          "q_id": "eng-003",
+          "text": "Correct spelling:",
+          "options": {
+            "A": "Occassion",
+            "B": "Ocasion",
+            "C": "Occasion",
+            "D": "Ocasion"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aaoA6sTb6rmFZ21J4FoIOUc/Gz7asthnKUQMQkXqPG8dHNvbq4bR0pM1cztPG2nUzo2DHEgkCc8OIpV33VCi5WSwUA7OuYVWtUWwDajvJCCY360dts/bNc7G5RNGj2f2Q1cfVohXbcYwVJb94htn/otZyR9mxYCplPWi7rI0SlYXp2XMZO2qDk0sGQVSkcCZLU39mehvXLKRc730rJxcDVdtOjW4hpetgLsWjuC3ZPWfnA7RkTmzxTjdX3yLQGtWI90Qrh47bYZUMQIg8KblOvAiKUDHeJMYhNmqMGScEDUYwbgyxvZcKF96iT5qRf1mpeijvBrMHDT/WS6FNMCUuA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qVjaoXkCHhptkpp+VSl7sNNFJSXr/kehdYE9kToOH1IrRiKzanyesSi+ZZn4IPFwTmSYEBc77yeeOe/SNr1I2Hgufz1vxb72MLeMB9h5eccJ8m2ynxz9MAeC57444WxqT8SgD7AZVhJE79KnM8a5CLlFa8dCMhaUId+vfCh5hxRJGVjwR9TXJEqhryC6qZHpUh9LwMnzUL3apEjk3I8/w/VnFx0kTuGE1OqdR9p6b7PjtO7jWYYiSNls4ldlF66U7/krdM+aoYRJLF0Dd1/0Wd4nIcP9DWJ2uiVNd0LytQHQKLd/NluNxACOTEJsKWLmv4wX4VPJ1Alirk/oLc0nTg=="
+          }
+        },
+        {
+          "q_id": "eng-004",
+          "text": "Fill blank: 'He is ___ doctor'",
+          "options": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "no article"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "KRodotLJFgJiD9eWXp8XsbFjCTgQPiIHQ5gJ0ExtyZfoYfXGZwtsP5tWVmMG2CwxXa8ECUV8JOTHjrWYsGOJSZKfpio9fWAB1Z2ZUa4E1o7y16VJGckIDcFeEoVPPfNUGu7yuOORTP/uFwRciQrs5fV0hMj2xHxu6euHFNC4l3QTdQUvobD7jB+aOWXqMwDZip8YETbWnQm9xjQwL8dvbIjUkl+VHuzJp18ELAJTHeZsmmXlUFX8MGnUjNnEJTPli38MBHskL9FoHjQ95XEJmGbHUFgBtvNy8qlOnSTeOO436bOgJ62aJHZYRpCVf+k+nQCW4hZ3ty/lFIs9R5gQbA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ijDbL57Q+NPoy48KGcbGA5kVYEQXFz4vfuGsdJ9yxbv7m9vOU1GUYxKpJ1PCl39ttLaWoct55ZveZ1Lmj5UvzCfotDhpodb3IVZXMc/1BcZ5QTK0TLaXQV0yn4VFAI8fz6T5OlNMcjX7P88F3qmeuupwE1PyuAjldRz815wbhIpke01Qa9eFDZQcfD/0W84NXdQ9qvt1OQTNUFj/0QbA0ppXunUFOFRCZBJ/P6zlpKugzHFAMTTxs5aj3PhU/o7IMgcfrbDQnEG3WfBPHoqHVFJHJ/ib9IB9kaeNfvWGzkFY+MIZZx/6L7W9UvsGfdpIWnw3EqheYccbP4KPJK+1lA=="
+          }
+        },
+        {
+          "q_id": "eng-005",
+          "text": "Correct voice: 'Ram wrote a letter'",
+          "options": {
+            "A": "A letter was written by Ram",
+            "B": "A letter has been written by Ram",
+            "C": "A letter is written by Ram",
+            "D": "None"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ATfo+zjPO23QLPWBWfKV6SuDsbP4Xebc7KWHs25Kzjrm1OBcaH9cfst133ZUzbC56i/POO8bZXRB+vDzKQjJ+8IxiFqyba6xGzkz9UIfcQqipNtqGnclXKx7N/3WBdGjY2qBT7ZUwUAsSeDaMDitBkCNM73sFdMCL837zcgGDWJfwXjVRN+1QySmTBe39CG+eZCWH7VDeLEerwdAySp+7XvH+hBrVhR4ol3EOAUOmBSJPR+evCg1LF+WlUsdUjirCjV9vxvLLezlEbtwVB6MLflSbbEirqrlyo2W9QSrUrkF3+HX3hD7jcXYfNfVuEZsNrEVTuUNMI9n9m559CyWTA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WsP5sfYsSNpXbA++tMleKIB9hN26pXTP4cpN721W0hmryeIQ1XFqL7VgOT++GSUAgkJl3KoMGZGilik2CxkzrXJOpTJbVBSlAEUpl2xzlT2bdFYlvaf4wfmEvkF0rpjl3uUkOUOLOHyb9Kyd9NS8ftacF8Q+ecxDuAz9eJy5NQ9EOF2jExGofQuAdFLRv5tR7jCsES3EVvVWwDw2Z6BXqrKel6dysMzJZ8jBrBdxh/PB5w4u7y5t6k/6gqFY2VrDAm2UlpwVpDuN6tff08xEKy7l+oOJOsZi/coW5CySZrGhOCnK2NHlwlmG9nNmEk1wSn8Xasie04kJavuTy164ow=="
+          }
+        }
+      ]
+    }
+  ]
+}

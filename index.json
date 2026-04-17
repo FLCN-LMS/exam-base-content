@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-17",
+  "categories": [
+    { "id": "JEE", "label": "JEE" },
+    { "id": "NEET", "label": "NEET" },
+    { "id": "UPSC", "label": "UPSC" },
+    { "id": "State-PSC", "label": "State PSC" },
+    { "id": "Banking", "label": "Banking" },
+    { "id": "SSC", "label": "SSC" },
+    { "id": "Railways", "label": "Railways" }
+  ]
+}

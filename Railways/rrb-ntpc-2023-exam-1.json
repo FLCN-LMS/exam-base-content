@@ -1,0 +1,116 @@
+{
+  "exam_id": "rrb-ntpc-2023-exam-1",
+  "title": "RRB NTPC 2023 - Exam 1",
+  "category": "Railways",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "general_awareness",
+      "title": "General Awareness",
+      "questions": [
+        {
+          "q_id": "ga-001",
+          "text": "First Prime Minister of India:",
+          "options": {
+            "A": "Jawaharlal Nehru",
+            "B": "Sardar Patel",
+            "C": "Subhas Chandra Bose",
+            "D": "Rajendra Prasad"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "f8wpVX31heKxD6ddjKlsnwoWNMc7hS9LYxdHS06DHuszyR5eANmmcwyzZ330krnk8XUIq6ucvUh8celdNIqqwC8CvbE2m+5XxVCjs7bsz8uzb/wswyR/NqyX96oPV1Xjtp53TKYbUx0djY+7Qbb3sMADQImG60d891nWhEwQL79JiHmYdpJHKGkU0QvFflGwkC5nRcbEUc/tnEMTli9r0qV/Ca4to8z5DMuQbqlgUOSUHbC+FURnqO41xXhepOw/6JmcKqFJ6wMVP7uZMXApeKmvFSI7oaic2+U2v2rzAqhLGlsySeE6y7ibwhbtWBnyplQFzF2lODVI+r3GTFNO7g=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HjcmwS0Nr07lyGVqN5ybwz+9Ij7qypT86LVIzWghgKEMTPNGsi8y9l9Ol1M+oy3VPeSKtyIBehoqV0eUZyPeRpbBBOFxR1HfP+tP9Eg13UzhNgePVKKx5VgTo4mtt4e+jvInGlrMA/8QUEOhf5nhVP/mG2b2/7qXs4h+fc9t3ndgkrOApxHab53ZG2nxmLiRlitX2thrE/lJgCBCt5hTFrMTssNLhxMqcLDlEe4bTAo9DRA68Eas6LJs7B/V+21ahqbHA7QUPXwUf2jcxqb7EmeFaudLHnjiAMPPCrpJT1vV2g9V4qob93bH5uPHOoymv1KCbP0eM0szGzBZQ25QzQ=="
+          }
+        },
+        {
+          "q_id": "ga-002",
+          "text": "Indian Railways was established:",
+          "options": {
+            "A": "1850",
+            "B": "1853",
+            "C": "1900",
+            "D": "1920"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "sAGMJobrQU9WYA3sknNhunm8zB7oz1EhfLas6+P0je005YONdq0HuoAdVxYS+S3e3LDQZBMbOTq+WFtj2i1BiK8NrgQAd6/9N1hLGKbl2H9Q+3TPTzOMjtOf4D8aC59VRFSOkGV9Fy+fluz6Ov0G8PzOVVAbXIQ62Ft2Wxmsb1XIkCBFaSr5z4c0yOL/vBEfaymLhPoQa32SPokEBYNpMJBfd8TzV4Hgf07DAbArsS29QruzK0juv9Xjwhb2LLB4oMnsYv2M+UT99fHAvEsViHAYariYHKNRaN/Ix40S+mrC57dh3rBY/x0te7I3Uk/zSsJbQVO3iebcnXVAr78xZw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sAk5yqiV/LLJEchPp8f2E2puxe2NNaT2I2+KgWyAF+oCvpksZP5DTKYiHxYbaTJG5hENuThfxJNsMQfFMef9nw8CbU8In+jSm1CFkzB+YclsFqGlkR2Mml1EnPcwfLMTGMLf+RAyuEHE6jkPFgF/SEs8tznfmYq5MSEyhstrcHw/M1Ieibb1IX5hz0dzTpBRa8fo75ufKMAymWSqlPvnIoWDSLiZSpKNGlF55vgNv4gep/lgHMxki7kegbUnit1ZCfxxUF+6R9SPW3Az45r3bgUgx6ALYNe3ptBWspNVJeFMAA0/RjHu5cR4oGon4B92A2Cn+NKGC+Y3GKYT28/PHw=="
+          }
+        },
+        {
+          "q_id": "ga-003",
+          "text": "National Game of India:",
+          "options": {
+            "A": "Football",
+            "B": "Hockey",
+            "C": "Cricket",
+            "D": "Badminton"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "q1QKPF8+UuFTYRjr5cstqrRwtp8pSEj/JW0n1GSA1hNORsC2RU3c7Okab9v6F7hufeIMCLp4WzKxfeecmGJ0GjFvJf6VnMmJSPZcZwt3i+4AqZou8wysw5oaTMxW4E45HHxz47S7fQz6hmcw4VJIJjIX+ynsw/SaVyjVDEDgxYmRsDpMuoXK+ia1jr5gRLmPxRxpy7ZZWoDm2Jmj+0/j+fyCW8zWxajr9h5LYrfEAOddjJ1xO2moOZ0l6fn3YJ98u9zlCB1axgr5GhOsLkGg35FzC1C9vXgb1Z7gvERNT8HJf/ijhwq7W8Oaiw2XlF9v2CPr0DT9tvDFQRQb8Qi9bg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cX8W4HMDPs6DZbVsGkWb3cGtiPQZro1Goag9TwGewVG5jZ8Oemnj//x5a7v/0CGcii2vh1Ns+bVasDQ2Fp4dS05VFiWHB4qqtGUcDPnto+iEnp24QN7i4cD4pva9TWSphddQQY15aQs9ygg3V9U1zkWvHr1UmY7zJbX6Yoi4ZD26lrIgZ6kmaETMWpDyshUB9pomuPhORYJWYIXc3hFkHB0PsomxkWh2CJx3040N+WVWmmB89ZHEIN0KE/GSXZk+/Z9LF5j8vX4k3jC7kpGtIKO0xIqM5GfKTxntH96pBu4cc7SVD6YSaURBPJvJJEa5aTbhbEIMYb/zlG8Sr6zvCA=="
+          }
+        },
+        {
+          "q_id": "ga-004",
+          "text": "Reserve Bank of India established:",
+          "options": {
+            "A": "1935",
+            "B": "1947",
+            "C": "1950",
+            "D": "1951"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "IEIDR8KyezSzm+j26lVEaxQORZMODy00HWbxY+L1DDDX0zl6KSRjQy08xtp7jKvfYRcxWlJ1rwn4n7MJe+W/4osZLDsBucXT7XnjpIOo/mT6PKkO5+SrzoePilAXEKGcNenVTqYc4xj6L5xT/Xw1TQ3RioVdAG2nVqpcH/w7rje6qXbKhdMJorXE6qJIEDuvOypCmwvMD7ao0AspCQg/cpVFFTtnUC1R0qbN4JiMqapRQTmLWJRH0vQEm+7lNT126cMl+KD6UJlnculFeErMb6SIehdth/rzZq6nfKfXkui/u6odN9v2oQ5CMV7Bj6+xyx8WYgyBZRqTd4GBkNsYew=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JRHIhIetuAm1tLVcS81Qlb2kADy2gUyOp222DJeSA6/NjkYDpgaGh2GnnHzcdgR36v+sqN2jQTBHtK8hdX4a5FteYApkkJ1m++gCG7gUZT2vIOy/CHL1yCkFXaJ57aB7ZK6gJ20akDXk/OaVTVAWgAu93QPPuTlynW+RrXdkaNPKbKYkp+oht6VAKnWa7jfMbgK0TUbvRvjSXr3UhShqhnfaeCh+wcRPMJJ9kKBGeLmaJp5qGSbfq4y4nBbGaCCtdWPGad8OqOZClmhUqVGk8QsCFxhioDeNNh15W2nAgf/UvHiR7BFBfgVG6PTSAQshVPp34eNslSvG4GI0IGAz+w=="
+          }
+        },
+        {
+          "q_id": "ga-005",
+          "text": "World's fastest train:",
+          "options": {
+            "A": "Shinkansen",
+            "B": "Maglev",
+            "C": "Hyperloop",
+            "D": "Rajdhani"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "IXmVNGnOuzrOlmptVQjiNyJywXQ1w53N/52JJcZg0QnsIycfbCR+yNF7x0Wmpm/AO1ylb/BEQcYk9A1AjWvH00dD/Zpw09Gov+i3VwqY32CV/+wVESLAz8GLlPEDYL4J31jFPogv1GDJ9A4oEVxGtvt8g4AN8zXMm9+uqwJigoau7pcbBGNW2paCehZIecCB9KvlVUPVPRLX62gcW4nUlObHp8zgkRzUR7Q6yd4SNiJQ9USBKw0h8FKPiNVOGpyd8m1qXbxsGdWHtjEU7DI3ECCE8Q0vKLG0AVLlcW4qri1Z0xjEwLkNRm+eOrV4jIbCWFknL70jIBg4tZ6E0eckLw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ORdFH++qt2VWHV61JE2b+i+yhwCkeZql6wXT0TlNdw4r8YyRkqPTMHmqrn/uj1HLDgX4fWZQSnZyRajLYGb7e8d9p+CpsSKa0yRPJLFVXA8PHxIo8p0pdRio4MdjiieYBBYd8rGalXGwoOEMK51wz5WJblUT7SWAlQeYmvyBhgk+RqCFJDWLhWi33ST3fwuIG5z1TEeAaBca1UDUZehg9dYfajh/cbpyrCH2ONrzjCOt7cvMk39J5IqR1XUO41PiSWc1r7r308F2LZd/QaAK4JgSwLJTFIXACdPwpzlCdh1d+m/6X7SqqrVgottDsUTkJPrD3C7soDiiZ5EbgiySIQ=="
+          }
+        }
+      ],
+      "duration_minutes": 90,
+      "total_questions": 100
+    }
+  ]
+}

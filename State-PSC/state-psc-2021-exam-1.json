@@ -1,0 +1,116 @@
+{
+  "exam_id": "state-psc-2021-exam-1",
+  "title": "State PSC 2021 - Exam 1",
+  "category": "State-PSC",
+  "year": 2021,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "Fundamental Rights apply to:",
+          "options": {
+            "A": "Citizens only",
+            "B": "All persons",
+            "C": "Residents only",
+            "D": "Ministers"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "p9g5Gri0Y4AELceHiyzvvrOM3A7qOugzzcRSe/IJQQenOiFNbXshuyNEC8KYsCXvJceUk+5wZGZgTFyTdA0r8PuyHlHqwPIPdzvfAnotFnXwYtodliavldNbj9DYF5/xS22z/Q9xG66UVMeZgyDR+8BPKoGwtCYG89Uja38nHXxCaaMvPub9PLocqB9z6fM8OBFv+nTAOFrWNo0jszcGHMWniay0Wq+A+GQp1kv+cyL06p14ZgqVFWWdxJoDhYhzcHJTFWMWzIkxq8yyxpZeR4Zo67eag0UXHxN608CNizeCRlceUivMnj8AqrvqJWUv7GXmmrm03bHZYjFL2JtO2g=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PeCnPgn3+gEM8AtQnPtZwyK+I2iuRGDMjeSrTF6+rr51e1cjvPz80g+M4xjefrwSNb/HiqD0zDn1k46K5IEvUTK+ABxZpqypSsYfrmNGdEIWaja87SwmMlIn9KfVpTl3qPIvfMbqQs214dLJqg9XARxF3WsCpA984hHMTwxi+lHvZ3sPwaSVXvtCOCs2UAGuxIuC3CijwT0Osh5llFgQTGnR/huRk0+0ks3p3PUdDziHohlSvL1pNoz3GErm84oRINk+jdLPEGCFdPgt8+lLSkoZzU+KXrtnXhLiJMkE1NGWdUXWgdnQtSfGmomytdRpY6fcUwqsvgWcuOqx6B+CHg=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "Constitutional Amendment needs:",
+          "options": {
+            "A": "Simple majority",
+            "B": "2/3 majority",
+            "C": "3/4 majority",
+            "D": "Unanimous"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "TQJrtxPoN4daVUFOTl9QGFHKftMbIPu3GR4/JgBojiMHRF6fxan4jqv46zplZYW6CXpUy4yIFePgRIpBuo/8g7wx9l+QGkWyOgm5xgvo1lBKrAcGIdoKLltT0OiGXoPCfV7fowTuqSKIYRNHO3ZeZG5K7fy0ZYIgXW8ns3Q6kVauHACRtFyR+usZDIFowICVQl19Spyhx2Wkkl76mnWzBeOFrQbxSzUEEzo2DpPIm39IW6LZJJYLbesjQkTOz7oCuSE2kk8zaE64jUCtGGpPwXEVOQxZ/y4CnToHfAMeNTcVanWz4ZzjKlhPF1cKEyTIim2c+TUCN7TP22ZSLT4CLw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "D65AoY8RX2XAX19bSsYMcff/mHcLKeTm4TvNmNU2XeKq8aC5Smmzq1z86FyHc24HIT5Q5ST0mNtOuZjebH7RZvmDkyzUSa6yWGRY4tOeRxYtx6kCps6aDAvlRl1N+XcwVorvk4jj0VnsyAQXHbqy6XGZxY5ooZtPX3TD1saU2eEMrDz3kt08QCb5t1o0iwy90RZaIn0NPRs8+z15UbyJffHaKK8rVQzijtDO0xONClUZ2DlaZhppiAhGexI/50bZ1wl3ZRB1pMQeJ7KHyCp/7KmmU/esI+EJdjnu6X+2F54/E2MBFzLuMOytgpDL15qvIEtL7QFssGQf7zUbSM+/LA=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "Local body elections conduct:",
+          "options": {
+            "A": "Election Commission",
+            "B": "State Election Commission",
+            "C": "State Government",
+            "D": "Police"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "adwxJHCDQUCo0IHAeVRNhZ+75w4JSWe4ynWgNuC38HnSKhLvSrvEOzwBHHf6Asw97ObCifFZmm4UPDT7O0QdQDt4wxJkZL1aK2cfZy1G5RXx/1jA2aupyGJ1lq3cxP7sF9jaSHWmj2XsMJZqcs/1wvawjA7vySJw7FTKCApuqYYUYXu6bLlXZTwpkIDw0EEKUskeiAGp51Ok/vlJIUSZGmV/8js6CKFEJdwxIP1Ak51oeia4KyJwvX9DEc9AXhZGrytamH2aR/QENv+XARGKmKJ4vgXCbL2ATewBjtLP5pkwbdjL1G1cSQALRG3JJ2G+cr2CK7lk704Op5NEE852DQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "F4dFu8YdBOpzle4fWZf7kN4b3ioDs161kYQuTR4+E/u/Ksw5MR0fY1PU9SNhcGau8nR1f3WCTuaBANhmaqo/QokcyN8BvFbXvOlcyNHPBIh8GP27bVfUoxW948OYxbFNPb9+cUptfyBj+tfmyXfq+dWNV6ZTB9pwFrChvnYvZh3qiNd62J4L0C6+SlUTZ2GHRRh1KRUONsgCapVrywDuWeXXdUgYP3V1YTzefTqM6/hjzzjRSDEsF/luQKuhfsGlDi1nLO3MYoWAC1gFJ5QLVSsOj49TyxRey3XzqzD1dW+zGgUuW/bHNG5XUbnLO7CXe4PJF3SsYH+tt4t8mUshuA=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "India's largest city by population:",
+          "options": {
+            "A": "Delhi",
+            "B": "Mumbai",
+            "C": "Bangalore",
+            "D": "Kolkata"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZuN53Dw1ho8FTzRbASiHEXwGbgKCfUZC+nsqv7ZhtPxCm2W/WLRp6flDjCweyjh08rUg3hdnMG6kh9Rf8EKEJ13fZMc4V0c0k+fmKezY2GzI70stiM9Ecu6U2IJqCn/sqtBvNuQjixvKVnhR/zaKZFpKeqGJrRM9c3gbtSTBgZIHeRSmdGLU6j9BeoymzfAXXzx1NYq7Xg6hhOLpO6QjUR7r4nhv5BkdmzlswzDKRLdyPPh0G9exLwpkkZtdqysNMe2vT0X6glpiE5F7+zoAu6WA1fZqZu1snu7bbVn+pPsi+o6CtHKmoqTrPYeXFE53b86g6RcTvGrBt3BUMe3A6Q=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "chy9oQ+67Vi6Hiqs0O0AFqaE3jJhUkjZSXUh8WxfHAHMwShbHtTPd59FhPdafLo7Hn6Sb9hO0Hrku8l8K27Ybx0Iwg4qzc5xX1+4HuxgWeeVYtix2iUf33nUdSBHoyEaf6oNRt4U6QHM9aoPli4KB/ACVXZFkMzYbJyKFav3oaq5bH4mQlwWjdL9TstMHvhxxNe+LZZPiZnMZRUzoTcQJhQH/3zZQuQz/Z9OC6HN6CYW/7pr+XR370h6HcLwQ1+qwEYtExP70ZxzSB/HzK1Wv679NhwKJPILaRNY3yOaKdSufTwnsbmV23J4Ynbh3fFZ2hOG1V+G+0efzwZWA9DCpw=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "Articles in Constitution:",
+          "options": {
+            "A": "350",
+            "B": "395",
+            "C": "420",
+            "D": "465"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "fBCg+p6dRPGJ9bT/1mh1L3fz40SEUM/u7nad0XKvVImpH/7vLtUTKz8NmEDVP836Yg7rC21dfKa3hoKqfrQB2aInUhZwgP/8MqINiqRPZTI6LmrveFPgs4VFBfHcp/5XaSoBjkzU5IzX6McdGxNvesH7Cq+nmwQk0c3k8uT1Z9p9nODvS65YSlnnkKXa7VqhNhKyXFvBgmCFt8l5HLryPozYtNGPZCHOcYPFA+/BOemcwi91/lEU8mLRbrPtcPpcYsvLzs8kavqPyx13IK2zlLG2t/x4lU3a8fsk/gJRVj1KkGGQeqPJ7e0KrP734lh4BtqDfctxd48wMUYQYcuoww=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PBmnrt64S7FexNscc2u+zPuQ01wP82GVG91ko9ZHdn9nsgs5eAeNz8XDVw8QSee3LVOHPxnrxVCSasOvY3X8uzn5bBorffAKSyYu4sPWV4ra3E7OfA0NCjvzkUIQZteaHL0XMyfa4R8Qs54AIdnYedMAxsRtzA7HHr0PCszdJOReTVYJ/NogOa8GmNYRPz7M4/1Q65bjzpUYiK4haCNA9Don62mhO6WX+CU/UCTwB5XqqxBQi7u8o0l/lTzIVR6vYv+WmAeP/Nu6vvaQU42O+6+WKpS5Xg7TvBiLKyur9zNZBGISxEonUlCO+oKHMF3R9gW9DVGFPuEtkwethL3vTg=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 100
+    }
+  ]
+}

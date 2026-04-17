@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2023-main-session-1",
+  "title": "NEET 2023 - Main Exam Session 1",
+  "category": "NEET",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A particle starts from rest and accelerates uniformly at 10 m/s\u00b2. What is the distance covered in the first 5 seconds?",
+          "options": {
+            "A": "50 m",
+            "B": "100 m",
+            "C": "125 m",
+            "D": "250 m"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Mr0k4v7NBQaUSHAZ7b8Z+0u9V0wT7gzV/bbnkipiCZMMdMU7Q2/n19ia7+4o4Vvk9Fxf3BE7YKvS/zgQzr2tULsYGVexpKEFh3p/Gk/MUJ7zTYQPQyf17yq1yVcKu9DAiAVhr++v4JZQ1xV2PUSfi1q9Wn0nTZtIuUf6PhrJ/66/QE0zaCFr67ivwz1eUORKithSeeEdcDcXnRUpMM7JelTpK/kmzHHU7B5P/fvZpUgVy401idLBR4zSQt/WZFnX5N2jn3LYeTiVLQURJhKJOvSgB6QF42iQGI9wpZ/ZXOoX2ZojzUUtncEPhsTyf2yktNLPAgT3OqVYWLBMUt3X7w=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HiptWUhAM3szunwNfbNPMnYt5QDlUFEYXt0eyRmLNDs1saNOX3ka/c215VupO2900k/GiJmd9TEqL+ZnOgkp7iwttqhr6poyGv6MCJfwafonsSyW5w0nLOdfLcvxP6goqLlZqI7JicJybkDWOpb57olhNP3KcV5TN8fuKb672Au4wi9idBmSICAAv0bIaigNXN1phJrVzj5/xeoCKxhQesGNBc13Tp4/gDyJC27tEqXXRoa76vzbWAoiouitTY0lLGWibGLUSGnHMqAZw9hFj0XD3Q3fgTr9k5D5mwnxmxj6aZuRquuv42xIhvV8PaHBnH1OnsYo2XXq6MwtjOOYqg=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "A current-carrying wire placed in a magnetic field experiences a force. This phenomenon is known as:",
+          "options": {
+            "A": "Electromagnetic induction",
+            "B": "Motor effect",
+            "C": "Transformer effect",
+            "D": "Ampere's effect"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "q5/ZnFYPM/m2r68+/zchb4q2acHPv8aZFPhMUvu4x3T+r7CaLBTgc56Qm6Yuyt3Sl0ciG0lpcxI0oz+z4/QyhDU4qfelmW5GlDZWT4hialzsvUNX5N5qJIGgC0wC2ylcBXx3SGTXLxKueUDsh8dvAY7zLoEec8kb3dhOvHDiru051b24L4XQX3Iy6FSEX31a0N5OaOZThTSWwZH0Y34FMUHCCP3N3fVA3pUheMhrJIMM+2nTP5QyRu2vE9jWzsrubM5CWdZGaWAaZxrTSEzjS2g0ysNsoubgxWcqsApl26XZG4/F/zc9nP0o8Dv+vKcdvgTMDNiHvmF5zFvfxtmqVQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dGkXJrBXL4cmDoK72q3WVHRQguNUv2k+L5HV2r3JFo0196y5YEnGry97Hszar/P2VWjBo/HaPlSzGtLLX9/bg4nAph9ksndPO1nmaxxJ9TJvbh/Wrv6FKCFgT2qDCMPl4l8Lrkri0iurXNePorZPG5/VEHDVIrjdt8kYATRTI1jA5DaGYRZYkfpCHjfppfRFGRqZ0rHpBu1PUjOh1Zb6xGLQOARCrcSReCcbqeKuNd04eNFIiVvmk4gPyVOcISD3CTocF2MezDMng3RmdQ1RX2s7qeBKLZucSO6BnMQVj4qWMOkUFbteNY0WRHqzSf3HVKkynOWu1j1AgH/JC9JQ9Q=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "The SI unit of work is:",
+          "options": {
+            "A": "Newton",
+            "B": "Joule",
+            "C": "Watt",
+            "D": "Pascal"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "oNP0t7ar2ACIdijac/qzXbrgZRhc/rYXGWT27tdYs6c++Nw0sZDfzMQPp4v3kUmH/5dYqBRCiwdOSBuFWi3UwrDcGJGPCk8JTK+ZPRxsI8yJnYTsrrtX4ieANwM5HTB+zI5gwOPkpI1KnpXkS9mhEFWiyA422cB4iN2Agt93T2hKNss6p3GYo3xFOarP7eNZ58/V79pa3KP3iWEcY8z/xoxpJE/9tpOXhSUDeuEpcoYJUn+TXfulajrCzIKoZo1qHNvQKfqiUB4PGRDsfc1rw4koE1NPN04GYSQN4vgYZluffh6DrryCPpUUaNgtZu8Mnx0AmIf/iFnyHgmDlWqwyg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "B+DtpTouXxPlbp1F6PX6Y/D3jDojMB0yxEUKLNIwM5fic5r/HB5+pyber++YaMGAMskvhwKbn+HH8p6lYoe0HBsCwv3PtDexrihiDRl0prKDLw68Gt9hwc+FlSzJzn/zgR+8IwxljiXtjvngNjDwZ4AxxDj8pRP7y5eqK8AFrPpuw6mqdnrPq66xs2D7hRQuWgQR6ZAwWSYnHaaluLQMRsge/V/iBnLKpNZbIqRhOTaFdU3vndk2C59VbQUWyBlNiW+st4yrituHwwB2xwtqNG7ZUsPV+RVTHlhqs459thI2ayZBGzykzbpXyu4IUMBSAtBt5rrzwphu9gMJjgGnwQ=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "In Young's double slit experiment, what happens to the fringe width if the wavelength is increased?",
+          "options": {
+            "A": "Fringe width increases",
+            "B": "Fringe width decreases",
+            "C": "Fringe width remains constant",
+            "D": "Fringe width becomes zero"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qhCyqyWgB77OWXHbqtlHJIGYxgR1dC+rW3F1IBg/V8MzxUOB1qjArYuNb8xbD8cxbRPXksAoUVTjE/Tev59XhD2PUF1VKrxfquRNi5ZiJcFwI6bzgrjLjELZ7NzTR1eksKKEIeeQez+hCoEXSG8OG+E7KKqMr009lPcVBm3Q56oMwValUOWuUkl7G1e/X+TuNUezHxVpfaAei+ivqeAIn8/Am+fhJCmKKTQJartw7qWRAGFyNop+B3AXKdLS4ZtdY97100937HMd2SPokHG3l/BRblRoYdfxAwTmL9A/ZWRnPovugZSiM/1ocJpzWuEwrMkXIo9dqka5zJPdScFZ9A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "NCN1GKiGChYiwYjDdQVGo2NroIaBIwbDVcneNQSXSsaGlp00CCUcIovJM6Yyu+W/pIjdiWhPxSvM/64R1/wzde6q+NZoONXjojx5Myvxd1AXZ1mwKL3L7X6/ixzqpfcRVKzeO3LNli9MiXndFvD5xrlf/mphOgx42HosM7XCtfNCMJSTtAPMkWoBQAyWOa10BD7F6rJydHoL9CIwDZ30HkNRWYc8SKp9ce2Xh3Ar6dOKe6jrbBkExO4bVPaf6IBWSpyCGKQrcc5HqPrlQCR8zzYVgMZ91ZqH9FqG2Lhq2Edc912L2AfW7Bufnh9oggg3ej/gdQ7sdXmaeFeVzbmUHg=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The half-life of a radioactive element is 10 years. What fraction remains after 30 years?",
+          "options": {
+            "A": "1/2",
+            "B": "1/4",
+            "C": "1/8",
+            "D": "1/16"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Oq9ycCocR2gWHL2YqYU26cfoU7fYCrQxdwIrQj193+yzVnjPHYBpKzrez9GZ2bKA3wXZy4597/TBbUTaNmeT7MJ4NOWvpYgNohTBDpBuwFmEGyRnwQfMzAsF7QbOjkE4+fDxzQJQ5fx9Vj1humPVlujuECdBOsdP7Y5uWSj/C9FwEOyXg3WclNK/gG/jT1cM9T8+7nWI7+cT9QloYisIFRMTrWJnRth976RVkf7B5K8O/RhIYrgu1dJHJ7IqolmEF1VEZuR+rSWnfNhBtaAUJ7cotTixRrxdl8l9CfuYChnD5JuWKNHU5sp7iUMuUZDiG2a7016SiZ75JdNE/r4/Sg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "e+t+S0CPHsxedhDHoZAF9PMKay7wM9LLcLrmbZGv7eBOqavXmlfkYbztX+A2ss689zWEwYAEibNjnNKJGyJxXXEQgNHPQSp4OTYrzqK/6zpDmhPNFy3eYP68XicBfqvoxO5NMemQ34+AmxKH4YwjTrbJ/eQK4UDBbMjzE2/zgSTZWzEkeLmZGygs3ZmSkl9g/wT4SKq4lnquYguLAUiWrMC8qMc9iPIG2NwLbeUSgIBawD7b1hl4R8Pkpvv3ZmtYR6IY3n5ac4qaGjTdLZFWjpUoo0WtMQ3lIToPhvvz4Qy0jhpfkxbR/F0R87SCbOyKf105wrmXWceMG+L7ioBJHA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Which of the following is the most electronegative element?",
+          "options": {
+            "A": "Chlorine",
+            "B": "Oxygen",
+            "C": "Fluorine",
+            "D": "Nitrogen"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "M6vGzoA7snRw4i3b26BodVRxj77YD4n/2tcRkER4GWnAgnY1x7l3jUkdbxHesTvqoaHb6DllP3gyPmLZJCndKxBQ9Y37x3ADeqR/XhFFI2J88c44JlevZbH4Tpeyqa+ITQH8dCa2CPgNaK+UCbN0mhdCYMe8V1U/XhGBYPdEek1UIYpAF9LVVkzKpigsFD/i0JyZkGXaiE8to+zA7yqgWezP2NagNnbPB21qc+ayVDiGAvGwjlztzoBXBYv5BIa/q19JTYE8SAGFyImPFlmjtg7IHBbwrRSUTy2H/c/Z7EUnNya5N2JpvncqjbQyXXldSQebpajXp68po/fc1ustnQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HXcHM0gbXLqAkvbHDE/eOHkX6pVLxt0dxVotPgvEm+ECI3VVM6N/PBm0SecKd+qB+kz+NmkAV9Wf9RxR/H2MZsJ25wqZ5ovzUZj8C+BZ10QaWCjtwvRZBE5ZSZwUG+w7DamheG9UDDdL1B7hCoN/tjHu/fE9JP+nazqfjzw3Zy6HABMQrKe9ZOW08q7+WPqcts8PUqOyQvbp9FG/E63tV4B7zx6N+XlwZzeRpHdPtFY6NS+kMSGe2uES2WdZ84XuuWbmiTrjaUuhTWIGIh9A9GJm2aOiVzS774otKFvtkEs3GYGRNRJKYrjmw9mziSQrRIetmZmIgEp6UfXuC613KQ=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "The IUPAC name of CuSO\u2084 is:",
+          "options": {
+            "A": "Copper sulfide",
+            "B": "Copper sulfate",
+            "C": "Copper(II) sulfate",
+            "D": "Cupric sulfate"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mtQgePuw+FxDZx8ONPrUZmKbQb96IRyDdSS3DRFLuWYogSCw8JYpLDYH9j+2K/Kt7nSrKp6jSvbgU0UPmAOWDTym9uSuu6BYiKD3i9sxvt1MhF9Ilu3IqiUNIF+lpJXhlIvm9yhMhNSYhgXY8e/6HcDfftCMS0+PeUBaHdnZiVaxRsuTUrV6vLai3qUy0o5HWej75QqUkgicWDRDwLJyH7qTX3ywNeHLwsaFrZ8Pur8mbmKuoowSUlTHRrzEk0SkKQMrcWV2aOJyNeq3ChkmXevJtP2iYdGHDjL1EuAFttWMnKWyXFJqrzSRLkcYUg7CVjxaQhoCSJcSb95OXnGDWA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "kf0rnIyAfUlSJkAOXct7m2OOCIehR0HnxdAjuD5v/DrdLfAokKz+hkHtD62ctiRsvUGEBQA6RVVZZsSeNbouR1eA1yb26hWLG4tGon9OKbRGdgxYA6eRlUq4KJR0HIzk68PJcTVJt6sqvYppvGbkcDm8X9l9qG4jnecO6k+y9YDjF4D1qiwWmtgAv7jBIE2RTUDGBypY2/DKmdm7igjQw1ZHV68B/r5SQuK6mHxrRz+vpHGAseb7tvBiTq5gx1I8ZF4qJQvFWRc0qHm5WB9e7vnA0GG0wRP6drSu+oRJY6s5qoV3/2t3+QjJY2HodCSw5uBL5LRZ4x/najdm/9Axnw=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "Which of these is not a greenhouse gas?",
+          "options": {
+            "A": "Carbon dioxide",
+            "B": "Methane",
+            "C": "Nitrogen",
+            "D": "Nitrous oxide"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "i3WVzmrS1dAFE6U1bq/Tww3+xluJK8B+Nyoi/5/J4eKnWs86VPEMSfEqvQcmvoYan+J9XicqhLI/x/Bqj/BVtjTRCVZN052hkQznLT0Igc2xxUnhG6L59thnbp/CEhNkxgyZIyMYarozkNVlh+EggbNq3INtEIr7R8lVqdckC9VWn3rRC7+Fp0pUBzXedY15nPgFfPZxyCTRSa43wWbMfTU+1/ssX6DglKX8U5PMTsbsoD/IJYGfwTJsT8bKdLnkVlWCiHTQaP9c58sd17q1MBgkepg3YsrYQAVDr29uYSd15ucaP0/O57u+IvpV/Ja9zcqxQtVCWxWf+gRHZsGlcw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jhJuKMvZawI/gDp8mhpTOUUxEB8AC6TiEPkIN+ZFWPt10WVngoMR6j8Qw+hQB9keKpJmgZKv0sYpr5sJjLMf1070kXziAki2KDRpjTvvK/FplZKq5oCd2Wwy5y2PGRPPhMjAHFMxDgNzWlwVm4ZKGeL0rm//yf1KwWjsZ9xQSGulVWIouGEsO90go18Ue71k8T+AtIElEQqZAVCygW18sH0FkLzm3u4eBTGOX0QgHT0DVeIJ87wrkws9l6fovgYu/yqc56kqOVK0F/ZdO2ADVPHwfyG/4kZN6fVu6xL+1hObf4Gpi2B564r50awvJI8OkKP5rLfFQHVNEIzHZDBSHQ=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "The pH of a neutral solution at 25\u00b0C is:",
+          "options": {
+            "A": "Less than 7",
+            "B": "Equal to 7",
+            "C": "Greater than 7",
+            "D": "Depends on the solution"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Y9IlnXg8YOMR1mqVuzMxQHiIhdery8WYtPxaYmsj0BwadSTiZWI69xC8rtqK8MEisqftoOZrnj2mwTaXPcRv65qBsjb4Pwdh1NUHQCVHCyUJ4U0ssnFltfgdtCdIokkK/12Rpu2b6bcbJRm1VX7olerNxFa6YItaLl4uXlGXxDx+8RHFAsrLYfShQM0SOMVmL9panIqdRV9deo2pmg6FOQvvCDIA11iGZtMVltEltjqmhgk/uNhubMoGx25w3S8lCRBntqNJe2TWnYIYNfhuphkAG+6wCaGGA5qokf8G6JPj02tbXXtctrpB//5pRkwDCdBtKeh9Tv85fQXFTzenRg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FC2T3kRfgti4MEabPc7NqEOqSTgQA1asahO9ek43LgJOr3+62fPKz+VeXAoYLJ0NT39uWoOqXg4mN/0PVZr9ZYKgilzJ1bIFLyBuD5vUn2gx3GXgNLxU/LwxiBKMuHzzjy0mNO2ziMv1o1r2c5mgtvnA2CAIXI9krqlR37zfIiDYkMzH2NRAD56CCm6HTyG3BbK3N7jmYLtPQ4EEfX7/VAWOYgSS93pEs9zE5zqWQPQK7VgWbm2gxhstDIGteX3fOqxb7V/7K2C4CNcNSWpcpIIxHu12qtmQYNRLZzHNsvz0X3vb1eMkXRRn9X9Agbrf6FgKAXH0WaABvajhM/UzAA=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The oxidation state of sulfur in H\u2082SO\u2084 is:",
+          "options": {
+            "A": "+2",
+            "B": "+4",
+            "C": "+6",
+            "D": "+8"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NXHDsD6m/UCMcRo22TofXOW8ylIQ3blKHDLdVc8BmotQJ2IpEEOdEdSth+eFi+yz+K26ILX1mkoHATHlIyaQyVLeAbs6b86oW2XcDRFvyTdBrVfEQndz+K/lZIiujzm26EJiyP+c8Vqebhf9cgStNedvOi375tGkD5Z2KraBMNFGwXT/iEdb/GXgDXRAZIX3Rh+jRdBnc5Nt3VNRLOxbdlhAF3KG2sP+XsSc8A82aBoaiDctb01awNx5LtRFvOvUIWztAvSsIjaPdnoCHJkuams6NOSd9saKBLX3Ofr/2G+2dKghh39X5njBHqAh10M6vDFAB7gwIUuDH2APIMGYiw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QaRH0EBbBcIrwKNhy1wd2EwbkMl2LwJNS1gK/yySkof7izenTHyTmzEkQ6wSKe+NZ6nZSQ1tgTHyrL9H+eJ4p06xbKFszQcaqjweGJOp1lmiFesPkLQeYgtk3tMFWzFj5T04aQLOq0Xc8IW4Wlmx+WQaHHC/TCvtzRd06ghLmf/sM+9MYnd8MkPd4JDHdlf60aLVLzeiqjtaajIN77mYP5vjK07UqfFBcH2ow4syvUPk07qvkYQaFeY9LQH71EMlh+XZRnfZ9cmjlzS5ekSpS2CpN340Skpa+z1YfaXu6/F8/Ci2kYQqboZcpHJIUVq8CHbaNRPdA5hKtry7mZ1tfA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "The process by which plants make their own food is called:",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Respiration",
+            "C": "Fermentation",
+            "D": "Transpiration"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rgHE2TI+bhXl+M5qFSf+yXtM+D/FG7gOuSAmftFzYR6ftVv65lJy37YTXg7y213dS0S0KwXAEOVxzzKjbfERMHMF3l5HC2UQQNva+HPbCGwlWpiD0zgN2bOg0LXC2cRAYWxC0V0mTBvibSqG+uveafSKPYq90ykKldJ7lHbyPz62rmCIRmHJ5ANz4RRFpvFJkdNbr5gci44veesHeLw2EkUJHZyqrRXMWaVFBLdbCe2lN0574RPOk89oQpzFjzHT7lT+4JHfRBWYnLDoaggWEItGAmiN5OLC0J4jQ6A/GXtNUHS+rFuNKoGf6zDZoUjyf30uSs9HgqohhAyqV5kW0A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "NlPMV3Ljj8vhVi5SJLF4fviwQL38RA5vwdY5BlL4xEgynS0gCA5Sb4tJfHY7yLQwjeIfmaFy0vWnZY3uVo8PiGSWZfWGDXQRU7vkDnln/AoaCuOYAt00Ddpjl4oRWM0I+8w0dGbVEDtcVLh3xXuiJKZKbQG9Q0SXw6XWG5CmUv/JGYHL81PnzEOAxfXnbRigw7TgRSLugEvp2zlVMADWyK0RBWOIOJNLMjFcmBoY4XlJ5h5Gi4ktEtW2WO6/n1CdV5nMphGdmIPwrDEd/vIKBduALWAVQh8YglF7d//oPcbkglj6aguXOWnGRc8Ab9fVf/5tsapqnzwYIF/J8gc4+g=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "Which blood type is considered the universal donor?",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "AB",
+            "D": "O"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RjW/kqkq0sRSTsDlF0pcu4YYrIPiVUBqEtBnTuJvV6q7VbYfL+59rZHX+zbvVQLo82cQ6hlq5sG4t/VS4asls9Kpe0dAxbHWv3+fHsZ+50UEggvAgcX69hP+FUqdFbv/kO3CL++wu3CHbeTxZfrJvukF+/3q+CkRf6EjhigFI6txDUtzMiC57tIRMzSY9RCvgFJPZHwnMwFvgEMoYU6KfseULDk36enJpumniG4I7alglcEnGPg6DZZQIXRUIRepDVopiiMzqlAfV9oi5vt32G90qC6xbuz2J4C9JeUD/+blsvTeSqEPOnG26ylPyjIWekC1Xlyuj62DSlyFJEpYVw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "bXP9tpkqpXvr8z0/kMcC3kVQ+1gFfbpgQffS14fquJI8iRGh146+9fNKkd2wT/gCFgLOXh4sesK/1v/b/Gz749aiijioPpvQZSe3OSfwNyXKpIw9IxkSTo2YkxsBY2yzjia2CUTcBU9pCyZoWuDv61Q06iRS7h+mvnaHDp0zLIQg0p/2LnxjQUPlf74GC3z6Mhppz7MtsKXudZI7nNvG6qOHuhLsufrc3Yo8OdwkTopMN1YzfneYfScn+r38OCUmdAN57kG9oyi5Fm4v+aJNfkkyx/wETirO896oOeRn0feRUCz1K8+0Xd4YpKq2qRkWTMJyBIbKhsjbncQh3EkP6A=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "The study of inherited traits and variation is known as:",
+          "options": {
+            "A": "Ecology",
+            "B": "Genetics",
+            "C": "Cytology",
+            "D": "Histology"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gzcvuJOU7UrTSj5pfOa9U7kMTg/V+QKNni5VT48Wez9eXBWZ2tKxDZJJQPf74NRY6oVO26mYYKmuvcT4Wz3w3lXmBlr5ccJQg8Y91nZBCigK7qsSy9RN7VRFQ3V/lp4cEoiixBVaoGcrjj1tdgyJYgNpNK/fbIp7/4U7jCuVYl21+r3RxklMf0jJLt/LAGn/S9hyk7LmyLqOoFqQb8M2CwxZeIrU1pT8v0OkcbmISDIuQ/MHdwQJxWlJAZYp0MT5kJooyNGAnnNZfyC+IovSGRg0oLgbtOTLgElaFzzIxCYWi9EU7tiIuuOjD9NSqpXZeDwvGalgQIHVBswGaqxYFg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YXfXs+K8/lu0sNYYmingxRlyhj/zceKqkexWh42j0CurYm+RIG9ESNX8f5QpWz3+k/Cdh2YYuoC07apKnsERbY5Jffl4Oo8D9P8gqcPTrvnqWjSUqjG/GjDlK2ZryOqscFfVJDC9dPx98ZzEdqssVhBX55e3q95t6ZhuUhpGcmFFr7EqyuMwxA5aPCuXwE7cqnoDliUsoHpx+/SPfkLms0uFq322e5M1A2EXMyfjU+hsOxy2Z/BzJK5/djQkoOYr2JbbCjsdOSzdbDkB6SFNur4slwvxOsb8bYNYAi5QbAz6xNqEdsGaaV7pEel8Knu3c1zZnLYG9vricPOUmTuipg=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "In human beings, the number of pairs of chromosomes is:",
+          "options": {
+            "A": "22",
+            "B": "23",
+            "C": "44",
+            "D": "46"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "s4yYjnak9LDtSNcePc+Nb2LQi5tUbbibuOGSsIEXCVJ6op/NG73eUt/B0AH4O64VRjvc42kHU3zH43t5/iCToNqvLFDG6g3xFwVytYTR9vZWn+ThQ1gS2VLFYXF4pWBXMhf2F+QvsiGpTdR8KC1CQvbwD7E+avkVprJ8zkKD6BN3jbVIofbdlwN6DbO8OFX17ryxE5yX/RwB/g1WFeUwvdM9ZlYoQemloQ76lD3z8t9nZDU9Ezct2Db1JIctCsW2Y8hMDIaal1iU6MKCNGkFYKjxunSY4MoSAZSCcZJaSoueGq94m6nt8mXz27c2XmzWQj65x+prs9ciczRhNeJ90g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QooiTWWSGDhWv+YyDoFYcj75YrZzS541Qx/nFk+JA5M/urR7hh8WrIWtOKCWMQPH1Si8oXSkaLoVkpaG9+ES1Cr6bmL6ugA8SFLsKkDrE3ZZfC0AfcFWLHdz2uyveTHs31fkmYmGfCA+ekGV64NMQUYriUn0zcK2UX/3/xKUYZvy9PJt5MDW+SsasthwNRt9+E9cxmVIrQUF7sMNLC+Daqwppx8iHKAi2SgTWM+Wq7vYYCl3sPVY4l4cihjsaIbQEY0CrMcVJxMifjL5Mcp9kcUBmluvErlXYigB+WFbqs9RxYSUtA/DDKXNp+wWXnJn5nbIUF63bqCjsrAOCmy8CA=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "Which organelle is responsible for producing energy in the cell?",
+          "options": {
+            "A": "Nucleus",
+            "B": "Mitochondria",
+            "C": "Endoplasmic reticulum",
+            "D": "Golgi apparatus"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "I1t1eG5wlFMHHch0E16u7SfBjA53ZUT/0XMVAgRGttb+RWN6xdglxpUO28DdouJ9dkJGifwcqGo/vyPeMVB16nYSyp3/W2nwGPKWsczRdcq6UtSof3+IcA8fODDg90bZPZK9gMYZQmgrE5ZZjnBdKn+cau/e9UcUaZWcOPT2rjQQGP2Nby3DRy4oiF/oIEwk0Gi2Tif+v+pB5fBDA1I2TbNeIMmkJUpf1/HFsutzakldX3k2OCpwF+BFQCUWuGC7/Oc7XPNVWCnV0/8l7B/oYZ9Lz5ypadtPiRtY4+Pkey5wXGoDd3N827OCn5JBCdowUaXrPjyW1z8lxDS1LEdJJg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WijiNMeUXVmtdxsPhH3wtd3a5ncz4bxzAnqo+U4zSOJTfGhaXDTsOuZ33Aia2+VtiPUUjzAGOjvCC87K/JQLEYNanKIFH3zEzi1ytear9E6JDiMzzHJv8REy1OIrUepbxt+ZZL/N7xNl8Z//gNdVPSZMhteywCy3kUfYIWJGDIutY5s4Yu9Z/SfE7pbSnl4WPwXgAEHQHxXBVZSMegDKBDO8exKnEphptRItiINYGd8iCHl9Lw6cUadchB/cXCnRBioqA2QtdXPKEaOdG9hy9zYkU/2fPj3+JMxTR0GKgcB1NG/TrAeJcetnagOAX3W1p6CVLyZuHN72qGgf71gWJA=="
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "exam_id": "upsc-prelim-2020-gs",
+  "title": "UPSC Prelims 2020 - General Studies",
+  "category": "UPSC",
+  "year": 2020,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "PM-KISAN scheme amount:",
+          "options": {
+            "A": "Rs. 3000 per year",
+            "B": "Rs. 6000 per year",
+            "C": "Rs. 9000 per year",
+            "D": "Rs. 12000 per year"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "A/wpATWp/oUFf4vIonRZjKC1f05aEDiO9xXVfHNRzCXKjnKS0u32X3CQGOS1pPeHneTqgOPCao64/gLgfgfa3QbXUokJ0AO5I8xmhFTRSBISMpQlszKSZsCbn+1cNHfc0cv6ShmTOkujbvutNrNqdHZwJgo66OBzlp+6IU2KLIidB0cjMsTzqwPsojCEuVMDxsgV4SbMZIlhKB9TMx3PdAjFr/E1wRM5QCB1hA1KXYrlWgf/7Sx51IEJDpXY161j2VSOMH+ZhCktfzQB3tqqE/RO7aswRsP6hZQTtkJemkFb8e6IHS8WFWtWqkbOZPzE3saKXvkZR7Pq8ntw1/gGpg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "IugRhOg91BXqzIFW0s0uKDdZWzmn0zadEJVAI2PrjIAseX7f5nJJuuNawZ82m7E7acf7zQTgqRfnRIYj2LWZvBt+mqwQ31DCE4kKgWjyuXPJ9vZ8LnU/daTozqa5mGX1K8r4i3xuJAQupk4WWY+nk4eem0e8vy19zQc/IprCQpMB3i+RciJDnB8546DT4lM3jDSM3X91NIEFNE5wpQtEmX6rXSPXXPkbwTmjkLr3t94DAM2DyuZVYPwRCeiC+o1PHCNwtJrnt0onSSF5YMRbAIv/NzjkyIMPt+PyKFqck+JLHEKid3CsI6aTdZMhiExGK+NOXOQ3I4b3mYIOvFXxiw=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "Ayushman Bharat insurance coverage:",
+          "options": {
+            "A": "Rs. 1 lakh",
+            "B": "Rs. 3 lakh",
+            "C": "Rs. 5 lakh",
+            "D": "Rs. 10 lakh"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OtXCzLJY35DZTmO+KOQ4Cl3TA/iMkmzK2iKeLSCWfyT9d08ZhnNr/cnScdRl72TBgPBcQPcTgax65+y11JamWfzZZBvNrJNgBaNWQvUmREL0eWmb1jloqW72K1tI1xGwStvtT321UhJBlFAudZ3rOjoIfHCJCwYoiMT26QAj7teBzGn3zZv6jLPfUWGaWGXIyIxplqhDXr/FEenndNL7Yt4uqV76NvBj19RW26wRROQCtHddM8Xj4YOMrBKPSszxp+SNQM6G97EaMUnxZc9jEGrwwghVUT4faze/GcTo1JLnF/0jCcigvMau7t183/gxm1DwvqcqPWAmTrtXuatD9A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "h5n1zMC/aUQxJDawnB474lYT2EDy8GJ5aPl3MkIH1QqyCW+QYzg+JgGFRx/hy0yBDYMPUed/JHWl7EgxYja5hRTgK/0wnUjiG2ilkzKdhYFgyTIHnkPUVkTEjx8rT+SmtZ1HxDJ3Ojtj/X7SqVZbpAfIeCW1zW7eKJzv8ApppZb8rSDDjTLjldp+zPfCo+IYDResBAt7GvMFW9HBJgnCNjS5dVf0qCF9P0VIs61/3/EE9DSx+vkqnYlF3b/Vgdqd6r9pYJdmS/w82ZSGcFgngQ6eRNDISq7abMVvUN8PKaT2Fu5rIcDRrYN47v9FefVTFMU/GcCouJ7gtI+Ci3c2nw=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "Eighth Schedule languages in Constitution:",
+          "options": {
+            "A": "20",
+            "B": "21",
+            "C": "22",
+            "D": "23"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RVASJwX6KTtUgLBxEtKbEQkSLK2pVC+WbfH1Xf7cktTCpLET3HF53j157z2OF/ENouBo6xxaIrlrss+kF1uYlUL7D2yG5rZwaTKnoPwLA4P7UPaPjMp2ejlglKKBCFyVjmM3xBUJHczfg6IGaRWPfMOJVKwZGI/SLe7HzNtjTJeXq46r7SKF1eXNS6s8xxPw8yyfy5sQ5S/0udLVYM169L3CahwqXaIcVGtfOEi4wMVqNFrUl9WfRpFncEWLxNd0XYsBldl3CVaHfviQpfW2DS0dVfhQdJWDrfNhGuhSc0S3gmHg+Sc3Cw9c5/zaZrZpmLpjwC4k4Hb4B69svtNNNw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AWeE3ukKEndAbEgyJKaJishvik1+qrOB36rPC5QGL9laypIaxsC41IjBlSdtWvANnpNn/AzM5owfKxTVAoEeAFK1XpsBpQfAPnr+bGt0941VMY5GDPRbMPHV3ilz20Q5cEsfmPwJUpIjnfffaW0WIVzJTSV4Hjahw3ipEs1VFe7dASjKEnUqzavjLYTUhtE6J1t/btRoJ87oeGq3ashy5JH/JovBBYUt7WM2r2epX/A8yl4oh/BAkXEJCMu5ErxJyb7QwbSk5NG6Tgtgz980hyvKqlSIq35uo7ExJVwqNu3t1jcmHFjHFEIJ3tKyu2PirMrup8c/qbH6+5lYxYgUIw=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "GST came into effect:",
+          "options": {
+            "A": "2015",
+            "B": "2016",
+            "C": "2017",
+            "D": "2018"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Bhmjd76ZB5kXCOwDAsqdoiiVDnTLkhV291fng88va3S6tI9pQW7AmlI5hEsh2hsz/1VuLPoZRqy446Rv8UW7wwu7CAw8Hza/p+5oDXio7XcI0VU1PxwsCzNuyGaJWfWXC8nQ7e1k3Ud73tWUSd0whMw8TkMcf0WkZcfSRsys17EEDMGgVvDpPuSAWkW0mrNHo31OREmI56rCeJLUQHbVfE06ahtYD+d+nChtfzHv5IoNKB4VEnxLc6FAckmiAvU+v/PjnQk1NivAk7gYl0NBaEquplO4CSC9qE/ggfdvxxBjL4QZAr/qAqOH9RSFVkYyXYPTgKyKUP5dGuVErhicFg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "XUPo7RNp8aLS8MIXqteq+Gs6GBzc1f5Ywm1G2bHmLgfmmz+0/LHCpvgd3Uzqugl4psgUlIQo7wuSFWJ0Ibc+G4mxP30e7uX8q1nu94zIKviAiQdkHVFwJ36cQv8Kd51nBbB6UL1CBACbflcqrofqJ+UzB1BvuibitPXDvBlcFysqy6tpFYirKY0xtTRVgkm420wnSFSNOOIYuyAtXDUHRkn64+y+zBu7FGTxPOFXdVxG4x1j5Z8YIbhkzUBz5UUZkWgSMsqqNZbu7PzbElgG1aiuwOo+hliJzUT/vCp2ZhBhtVyYOz4Cp0wNuIqWPJZwGjgRKeN5GG7vBrHcbrEnLA=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "National Anthem duration:",
+          "options": {
+            "A": "45 seconds",
+            "B": "52 seconds",
+            "C": "60 seconds",
+            "D": "75 seconds"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "dNv3QQrdrCP3IipS0z7ryJjICp6Ga43/+GKzsBYhj6QcEgYkXmQFe48tipsNox9TwNj5phA0PGIizHZfE+fWC5TgCEA1KtGPQ9amj85tP3Uy000IoazV9BB7T3wxeHaoKyhJ0+WQAdcvMXNPnOra22mYMAdCplxHUGGz0nxrAPafNbS09qS5nHfyi31u5fRd362ofdQqJZpkk6zScVEZtR8yRdZS7HtfIiROafGchx8z5OP6dzN5LHBVw9ySM4KxYtwWgnUDztZkps+nBMAT4nZIoGpS/xU/Hdic9olp5hGlss/btWQUhOB/FjO7+/9iW0rsgi96xbrIIgfB5Y9rLA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qjBdlTPkegjj8h2efL/Zxrd0J4Dcn4g99q7EvwO2xMUc+Pd01+8WPXqBeC9yUCgwMkYxODhPCG7t+GTj8qQOQrQVAZ0J9BADsHAfSA7Hw0itXtG7gQhfDLwPt+uFOTeO56eQDtZmX4901l5rmhQCuvqt6GzZQ2djm7ePxYNT3ZbnkWD2EAo34COFyi0YYFSN5j34UAMhrDqukVKdRiZQsG+u7LMLndkYWKC3TAYSWSplawgqTnJmy3PyMRK5e9WM1TzWVIxbxNLDhbILR1t8gk4MG5QTDoZSsoBzc2Tpio7n3y9P/1LtSgnxuJErSvf/2CJOu5lrkIo/5181bJo6cw=="
+          }
+        },
+        {
+          "q_id": "gs-006",
+          "text": "NALANDA University ancient location:",
+          "options": {
+            "A": "Bihar",
+            "B": "Odisha",
+            "C": "Bengal",
+            "D": "Uttar Pradesh"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "dLISr168jzsncr32RJrZq+TZlwTZe75BVNWt8arouz4CCig56hrfjrcSdy2NAkLRVWvbHzL5smXVxQK+WGd1nCYf1bykxx/uVMaQjBOgb2pVFJn9AXe3Ufj4NW3Y/4DHEP/tDbiQqh4B2iMSkhfwI/xFYCBzH0hRDW4BnT09YL/sPc7/S/QRBoSKERnYBlbXv+eMLaOb519Rwv/4O7g/bEUPGEYBUGYQP+0rRy3gGHIR2uEeCnuvLJFvqE6/zQ4ZQOAB9V8/hbmSnxV3446nS7Qk1XQ/4NXLbnvOc6C3GTHwdPrcw1wGZfRxyyMjMD56xUlromKlllsYYOvmEb7hnw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "aAtLaoiOstbqq+Z6mdCvdzoxzE0q3F+/Phzpc8qRfGt5tPanmq0olEaId16metw8Dt71Lvcx8DC20+hI5IfzfAjcDxfEH/3ZRtziXTWBIm1WKQ66wD7EQeG9+2D/14Fl3ht5sXSulGdFB/FYdzdcqImBxQjHkiFAcsr923diBG2Q4T6vod0cUe4YR4mUO1BWhVtcS3JK5CSR4KANwqOysINVDN9D0Dbr2RAPTb0nUuhTNwcQG//3DHvsgWj5TIqBa9mrfdznc3AVK7XKUbUZZHquGuedW3FYfaEdT8RVV9FSMPS+K//PPQDx870eSirwErAkuz08S6RVygfPa+ST6w=="
+          }
+        },
+        {
+          "q_id": "gs-007",
+          "text": "Directive Principles listed in which Part:",
+          "options": {
+            "A": "Part I",
+            "B": "Part II",
+            "C": "Part III",
+            "D": "Part IV"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Csczcx/fF5105xBKRjA6TpoGq7JS8EuOm8Sc30lr6ITlY9ZYrON+rXfiS98WurvaO9AIFz5qdT2HpEAqOv/3iMW6H2jdQgHZhwtjQelDIU92j2CYzNSiyWKV6t07Fa4qavvv4B1ZbXF0JdCOVVGWtqWZePi7Sb5TPbbMSNvN+d9CUhcr7tZEr+HHk2+OsAzMU0Rh/dMojkG7LPkObv4snea/pUzOSAmpaEsGmE90fEMEwKZS2UOQ6x1FaKSxOJbiCMbOIrKEU+XKA9dF8o9vX/9/WLQZVZvhYSqtOe2AbqBhQnjvyR68puCQwXUkKq5/xAw/NbUx1ueZ3PzdEpu0nw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HQO89K4sIJF/TRiMspQjBVm8my1LLiZjMypUIx4skkKqM8Srw/a5PfQJdgcOt56uqS9rqK8zzkAxGt2ky136uKHwryCXyaEa0592eTEJWFOnTBGUqqgX8Gv9Igv5nei5+MLMuwmHTpR5iq43jxIkCW5aTWn5v6nxYTeLmX8RZkA1ywYu6c1pjJaerP2eytn9s3LelMiHJNllw/e7Hv00ZudmgcGEFvJ5Ls7Vo3RTsPHVhBdrazMboAVDtV1bZG3WqtRKqwgUl8fWiCUKiSbqSsgB/QRJcFdx3ySUAOXpg163lkiruNm57jP5oa/i2uJYKqaRsPEiq6m2UJocadW9FQ=="
+          }
+        },
+        {
+          "q_id": "gs-008",
+          "text": "Swachh Bharat Mission launched:",
+          "options": {
+            "A": "2013",
+            "B": "2014",
+            "C": "2015",
+            "D": "2016"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "VerQXEwv8gWLsqOn6oy9ocZ/ShTGRiEt7LEbpRkTqZaopMavGHHvs0kqRBEmvYB1l0c6H0oOgvYECJDZfaXnE6XgpMkYIJKJKiGv5AdCk4nlGjH8qoF8hoSD4X+Q00NPVIXEEv754HnlBJGkhqusEan0xD/VjSL1e/AS82He5UzdROz1s10xP96c8g5jT9pqP8mz7OLg3ind9PQTxVAz8Cz09MF+LS3fDvIhiZSwxOvm7i6xIZLBncNLTQma8d75zq2syDQ/Uud4RJPfSq+YblXhY02xexms80gTgCtQMNAYqaJ3LQM+vzstabh0OvKKEBgNeTQ43PZEAH8fvF+OvQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mXCraNlLjYYc1SKwMiV9IrmBqBgUrB2CwiaaUf/Dowfp4gP344O4Q9Py6y1AGfQP1sSeu9YuegFRsv1dYBfHgeP27t772IhKxZfQzqMZVoLUoHp20cEgMn6x/bq8+Z2gyu/66N56TP3vkY15dOBypcsAk+SRPLCgPNNJVEFZBxzb0zH8UJRVhn0AB845vBZ0cY1WLgPqmYwxfBo94nebWlB5gUjyCDaUbJCNiQcMEeo0QfMbyUeJuzJff2Umaz7v6gUhO9K5MwnF2Ha2Wp2qlLe9aoG/Bule+HqXxZ2pb3xqfadz1YZBDKHxCUHwzIn0WViLAgqx8ivuaAy2vogElw=="
+          }
+        },
+        {
+          "q_id": "gs-009",
+          "text": "Fundamental Rights in Constitution:",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QQXZeIwuyU4cijoUmxdAYwDt3wfy85MnPfrQuI/Yd9WBYyseM6ikBBY9IAS83vxg5IDiPDzMkhma8rcp4I54WEO8QLfBmHo31YErjnEScPgcSt4lII43X8Mn9MeCb90LhyX4Bwcq6x9MqaGcdSKk/E+HNNpG6qDAbKQMPvFueB+IZJs0TAJ7QblyhwNilFFAYlTX9z4W19mJKInOAQrEn1gSoFM3LFcxG+5YRLnLCPfJkp7v6fuwETf+zdejQlpVQwfnlG8f2CCM3Td3TR9NAuComHfHGb6/SM5x/NOyzuz6ob8LCBehPVxjhiOQp1x7ggNrxGhYDufkh+pwECqp1w=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "EOIsTAQLwgepe13cGClvfI4K1dHPIWNh6nrHpX7/e03L1j6LV6JTK48CzgP7V5KFc9s+xFizktnHKRETunyGx+DG9v3h5OCJ2Y2IkgSck6HBush1xZd7aSimnhsbdGwbRUj905M6hZuP/iidsbykbR0PXMoQidU8p4w3/a/p/aGN+zDUK9yF36vROxlOvQPpFk462L1NTJxQjEt0QQYpBWkPMdUCMqKGMEe0Hshz7mOaGZBSHO/CxnOUzL3Yn36GBEbagURK5uPrFtYby/UwKmm0IULzEOQppwH/Qad3dihs5ghDmndJm4lnA+B6gyZNdSg3UWWNOscOf0K/azBg1g=="
+          }
+        },
+        {
+          "q_id": "gs-010",
+          "text": "MGNREGA ensures minimum wages:",
+          "options": {
+            "A": "100 days",
+            "B": "150 days",
+            "C": "200 days",
+            "D": "365 days"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QDewD9yUa/9KBwiRVlb0h56obXjIMc7WbQtZaK7uCW4kdZstvlL59wdcuo8DrOzu/C7o+THsZVbRuD48q6MgvZR5UrCK4gbV0M4fvfYp8RzzeAZZUEYmp7L4E5JTIS7cSjwMoR7VmYlkKHHsfwrDLjrDo1bwh4O+Cpr2PEEE5O5lP4I5tfd4YyA4fpDLWvmcKnPCUnycCvHsuajKj1FHkS1PL8x1oKVqZCGkDD4rNBdRtN3S1ralYyhDOAvTucH9qJe/C8ZhcvTVQ0BsVRz9bGHu8ktHElB+5X0Pz99kfoBD5u6FwClGdL2Hun/H9H+HT5e8aHbQvj/2cubF0Z+owQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "gn7neqFBunCQIkrbTJmcfJQqST3zeSDW7hXsgHX8Bee4iQ+XbuwRlukQKRIeUY2oFFaYi1Mr9isKZKZ5y6FL8Qoe6z6f64yCuctypCLBwcEVe0HLctaUG2dEQw82WBeyxekMbyBFmNIIl2Una2a0PYJMyvkv8bV68+j9A/wrtUl2cILRPJol+Zo6M6I+IGcCAelJdhNs0HbElJWxJiop0tkdcPMk149Sc7hoIE4loWBSz0rXvBUCIMZFYaEN4j1bzYyXy2hHDAAbPInWal15neYmqMRp5Yy+pva2t7Mi2fJr/nZe9RnNAsclJCy8bR7pxU5+QpcS6EvVSS0Sp9qdyg=="
+          }
+        }
+      ],
+      "duration_minutes": 120,
+      "total_questions": 100
+    }
+  ]
+}

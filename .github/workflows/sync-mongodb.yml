@@ -1,0 +1,50 @@
+name: Sync Exams to MongoDB Atlas
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.json'
+      - '.github/scripts/sync-to-mongodb.py'
+      - '.github/workflows/sync-mongodb.yml'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install MongoDB driver
+        run: pip install pymongo
+
+      - name: Sync exams to MongoDB Atlas
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+        run: python .github/scripts/sync-to-mongodb.py
+
+      - name: Sync summary
+        if: always()
+        run: |
+          echo "═══════════════════════════════════════════════════════════"
+          echo "  📊 MONGODB SYNC SUMMARY"
+          echo "═══════════════════════════════════════════════════════════"
+          echo ""
+          echo "✅ MongoDB Atlas sync completed"
+          echo ""
+          echo "📈 Details:"
+          echo "   - Database: exams_db"
+          echo "   - Collections: exams, categories, questions"
+          echo "   - Operation: Upsert (update or create)"
+          echo "   - Timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          echo ""
+          echo "═══════════════════════════════════════════════════════════"

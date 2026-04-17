@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2022-exam-2",
+  "title": "NEET 2022 - Exam 2",
+  "category": "NEET",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A vector has components 3 units along x and 4 units along y. Its magnitude is:",
+          "options": {
+            "A": "3 units",
+            "B": "4 units",
+            "C": "5 units",
+            "D": "7 units"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "B6f7Il1L3adtnxjuaBieIIj5FTz+GI0TtT6BWFpIJfIvEz6MfZqrXvLfap0FgQokP9wGkMrvcGuRZoOZA+KWjgalTNtGwSzEHOLMqYMJkTe2/RIKgdDO1i//h+sKrzRBatq2EOPmpbCWsFMr3419yEQzvpEWSUdO4LolI+MmrSIaOPmr/1rhw0KzB8SVRzqRgGccUf96CWQQWv2rwBaEyqFAJHoQ0Lxy5y1zyWzg4VUPMFBJGQ5ikeLleiQ2HBxy5WMuGrIrqLg3LtCQqzbOVb3c0fHa+J7y+9ARg9tK7LroynfXCLAWMnMzJiTLqgqtj7venMhti5brVJuDLZf04A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "IEwnDCYp7esNZncoWcCfJmmPjXdbf9raYZPM/ro8lW8s+DJi3sMv41U1W5IxIT/jvscIPUK8VRFxY1kkDgAG4r8wvw0l0yQ6fWp4Ue0WraV9TNaaCu7QJwyZD/ltlVLJL4ot6BdjYSWOWjG1gIsbwwz7DYunKj/JA9vQYDLcosSA3/pAbjvBxrL0mk6ROl1vyXJGkQlLTUTFKysK8z3KsMB4Y9tAKJot6D/4EVXmZf6pVx+shNq9xCsgLpwVFUbJAdP+GC7k0MuaCcIjV6fbKEiPbzHhXGbzR7JL5TrL4iv/eMczfVppCOML1oOK4KJNirDZJRft3rhAtNjx2ZbXsg=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "The refractive index of glass is 1.5. The critical angle for total internal reflection is:",
+          "options": {
+            "A": "30\u00b0",
+            "B": "42\u00b0",
+            "C": "45\u00b0",
+            "D": "60\u00b0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "oF5kZ97HTqRzlGEp7F+2kVXWHGUZ5wlZjFkjp/d8YRnhgpOlxR6jI7KaeakECuGs/9LVom58BKQylE7oAtr3oQEaXBEltlV/zXO8pmhX6K1lHWhKzbLW3NoA/WyY/06T0YzobzbB0/9vWa/Y3W+YxYYMKyYI0RVnBfKdByt33xW0IxJtyhjLhj0+WQk6wrg0ybUWifd59gnf8dkc5UVfUlfXJ+9+rPxTaNLAGLODUCMAsP6RKTBmdxlErk/zRCK64Ulq71fWzQ2JEx94Wo9K5YX6af+tHu/Odz5FPzWl9WhsUpuWfGg7arGe+R49tBAJ8b9rPKydoGbgH2ZuEYcjUA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qDffnNaS+w27tposZoJVev/otj9PrjApxRqfdw9ocuD3ZCsqtR9PIGclkRr54PCln+9pZDEdXNPZpD/9UyLp1fnWX1viAEmaUioHKqChSWOLW/FoXGhb2A/AaqhyCtO4U/4TUWIXkxt5nvbvPaxSOv5jvZriBRAXPMLA4G4DTbnzc2mr2/GEokk+bv5ZATfvDsXiVeNAd7ROcpBM+MXZR5gtmOyTAMZ93gyPTZY6IFNK7cmeTp4FomXph8GnZfx3Td0uleqlEzpcfCQ2V6/ooSuVyxQN5H0wv0JDv4IUQL997edvEN/28QAj0h/d2dgmqrCOYQ3CwuFcSSzEITJ1lA=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "An object moves in a circle of radius 2m with constant speed 10 m/s. The centripetal acceleration is:",
+          "options": {
+            "A": "5 m/s\u00b2",
+            "B": "20 m/s\u00b2",
+            "C": "50 m/s\u00b2",
+            "D": "100 m/s\u00b2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "HzJFwFRkoscBPfHpu6A65bNJ80MdKpblCrRXpycbXPrEmRg62noW0/fTtmT/uRDeYhhasBV/qDFW1NNSeqKJT+G5XslAzfIb8b6mCsFiw4bcID4rrHCANnYWEQVIaJhFFXYEdVhybDViWJp1SbvfMQ4YZ9ndHzhGDjLLri8bTP9epKKdtPTCuRt0sXNttCRlJ9fJ27R62itjXW5gEx0qlme9ax9ouPCbTsgaEOL46NMGBkP3oYbRaGU/RN3jEWtMdaQLleZuRMG5b+NLUAC7V+HA2bU2wF4hNTFS5HcQzCYcNQple8evBGnWRHPGTtrvP9UjYt0csfy0Ph337/lXiw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WmWdJEo14F7FOHMP5HlSl2aaz01PpWpfp6yUz16Xgr6ZW/Ts5rhNlj2l6sSGUWEAMTYbErJG1PLW6GFdRaEJ0qOvPzNnvmz2ZwIZt4jHmK7dx9DuS6UfzwssW/Y+dMuWzvtp7iSn3ij10cNRGLHRJ7z9MFwTsq/imk983ooJsX/S4b0cSbWHgJzWDOChRNySbWIWlzVsFN3aMI9myqXkV401W9YtoEqJ7Z5x/X4cQrwgr5ugVP3m5S9c7lWDCs5jvdvI6pKgOPTlY0qOsnSV6O24ZPw/kVbwf+IY2mJ03ArimfyXYwAEaEbwGQIifTgwZt6MGo6LZnOcsLMBtc+Liw=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "Two resistors of 4\u03a9 and 6\u03a9 connected in series. The equivalent resistance is:",
+          "options": {
+            "A": "2.4\u03a9",
+            "B": "10\u03a9",
+            "C": "2\u03a9",
+            "D": "24\u03a9"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "A5H7Quz2S0rX3L8Ba5jUkS/kkpzeKURTCbNdRjN9knL2T86hESjDNUBt0TM6Uj2QQI9I7McbnyaOCS9sJJrfGo/Zhx/Z5OL42Lu85KCY7Kchnszy6kqLHAcS9hsIDGcVgv+9C/7Z17uTqwu99mVbNXyYQHwfSy+sliN+i8a3n7M5IRbtx9NVydr7zyATvREJE9S7O6Esm8yFis5phaoQCEKz5WJrWvaROsaY5pElob4ULiU3y91zCZ9/hEY/LcLdBxOU4ooIG4dgcIoqydSD7QzpMYZBSdBMijoxUWr62KB70aI7yTy35zEyVV1D83uxnLXELiAQ8rHxrzu9fBA1YA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AldSXBRSJ4mGUvlvCrSZzaB6RAsG8etjAYkYiD6nE+JBgrGavB+doxr1YegMI9xlqXqVY1nlymXVibimlvsKXuUDCGuBVC2aOxs4k8RR6UHrEb5bNwWjL4xzoRM+L2voq8X83hCQspkwxCUutAYevTycqlFBf2ApWi54ZbZyEoGWc08Oi9jQYlQRbyJ+RNP9EgiMz56wkROp/oq3ggvMuhnIhXPapGLjorME1WVcgoTD2QIM1sAdOFKb2srMHoRuu3bYsJqtXkHG/PQHlMVIsztBbd0Fj5qRoLmQdHIb7rp1K0ZlYiMwLluOFcJ/ZMbxPN7r0muJw+6rq2qJ6udikQ=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The SI unit of magnetic flux is:",
+          "options": {
+            "A": "Tesla",
+            "B": "Weber",
+            "C": "Gauss",
+            "D": "Henry"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "d1jaT1y+/Xm8UtOTaFUlace7uNs4gJN/RcXaD/7vSnpEb5HcpLa1nRVwuTyJ/DBcy+ByETuRcwTdyGzo23dMU+YMXPhDTUXfBHAoVBldOUJg3rFMLgnXJAOZy6x7TnObunJ//krNCBfeUCq/hnDI+gJIFD15mK/RwCzrnK76FbCd6WUqkI8fjR6MHWmZpiv6GdiiUTg2LJz/7fcuGYmGETF8zrvRm6s54P/TCBl3odMhviXczkD4/fjzD6v2ZoQFNHEw2DnyzjHWGCDVDRXHiRvnGneJ0e2zWqxyj33NyL6+h4EqCyhOovW5lFtY4ZVvu8aDcL2ba/otVk2DWBS+/w=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QUMbmO/tjuzzL7MQ92ZkAd/fOEluKKwqSA3TJeeb+VYiR71or/2o1qyXCQ13Gqb74IGfnGkD/5e7fvnbKlb95wfrC8JGORSobjFqzKJtUNIBGAvvCs9T1c2F/617KT8axBPEe9zHmbhfTbPnXK086nXSOWVyxPCYkv1CwvHQQeL2NqdbfL7lWBhm08wBemfSjxuxsM4LmG+qBKfWO22yDLzrJRLl4nsoXwG3/yNNiWGnsYssNTFrxpuyqa2EbuCh8M7Hw7Ixz/ZcDTKCBUTkHByq3hJXYEKBA+9bjcUElsrKS2kUHbafuA7sx36lKkKj70hCxWJtNbI++a6QZ2hepg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "In covalent bonding, electrons are:",
+          "options": {
+            "A": "Transferred completely",
+            "B": "Shared between atoms",
+            "C": "Lost by both atoms",
+            "D": "Gained by one atom"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SU3H3M84HdqHE4m3Iqbj/xAVY8HSu6TtxvxomYdSYVU7xM/ZlSz/TxsG58iZ0OhxHXTpFpQ4kBC/+3FwmoUnlnGJhtzb85w/yQyu1tPejG+y81XNP0lVhPj6H/l54BEKwZOnlBX+FfNyYMalCaG9OYMKb+iqnNEQ2YA5RoHLPVipFSOVC2CVl5Tcy0w5e8wul3S/TXtQ/dRnGoYEBtPA2S9CIuK6KPvkVUZY/PGxiGcETwd7ghj5tuaOkal9+IP0PwqiEi2n1IWpwpbJFYiGSeVgkXTSR7xA5LOx4XiaaZdNVkdvn4mHQdb9OssTX9P2mG73t/LnXKx+OjQaDUfGGA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VZP1h23w4sUmcS8WxsOjoWSgQbU2ka0izQLaifIhhOVOc4hPkLh4bTrGCikzJGtjOOBv7D3dD+sdJ36/PrLc8MZt3FW6hlc46PF4EP5iQeMSOAnPHEpvca7ncwIXpeQlIcfHwpkBfqJ9Y8qinar2zicKuVaHx2we5YyKXz5W3Gb+oeftUQK6pao4x3A8cEiJ7Jk2lGizb5jY8pWwGjJRTpL1VcgO7Fd67/n+NBG68cf8/uPy63UXXS/ePItFJTi/g/GCQG1HJK0s1vU7gmiaEmz1CeeajLvlQlagJzLa9nR9Lnm6YWN9AzwDbgFQ3koym8jzUt0EOg3G03g1dqsgZA=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Which element has the smallest atomic radius in Period 3?",
+          "options": {
+            "A": "Na",
+            "B": "Al",
+            "C": "Cl",
+            "D": "Ar"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ez0Hm4uDh26FOrTlfhwstFCJzNqqIMtvHMyNhxZ2S3YMrRjfn1sA0vlt8vWL62RKnv7/jo7bQDjc6mlvNoFFz2U733KX3s8Dg4PqYUxKotuVVM4orLi/mCRb6viGRQzaZDaN1nnT3sbBWSjsSUsiz9FdJaFEjdKKorL3tq/c3YuRzNPgtvTz+HJP3ozctOGw2eiK/gkLJ7y28eHW0oUynoKbwmsFxKtj3UVvTl586YUcu+FRPR4AIsLmKqqnxCBcyrofNAuxTljH4NrbFhskU1WmB458MhVsh5zy2r6bcNJxXS6lvfL6BEmxb1H15AqNL6HTkBSxhZVW9BvFlogUhQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HrXHsmSVFH077/OgWKcaCouFFkcM8GC3ceyy/6Yjs1FMnMsUvm9yAyWNrsecAcXyrBa/5/6to3bw2mZ4IPHXYkppICDt3LoQvWeyBdi6z1Or3PktMvW6alPzQef9YY/jkIpZX4/7NOi/Dxua1+McK0DJ5+5MyBFhXYjJJYNRpToQdnnYkxz9Fd+CECwEwYDsY/9UgAo2cWrBy8JL+imW4uqaAfuVe8bzKCdizco6hgNXAPUWrNsrBvFcAEsShoW9bE4h3a88BVdxPW9H0mDu06a1YKuH6nc7fGUOROEwyNh62jDP056mogIsV2eJsc2kh67rllFP3lCxcjlKE3wfhA=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The number of sigma bonds in ethene (C\u2082H\u2084) is:",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "oVWefFXulLykYXSv0SdyUUKdqn3lMcQfOeTibq5QO2QXLrwmPYH6aYQqfhGgx8WaNdV1MGqbohKfbSY4amdMAz0msfu5kx9Pwf5AKGXJkQXy2SwSGiMMgHZYq7OkbxzB28TAmlZ7GhctxOOA14jwfhv5T/deCxDvHmciU5JDNzzIgRl8DTXjHBxxtmvOfIyiuJ9K9JFcNfGHn3RLY1NLbw2yUizCwOPCM0Bb8rDkU1sS+EYZMGhQMokCHKlapSnBmPVZDy3VXI40mJYOJtGVOuWtnVLZP8pZYIumim/A0ovrHjEWiblQQJLIwV/UV7feW6l3Agul3nd4F7uogtp0Lw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "nzAiNA+e7IXJQf5oZ7xnQSUHMnpLqVu/1abMLfAyjRlQVpUdHEcfglP5+dT+jIM9a6ih+pYh3YYFeflNaCOXffWsfXZt0lDgk+DCMKeWQizIhj7tcNEZfvOXj23qBSvO5oXG78SbkwOERQjUc1SZ00TiVcmkf2HzEnxABrjStsPhgkvJbIRAZJu2E4q6neNMYWTTQYMoPaUQehrB5BptcNshOHyzRkeKignbKIexJi9+1eDzZhCrCLNZ8yMjivlA5ECnlL+Fi9QunuZ+x8W3v3nAMoZJ6BK8MWvexC/4NrByb1ArjxuhgaioA0QI29XvVX1Jhl2V8qt1PMA2pJwR5Q=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Which of the following is an amphoteric oxide?",
+          "options": {
+            "A": "CaO",
+            "B": "Al\u2082O\u2083",
+            "C": "CO\u2082",
+            "D": "Na\u2082O"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "p+oOfLd3dtwrS3gKYXLb/OeD1nOBNWm+SYO9UIHqFmJHaRs2VyDfotsUlAmGl4HYZYp5thwreu1oWlImRciIrzikqQ8OZ1qJ7rxuPCi2sW+dNAchHXEpG+B4Z0PuDQOTW0ykA2RRLt+hMKRZYt9/QJ922VAnYpBHgXlCwRO3MDxPnQI1MEBDE0xxYrfpGvI0l4Kg7L6JEMa0CM+hLVXdWqoRvmCSbZCkH5be60S5FNDZ71XF6JRv3iZQSZNJ/8lpjgMoBOON5q/qCicW+ZhrMVENnkAUv9nLPjxQ8yAhjmZ6J2bkAqeLbWjNm31RiqMiAIG6qy/A9/uEmymRPrzJBA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "MYtVZBK9T6AO0ax9c8KvMfb8x8gWD5CmvCwV5/BwoLjnz4aLEKuTPIzmx+DT6vKCNdPsnXoQJ7eS1iaFcRrlp5hm2eZnWSpo1dstC4+U7rn5jeos/RZ4CkrGRi5OeF+G6l8cpXve+D4Ije25N+QBN1WifDdsuq7BR90+2jJoV4kZUqXvDTOIiymvdab2w156wQSuNgwpkkRXKsTSfHXiAjAywqOpjG1Mx4JibHdGRXJVV1R7LJESRzkp0JkcbY+bnp1IhYL6Go4pBOapeTnV199lSRoTfHELIMKYXOA7WDvtIsVr8KSo5iWKpA46KMiuBk0ZG6un+cJm7VjYqAxFwg=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The normality of 1 M H\u2082SO\u2084 solution is:",
+          "options": {
+            "A": "0.5 N",
+            "B": "1 N",
+            "C": "2 N",
+            "D": "3 N"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nXB0D/REeTRvdHn8Z3UOe8Ooi6r+Y4Lu3rR+JDmb/p3tDp7in5zFgpTsQlmGfQ/xYvV+Axism99KhUrkPCH2WbVmv82pXvrglf9tRSmmcPA52K2SgKGkdddAUR/+uBslqXAUPSkgBpA6vJoS3IXMkHrN+XaQSf5XJclrMi6b5lR0tBLQoVSIMSySxjA4UWoZMQ/Qn45SMaItMqlS+X7T9mH/MLKprwhMCoTvDq1Xx7EcFPJlWeeqpyz+t7zbhQK2rCm8MWLUdYXjNaxvJn9V/QH28wdvx7LFC3JejSyVbshKpFF3V86+M514tlB3MzXiNU/pTbYwY6/8f2vdKSMHpA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "SWiMi9Tkxll2UGiM2s8FqdhvwGDZKd0Ad5I+4Zhu6s/tX6CSuYk0dDHTA2hAzRLODvzYEnBPo0ZdveemjhKmumRuWvd7+nuGBtxo3BNywNsb/v6xZW6bOh+aOnvgaPFIF9hSXO4VUswEJvPHtLZL9LxLdq8zi7EVJAVr/VODlNOWk49BCQnC2ETyFWfjKpTOzpBFBdS6+H2jrcz3PElQsKB3F2RsgIZuh9tSq0PMBG4dfaCdguZC8NJ5Y52qE7yh7mrB88fDwFhVCdusEWTLE83Zpeiq2aPlrvd/pF0fpAOcxIuR+ZcIJUXWf4uMGMdYB7Vtkp8LrPcZJcHxletOFg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "Mitosis results in:",
+          "options": {
+            "A": "Four haploid cells",
+            "B": "Two diploid cells",
+            "C": "One haploid cell",
+            "D": "One tetraploid cell"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gFq3md0/Ny4g7lHKxj4bieH9i4DFRkbmpWDxVbOGWA7z6w3S1+4eFIpKfWA/4XUwplystr7wABR6iqFPvtiKjkp0tE+DzrpmCTfj2ifq6+yphfMxm4QYmEKKUPkABY3Qr7HqmqrQNkME/a02Gn8CMoYwD/y/60eCqCfx8rHV9FMhWHqYJdTMS8fqX4djOyCdXTdDWwSheP19TMlfFBmBnIWHjaZBFCmepE27242HwpIDBJYrqf3dr+aNtY7/CY8yfq3QA3Bto+VzBe31ofkItEOb8BzK4AZYx9bsKwA9G144W0Z5hHSXTob7fz5l8ywpPW0uikMwMsLXUEcbfnkZRw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "XiAZ0kpLTahAbHfPXg/uEKs8yAE3pRJfOnCdeMoYcxtSmqxTzZ82SE3SFwV277BsjCPe6smotgKWChdXWb8Gfrr2cYXWAm+tNLsufhoisRsTeagcRl4pVtHdVInKrXGaO9cgvrKcf6UB4+as128x3JZv4C+jPy5Sjg8AjhYBhJaOBE2Issab9Vh3dBcUgm5qzSyjzDMOilImdURLtKhpDZZmVWOrgPRAKNwY+o9Nfp7Ii7lcc3L6G7NrmzBJP9dK0OQH+m/8R6ggi04w8NRqbZ8+QEnY/n/B9TcaJJxwk1aNB3AZcbU3yfwb2o7dD4w8bLCe6/TUFL8zDr+53iG0Lg=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "The enzyme that catalyzes DNA synthesis is:",
+          "options": {
+            "A": "DNA ligase",
+            "B": "DNA polymerase",
+            "C": "Helicase",
+            "D": "Primase"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "YhPTBrdQ5ZnETaJeeSfka3oprNuaxN+TalyIBxTGBf6PVHbmMpMXL4cmmbkI9Op/TGfUo0KLcB/kMFkMJMMLwEB1Z7rIGfWlHzjJ0IOo2Kk4NT//GZV1zPs2auTz+abVonLF3T6tcTJ4CvxQJvqkqoa5bo5eyjDiWYvSKTbUxnBdklN16yGy5hASRkGGa/P0CaPwSJrdMeYkB493DS8PO81G9rXiv4icTrZtyHyDJWoxGw45I2Zj0jMMtU6bdEDVuv3QQ1IAyW2a/Aksw0nai6yvwqIyonUJzp1DJxuuBox3536hbthJbi8OuI6/w101Uy+4RFBd5+vxyvCmUo6Onw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ktoc0bovdQFw+IbbFoYP4J5eNQAbz5zqvSGq4uD2HNKZ1kQNGwcEtqsuhpCypr9G975A9nL2CdxIKfH1xPd4XN4f8Zqqr+Oi2ZzcPb5JcYtzUtA3fEv9ioC7OuIYFyp7OlAJ7rTXnyIlw9DiOPTKWgN+EQjJ5aJ4yDbCafiZV7PA6TITHjGbEMhZ2cXksvjOW6KWNCDZnN4PtCBO/m70ypSbfgeUuYf6NQyFZdmfPVMA/afzoETr22aRQ+bJkAx37H8UYbibFxo9HL93hrFqxu8201hS1pgPfJM/ZtwplkPByp+vH7yI8g+07UdJGVgCH/rnODtm/pds2Y573j23Kw=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "The genotype ratio in a monohybrid cross (Aa \u00d7 Aa) is:",
+          "options": {
+            "A": "1:1",
+            "B": "2:1",
+            "C": "1:2:1",
+            "D": "9:3:3:1"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MU9U5Fpms2DwgfaVvS/C0MKDjzKHKl6QmW3SJr1NXvex7UNFRowKa6ACctUqiYXI8UAecmO5HXFsD+iYnWnCedgwWQTXLlMd/cze2VnKXYDMV0M3vmuhnD9HoyAkcGCbOprkYn0VIhSLGfOX0y0PLwkOCc/R01UNjom4a+T8sbOTpSWeeSZU6YuXMJjewpTSzav2GlBPGIu2M0T7u+/mK0vsFlqoEIEfVT0VjWyO5RG5RSkxQV2vFf4N0tJ0D6tyNzfGh474DZ0bLA/RHOSakZYnw+7lbeO5xtWBoN176NFGYxO748b/omBX+Dy2nqggi6QOzJbAgMaZAkV3ACQ+Mw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "p+1G4mT2TRUQirr1fFSlDuBoaXNbk6ajj1wbCVxm7rJMoqOdPbWUlDPWp7OTJzoFxCk7vQu+bGvLNPbV+JTROkWcfesh+hJDD8OWIenPBqXpMrauOceUF+bBEC6NzpOFsrDwbUenlb4xfey57MJLAA+rtDjwOJNphs/bpkXLCyqQuK6I54vXV1iQYMdSqAt+guPsP76EvZZEae+iAWroPig1RhW04KRqNMcjjSI8QABavlm+8YR8clBsgo0SZsfsK9qwgvrFNi933U+8lycYa/LvyNuJpvGqkDDprQZ0vV9JLLaXhdi6vu4eS/iNfRlHKoUD7MYk3dPA4RGIg5FA6w=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "Stomata are found mainly on the _____ surface of leaves.",
+          "options": {
+            "A": "Upper",
+            "B": "Lower",
+            "C": "Both equally",
+            "D": "Edges"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "PU1rSkTKAh6eeiKneJLn9Dvn49sDXpCH3SGEa+tj4iDbPtMPIq+tUrobf8UjAta7lqT/Y0DcU1uh1JgWH7tCMD65WhG6t1752OAjh4jwrTy4ifc8HedPurrRdHjOYfpEZ7Qk4Bbs4U+AcmGzx/d1fvwD7RzVz5P4tyla6fUeOoLy4BAQNtAbDd3ribv2FriBh/fy9w3jabRnTqcec/r1/UoJvrPUAkieu4RlfS1w6woC2qDKXmagPzsJmMedpeG8E+FgdpOqM5HaK+pcQZeKYyHrAVpaRgCsnL2fG0iE8pOc1FhriCDaw9KyPbpj6Am5lxCHT3xc0aFhYEjfFkq6SA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WRKF4FUTp95Pvuc4z/z/38ZnT2GBBV+uhV+HjQM/Sk5RKjGsdW/LKLUuPRM11iYnM/1LTpB5nhzpLRei+gYXJ8xGNrVl6srYORA0Zkg9IClQt3lvVmEKpNFsUi8+25NgPS/hEYd3IwyvFlVJLL5jNrgkHb7lkMe96NCza2qBrq93HqQ52v1R5lrQ5M+jX8AxBRNaTvVTeG8mQ6b3fgorgrkzCKICFjqpbDq8PpubDGClUYSUFB7Dc804XT6OVNSs/7voehx2rqpMP236JLeBSBgia7Q+r0LjtSHH6hZ9UOxApGGZOJV6tSl+09OpUAW0f0Mly+1w+Stit+K94JiMlw=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The process of nutrient absorption from soil by plants is:",
+          "options": {
+            "A": "Imbibition",
+            "B": "Osmosis",
+            "C": "Active transport",
+            "D": "Diffusion"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Z5Fvug41+ISGyWrEpe2Li4pMqi+ig/JnbGsiSZ0Q11w72BjznpUtBxNSLe/+tXgFdsNxh+M0h0tUN08FKrI/TN3/CpF30lUJRwvQce6AoX/EYkjGdj9KtdhqTMUi7V7q6+R8qdx2ByTtEqDSHJmFq4QN2RIUhMLcHTz2OEm25JT2/1RqX4cEewBWe9SkgFqp9kBelNCHvEgpq+yTyyhIOjvQqSMgDxmC4UlKskDcfQUO/aB2oAdaKOuxcWImW0Y/03fUqBJjeF3WOEZ7DcjBdMaqhR06CxGXWPApH+z2KHJhw2S8NLp9D98uONxTwBDIoLHKje/dTpHD+J/Z6D//mg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "j6wQI5w5bdrlvKchBUQxTwAU7qjS2fWSovwvrGmpFWgQHWqirWl9Oqh09gnXFb8/t6Sa1U+RF/Zey2CZKrfm7u6gvIBuvaNJt9Wmh06a3ap5m9UyCl1G+78hqrwblqiQ97Zzuvi+5Oehgi6KONEItFRfzgg13hvWYhsCO78vF4mcR2oIne0iG24/nCL5tAdW6dBHG7PEIfQaLrujfN1+Utj2i2PgVrjP33zcp4USah1OwXPX/IVMkYl9RFTnHhLorCvA4MJ01u/AnVnjt00ZrYbIPnKo4GlT7HVjKE/3JerJVtmS9NcU87SDnVuD6UGmej/QwfUxxOXKQWxcl8ZdQQ=="
+          }
+        }
+      ]
+    }
+  ]
+}

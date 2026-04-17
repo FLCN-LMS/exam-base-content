@@ -1,0 +1,224 @@
+{
+  "exam_id": "state-psc-2024-exam-1",
+  "title": "State PSC 2024 - Exam 1",
+  "category": "State-PSC",
+  "year": 2024,
+  "sections": [
+    {
+      "section_id": "general-knowledge",
+      "title": "General Knowledge",
+      "duration_minutes": 90,
+      "total_questions": 100,
+      "questions": [
+        {
+          "q_id": "gk-001",
+          "text": "India's national animal is:",
+          "options": {
+            "A": "Lion",
+            "B": "Tiger",
+            "C": "Elephant",
+            "D": "Peacock"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Ka9BFT1doPh08XAP9iZrBLdY+lRGkDrl5hlzvUm8i66x8k631DzxejKoJFo97P6x7MbXZHPN8hZTvxHOO9+na1eiK4udL6xE5O5GsnA9+5HhnmjFqpkQ0pBJKkZEtAB8O4d09KbBVyc3jM7sm34WIDh2+wn7wEVAnyxQ8fFWSGw2YK4TJZXqWr9iNqWnrSuQ833GE4ReeQ3PIuNAp3dmskCU/vRslsthlL78ZgLsohWx2soZF5Fha5+l3bnuQ4P0slvObry9sWHbLrvdx+31Pid0WVqEXojin8vJaQPXE3ZKxGm5r9o6TxpOGxxAva7RQZ5EFixiNGTS5nMXAUr7jw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JpLh1pwcWonP1yj1SG9bdY+fKkeRoIIWV6yEzDMKspaCd7+cmv0YZlgv7Yw+GqndYFzfdzwA6fpBVnsbQ6Oxpc2bTiQz1PL6RODYRvw/hJV2rH1vxVq3Ws7BzXVeD9JGp6uENLCKO9W/rCqDY6Zoxu9zG72fBvj3fLGIPwmJ6FKS0sgo67iI/Pr9AOi78WlcRK01hBCUwG+IzzgiW8zOaTXIxMQVmSwdpj8yoq6UZpjRZWdKf4/wQFgja0AgjMBn2icV1/0XmUpD+5FsxSf4ETjDeNC4DKXAfZBBpzh8CRLUAu4hQCZe1pRK7jIbqPwO6fwvyyyPMtma6PMq6vpKuw=="
+          }
+        },
+        {
+          "q_id": "gk-002",
+          "text": "Capital of France:",
+          "options": {
+            "A": "Lyon",
+            "B": "Paris",
+            "C": "Marseille",
+            "D": "Nice"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "iRa8PIWKaWVffzvstr55B3o3AZIV9bDXxKPA5vYpaav7oUs2jwJi9K4o+o3dy5mR7fdakduY6oYUI5GHIU5eVPKOp/0tn0qNV1NGsp+RZSFP2AHqdoPER5+6sKigXdGLA/3hjAisTIHhZraLidxG3oujxVl9hzWg6YkczJggrjvXKa1Y0BAZ7r1TmN9HHho736GBxdLiadVY1aZDqXLn9ZBAcn/FkEXdez03/JdjITwWz6BoBKnQkzutRo61G+j9h9ACnqNhwDpx6AfRKRS7EKDi0hpfmJMEz6lvBy7g7M32syuQSELcQYYzdC3+GCjhGPZcqIL2zQ/1sqHBLLfBHA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jOXKi5j3s3Bzzmm2+YabWfZeMAEqb04QH4zb6WxL6dEVZtWTlw9mpBLS1N/TSXLlVNHOyZ8qJaWXC/TruZXjZyo4xvWJs/g5QbOT0hIb5Xfi8xhB6dwmXW2jWHFYO2mAEXRPa6PPVWuJLONTNAvMMrBtXigjS9/fuL3MyrS5ixunVij2Vpclbq70tCpqsF2ULshbt34diCf/GU3pkQYmrbiI9bdL68qyW9/ZommvZ9CHbUymsxgI4jc07G5rKcbiY3iz2kxZMUpyX4D9QOm+ay42qhKjAKLVqJSfMDgf7pv1W/6fz7mBEc5+eMoBw+M8bhgrmm9yf23PmHLouCNBBA=="
+          }
+        },
+        {
+          "q_id": "gk-003",
+          "text": "Noble Prize awarded for:",
+          "options": {
+            "A": "Literature",
+            "B": "Science",
+            "C": "Peace",
+            "D": "All of above"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LxLd9uKwWxOQD/No0AiTgPEynJAajtpEkF/NiD+tp0kxOxEL8/R30Ts5VMADTzCtvD0pWDxtJEfGiWMnN94tflTroaNBIzaiQZpMXA1hdBtza8qAdoW+n81sWmLnBtCVG7GOKxMNxGn7WJ9DLDvfTBWpPHJ02CI1DiJ4vh422qvV+cqNc/Ek4T7rIVKO1lS51jsGj62SjAx+myhE79cGANIsR/johw30T/Hit9CmoC08LMRbQacNMbZd+9pCcKJEMIoEdV3rHoeZk5OjM1nsRMAdW/5epPy3Tb2VMdw537CYnnlpBFNETVDWMJfMfLbuEdOUFIX7K0kdK3Tb/deKRQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AD2V8FXMz9X2CLjGbp0HocYlubx/h580FWTRkkYMxiZaS8uiHHMOPM74GvmMtAJ47C0mlVmTjlWqbgX/TOSaVbsSElQ/41pNHtH+v0MeO9YgFLlaTbovdDeVPmWXQFkGVbKrYQdxq5iPyjiu3RaaKN6nISpxvJlGxcmD8Ybl6AbwSZvERzgl0njgHv2GegLdIITEZPPQFz6fa0Myg/QDmLq7/JfAKs7TBIYJC+bk8Fv6z59GKHTUFQoacrntBUfJ41Lw5EH1A8THLWEFFqGTx4AdhGhC2sBCdk2SpAnhutGRdhy33zm2Wy99+SLN9+9ZLragAY/JIVPykL+vWfywKw=="
+          }
+        },
+        {
+          "q_id": "gk-004",
+          "text": "First President of India:",
+          "options": {
+            "A": "Jawaharlal Nehru",
+            "B": "Rajendra Prasad",
+            "C": "S. Radhakrishnan",
+            "D": "Zakir Hussain"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "JRS6QXSMOaqxJsf/W85oxBcNMRad+gwJaBAc5/rQWhr/K1NKeqyAGInV2zsV+VywBRsoUJ7YvEkON3MVeNHS6Xby3GGjyswIjsMuieFYs8kBdiJu9zIWbF+eYpWsyTETnmIyY4PmseAqHW6rdk7ydvXy4JgG6T8MUz03iePREUNrmE1L8mEBdJHl5C8aOIR0IZEI4Vz5OaiCfI5gBiCeSY78vuZadWn7Z8XOsipxfrbgA8G5duyWDNE/7Ie29Zg//jPKcWA0Cv0Wn9DtVkKBYG1K7BXQ7cWSVWHs7QL7g88C9G77YEGx3sQcn7FwT3HDZPRRBOBwwCAuN+0e4pCA0g=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cJsl0SAxaYgRgTiyV+airSNZ9/+UpZJ/eeGAfef2tqJ5irg4TJJEvnPpHJ0NnTlgLOxq7QcaDq3BHTJh1T7E3osukjjjTDlhQRwOAQ7e6mRLA7w+nFblg6TGSZbpcRf9qazjbhN488S+SN4GxN11eltmSMtOkAkSgbgEThxbSr/qm5FhlC4F0keZqb8bhHsc68ptqk7ncpKG2P146CQo0l1hmRA57O0BP+4tRrZd24gj6QCHFJIvQCCseDCwoIOLdFfFItXEo3xkJXTgsnnkMzqDu32phjZbBFnbBeAmxBVZakToqEdP9XIuFu/1StyQw5vknHeU/+H2viOuHpXc4Q=="
+          }
+        },
+        {
+          "q_id": "gk-005",
+          "text": "UNESCO headquarters located in:",
+          "options": {
+            "A": "New York",
+            "B": "Geneva",
+            "C": "Paris",
+            "D": "Vienna"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jHXpymv5KcVSHd5U2drFVy2cb+1USaWm5QFROGGa4qw2gDZXRFD/hQTu+/SdFaELJviKKB0rAcaHSuRKkf9JbOJsTK2cAA1SwM0biYadwjUpD/9TlTSX1SGs86yZ0OGSYIvMewVCJJk3KlOFzswq1vXonIj7m0yEXMYVRaUmy5Xxh4rQDWQ5hv9G0cYtoxPNwJJRPdx4JAANLunkR/Q3Uy4EG+2yKkEZQ6/p0tXUt3vP2oXkglVi7vjhJH5Rwfv2pU/6NtEtSFc66wezPG6JsLSMVrWAWPaWueMlSWCLSGLtxtk4NnEy2mzvcY9GUGLWVsbSswH4K3aGbVte5xVGpA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "l63CD7RBbeCKWoqKFlDozqBXQC3rPUJeNqXPysJGmr5bmjbvBDa1AYumW1cZr7/fIvQm+vxh3hcuNY8sdSiPpxp+0aybcBl2ckkK56dDc8q0PS3fFrb2obfQISyd9xCfk+/1v7EFbnSKSaX7exdbyW0v2h+lXffl1kMKK6DT9oO6PquNDrjWevCpVJA32BVtAxdTydhdkHk72zG0VjEnnj/vZanBS7kETvmUYSXeSdWZDsk3UucHmlpef582tkN6ITCa7j3dnAlUIfaRPTjGRwDBJqFlL00I24I2b3h2nsoOE9t58Ggjq7uS0wmtnJKroWqQf55Weeq2oLbGiK4kxg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "reasoning",
+      "title": "Reasoning",
+      "duration_minutes": 90,
+      "total_questions": 100,
+      "questions": [
+        {
+          "q_id": "reas-001",
+          "text": "If A > B and B > C, then:",
+          "options": {
+            "A": "C > A",
+            "B": "A = C",
+            "C": "A > C",
+            "D": "A < C"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RJTt6LZYKWAW0lYOWpcOWFF1K3u4YphNDZrTXO4wZSdKRl7YXjN6Oer8nup4D0yCx4IARTJmD9fEnhiZN5/etKKlmcXM+Y7nExbdkabLr8YhPpZHYRJD5tfUpBMFN4fbhaPO+MTKyimMPcv3hGuVVmdN4i67IkOZO51jsPG6aiXhS/uGT+esK2pbll4k93ufOF65yK4l3PGCHGWEvmKKC2dms79oX95wSmM7qZU51G50SQJtKlZ9/ENs8ETc2WqF0ICzsi4oQJ9CMFYo1L7GGwnGMRMS7ke0J8IBwkPRT2x6RSmty+DwhI+mgQtahrel2R+JvrAcFXgvJOxoyeCAyg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "N8nj5SGVuupi6MxGgbtuv3ubARjtadqsfh0MlDsJvSFSM1Abhf16305AwVLOM2L513tgDewJ9A9qkO7iXGlgkE60QNONAPBbBoKhmZc50L4u/g5hkWE8552LbbRnXMrzdi5seP7D0C+PJ6VUxblPX/JYAenREZoC1e71/BQMLP5xXuojrQ5OquYRdj5zhaxIpeEJ/mlR/QsPKRRkIgCeauQG0MNgM4h7yfvGBlCAGkdrQDKB5dCMc1tY6yRn2ECtg5uwHSbuq1PqwfyMQFE8WgKEmUSHqasPhAV1LhTcz8S16iqqAafyTAlvANgZr2P2UXHvlxEPNJZgRrrpimO7cg=="
+          }
+        },
+        {
+          "q_id": "reas-002",
+          "text": "All dogs are animals. Suzy is a dog. Therefore:",
+          "options": {
+            "A": "Suzy is animal",
+            "B": "Animals are dogs",
+            "C": "Not all animals are dogs",
+            "D": "Suzy is not animal"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WXgnIgDAjh6GIGZ5aSVjQMPbxiD5QcdtHnb2IPx36FzteqhQfdemRSlQMe4ko1HSY2OeM+odDMKbbzC4eGBSEh9tShft0Kd5grae1DQdtTjO8bBWrHI+pAGZ7shtlv5j6hyXyf+r0ioPB48RJoCc1CmSC9OrsuEQ0Ov8c4a3LVSMOjwsvqLuRAB5LS2WHjpMn3wObtg0jEDq1/36pPCWJQdBps+ScE4ebRRj1CEXyQvsK7M8pul5vHPqYNpa0qHz3fMk/QSCKX1AR5aCmFf6tsT0cwEBYjLhymZVLOpObh2SYl4Y6jDRKS76gPFZkE61VZ0OSWf02uDLAS73xV3U3w=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FGBusya5pE6CBlN3gdygwmTQCO/sbIGXYZLObWOsdDvzDitkzNXbaZQvSqd+gXF9hmhKt24j991BLK+zb8EiM4r9Lzppj+mUyesQgc2wk1Nx5/TVMGUgBuwlEdJzbr+dMqRRfunnQBX2gEpo7NU3eubxjMOXLI1yt6yQ9qL8GfkyTwy1R7LHgRrPIHHqJ4PZ5ddU522raMLg6l+e8gOtoqPK7aNbDnT92wCaVzQSJR3S51RYAL7F+GcqC50WJKhguoK9egu1tbMQbODnx79kf6Cgr4LTRstEgdHXapfHpIUeEmXWDgCkGYbirTpPCvFG5CPDUi2lqU2IzjSnes41yA=="
+          }
+        },
+        {
+          "q_id": "reas-003",
+          "text": "Find missing number: 2, 4, 8, 16, ?",
+          "options": {
+            "A": "24",
+            "B": "30",
+            "C": "32",
+            "D": "36"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "V6ek3U4IvtRNHiAKgWU8mNM596Qi291eS8gzLHFqB3gUNgvFFbpNuPldh/sdQQwna7Hgjm8sbnutDeUpZ5SZXCXTdgsihSXOBqggTAlCNzp1sshPA9JMVU/+IO5yHjzdpk4PnA2t/3xrGE/NRBY87rZg2pJojW1TqwVtNeNCQcnRE7nQs9yQcXEar7eq5/HXHCsjzV18YTHF9h2ND+UJu68GH3o0xdSvbeM2nN2VIUcWcNSKLnOUMNO1A65uL78PgadX/FSeadLsncf29mXQrMKIHP+RVDmw3r/e3A+VBQaTp8JJb6PdLFPZSumAGx0UhUOYLrncanXqqxrQX7B+tA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Jk8tWOlfP9tDexIKLB6fFODiSO55+sU47AP5N6mUVOmQJG5b/J4vQ23tdBlYBNXJ7MQr3TtFw/ky/8fhJE4bwY26coUON35w09mV3G/fbDUYKGhJ2LUCs7X1rkxo2aI00yug7PPqwZ7gyjPYzlVVDzylqvzQeOuXp934LZIzP2mqIRMzdl3tlNA44DIEdGYCjX7cx1BIsmCS5QYeoUibfQTbHeDsT/e+OEArmB6fZTFGXQqLQunFwaaX7GUPl2wHSj1CUOU36+sWkHPXJ7rB65qKFAVempzX4ZwGCIK2RfF0b8lPsJyMz7g7gx/4CHHCwonSWOjZRqgRXqyhPpa2JA=="
+          }
+        },
+        {
+          "q_id": "reas-004",
+          "text": "CLOCK is to TIME as THERMOMETER is to:",
+          "options": {
+            "A": "Heat",
+            "B": "Temperature",
+            "C": "Weather",
+            "D": "Cold"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LpytnAXkkbYJhfOjsfkClDr/rOHyBSSjPk3Q0IZZQQKUjdSqc1jsarK+zzUw9Q/6Kdx/puPfwejHIMM13KyMcvN9Jg622UbnrvpdaD7T15BBwsOeLS46+AKz8ogtyaJGTll5DpzxSuq86iPfyE1NhUpQ7GIiJttj1iA9JwY9gEUo+Xz2cKwYEw9lOSd2GIDM7brYbVrAzlk326AJ5KEshrMDfPac+fIYbMWoTA0GsZ3UYIs/tPWB/sq4ET3JEbWlmnACXuTIvp0AR9VyuW4HeG5bimwKQn4MHgrA3X3q88/nFRbCeHYy5wD+BitZJ8eccsz2SRnpGA+MO378PQq2Dw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "SrsPZ3CkO6GkMbUtm6pYHBkc542SxF0V3m3s9vXshRF3os7V2xCOXW2xrghO/Du8rVKEPHUC9PG20LCE019n893i/VQGhKZvCtBGBctfr3CbE7hyEyF98AFOTzBrDOMOaMuxX/mOUXMNKSxZanl7HhYjQ1hHW0NJqH0POXqee5+k8QCkapJk2coheTviPGp/+Kit/aNUU6SSgyZCKRBO+AOUtWrWsGoKD4XCfoMUAbR6zX2xXRcxqOSHGjQelSpJDiGFv1ef6/VFsxilYx2Z4fB8X9wBSgXOwIVPv0X31Dce3Q1JO3pthoEJPiazjqfTvHkI9Q3Uk6zr7NxcCqa3tg=="
+          }
+        },
+        {
+          "q_id": "reas-005",
+          "text": "Pointing to photo, he said: 'She is the daughter of my mother'. Who is she?",
+          "options": {
+            "A": "Sister",
+            "B": "Wife",
+            "C": "Daughter",
+            "D": "Mother"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bIq5YpfGEJggt0vbTqE/zLCVUfj7J//nKHjFShWv6ERA/SxDcOVGVGx4hTJKSWUfw7ggNH0vWoCSj8EVw3h81plj1XrL/puVFCwDqzFVatuapRLXs2ZYwQ3kZ6BbGLaf1RshZFzNlipFgNKy8dBvZ1MmhtUwIKU1C9SfVIsYDwdFqEC1pLsmg1BdX1uOAjjbpGKgaI7wpbiWLi0RnvJOb0R/nSRVJjLmZRFXeCZz7V37414RdV4VOwNIH7OdjDJQCN5PyjjmHLbdLqdt2xK/dXO4Eceo+WTB4VDNnPp1s4tEvmyNERsad5wBK0HMVwgmDutSCkyeeYccUBTCzsJt6w=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PhvKPF8MfRq1LkyJb6ZiKVTxoE/6hCccYZoqzrdY4NcfNw0WDTEdkYx1wYn+uJL5NblKsoS6yHuZx8+XfttkgC7z+1WtVBF2Fd0lKJa89BShKI1fH6OU/rJ/l0EbLiPY2Fy/GFdtRhP/MnsxXxjwpUT91sIbqxzlUKpKz82zP/PR+dsjch1Vhhq1UMp7x947++YPUdFxEsKCHxNSGk3I5yh232atgcPCbOYQIopQqc13+03DaYCkvw/Pza0OoKAf7nF/eB6WR9DyrIAvoqaP8SSdfNABygkS/G+GdiSXbfD3Txd9618f/9vz50XTLe9Zs7KkTpuAMEfzHSeZR7ymPQ=="
+          }
+        }
+      ]
+    }
+  ]
+}

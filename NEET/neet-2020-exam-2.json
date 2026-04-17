@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2020-exam-2",
+  "title": "NEET 2020 - Exam 2",
+  "category": "NEET",
+  "year": 2020,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "The position vector of a particle is r = 4t\u00b3i + 3t\u00b2j. Its velocity at t=2 is:",
+          "options": {
+            "A": "48i + 12j",
+            "B": "24i + 6j",
+            "C": "12i + 6j",
+            "D": "48i + 6j"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Z/gPk6CXYfOJujX6i3lgBd87cBGEJIaDvbdHf8NaFfsydPuyrwNNCfFWvFDFcCW7OOErZhvoLZ4Gyf2Iwab6odXjaiuUrcgicnt4XB94yaDMEbHglRTSju7ao88Sah5Tq9WyU20INqo256zGG1VUUQUPNmB9imz5RmYs2TVGsXl/mUyhK5AGRjthmrSHr2f4yiDHhZY21IaKDPQrDxNlvtNlFIfaErQ8fn4NpmYLLKuCwwPoxKmNEUIMucOUGr9PHj0CbI1GiApUqTWNEbU9bh2QH5MkIHkf8cep+bUA380pLYH33o5W6+hWRzsBSypl+lPYD32zSQ8/jXm2Y36hBA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "MaUsT3/Ncib5bc+ltdH9T0s1Qk6HscUJisi9Skd9hCaUP4jMF4oYaHHbawGVL5Qn3Up/k2uaBTG4kVbasM5Ip2AT1i+bKtcsfWiEbStDFp39K/cD0j9qwn1h/jPGESY+PmIgV+t4y4eyIAk74ZsqgD4xAykpRLeUCWHSzPncfUu0mPaMaD5IjcyxIIy9YZ8SCGLbcAo4/+ZYvNmfQIKy1jVExkUuWztmavC8tqlJ2Iacz0fRfcz5+TpUdu6uLXtV1gcs4jL3xw20qAamFwRhsfzHecPyXRhq/hqEFRxjTcpSZc1mcBsC7BHFPbpa8iP8M8cumzCzs6iX7rgLHpbePQ=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "The spring constant has units:",
+          "options": {
+            "A": "N/m",
+            "B": "N\u00b7m",
+            "C": "m/N",
+            "D": "N/m\u00b2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "coSu/hN5/q7Ee+CDTy0gYgL3t2tAcZox25hXi5OOyDk1/K7YRKmZTlY/7vu28NfA0X1PQMADDFhRD46FV2d2p/TwvyWzs6GgtWx62TYNg9Yczt0NbH0d8y3L4FDdnBx72kZPYgZEhVlxVqaWujhktvpOFwO5zKzuiti11O3JDz7eQNs8WDawtqBgM3F5pYNIbozJBsJLPRIlTuAKuofGa+Nvtv9ecnYYG4N2E7rPRtFN5+GOEPk+UdgXgJCHz1xXBRYnZwSzNjZhhokg8XHvt5OyWo0YwYFv4e0tuw/hw6uqAIdLJd4CpfV9w00H39PMUIPXOONZoriwWtXFGKxKYA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "J3E+5wrGn4kj2x5dOu/LhX4V7LVZ1trc3Vn5GchB2HFDd20Gdtt10I3A34FKq9pNjIudaH2Q7ybsyTZZb17vosP3qO4wS9VLX85ysV8mP/VPrVg/CJmRhgmlJCK9QMMxkNzhvDzEeAP2TRRk+4t+hsS/5F5LI0OvNzT0/Z7jcy//d4oeMYOQqFAKY7VOVZ+5U5xvBoZNF3QzMh+Z5R2UUc1m2EBKh4LQNTdCBNw/nqocu1FM30/Ts/fmvQFDBjZRYrjmY9mfs/ltVKff2HZj8m5q1jnsLbDomFgQi753quL3L+G14up9gXvSbEEftQZs4DHMeJkJnj2O2b3JrOFzdg=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "In simple harmonic motion, the acceleration is:",
+          "options": {
+            "A": "Constant",
+            "B": "Proportional to displacement",
+            "C": "Inversely proportional to displacement",
+            "D": "Independent of position"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QfSqvVBf3qqLDHNlqlnrR+jZWzzE2rV0FZFT6XvZiZ1+c2FnMMKqpqN8sc/AY0nggdUKS0dvO1jpwM+aJ9R3X8MoTWhTmSyQmzVZCApYhcArOyP2EnYKD26Vom8iacqjd/3SlQeyRVzNb+IpyenUDwqTcdnuLznHNt7HbvGt54l8xwAMGzbmqad9zNXGdNpKsY6EqtA3PnqE+0WTODIhWjtYsAxdLOTMv7opt0NI81ZhOrwbH9eWjAP0jzY0P3+2KY7xjiPq2X/qQh6OX7I26gbVZWIXqMP7RyZHE7pM+2FaQ/ODYh68njwdRPARlRn9uNEwCbKQ+bA+ktaHq8WAlA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QM4sGvLMO7KevJOtyxHCUbBxF4jO3+kYkbFmwGCNQMjLo0eCQcx7NNepZ0hCLkTSFC70VY2Y9JSDr7pHtOegiP7AQYuh3S3FOiyw82no/3xfvRIsaDam2OKqBtYomxYyY5k4Nl5dmh1oLSEJhYO9uHWHQTrd/PuAk5y+K1c0O5FchD6Iv4Nu3xIaI7WpJHde1+1vo4yOxDYKEMuC6CPTD6x2T4RSslrkqZlPSrGUzp3eYfEwHhYHXW6QvjWWkZyXAAtEDIUF4ZeyiMA3oabasrOEww/dyfau9cK4nwtnI+2FY74Z+l3aVZ1UYhkjA2v+3Dkcfd0xpV2J3ifWtL1EmA=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "The bulk modulus is defined as:",
+          "options": {
+            "A": "Stress/Strain",
+            "B": "Pressure/(Volume change/Original volume)",
+            "C": "Force/Area",
+            "D": "Young's modulus/Poisson's ratio"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "U3AIwKS0tUZ90e9mSz8Q7HHZNiUB5VgqA9pbF8DDyLVAwOiN6niVnEF1rmRa1tOIqJO64at1WM4MP1XRR1FyTZg9zc653Jv1eVuD5ULcY5PxaHvv9kVR9JZzSqD8g6S2cvQVwNVlMWbdxvqZWTOkBDaSayWQrKuo7Hii/PFbfOIIQ1UR6WsZ8KyovAbaHiyhthmq9bQH+jWO5Q3o8vIQTmZgqRWKLqK+t+GNSTZLNIc9b0AVuvctg23gLTyrMcxO4JctxS1qcr+SowphpOUhC9npB5SL0Pqw3oGcHLI+ObOq316QahVuDP6ZXCqYYo++OYwEBbyvW8mxmbjSb3XjtQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qh9NEV1APgXWV3LN+GrkCORc5jfwVxzm4a8tJT70YarNyQL1M5xQMPV7EPdx11If4z6HWVve1JCaVUo700/684qDh3QaGTSDYLhM8VXc3Ir99tDBgnLGRVu3cPwQXb8jb9yAPJHy4ompstJa8FpfV7eu9w49IAtzvtdnrx517QuXoFUxlqhIwybRQRBqmaPRpgwN39uQUt5gVQyYLvtR+fXFeaO0iyrIBwq0kIiE4eZ5/D6L2hWa6wpxNV6g1LIu86RYNQUvhgH5shNrb7Y0tOzTGUlPPIiv2wo+noGugXwlLBViLtNeuocpSEIc3OkozdwdheqkUROZzAy4OJ/stQ=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The range of a projectile is maximum when angle of projection is:",
+          "options": {
+            "A": "30\u00b0",
+            "B": "45\u00b0",
+            "C": "60\u00b0",
+            "D": "90\u00b0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bfotx/iHq2Nsolf8+PhfZpASwaWPlqvqo/ccVlwWTWV2pLrIg0mPlssfMu7ukHziJYbvpISqjp29VRq0KM8A6dHbru2m4dxXCqNbCBTNkD1zyW9eLTPoBZJSJE9IlstaLgjrpAOw/fGmd7wHPr+h00O53Pk+bPSZdm83uG3dlHzzm+L4sT9RtD+7b/DOqT+HBsEp7w5sUMX3lwNqGiQTDu7/NCpOMI0ToKLyaIRldNNVaBUkZL0tKfTm7v7bKTNlfFrCjcOLZnmzHbSAq/QQq+hrNgq28e+8mqPWjXabqoISo/7roeIdodLC0lx5L1ak5T69zPOu2+kDFpDUo+skeA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "kXHZNrT8q0yka2KhdHL9L0r6aF6dp3Ggj0luW32qIdyq3fUaifnEYhx2WH+ts6nk0XOz+I8M0Res1myuQ2Db2Z+Mj12xFPW1+EVEBL3E4m7B4UE5vTY66p8ZsKITrMpEVWkfkeDuMViWDpfn9Hlv9xbxB/r5SqSxDkzlNMYtdyjSP4Ot/f9ROh1tJXsfBOYmhAU7/Kc/CXL8rbRhOyXFwbbUY13Vjs+7EX6aq2KcWWeN1xQrqb8iD2Sy5VPGvUMo6/DcRsZPGPKYts/FB6dqMB24zbnQsUd8RVc/DnSO2IsiVDRn4evRogrOzt9gHNTMomZM1H146Xxagbo6FF11QQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Buffer solution resists change in:",
+          "options": {
+            "A": "Temperature",
+            "B": "Pressure",
+            "C": "pH",
+            "D": "Density"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "JjDn9iJ00fJGKi0Lh3gfEKaMa0a/Vyowf+eItKymwCr3lx465heSrhRroSV33kokOCCKYHLKkeLCvW/CDCyes5+TjwjhSNhMjE6Y3LvBsMJ1xQuwjnKGozdUJERzhzf3CN+Kl+qbF2cCxmGm558ZWbI6Y5ZcZtVxIw0dsHxOIRydD69zFoc/9rLCuBRJEPYwo0tMKwNcSllQkQMvpo60O/Mc7Z9++HFTzNROipFm8eeWJcESuZzM13QV1gfa2QXhCpeBbaKyST6ndF83e/qsw5gHV+Fr3RPl0zv4DQ0vR9QtnQz2HEk9PYWtDGZl18yi0fcNXP5DJVMNnWD71H+kMw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "gtvNvK4pcLn+8liA09glvqmE5GM+hxr+UstqWR/BmsXt45TmYD+mZoOhIQu/XW7udfEpEDcyPy2buAfABr03fOuNynn736nVkn6U8IsVqTYMWyEDd+WGuZSZwmrfBe6Y+cNbkWOSvAT4DGc2/NqJGN3VKTaYVXKK95S7SWPTdVhCOJnRiSOIkTlfhEEPO55+G2/mDhp8yAjpJtD4TQ6yydsTTlKq+oqdj53TdoHE//w1LsysGnaT0ezKzKPw7n5LoNftPmMqXeOYBaHHwLRZvHNj3NCLTGNeI9kYakyi7xOUsiq08gQXcMqHZIAvLm09A5RjxfW9F0W2GglqawrrZA=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "The number of isomers of pentane is:",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "s5iW0XEv5rL6V5niEdWQ3sP5N1Ecvf7ex+DljMfzaNK1fCf2x8Codlf9/ym90W1MVSMPeLRDwvEn1cJl2sDFzffDEceT1fYYawQcul2Mjf8k65R1l9dGi5+E4cT5j3f97fFYaf5tOm6M4nbMAmEHMZsZJJ8eZ3muYyNAcVKcvp0dD3VPiuH50gKNwiPQIrSQF5VeJK7V29tpfJlRaTMkT2CSQ6EVVm46x+tsqQuMILqAu0MkFTTaYmPpAevCf9OvqrD23muohI0e3hyGjwsBiaw/i2Jjt/iaZHOPaO6ySd5Qs9i62z7GftkLm0U5mf+tsu8adaTd8dU/7jB2P3JHrw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "U5GIbvNGRD00JeWCZPEPh6NJd94qUQ8TKoXptb897SZYv4/bDvZT3IFXR0lKyBz2OlfdfuqWwFO6SIOUZYRnX7lwOXBvTGQ+B851S8vg4TZuqUSC4MotNS+00xMrC1e0EBxzWcEeM5KJXUOyFojMjoxHR9rbYYuHUy91G9hJ9WWCrEYHykXBZBr/Xbh3FWsEx4/HnZJTbKFEnq5v5U3MPYndUhj3S14Ku8nagl2P/E1ueMxKHphEo1K7+pGHmnyEKZbolkGm+W9j+j6UG1/7NImyB2r7De5c+Ha+Db1wJzW07oD1DYfZnMFg4iv4i7kl8L+WbZ86Bf5R9lr3BiDVFA=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "Tollen's test is used to detect:",
+          "options": {
+            "A": "Ketones",
+            "B": "Alcohols",
+            "C": "Aldehydes",
+            "D": "Esters"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "L8X/LMxliQNloF/dKp99jfPZfpaeoz5qSMI+FvBroZ+Zh5UNLCWH1RB4pNxdmbi0tZIjy5vJzWXwKWyiTFoA2NndTggJ2m23D15u0RT4VUzpQqXbCX/rZ6bsXHSrq1z3rXMcoEQNIzp8exqvFkcMDm7Kf6+rvH9KuokP8m/ACXl6EkYWvc3hf29j67CGfM3pTEELkAblk0SHNg0B7DEANg6M7MvbAjRh96KLZBXYBI+u1gjPXcrf5CuFXjkD33JuUmujPXgDUnzg/+TehkEVMLuxnbCO1Zg1nriSp90vEXI1AkKhBSbuvE6HJEdIsQ+8KClP3bDa6bWgTSlMRPhTHA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "noC9HhSkaE5OjtqWFZWuBb1iKvcmmiF35twjyPNJNxhWESCNr+djCM5luIdEVfNNlsmd0abN6oSb32G/uBgQ7m1mFqjt8gPdSl26swXZZiEXG+oiDo7SbHfq5/ANYwvphyw912XxAMeB9rYC8J2SwP77c43VZDslwemyGNd5pI54rnf3G1t3dPAXR62P/lWn0soSmIpzjgIMwxICgCXwEz6hWHt3IemEjkh/+3zxKl6LKl4J3wDapCQ62wxhqeBmM8MIakTzjthspZFvtDtKjB2jMVQ4/gnU9//NrsS1+E4clzgaYqLukduRqxfcJh8R7xhM3tmTlDIS97GvGi3pGQ=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "In electroplating, the object to be plated is:",
+          "options": {
+            "A": "Cathode",
+            "B": "Anode",
+            "C": "Electrolyte",
+            "D": "Salt bridge"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "GsRsrSy19QVNFWIj3FVRsqIK8SxxE2CuO+IP3qPyqk6MdQ11f3wAS0+8UcNRtcXtpb4AQxXOrWqVvdShrxOvn9C0W0m4TNAuSwHrTpyI+E/xncfNqlyaC4s4EfRPYfSkQ0iwlZh2MrbBG8iirptJ733LiXTcH/4Rixu/w3MUyCRwyvLQuL+JkxPcCfRoj424In4haypP6041GoqPts2QrQoRpPMw7N+xNAknCftGhC2umTa7ek3zTvAPyp4HNS6eZjsqhTwmuvkSl0+aeg1kZlC+GcXjLfFNPeprFSnRkliM8yulp39zMFjjQhTkWLYJfZUlRVCVO6v3kEnlW/D94g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZhK5Wpt4JRQidd7zJhRYoMTWHW/Q7fcMXyxyaDmmLk2GLWChBopOx08ar7IGmgIVKmqUaheLGGR1YsnYQl1n8wUJWzemkn6LgPfqQu0j0kH/3VywMuhC2Iaju0SeKw1d0Xzz6amJrJszOr6v32YP3bCaSipue6GENzR2KjSWbvKoe0lPYo0FBleEg7zMRfonKKuUcLxDBcCrjorB16adUvycC3K4vwn1tuFU9c87zIA3E1cVKEfPpz/Od9gx8lbk1kLAM9CaojtPc7Yw5+GDM+QU9nnr5XWqQh8ZL/vP2da9ShOt5/H/ITfENHH+P4YGUjmrJAMR0919cpxexmtk4A=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The normality of H\u2082SO\u2084 solution is 0.5 N. Its molarity is:",
+          "options": {
+            "A": "0.25 M",
+            "B": "0.5 M",
+            "C": "1 M",
+            "D": "2 M"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "L3QBTklY+x9mK4saIyoypx6PIHs0PJM4ED/H1BGCZciUi79Y/oEesDdpxnj/QOARuwMuiQHLtKXBSmCLaLbMwvXh86Xi0zHUqsrvoV7NGUorV5S8zq56/YWzLMgGxTPnt7D4w27mwUeMocmQWjOJUPbpL7SNnAh6TDgBAaUYzPWqr5xYrGM69Byz2axSkVE5bpllK3Mmg1ZrvmvuVooqEsPJAN4pjzP7HYjjzqRwSJpINvUaFDQfpg40U1rwVyoMjQV1WyN9sIraBOLKp5I1bUsbAES+b8FERXKhdrShVG/uUwGeKFdPcn6fQkSIbLHXDaV6Uc36T2g89zMlSyS+pA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "eVx+YxmeZ9iITkGr0vdjebbE9IroyFPRIcc1eg4dJ8NZe5Z4IsWT7NRfEkvHcH0iYOrqZk5mw+IZRQJB2X++SrmNIacMlfkb0C9KByNlynhvHU+4A0oxpxQxOg25RiYC1BxM8UntzZW6d3FP2e4H5dGap6gpEhrmTnttLquVqYp////tl4iHaEmrlOuoB6c4LTPQydaIw/he/wmNo4xpqGAriuO7cP+mM3xL1plzibWCPe39Wef0RPemCBa7qBXzJmXk5G1CnlECBcVb+yGnw5odFIf7cJHRc5jBhWC4YArZS1eR9a1pXdnirBdQUyQs1jvwRdJInZJIE0QVZYqYgA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "The bile is produced by:",
+          "options": {
+            "A": "Pancreas",
+            "B": "Liver",
+            "C": "Intestine",
+            "D": "Stomach"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BTIRf/ulZxOL+y1mIYun9aq/MiHvLvmffeHv4OuJ13+weXz7BeHFjWlIB2Qi7NjJPFL6pGUdKJVHtowbiwZFxBiwm8JfFT065N5l431XZVJxL9qfd+D0wFsmZ9HitwiAFsB/BqN0RYWw3RPZxsnHwNTHEWTqMWCjXVFNv7C3Kvdrsvp0kz9S6yU5a535KUj6wtYDAiR+11aYvvhn3giFAfThyFSi00YGsvYEBL5T//e8nvmbgyZee97w3Y3hVn9xcu/yJUcslfbf8C72lEWRUak9dUbJ+kMI6/lapyXsk+4uHuginha1ETmB6W79SJCk0o0xY5AgMFUqI6y/11q0Zg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "H4P6ncg0uGhZAOh5o2IFfWTyg0/H/0NJzoRUUWpJvmDxzV7IIuHdUXTVWzU6bIwP9Ir4JGRn4jhTbGbaV/16AyHSg0xotRmAr5vdM7wTckeR/qxA/QHNRCyX1P84UvXdFTDfauBM1MzPv47MzU3rFbK7fqx+8/OsCdt/phoxV/cyk06auGOStdMK7B1hU1m01T7TJHzZ2aHzPJ9RR/c7mR1GvBtLJskc9YuQYWJlCKh8V8fe4iRdeupdaQOnRR32s6bHPCosONIriaxVtjcBRj18n4LbM8c/I+DcGKCm81nJZKtA/dbUwXgwH00bjrE/50/2H3S43fMlOo7K2z/jHQ=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "The vaccine which provides immunity against multiple diseases is:",
+          "options": {
+            "A": "Polio vaccine",
+            "B": "DPT vaccine",
+            "C": "BCG vaccine",
+            "D": "Hepatitis B vaccine"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WtzG3JRZUNMbIIxa0PrbbMTjF7DzZxuftpZP+/w40HNStbh19UYbRq0okzK6ZBp83L/p8BHCrDmCvImyBVQpcxp8hM0hyyO3YJBwoJ3+6CGq16L/PGvo+J6C9TH+XG0/udve48pxuriZHD6jgmx9oeS8P1u66961yYhumW4PSOAjpdvMC6giSVb+blaTNj69cdNwQtWrJj7ZPh+SOX5NpwaI5nBeW5zpsy/GkNLgY15vRorq/o4uZBZSfMUrUZeXBnht1dgpiSqUL64aqN+Zhbk//dcqGju9utsJaO2tMkIKJvhCGLPL6iq3aMRasWbGNbSoF7glyJLXxkRD0caXrQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "b5TbpkRdapaYtb1PMhOKwUtgrlOP2UdaOrrU8zbEBrCL30aFxX+5yJI0TVGGcuySc8kUVlNnemfcBgsxfIBI8bGVLn0aLRWvtRXDp1YbVDJqTWJD5hBIOSIsmJ4IL8g3RxTM6gRnnqjJdg+5N0khYExVDqkOP0Ie5C1xge3B/TDg2gh+wYbvkvSTJdLs4ndahntPOTpo22l9r99vW1JJmXGXL0tkhhcbtWr5H/Q6Jejv06tFRaRHmMPsL4ulZrALL2E+gpFsDlk8fxngGd7ekrNAi9sje6UJRTog5QeCQtfpI1LxwEaOTS3Ktw5lPCMVjZBOdIj8dGWf8paEjOFMWg=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "The process of nutrient cycling through biotic and abiotic components is:",
+          "options": {
+            "A": "Succession",
+            "B": "Biogeochemical cycle",
+            "C": "Food chain",
+            "D": "Ecosystem"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UkKUsbRjC8GJXYI+HU+VlkAcrTlKi8+qiz/a93tBsLz7y9V+cvA0FQmjHbd9MQIlv6F9FdDieQI5Jpwm3+JoKMTcbTqiSkFENkV+To66DFfaIf1DMEy+tujB7IW1cKEdG2/DB2UJdov48y2qqWlRh2bH5QeuD15bT4O22AgCTcty8FWdFM3bm0X2Fwq5Bp9f06+8QNT9Ek0vNMImdHmGoxjDOHbykiZOkLPskugK1NFYcmQciUiG/ib3YfjK2sKq4ZPnHIKSlsvQWIIDhSOgIza3PRlqoAW9CNCc5i8F644DmekJtym1wgA7OEe/5tpE+VR8RTaBRzJrEaPfMpVj0A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ckxfd4jUTRSrybDTovsCz53D1ltHQQ/rKx2T2DC+4WGNhdj5lFIVB5SrD/BsfCjDp67ywtXJkKyUh23x+JMfR1SxEj1gc/mTHjLBlIBQ1A0IBGf3q5PRQbaPozFL5pO33nIm5clSf+pkhhQNvFOfHGRu3+O5+btKEKf5JHRSxGx36G2cSKHsvPrrF+gcycRgKLXVP/eRfXdnyHQN0sladLmWt5s2ACgji5184b28+sPBH2gxNrwqyklHVS6+BMIejE5m004obV9QsE4x8ezO39woLDIoDtcXlef4Q3bdQ3uEONqf7LgVEQQOcq6zCqKO7xcG9EBGTmd2POD24QJBHw=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "The disease caused by deficiency of Vitamin D is:",
+          "options": {
+            "A": "Scurvy",
+            "B": "Rickets",
+            "C": "Beriberi",
+            "D": "Pellagra"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZwB891pWzDaXweKVUFPIi8L25tRwXu7WOqN6osL84coDBjftJdnpPCIvknB+XjWgaIKZxLoxigd+l4P9RNu1vgcHxwm5ARd1Vn+qfmrOeYIV8TLk9hz0UD6cM9TmDqSObG3+hCD1rwUEfVAYhToF5xx+zjLhPzsUIho4oBPKtUTmRPedZUn//OEokfi9WVp056xKcqtozl7qNEORBs5pPx8Ly8SmkazOj0WwovYYkLwpWooVFMr8ux0dGFDXq292V0SLR/R72AkhYVOdopuO2GBiBCYBkQRWLkvQ9I7lz7RYc9wlFB1ElsbgCVFNrcQ2pNE1QgfaGum9FEZxq3t3nA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZMNJ907/y4Sma2Om+7t4wMR4615LB8NqSgGivgEudDq/z94TxqgZpY/QH0tOSZ1ilKbJUP/tGvR9/dKs1/l2zbuG45GKNFHPBz4AIzbEsnQTzg03TNSYrLrjggIXYStQ0v/oxsLOXM+kVJs+Gsho3LSg1nbUMlsYUIyfQ+LkRrpc7r04nOgj1bNqP8SclzwBukuVywdIxuCunZRjS066IkfO4lVKX5D5+GJVda/dpkqrduBQuzXkPOLqQfMC7OM5S1a2ruXkRTUcBQs3BIDO/JTXTUQtrlfXxgfUaQXMJMFxADGYHV9Gj1T2XTajUVoAZx7z9Ym07QkxTxwzDpP33g=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The tissue which forms the protective layer in plants is:",
+          "options": {
+            "A": "Xylem",
+            "B": "Phloem",
+            "C": "Epidermis",
+            "D": "Endodermis"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jbcG+xeBNEII5VXqO58ITC1qoKpm3Ids5qqMNXVGTbl5sj/3BSy/Vp79uJI6sdt1du0SslbCLiT+nrWmininKqZ9STuHaP5XsWqngBM+zeBNYkh2oXrXuCQjvVLnDD4i25qFNSBANiEzLIPD/ejUD7o1R9NdCqCHxzqCD9M3UxthogU8QM9GqVdsUV4KArq67Ej7VQNaiA1VY5rybEZYv7OfYMv38UW7zy5TCv9+5BRwdvx5/tlIWyE3EHPSJDtS2mlwhgT9vfo3briFegW9iuPc/0MFaKRwz9iWeA9m9GIEe3VMOEVrQvQTN+SllwISJKQTVLdCQnOMkMORN+ZAJw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WhU3a56bYCvPldQjDnpczc3E/SpbYRTICfaS/B6YcT36SPE0iRp1Fp/sUarGlc/ZzwVXTs+QAR2mdTt/5T8UsOhp3N51aCF4dRAARPSwvxVuvPymQfjogWYeHmQ0u7/cZxfmfbHPb9gfi3puTvwc9pHmzOwqU3Dd7xEyPinMQQNieI2Frai5mUhHoBEeZ2hfMulOdkMnFRhKO/0rgnekUyjv2rvDi+jjd5jIAfTuqlqgipRtwajuLtFCb9jWa9kwd/z+rI+oY6abnR9MVWj9oMx+mRcLd4LYtUk0HsrR5/ciN5rOwnYtWXjnl/i9q5TPBaG1Ygal97TckdlNw2HHqA=="
+          }
+        }
+      ]
+    }
+  ]
+}

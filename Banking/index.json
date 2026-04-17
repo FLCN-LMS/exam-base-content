@@ -1,0 +1,100 @@
+{
+  "exams": [
+    {
+      "exam_id": "ibps-po-2023-exam-1",
+      "title": "IBPS PO 2023 - Exam 1",
+      "category": "Banking",
+      "coin_cost": 12,
+      "total_questions": 100,
+      "duration_minutes": 55,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "ibps-po-2023-exam-2",
+      "title": "IBPS PO 2023 - Exam 2",
+      "category": "Banking",
+      "coin_cost": 12,
+      "total_questions": 100,
+      "duration_minutes": 55,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "ibps-po-2022-exam-1",
+      "title": "IBPS PO 2022 - Exam 1",
+      "category": "Banking",
+      "coin_cost": 12,
+      "total_questions": 100,
+      "duration_minutes": 55,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "sbi-po-2023-exam-1",
+      "title": "SBI PO 2023 - Exam 1",
+      "category": "Banking",
+      "coin_cost": 12,
+      "total_questions": 100,
+      "duration_minutes": 55,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "ibps-clerk-2023-exam-1",
+      "title": "IBPS Clerk 2023 - Exam 1",
+      "category": "Banking",
+      "coin_cost": 10,
+      "total_questions": 100,
+      "duration_minutes": 50,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "sbi-clerk-2023-exam-1",
+      "title": "SBI Clerk 2023 - Exam 1",
+      "category": "Banking",
+      "coin_cost": 10,
+      "total_questions": 100,
+      "duration_minutes": 50,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "rbi-grade-b-2023-exam-1",
+      "title": "RBI Grade B 2023 - Exam 1",
+      "category": "Banking",
+      "coin_cost": 15,
+      "total_questions": 90,
+      "duration_minutes": 120,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "nabard-dev-asst-2023-exam-1",
+      "title": "NABARD Development Assistant 2023 - Exam 1",
+      "category": "Banking",
+      "coin_cost": 12,
+      "total_questions": 90,
+      "duration_minutes": 120,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    }
+  ]
+}

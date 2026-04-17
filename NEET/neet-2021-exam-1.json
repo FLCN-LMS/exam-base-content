@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2021-exam-1",
+  "title": "NEET 2021 - Exam 1",
+  "category": "NEET",
+  "year": 2021,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A stone is dropped from a building. After 3 seconds, its velocity is:",
+          "options": {
+            "A": "10 m/s",
+            "B": "20 m/s",
+            "C": "30 m/s",
+            "D": "40 m/s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "V882dUqUuy52L07YyPFgupajJX6z5orY/DgybhisYub8g+uqqClDymr9Zaq0R/CpZ3bndOmNnOo51sTJlv4hnJB96+6/I1CLFWiIcmfO3H+CtVXcL4xBMEQ+h12d4Nurd7bXwjDubUzfJmx40yhYOLiOwe7clzTN+xi/4m03cmClW9G1DjNmHBq/3/7NnS3hf5g9EYvBI/YU5EUj6kxXeSMR4Bz9o9JMcFsrBj2lVWAKL/v6XOfHf5Mt2Dq7lGbW5ID+dhBYeZ085Shbo5hGtarzj3DWLV++Jal/bwr6ORGecFUoz1vgpkeI+4ShfSsngiXgTpK75Zl/FBSGqLAeGA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "lyrA40A/xFZfJfHfXX7+2BiK99t8+wDelrMlr3v4dABIJf4XMeeIlVJIqCoRiGMaGNIsU1NIrBkuGbWXuXhBuyd6/nXdHH7kkm4EgE6RzJaJau4DYkiig+OJSeBMj8UHTmBs7AevRXuLpZemFXlp2jC8BfJYVPJeRbA5dW7lM4eOY/Jx0obJNGThOYoHkqXTZhbo7euwjCUe+h2jdh4R3Oi/g9lNbvxk8g2D2wqGeGJ8GV6Azd7hqNZAhM1sQJL4cg3D9O9udAEtN55pxjvZoFgbLzbnpyQpwyHIfGJO9JyV0m2cj14E0xv0XUG3xlw49v6PSyRiQPZoCdpiYPZ+GA=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "Ohm's law states that:",
+          "options": {
+            "A": "V = IR",
+            "B": "I = VR",
+            "C": "R = V/I",
+            "D": "P = VI"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gZoI0Dhog0k72o+MHS3PgKn1iztB8zMFe7Fg93I+sC4xdhcifzhwQnZmU2GGQkVqLCjL28pg6oX0ayFkhDOig6MjO8uV4X6sOUzk/TggA0e/BlEtG6uYjmdlioaJXUJLSzWNV2LxCv+jas8HYvAGc3P/dYE3eGIFErMP4ooD8XmUq3B5pdyfClU5LatRzqHrZzJfMeB0bVs7fGo+pTnpGkVKwVT0z5U1o1LfjOAD9ZwpB3m9lfUJ28csKIUE4U/m49MaudsLG/t23ASXM4XI6G6iyLi6b4eKCSWVEedBp53NCQPUWTBA8qvk1Y36qCKk5yzZFkBFSZy8MupKGd8fwA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Cx0CMYplD5Rx1KO21EUmlIQpyNgw2rTxegsdVXTW8IEzHbIr9fDSM2RG6krum8d4hmA1N3F3EiArKcRGlMYy/slIp2BJOgFqXMroo6BiGw/5MUH2PKGLkVXa5GoEzo4oKsixwc910qPFTgITE+qlfRyQV2K59yQ/1NTncqoOjj8tG6XSIgAdymZdK31AjeH+W8YEowzBgG+m3e21JEU+wauYg8P2O8gwFMNgnU3lkSPLNk5pXs604M+0fCTmyzy2bwsrYbhvZh7XlhI4rXvaLqfc3F6z91w5RnhfNPsnmr9YgobUhXSsV6MEQc6KPFJz8BcNdOuUIVgJW6Tn96rd8w=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "The moment of inertia has dimensions:",
+          "options": {
+            "A": "ML",
+            "B": "ML\u00b2",
+            "C": "MLT\u207b\u00b2",
+            "D": "M\u00b2L"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "cCN2e+p/5K4UY8pKEFFQRVJNA6NfsRTNpf6PM8T0nnzE39BfBuGML1c9KNAfSu7Bmuqdk2zX2RBKwKddegNIsoYq+Xd+hF/YrusoGzKYrx5PxfP527wdozpp9FAMX7Pg5mVXUDhLyTmRhP8h6dc2CvztiEtDPYNAFhLFpBbuAjHldd26NKUDE8Z+3wcX/ruYcD1D+1CBsFSc9v6c1PXB8iDvLIVmPKIIBQHFDbRlglsdXngcjThUaDlhW39ok0dvU4qo5HJaw05btSwPfd/YV8FLlSO5itEu83kyQJpn+CYEPRFZiv2ekbT0kg+Zc3aH9nRxTtHTpPEOceBEzM6zEQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "aDgIAdv0BkmcbwfVGQEi25AB+PDrRTKCtfN2+saXMHANaCicP0fYvmIvwVC2Hp92MLo2lV1fAo09IGMOg+Jb2AL65eRl1U0yBrjqbxEaWFfmWvNu6aoT9+QycvTAXiTxhatqmKimX5JNwXUeA8tNWEREEstf3IuTJx2lzAX9RtApSXv823gdp1IwAWTKyIlNTOamvC4rqo1MIh6P44lXI+/x3wQG7hHB8gUwsHbXkauoC2ULI0Svf/4nNiw/4x5H6qIREFi2a4d25nfNYQdJFJeDNzY08vaPWhyOMyR+3y0PiCMatb3H6Auq3FDvkwU2pf4XjkZ5+96N4q7++ntG4g=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "For a real gas, Boyle's law is obeyed when:",
+          "options": {
+            "A": "Pressure is high",
+            "B": "Temperature is high",
+            "C": "Volume is small",
+            "D": "Concentration is high"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BGEyTb/mlaJHZeOCOBpKz53o1PKMTzFpo+KEryHRx9f3o/zCZZHyRq1/XngsH0AsIW6nMA923aiiP+WwWV/uv4xTNU1eh3sFe0XJmQMwhM+Vhfh89RCNzH1KttbterB3cHfMIis0S1sFznHY8b/wYOvEkfInWYwXGptAET51aMzEipfjx7VRObG2GQtfFi8LlQXPIPjHZ16VBhny8mXinPvAhxeiZDUqmxGO4oLZMYrT8lhugSHesscHhl/SdqEf65TBWfDliWd+xkaIUckVso6RrP+eGkkEE8XAfRHg6lxZWPS1pNqcdXT3GcQwPRnaX6yqJZXhNVAJRpeNY/fCCw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "lJuqnc2YxqxvQX4ymwmvTpZ8/7bqMo5OHUZaTu81hZAv7NlDiDNf3BDV7rsl2C9ecceaZs4WUSUWvTSDxPlSGLWUjMo6stZYi0KVe7e9vHAZIyk645GUI/ZQwaVjnRK5fe1PmQkVgTKWHSBFgrHrSrWnKomFx5Dybu8OsSunjAS88Nzfy1bM+tmJIq00r+neGZUz8xNWQ3iMLefSJnX7df1y3/OrBIBAOvotkdCRZTMKd2IQcjhQCvf7TTKTW/t/X5zmDi3enlt9egzuNriusPjJ6Qy6u3m8Dqgpvbb9xV7IqewnHuG2x+lfSAIT38dnYYx42Ujzg1IKtGxyH5C1EA=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The graph between V and T for an ideal gas at constant P is:",
+          "options": {
+            "A": "Parabolic",
+            "B": "Linear",
+            "C": "Hyperbolic",
+            "D": "Elliptical"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QHq4tizlW5nI0ZqTqLJ4jVd0Ff4zHpkK9Euqir7wxhszIAiOtLT7dFkYcFAuDKJImV1qu59zg0yRojSAnAdY7pkbPOZT+32Ex8YMZS5iciCXyRFXGu6c4PksoCbvoXsrGrPL5e6mxYBwrcb9gclTIMNUNAcxu+bRfjxvRd5hq3pPTqgts5Q3jpGHhDBcWcx7BUm32gxGcwwR+OUScTUdCMfD3nLH5yKTjx3b5WeShdkgWXXTbREutXn4AaH06n+2Ct578znqHMoLfO51twUHKcyM8ZmtFBhFc97FldXiEW2afvs0DbqXr535hLV5zuvqO9lXJX4Dv3MhOCVV2Nq/sA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DeEU+/yLav7ptZ96HUh/6uWYgBJ9pE/b0G1yh0miFgW9BJ4K6aw+R/OQC1aRvYEiNn1vTnb3rxdjie3HayVEqqgQ4y30Lfge37n9bEFZpZ0xYnWKk3I+VgaiHcEm+m1m1GbPLGDNTtHgUAfBM7xRYlQSJ1f0+rAhfOoC7GFdNDU0HgLboMszOjI3rhzSo3O/wTNDUoEKV2S81sFJsmSwEzV2OAvlhDMJ0KwrkWxx5FP0AVw+LPwmtvCo3YQUvM40m0OTlDH9sXY4S/3m5E6AkbfuAcE1IXLCT7ebQDRd2jQzAkVWeSvcxbX48u0K2QF5p3rhYC783gFpAwUhEJoHeQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "The IUPAC name of KMnO\u2084 is:",
+          "options": {
+            "A": "Potassium permanganate",
+            "B": "Potassium manganate",
+            "C": "Potassium manganese oxide",
+            "D": "Potassium manganite"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rmIZOUeG/ayCVefNJClQJGciguy2hjkp6dNbrnHF+jc4zxGusM7glZtUAJfcwIfO9GGnC/tFPWEj7PucRGCubdgrXRBO1UuktGFMhazXl2ZU2gVetHrN1TTaaJvb4EqtAOOjFR3K1LBgxVMbAC/nPz/I+XNKwPvCJA8luXlGe1AsY1sP9K9W0IAI/XxEGgs6IEbJz39DAn0RKEW2cBWsPHI+85x7zyCzsuhQ/BIdiQWPRazJc5C4psmlCKkjezVqR2GQvxIzDKLeGo58B0cEoBcnDmq3q8R4oIDcuT5ewGKsqGS5RzdxORJIhGtOR6ksgJLFCrjL6ipc5uFm58DfdQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GM0sJfsWaO/+OKCYB2Vxfx8+xXy9uoZtKqWKI50KeH0rlbKGEaNAjD8K6B3BsKyxKCWyPXsIZ/ohi2iPwpKSLuXeXkJvJ5T+JIipNcZMR//InWiJsBNNJgOaK3UPsrxJye+N7ygJu2LOTHbScyv/KFmSlgs0VWbeKKY8ZQSlVzAMiLs9pZg5hfwW6FMAWU661vFno91fYxAafCKA7oJTWk5ktPxXM30CHrRHj9E4oILSMTWBcFnhxr7W4HTpiV1SkU4LPqS68XbJapnr/+INNKXH/HMPBUO/tDIAlHHeWMr9ecGhHOSpdP+TfaNXdcyJQn4HxyN1Yc26MfxXbiG9zQ=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Which quantum number determines the shape of an orbital?",
+          "options": {
+            "A": "n",
+            "B": "l",
+            "C": "m",
+            "D": "s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FsJhSFkI4xkqlYA/+XcdTG2LiJS7B1zCWOMpO2p6TU9dTrinnOwlgXI2uBRkwDiR6L7Bvs8UmBodKagrrcQpG6V7ERytCqmuSmdfu7zgPP2SJg0Md8+B9/uMFus7c/waGSVQiFmJ698IKjvXdfWujFqkeyyQwBx6Cl6lSw7fFUrSfJNK+iu9qazwUqpQv3HJsnZiqa6I/QN3LiJejGm0hK3xTA3oeoMnLl6rKk1zn1MIB49KD1PvgiOBLE2dUfrPKonlNy8BR47lEH9Tt2kzgGvXEJ81yFGTOGmFoXr0+bMcrGnRlheNu17TWkkugf0WH61WFSJSTHmYy55aSfZIoQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AOfWz5o8x73FmssTl4MhVeKNfoqfCKn2Yg9Ef7A6Kj8THhrAJIpyIpsVVyp1mS2639NppYWl5PY3QebGFduEdtMDUFcph4bP5Eu3YKkd9BsqWeBkpVXY2p87oKfWMKwbox3Tv8KGbm//ifm+/Tl4QRdXcuGArazbb7Xqvzp4SuArTzM/zB5XY8C74XrVUdIrJtWe0xuBGtYotqOyG903PpliEMpaiqG1KIz1/x4ZdjPF2M6sUg2SbiC5WzSzSxrJmF+a/D4cueVtKWZc1a8/eLVboylFeDYufEnFBxqghFSvs6Ssye7Mdh1yQAevKWQkvRbeRDcd0SAwnwelC3FxhQ=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The bond angle in NH\u2083 is approximately:",
+          "options": {
+            "A": "90\u00b0",
+            "B": "104.5\u00b0",
+            "C": "107\u00b0",
+            "D": "120\u00b0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "KdQDoQOstAz/pBk4i8NQQWj5EfDoY+CEpskEWCvIOIPFWY8TuQDsFGIN0wK+joIFbsSUlBuZNJ/nekUrr52cRsxxOoi0BabjoK3whJz/DpyKikMgXUVNwqjItJT15q3US3WGMQPZd3gV3WqdMbFm1Z58sM3JnV34pVZKa5AkN1ZHrTp8lmAzJUoX6aWEyj80RPmwk4aGEhpRVK+LcJeW0Su+c2mwNRi+jNE43kRo1ze1Iveu6rucqF2/wi115+LstcwvlKn6mSppy+o4tCdMG9Lx/QA4FrwCrTkqzrSLBV6ciMcOLcnba2DYMiLLKrs8nvJeFbrGhlcQv5e0UcU51A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JuvBMW/fjaqMAnFTwF3yQV3lCw4N2jc5t1saIVo5+82IdjlUX5y+oLarZDF8akMxNl1DpLd26jk1PUXYMWycDBm0v+TeB8j7jw9wnncggKWmUA2DVdnFLW+LM9s+KIugeEJc4s87/zvUFHgpv6NUbMT9CgcLVjI909z4zRcFIodE8A57oYm/45Zk/kS7VceYtpctBAX7Q15XJ1nJ3V23SSmj4QX2QrYtc/FYVFDuFI7tmyCXcyN+zh/84h41tY6pG/32q+D0iSSRRF4CHUb/KmQAJy5xf68LNwflU7f20w6ehWr15JRIpAThco3hI9WdaKoFfXgJSfwfqaIzCj1Chw=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Which is the strongest acid among these?",
+          "options": {
+            "A": "HClO",
+            "B": "HClO\u2082",
+            "C": "HClO\u2083",
+            "D": "HClO\u2084"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "R1c6oFuDRhrExGjhZFmx7Q00SbhWWHVB8mabl2eQ89Yvwy28v0UbeU2QpnIrnD851h7CYQUl3pfn+lJUeTd67wEuxogWSrD9qlC/KnwKmQH6XIkFHPPoUy/R7IByxNAg4JjIyz6YIYSTI6bdQtISJ7SuY/DZwERj5e/hVy8ImR0NyscI3t54bQFWeH5jrls8c8e9Q86kDXfMnTaZnCcR6PXfV6iTQc5gfK/arGhmmgGugSkPer4JI/KSm74oY44fXJYrbXHguKGiEBm95thVYKaMgZs3bbQ4/iTCFGUPmLxtN0Gt5jISNcdwdY2dV4NU6sl/PClcF/pWnNtA/rnkew=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ibBLXrV56D98NDdfr54b7oQZdHB8CvRhaenC7UqZo5X0WWjimhESj4HihEBg3pOJg9zb8OmocKQHv4V2zf+famrHhmMsS6mENC5Q06lgmTk+l2b3TIhg9wgUaQqE+imEHgmg5yZL6JTys5FrK0YCAVZJ+myb5ROPJ7ZJAcWwjT5kuAOdjlwKqjxvp1hNEam3vYXFfgZFllSbCnJe2rJDnDPhyXHO6JN+plWHDP7xgfLuirZycHUHeYtqu8TpJL3AqgLablbTDnHRnV358dRNFGV12u0QkonFj/zpm8AglE2ZCSsvuQqpbu4DacMGZgpWl4TEgM7QOstJVTqVjwJQFw=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "In the reaction: C + O\u2082 \u2192 CO\u2082, the substance oxidized is:",
+          "options": {
+            "A": "O\u2082",
+            "B": "C",
+            "C": "CO\u2082",
+            "D": "None"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZU0yrVIcsZQx9I1xQ319QRVVK1CajRdCD6cZD0Uia6vP+xMriH3iWlQC1vNEjQapUJZW6DEFvVXtUG2hJIjjTiGRiVuZ6dvfDKAPyEscz6mRU/vTHiNwJSYZifnNm89JItmiW7gmLGsgS3DDhxsdvPuFh9iyhmXvcsM/kTEmlMDgRa9+OzGam5rRGDsjW+aV+toKOXWYnYq1oa855LagtS3Py+raS+60/0IGSiM+5X+23X7Gfl/+reGb80Hish7Xrn/DGfpjiTwg7ODGvRX8qq7t79yjUX2VFGlVEKTNFBNY7jVP1ejG82AdeCPgzS6M1Q5Rn8CCe3NYlOUdaR/2QA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "l+Vn1xFgFZHYTHzdWOUd1Mx5W+PVImxEQEOEw+bNQkBRl1dpERi6QRT1ce8iHz6ccUatB1ci1SM7qBalglBQ4P7C+pNuxUTg1AdHFJc5GU7eYJ1RrjdSmBoztdVVvNrN8yjPfB4tYnVkoaVemffQiIlZmTX33skNiy9Nxmo5UyPN1n1uIbp0BJXRcZW5HXoZ6NFOdD1ZcIr6kRSWku7M59Rei7xE54fIlZ+Sq8Jo61rlbSX0/DHTumwD4cUp9Z0ZngRn+LetlIljWU/EzW968jlU9MRcy+FdrSLY17wuNgTnY8k7uJ1U5uachcxVesR3ldU2Zsw6QPJH+cXy2eyb+A=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "Photosynthesis primarily takes place in:",
+          "options": {
+            "A": "Mitochondria",
+            "B": "Chloroplast",
+            "C": "Nucleus",
+            "D": "Ribosome"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WN4voU/qx8q58VLaAil0VacSlVqqNSleerAyISoAWPKQD0M3J9gUzbuKZHf+0TjoJSptgl6O8nBj6AFANRO+geIhF67TFAxYTJrKgHl7avXgsHiFFbkSZ1SvUFyyp6FTpqHHelfD1unYUBVhAZuJo4xXeyMNOtFe8d7XEGdMpc+LeYDNbVauoZuOjgRP4SZ37q9umXwH4B/FpEmcxJeU3rp7MQlZ+ACmB9JPyewcmmJKeapM22Sr6F0JkbQbnUHrlXpv++lodcswEvrMNyHgNh3UHvaGK3Efa4s3L+njBQDTsCduCZt22shB6I+lwXsfUbt8gagDgzHGd6qTuwhImg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Jd4kyOJ8xqLzxbO3IglYGMHitoLOT17D+I8LeH9cGxeJ6UiW+U9SUem3M6W3a3uGitDaO8zz7sEUDcTCHPzt/iT9VUt0bPLzU+ny/R05UbGnb+6oGWvHKtDWno5y/hxuh+u1yKVC3N5LNlMmb4gJCKTCmIo4Q0QG1HO0IYiUqb1sThqBzbg0HAxfHv+mzquI5PsvTPyFYSprhyF87UHePa8y9y2C9Xfw4Ku7rVq76T/76rxEq9d0/86VZLos1kv38AA5FxwAEgPq4lHHHLBh4qCl0av+cqd3wQ4tgY67s2LCZKND9Sa3iFqlrKEgxB/mERWl06KfSv7lg1FM3Er5ow=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "The functional unit of kidney is:",
+          "options": {
+            "A": "Glomerulus",
+            "B": "Nephron",
+            "C": "Collecting duct",
+            "D": "Loop of Henle"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "l7v5Ysjn7GP+yQcV7NV1Eu5be6P09Nn6iPVL+lEkho3Q/rF90w44gH8LOf2kkyHeIabDDCcfHqEcPS5bdOEMPG3EHOBLkqbtHCHVdaYl7ghUMgCFnvFvFWHdqPrxTZwWZINisbNpSfCFGGlBdPpjqrUHO6NIX0l/Uj0u7cS/Z3lf5uUpyv7vNzpBDxKahcK80YhXrDENx/fBq1HR7whLX2QQ48ubErOX8ZGnCjU+32UTm/vvyTypUpor+xw2C8JJ61OL+lXgcf0R5HcQSf7pjWkgSfD2xgUlWel/TqKXumTT3soxQjUEJxvjlLj6hg/jZ+oM/5oa+9kynbaQ4rg+vg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "P+r16UietoZYtZ0B0lMJEBwfwq0EL639qRDAcPOp0A0JTHwmQd9UEROQuYIB+9EIEO8oBLysbBCcu7vnJMwB6aGWgitVi28hAWhbBSmt4X9FeSrevJWjS5pM/PLx/GCMZJ4St7IL86FzjYakh6keyWaqPIrvVlSEMYAZHaEVwB6tQdOsQpl2sxp8DlDjPQWdDD+W24L2rjux+2RO0ynE5l2b8u7uIDxXAKL8OA5nkXwAj+cPte9AWbN3UEs2Rx6BZ/k9pUT0N70Wrpnu9YA8PJHdHiRx24F/9ZL7M+7KItpjgcRUyg5ooOref+WwQO+jW3Rx4KDu98kwJ1GGT5a9VA=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "Which type of immunity is provided by antibodies?",
+          "options": {
+            "A": "Cellular immunity",
+            "B": "Humoral immunity",
+            "C": "Innate immunity",
+            "D": "Physical immunity"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MftUqZJSmlu84Q3L/uM+MXCsRrvAYWIZDOX+r2VdVqNubChGDqioIL74Il7zkbFhonOHB5BFGRiW8YNkD1tF6lTdgiWU+UtzjvPKkne9kU5dqJ8+MQr4I3aLuDaCRQtLxaz7euL/SUZxoxDcwB+6bZtFNUomQ9uhFVAbLbN/Sal2iY8gFeooVaDwkKjsRwDoNuprF+K4sw4IpnXo8H1mSsd+JqndbmdLA5dQhiS4tqc6NJAPXw6sdC/Q2MoZ5i11ivbX36o3rk5SSQ5RgBtWwpglqGN+0i1jskFScKBJcm7KZfmGcff2OEgEuOr8WwoCPzQOBecMUFuccPCvwOuPag=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "OXQrTAh1AzfKeRZM5408J6bXcGLYM01a2MlRF7HHx40OJawPRtkUVSrm+vLebtojMAvD7lPIG5+M5awXKF3hHN8ljdcAkk/w18peR6xtefDWE+jYdUC2LhKHtyv+MdX+UZP8Lv5co+XsBiIZg77r3sxIqQrXmv5O/igrdpNNN5G8VB9NjU5Oc548BsU2DmnHEXw7XiaXWuIZdr8k2lQvAE+AadKIqaB0nv+VOB7H9G1Ub7PW9OJbCoLjXk1o5fiuf6647gwJxkFQ+EudGoOsbTIRtkJ5rTyT3h66QHCc7DtL0PnoYj0xWuWBtC4/d8Ka+xDqokgIIguEFB5hNg0njA=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "The enzyme present in saliva is:",
+          "options": {
+            "A": "Lipase",
+            "B": "Pepsin",
+            "C": "Amylase",
+            "D": "Trypsin"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FV+NMdYOoXPpx98cAShD7WP78IvLsFsDdxZRSj/MBbRE0iZOfcuTTgEKHrgZ3kt9safeSeDj7iIEgMlJ1Qp52FnNXdOyePLmfLEpeJAvYr0oNYafuGgkTpsJaCWEEdWKMMf59DmfXaCleUa63Lhhw13HAjOe7cNxHHAm+IKjFILrSvLHHsH0Prc3TzJGu1CCQ793I2w8LrrtIBz2COqAsDyjlRKcHzGjvQiFPUlGesZvZqZNTX9BbYfY7t3SfZKuFoeUp+eFsvIr10SovhIwcXfYOTmIdVvO0yOkjIuhQSl04umMdH6ph1Q5OS6HIP62heQQERMsg4glnI20vGJt2A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FHPDrCDYShYScBRNOk45a4wBEheAeJ16KA77HEdc1UnJOGVSsnowsP3ws5b7gliM1CmN7CMRyEJCfHg/0j8vV/T6rMCbLckUCHGHkFil7FDiepOXPHGgdVkcJuUh2huYonOf95F2mnBZIAW6MCux7XIo+hYurR4I4Huf/KX0gHKlv4k7vSxgvHoKSwwARpP9PltgyEZNwAzr8eURaBVnnr9uvY9GVyzF8KPGMShyY8whbtZBC0NcMFTTcJnoLRo+9UG3jTC/vPjlVj6ANIDx1yGCXtwra9n55WQf1TK4EmbfxcdfBi+bsrOvVJSXWCiDx05O5zK+NgprKXa/85wEOA=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The primary structure of proteins is determined by:",
+          "options": {
+            "A": "Hydrogen bonds",
+            "B": "Ionic bonds",
+            "C": "Peptide bonds",
+            "D": "Disulfide bonds"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZU5eU3wfrFX7TxjW2cqrzywOpS0MrjNv4R+62hyXCgrpIgwOSW7Tf/kxZ0eCmWBlgyjQ0MZAEpgf62tL7bQKg3tYJBFGAnqlRclPp/JrsP3wT6tt5j+JOFKLNF03hPvR3sYRTiCf6GCXsmRZhHEzx9PCIHIYALa19l+NFzuLbYhNcv1hpnvWzQ2nQ1tIoG8XVng+e4vq5vSpPtAxAzwBxKvPXxMxqpYLPTByWBbosbquPvMfSyh+vxWHHlmeBmPhVyqleoT3EkBTWClkY+bwQrwJCz/o6uI/YicXlSaxj4jxn2VYNHOFBsUWwj0KaHOSE2SRU0GZLOO7ZMNsXYDOaQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qu2C2kI57pwyXfFEQxPBhYrlo4lVOIiqHQ9IObyGyGOqZPmWQWHvekah4NfQcxi9HaRDqEIeOCELEQZIsjXgrEL8BOY41MgBwiAeK1D/QHfmvxkaVFXP2nO5DCrhzscb7zu5A4KgMRH8dkSS+TxuKkblaNwrCKsZLIR0VJddzVgFR+1ejyGgwkLXX093u3EVvQ+IK7l3O5cRT7E5RCn+ndiJeXQAJ+Kqf8GeAks10b8N3aqZSx+CqPfLwUYNO7RnFYM6qrCLukQuPLF9q8mP7T/C/8mC1gwYLoaBqN5gKw4DzEb4Jw+VFRqSrwm+6TD6Y6XMxbdOk8IOlvohJT476w=="
+          }
+        }
+      ]
+    }
+  ]
+}

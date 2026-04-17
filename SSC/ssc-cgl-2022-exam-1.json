@@ -1,0 +1,332 @@
+{
+  "exam_id": "ssc-cgl-2022-exam-1",
+  "title": "SSC CGL 2022 - Exam 1",
+  "category": "SSC",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "general_intelligence",
+      "title": "General Intelligence",
+      "questions": [
+        {
+          "q_id": "gi-001",
+          "text": "Pattern: 2, 6, 12, 20, ?",
+          "options": {
+            "A": "30",
+            "B": "28",
+            "C": "32",
+            "D": "26"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UnbWbmu0bWsk3w/RUTsspo2LfVhrJg1b0A5a24ramCbI5UL2eMJKXRJjdJ9d7fWMy0cy+I31JnPl6E2c8+qWBm5muAhBKaI6T1UfrSxyVqb6nWAplCIWvMWDmUABXdeTlDs6YR0//C16gBFFuH3XcXVYiHfOUkvUQsA7YgRvcN7oLgwkMaLgBI3H3I5ilf9vMW1iCFKz1cPpJTDeMh7leDmuZ6WwawJvTWhJ/tFnFE0BUyDNIgNUnPIbuu9f4fd/5DtHSmdl06K/Fc1kstrNTsQhtO/ToPp5vKf3hEfAL+dcKemBsA06kIIcXPoV5gXCZC8Dn2HjnCJXecg+sHTV6A=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hGQ3QOl5bDJzGHVxGFEjuGS2m+yEct1VClVKUxWhkZdP2mAX/ud+28GNWfdFlnR7SXuaBKn8yGfP0ok/ordcBc3eJLbo/CiksFJgj0uWGopf8HDx7T3DR+JQJlPT0N4MLn00Le0JeTNXC6m49TN8ELk8PWi2NuZYRZ9mOjhAD/HftgtHpQAAWM062mfscDAp5Ua+n/542V8dFrdvcLn8TYg5wkaXcUt+UVoOIyiSelWhHI22vRdyep7SI/kUmBS0fu85sK5JMy8x5RcI8TQEXAfzT0m1Cx0QFXOfFC8MLG742JKjNcGjhxwBR8rIH30D11Hbt8To0ou0+pGuA5qBfg=="
+          }
+        },
+        {
+          "q_id": "gi-002",
+          "text": "If pen = 50, then book = ?",
+          "options": {
+            "A": "40",
+            "B": "60",
+            "C": "70",
+            "D": "80"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "n2hQTcqfhawgLpke5FSffmBXhai3f7XVyMidXWKdN1vuw+tNwGdWzr1qrmUbZHdV5xzvEVUWjN1tZiTgOezq2x8jLtuyzQNoehQBRuRkZ01JbiQJX4cxT5iCot3xAPJqSV3wBwwC3D5YnxlrZEcTqjqWS1AesOrMTzhT9w1TabmV7tyBakKxwo741seXljmmlJZg8S/Ht6Yl0qX5ucxyaBC3f6Fqbq4SrwUoXCzWDkwQlgbwpI73wH/MCKYiwys+sxpvDhDB3yOT6C4cdUjtdhWfqPRXmeLO3fOmg0kodnHbeBKs4sVK/1O7U+lBJ6ARGOtTjiBNbqPRfocCn2KTAg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Udc/1p5Nfakp8rhyrfdV04wdZ3QuExoCBuHIG8SusSy3N1k5TDRIILZRIq1KIUP3eIcSkUZtqzeRrcbD2uBd8u9BbiiH0WfEfY1Spi2+9yH5PbsGcMV7YF/vjeBhgnmVcdw4XJRnTOih6H/xVEoIxuNx2f7MnrGIHJipJTCWocXoiUdx+L5LbSx/rGMRcVb/lm2mUg7O7UEBB0zLFrkORuwM2HDHEkCDOD/hRPHyAHUeNo3JPTix8NEmm3DJvEQrQhu7ysXDH5qZwhqgPIg69ke9ofZ6tU/98UcHWQFI8GNkw5GtItaddj6k1J2BJeKfgtu/1Zy+0iyX7/ra+NJmuA=="
+          }
+        },
+        {
+          "q_id": "gi-003",
+          "text": "Odd man: Cat, Dog, Lion, Car",
+          "options": {
+            "A": "Cat",
+            "B": "Dog",
+            "C": "Lion",
+            "D": "Car"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "d6Mti9LQ6FH3vKMgVETbQUSjgvw5ltRIk49Hg3sUBhLCizzEKBotOVR4oJ80lM7uJaSHYQH3k9DU98l7ywi6vasPWNc+cS1/Q2xOs3u2aV7i3TM4hK1BCXW/ixqqJ+fx9xBosYqny8v50O//P4ErLZ2PxVhKOqzcO0d93/5SyGBPB8mVkGVc6RYnpqXftj0u6xPHNH7VsL1hgrreiSmvbRVtWO2mJuG8mfKjXLdNP9w1THV0TAIIPPKCi6Xqwo2gxDK9KAK1cuD1Z3/wafZf/AOOmsNszyd/RKv6jSKWYurPwYH+IBvwl/Yy38ECKza6bh7+j+TTZglovDW7yBpvUw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "OP1tdrK8uWpr6wL5u8ZEcLY/4PJ34zfUmQfUy5MtvMQnSEaPzflIz/U2nFkmDpWC6FlXwBQHdCY2SZYzRCQZGJpOpFsJkANXHaucFaFwl7OT14jweROX/h4p+Ye+fTikRPJmRWO/Ixg/SPaaD1gYzFO0+RzxfbZ9MJCItPL6sXGdKhXPlMOjzgG3uGZFaSRCQCZCLBSQ7f7iou94N1tGsUt4z1bUvcrlXaU0wEnA7TUvecX2WF0bbWezlpPSrVOXgiBtRGQxFiqK7ni8lktRyrTbWbM+qh3DQ/VHLuEU9h3snk38vWuShbdRz3fdGsp9StFkWd5W1KMO3HxilwpfKA=="
+          }
+        },
+        {
+          "q_id": "gi-004",
+          "text": "Complete: Apple : Fruit :: Carrot : ?",
+          "options": {
+            "A": "Food",
+            "B": "Vegetable",
+            "C": "Plant",
+            "D": "Orange"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BwJ3yco8aTtw+YqQgl872tXk6fIdO0fbwe3ibDFBqBZCt8LsWf77Qr8NsjBTsnDCyazuyhceMUgCh6W06g5zNZOVbOrO60Bsks2FC2U8dSDKp5NkWJeoMgwAGnKFDB+wcVp8ruKlluOLHV6w46xO1SfOmDk/hLkyYEpKzprYYYZ++bJLjgSJf8vjdf7tmLUPugqblUAKJWm237MhxnDlU2MPsluig47E0m7z5WY8qEjNFB9sp6m8SFE8ZgrfpFxoaAQ0PYjZ0rrv8lu2in3nyjWVwmy/Yhyc0GDKyIq30inufPibmhrjTvDkJIZotay5gYGh8gHlYnTQz3CTDtJGng=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "MuqcnxgvMzIs4Ie6SwXYlxwygB64LsRZbHs76FDJ57idRsTo01Rizj+w140VIZQmFq4YZ1HfWMVcbsJuRogk8IlQbkvqITY9iByUPVbAFrAYbNDb+oW2A0coQ52Qd3D+aF0VWazfWDWZ8/W+R1ZKMU2YeaxpGhRiUkS0Svd2TL5N6CD/JAacyoEnTDAJaXp/2sv2EmNv6XFD1mDIZE9K8qh0VCwq9f+n4xeZ3/SharxuBlTjJt87bz+VYppknEDFKJj9LrGvDdIPor1scLu6+XGCiA5iwhuj68IGSRDhNiNQsALut/t62USduQc293GWvp9rgz9hUFUaf/wSFU3oYA=="
+          }
+        },
+        {
+          "q_id": "gi-005",
+          "text": "Counting figures: How many triangles in figure:",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "avA69AR/B1s6NzHCTb9ZeviqP42KKKSXNVD3da2UeGAUVZQzCWeg6R9m3xG8bgQlhvxgBv3Vi9EG3yADTsdWyMSyoSCBS8rkxmCnZrU9QPIRY3Tmr446j3FU1XcaQI0l9dFPTJBCYrpDiP6JWiNv7JdpjKQbjoQfayyQYP7kqUa63Vmmr1CuCayAWHGrcK3bAYq+6o72mrWCzHq3xBXGv1i9hE346p84fTatL76ee0PWUkBvN0ushjAq3i2rWnMHTeqoR2TyXDJbIHGYffrF/YxP7dS/pzO6SxibRy2+vGbazjcZYmHBPRGrjrJigXO6lKHs56xbQe7WWzms44f+AA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "KF4ImH4TKWblAuHXhz18JWXo/vaLCPzajsvq2ljdRzbUqVJ5J4m9OMNQAKvlvaHMVptuUb2fDu155A+7sD7+FTxWVMb/xsBAsh6lTcFiV26CAImTvgNAwpSt01VfppeX78nyezrjRi69psXi1h/Nfnz6HT9vScndGAqID4vTn0KofWTD0eP3DlOeVi4rIvK/PDGhWU/6Y8hIKeiM2qJLfKwv0NOjypXPoVBjBRLkHRb/noVtMktM5OVepInQZ+5h37UYIj1mt3FmkP252OIB0aTNzncAEukhe+MDwCX6leP3QNhKGgsiiwp7DzWg3//4A+gXnzgpkedFD1DeJMFFiQ=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 25
+    },
+    {
+      "section_id": "english",
+      "title": "English",
+      "questions": [
+        {
+          "q_id": "eng-001",
+          "text": "Preposition: He is good ___ English.",
+          "options": {
+            "A": "in",
+            "B": "at",
+            "C": "on",
+            "D": "for"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "G6ewJpfgWLvtWtPpcf4b5RXGYv5uXwm3xoSTgH+ESTUIun0ECt/m5O17l935JqWXsKBwe3jEKyxWrA357aOHgPflIRWWqMFGGK/bg/tBoM0975FhGhAj1a7osW0bgQFncuEdJADb2RNrGZne9wgoX8ac1QxOXRRcp6ozK4F8ALWoxlMZOJLTbvDneb8z4wbRV4aepemnoOeG0lQgkvdLIk4Jb/4jJQ7CBMkRYfXYPDaqXBdHRl2CCeVwsop/BwI5yT1BGAI2CoivNSTdZz/zYT3z4braBf+8jyFZFCDTpbjZk2kpeEFtpjZDGU8AraIAJvQAcWfKVKRO6wfOInNGcA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Bn5ZoeUxepa8oiJ1LKatlXFKyGDyCIzgq+En/KZm39Oeaddmc8Rp91UOzPCKKcFORFBlShjAasH+73tATJAY+9dR7lR9vBBki2Zwn0XHYzGit8A/ohtvWfgtb88clU2bp/MMqLI/r82TFHUtOEhgZqqaanuJxQ+f6SApV13YMIshl3RRgOj49bxegUTq+Q0wSvPBmwfcvlR+oRPhKCHGbMqfFRh5FZf/b1bCSwn5ByL8ZzteJ3iGz6Wyta0rjLC39p3hvaNsR8CfpmI/2WejtjSIAJo42GyviJnENFSMiPVS10xm0FRE/djnns4Iyo2keeXQaGUwjupRnzJQDwfhVA=="
+          }
+        },
+        {
+          "q_id": "eng-002",
+          "text": "Voice: Make the sentence passive.",
+          "options": {
+            "A": "Subject becomes object",
+            "B": "Object becomes subject",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "eV3/f/N0ItDWbGsYQADQBgN9Ybha7OehC4h2PdTSYYNqHLNvDVvdo0NhqQWJ+3AeN6ERvCddY9FqjzeD1O8mlpqauFG8/SDYVM6NLtlhcxsXKEJUwH2djR2y+v14PrtAsWSJ54tLObhYfwkpEWrncn+dLbJAnnQ3ni0/FRsUKlc2zVv+DiJ5HCrRhAJbcKQaDIl3lu0VBk0FEwCJClp7FHV2GxCukksUX5R3fH49dAImy4TBH6Ow3HN8doWv7PhDHSYIvnUv6U8AUdELbJLfh2MTJisFuREA/tQacc9xC42uH+XF2mV5JrtcaVL2zfP3SPJ/gQtZq2BpB1k5CoZFVQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pWlByGWHyU29M2EosY71pLOv+ViA+nPloTH8Ns+6AoTxR2z926u8Y5Y03exoPFh+wK5j15SaZCs8z2UcUm27SYKFBBJaV7UuPuU3uxmR298dLu2RD2rwCpZM72kcxo5EhPNkwk+WuNEU6UQV34dECwyDZMAzjSCYgae2XCan5Fdhr97T4X9CJzzRIiGGSV6QevGqEEfunmga59vSdyRB7zA6v0X0jRnF4HB9i+/gRDdpxFB4xelqH09pvVNRnoS8zy6x7qYI7P9Dcyuob8LuHa62JDcgJ2KUE420XDYNPdM0LokdKHZ2hjN8PYiiZfl+oEqCxQJm7nlIDMg7zxxzLQ=="
+          }
+        },
+        {
+          "q_id": "eng-003",
+          "text": "Closest meaning to 'Meager':",
+          "options": {
+            "A": "Sufficient",
+            "B": "Scanty",
+            "C": "Abundant",
+            "D": "Strong"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "H6SR+b8jXuuFrOR5Kt2W2qWPGJTwRLcKzfssEEKG6OPN3cVlwZduwQmWepRFhtnKm3MzQPKpaPUq+F8MUofeAi8kdqFjR7HRxRpFA26pgr9WjBAHxsm+hDKVfuBnMQv+hOkkTMy61S+wUw2rBaE3ubCMwlUBtfgeuMn2Wykeztx/X6e4ECo0UMlPSc6kKTi9CnS2LOKhDUFXHu31yvDcDRbtYNqxZYVZkWeApUENaw0yY0J48EPrJG/w+Z6ZulqsVHPxfS+AtLV8I+0h4u5EWqGBSLmXtrkKGLGNemkWFMER+bSpWbttZ163R7MlFOYMbrN8QAD/r4OEm/wnfka64Q=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sfPsjp1chOzX00Dm0d+0wjJxOaAciwPYBo0aQji8ICeWetwlRlC1VGZ/OHPHdKRSmZCM2VtBx/KuLJDzE2Q8Grd0hpbAfUrPZ3waJbi2oefOtRfncki5eW7ysDibyGYTaZFx2d0Vz3hOjFs+DGMdy1F0ITssthzkazR+mTvJ4IJXkDQzqTfQkUNoSfR/KOYSn+G8IiFmWpxWyBu0QlbiSj8uwPBpUxhZbr8lLDjr/a0OV7PT0bG3FHh+0dj+9S1JdY+oBxVlrCy5V3BlVOhj4pMPukys17t5kM/bwmjkJUinXJsuZ993zcaaj7z/2nnHiJvcXDoOr/1JVnH7DUtL3A=="
+          }
+        },
+        {
+          "q_id": "eng-004",
+          "text": "Correct: Many ___ are coming.",
+          "options": {
+            "A": "peoples",
+            "B": "person",
+            "C": "people",
+            "D": "personss"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bnt2e0sBmr/okORp4NpWL++qgbUbZZTDXubFL+eCC0GJgBjzVQx9hv5+K1SNRtdDm0TInOeT2viLp27R4TtmT0EOLMs2PAOdIdnT71IkF0xet4iNxopQejOul+CuvbVxUd2laoa1crdLnXEjM5Ci80VDM+G2HCxISW5e6OY8MaF9673anGYAQ0L0vW8NXoiRnDewgK24Io+hYM9ORkdM2o6nkU0RFyysfhNQ7frd7aCO3kONreDc87ws8m5g82nRRdXo+ndnRgpR7X+YNvEWwdf6lCxhRC8USf4ILi5Z/gvLEo5TMwv01jcMb/9/4sNQQUQ4oVqVAAQaVj85OyFwbw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "aqB0iFh8sd5p6Kx/g/5LWv7oKZnqsayc0HGRq4MSUhPEM6TagcA7N/o5kSCXJeHWj4WqX5ijDrw/28Z91XRqih8lkYhH1hjvURFxYmqDorWprdrXdE6TxHGcVRb3koVhwGtci7T5WEaMyUweftV1dIfR488VHRffDUmPrwCisS4gMfF26vX1XETWpXuv+ABCvnB1d6sQTqnKph/oA1vUseBu0HbhtRFibeygN9/BgXxS0zOrdFW8ExCu/E3L+CeFyYA9/Hg+7tr02KUVyQO+sKzMV/4AplTGDfOhlQXWfiJgrLHro+Sc9aHYfiYWO4eAiU3M+aiuXZ89/SDcSMc3rw=="
+          }
+        },
+        {
+          "q_id": "eng-005",
+          "text": "Sentence structure: Correct order:",
+          "options": {
+            "A": "1-2-3",
+            "B": "2-1-3",
+            "C": "3-1-2",
+            "D": "2-3-1"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BXTANd6JWgBPQ0CyonGg77xGpzMEc+M4EjOduOg0Epaae2ueO18w2DL9hqEGGcOlRSfKYy4PdTRLc0P9TNcbdB9rWNpMcTnMz/5yewoHK5kxhjpBsWn88dMXdbF7mPTxprsxHDQ0xD2G6eEmDd1xcJV9gdJnOqBjq1JAFFVGlqG/cwX2O98efUuqyiIcSyfrZ2PzaqwOGCmyUlkpWLDpDFsFMbgGw04SX39UyOjkuZEcXYfYJCtp55RwohdqBDVwsd8wrMfztHOEb5+N/GeKGf/Qwv+lqGkpk/sEQ+ykYLnsnwvp88cKZKMCthlNvL9RJ+8x2FNgxzX8PIz0KKIeRw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "SPsM8JyYSJvwryVxngLn6LJZmPC60/ULIoUS6bGmEPoqPGyH4DJNmRBH9Bd6buZ2PTV3ijwm1E+EZZVmP1C4U+kJ+CyJ0lW7L3a32eKqjbdgDniU+yZNiRqXXLfeD+hg7GxQs0bvLoP5wc2vfecFe7BCGdEP/MVtTdEYuwwxr0RCNLE4xP1w9nYOrQ5Z9/AxzK6Yaw0TmAlUOvjNFhMJiTMPRO3Wyqd0FI9Fhk8S5SV5zDazSqSKMV3X0jgfA2YlyT32Ge4DuoNhpV0ywlAsfZujP0C5AriIEoIY06bTQPWWLyrrlA/jGtxAhchjQIg78E5BlWypp0SUu7kMI+Ph9A=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 25
+    },
+    {
+      "section_id": "quantitative",
+      "title": "Quantitative",
+      "questions": [
+        {
+          "q_id": "quant-001",
+          "text": "Percentage: 25% of 80 = ?",
+          "options": {
+            "A": "15",
+            "B": "20",
+            "C": "25",
+            "D": "30"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ehfbakkAjoCftngNLMTCJkCEmRQSSUb5+eUH9Dt69oLhdBYXw6+tHDkguN1oh/EWMuhShKr6ieZxpKpiVH29O4K9w3zVdXIutpupFRNjLqmZSZA6jLe9GkrIZI99pmCSGsXl4fFByU8qz67Mzf/371+wm2OK1U5eyehJKS8apEzA04In4b6qBJ6UWJYNABHqP8JejTXAR1ywaczBZLpXDfIyxmV5Q8u6+ZtHSdQbckE7tl9QO0EdQI0f3UtS5S0CDfN8AleyG9/4JPqeTX7vRf+9smS3UNreeStwIbG1Bq+5lKZh0TsFxxtRHNgEnlOeWKVw6C9LytKttkeCb5oh6w=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GzCo3ZLa8N8fajcEpdCJgnQXKx6PtfkCuSoT+g5wfdBvkNoHmWI22fZII4CbnDkd5MJczxeZ7wTnHx0EKfSILlEe35jmadAu6PRJvM3XUN9diYztTiTcO5ScLc7qKaO9pDUZWFb0K1dpmY9nd+3Aftx+1B3EeMTo+TYYA/Y4JDSB1loYP7LnU5FzXEAAzGTMKEGfcFSaNz1KC297EARvjOH15WounlIgz7yRMVyz+Oz55/hPo5fdchMEhbWlufWLbjv0hzx/3vvOK+Xl9ONPdwla1sd1mPte/RJTd0ZRvG0uHuoZYpDyMMcvYPn8/IbWY7YcfHJHIcNA4aDB9jiGGw=="
+          }
+        },
+        {
+          "q_id": "quant-002",
+          "text": "Volume of cube (side 3):",
+          "options": {
+            "A": "9",
+            "B": "18",
+            "C": "27",
+            "D": "36"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "f8M1wsxjgPqzz4u0PWzaYUa4v/SskBYSo73EBawfsBOFQs8UXWxKILEx35dafwl/UAsxI94itM3MuPEgZtH5PX/sRi7oX4/KZy4gPCzEJAT9A7Yl0xLKMihb0B0EVKrc55i57EVtL94qKuKcWo792uu3jgRkMWkvP5cJ6Yq5bFTonwyIkb+u5nYGeXFYfl1hWa4VoIjuPKCBI/pmyCNTgbnPt5NV+zkYz0rbZxjGOfYeVd5+/Ccx2ZGG7uoBBpRQRUCfk1KnrKYlTkHdnVJ1tnBhYRnGv3JLyfHRoGQGoW71uMVfBmqQ+FdHTWe6qNgHmB9IDF5hOq92b11KEHsN1A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mlhDXzqf7OCJPdaOEAPkzkuTSc/C9kgUS+ql6a7If30V+yfoHzXY1I4ArqV0k1iEruZ4a6WB6m4nrZjIU5K/bhFknvWLgbM11Bx4fltMdk+dPF/OngiNxeRORQ+StCz1w7IUyBjX0bu69p4qb65gsv3fyEM9dcNHpHhsOXx4FqPgqSqfZYRQoNPazsBQujpIIJEYUwjar8rPSey5HrANNho7q+r3sb7kDl81dOpa3CBFySq9tLJ8ZTwPWjyvp6pYmhSKTOe5IZQNYJlpgv2wmjBMGqzVGHbEXCzTrHWx/cTyA7nArRSBm8idRna2j8zA9HDLP0rRp/nn0qv1RcnXrg=="
+          }
+        },
+        {
+          "q_id": "quant-003",
+          "text": "GCD of 30 and 45:",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "30"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nIqVZfZRIaLIQhBPgkI6YWlcp3dW3R4SscOpVSV23vRn2i8/w1ud8l1aGov7BMYZwOZCpspgzuXcLyR9xs7tERaHxBg0D9v0MSOG+47YdU7KfH+T7fkAQ11sfKYZsGIEtg1M1vX+n+eutLgUnb3SNxJaTmbZqRqSVcRZspLEx+gF2J1LPTLAFIwIlVa02zjF+yC2L3PB4aE7gZetikoPtv8F731Ap//Vg+CPsnKxHzn13kX41bfnBr+u+e/VpRWwGFe6m0foEe9B7OPuSiIAiTNTmuwG6bqkiMRxuFA2850+mWpjT3tVP0bDPMlsh8kwIrVL78cfxlrrQJB3vFavEA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Rv0h6RKjD7458uzCPRYaxcRw3tH0Y3mf1JAffyCv04AH+p2yBL0+sNgYGbeBYZ9Z7Hczquh+1iLsu3M/PqlvjShswGWj5tlO105tqC4uI4PghirfQC5l7bglsDUCjNgQ9ljvPMiWCGpvHGVB6e0DWpUJwXFN6Gho4WqhxKBk/+BcQBxQVcMz03eK8d1aNa2Wd6fd0nAkhSexsxwb9vnACHUSTzfwfEcxr0kHhQEgRRw5f9VgZISvJnB1T2Nq+ZvXQ3yabVv8ydGDMmqMmdknkSpdeZ8MGRtXlS0q1znSAx/ob3fstz0SCYQx6uKvsyOWNhKbsK3hmH8K5fPuYM0Y5g=="
+          }
+        },
+        {
+          "q_id": "quant-004",
+          "text": "Circumference of circle (r=7):",
+          "options": {
+            "A": "44",
+            "B": "154",
+            "C": "22",
+            "D": "88"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Suq0fWlpgvX+NUdHfeE29QR5Bd3WVooVAzMipQIASmN/20U2/rEG0c59Q9qK9MU/o7vcxhTzSc+uXA/XlFYWjX8Wx3PlUtHF+3R5MIz1H2PEbhVjl4PWaS+/drNR6nBcySzJ5njht/v6i75ki/s6jukuLKHdrFA01VQbBoEOL9GXO2LcHLndvp8NAZ9wPXIBQ9/bCo15qW2U+nwzzZshzweezYvVdJ+F95kIz8xwpgAhTF5BFHSgns8bKDKvriSOZsDGW+9MAMIKfWjiyYBXNfwjBcX2yg2fkJit1e1I6eiRiu4GWUuReaXh06RtatdGpHs8NtdLfN2e5zFFtVyF8w=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "F4QXnmJUk0NU0qVDKr34CG8OdaA20Y0/n684GI4PNPoAzlZQKVFReYK7WZr399mJNd6Y8X8nWk3O4lFHf8x0OAlX2O0sVTf+C8KSSat2cKm3DkqzqpL/aqlv24xM3CLkTXjqJ85BhrNEoEw/UW9ejLSbLPSey8C9jKFttNe+dufcw6ZB2gcfYc0OpVmbihMvHhfDz7Al6qxNHLrF/tviyMRpxZ/lGIsNhATg2z9w8i3VWxcS5Pg8PULA0594HOssEtszcu438tob+xnXnSO2oaO7t7Fu964tczpXJSRasqqJ5wt3XQPAbDOcSW+eNVG3Ni8OBBcXOLaeGUrcGCJw6A=="
+          }
+        },
+        {
+          "q_id": "quant-005",
+          "text": "Profit% if CP=60, SP=90:",
+          "options": {
+            "A": "30%",
+            "B": "40%",
+            "C": "50%",
+            "D": "60%"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "fGc+zssQ5PFCuIl846zyXjxioqHUISBtA1yYsnCDDrx3qfIQHfGqy3ph2cjarsE5u3lIh8tt9DgrcffwpMS2R7Og02iRvUvhAEVFAe1zEjwwRdNuRqqCgyD/jJtUYYGMjNWvtrxBjSDulLrUT152WfJJs1DaM/dz2XUoUYeTrLdtbiKtqV/h2n4oG3+D6m9dIrnrIutH5NVOehlDFy0HfWwAkbeX6HJYgesjJjS4i57qaXkcAdrCyEHVZq3Iblu5YTJrUV/GLGvEPvoFvd2BJwj5dh63gt7PbnuL06tsqABPostZ9KTSvWBVhK5EGVp2CqLHkhbx0IoEbj0mR9wLnw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.5,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "S4G7Um24HRthBru7zAt8MADYTafri+BquhC/psm2WdumYMS7cqwFE1CGx+FBZaE5KDKMyqI5uJJ0VaeOdscKLtUspn+JcHyEaqzp111OTLy8zltJhKUIyt3PnFoiSPqFwJjgKm3TumctKqXvKyIKmSJDhpsF3VAD3H0wOuavSAGCu3K1oyeN8kCZlii34gPRmjQrP7rFNTSMaoZH8UamIhmSIngh7WdIkTYEjZ4oUQ4pNibScSglod5rxx/uUQqnLMamQvuPblP18WoMQp3IFx2inrnf4Gt93NrlWpIlmn08Q5GR3s0y+1bewWJXGKsY4pAPYrLQkielbaqNLRJILw=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 25
+    }
+  ]
+}

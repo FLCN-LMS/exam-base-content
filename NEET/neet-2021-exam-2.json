@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2021-exam-2",
+  "title": "NEET 2021 - Exam 2",
+  "category": "NEET",
+  "year": 2021,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "The dimensions of stress are:",
+          "options": {
+            "A": "MLT\u207b\u00b2",
+            "B": "ML\u207b\u00b9T\u207b\u00b2",
+            "C": "M\u2070L\u2070T\u2070",
+            "D": "ML\u00b2T\u207b\u00b2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "p/CCPhvE1HKvbu/8s2OoOrSRRyKvuC7KytVxWq0A5u3ByyyWkKMGnhhsUQ8MTqpTyXshlQEUY+MwvKaOTqE9S9mI4RWvf5rWtz3Yd2/LsdokAmwno49E8s/mXErUPV/Ia6M6ZslN3pU69ArjfBC8zqmIiQjCJAFT6PpIbyWnzghCQcTuooGfmB7xcLRPW6gKJO27GeZotFAB0xlJG7YQfqbPPT16xU7PpAeLmKj2qeP9iOJHmFvy0Bw37CDv4RVBnZC74Xri7npPLZlGAr88+xhENxz1riMjVbKjJP8H+GaXYROODVAMKsiNLyqFFJwjSlzk4HiMKtaNfFIP4gv4kw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QpzcXXFWVpSNFTu/z/iwo4o7eoALwiRetQDQkLCdxes/iqKCxZrWXDwTxQ1iyUtVaLqXFgKMb1EP9J8ZLYA9jJEaOFda8f0yH5cX3ukHmal52o2HVB4dEmxupWe1WUr/TmD5V7PcBQUQ7E/y55rhkt24JN0k3sNpEunmlQ8XWvcX6VuVFAQpiEwCPwFvIK+b+ha7MIaz1YX8J/CR0K4g+Ouvpzp9k2kBkrQ/11oRhRwNc+Wjd2R1+LnmcGEhFgH+9XodsKf6YpX4XKSEbptgoHRlF7z/tSV3hpoIA+FVZP9iXtYiTOb7OssCfX9qXnTvH5gDReJBplNb0MwU7HqERw=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "Two waves with frequencies 5 Hz and 8 Hz are superposed. The beat frequency is:",
+          "options": {
+            "A": "3 Hz",
+            "B": "13 Hz",
+            "C": "40 Hz",
+            "D": "2.5 Hz"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QJmBdry3bzJYF8Qze8lLt8DJKVTEW+/+hm09vfbYkGzqpR5IPT2rx5PxAbPi9hxI7rjkPudL+Sv6l1v8BjptUYKEtlRCSTulrMrmOKCu/t1dWwLT0OZHXW9jo+sv0FFUeDH2Z+XTGdbQC3XjpU/pSE2Qyf/ZFz+y4qamQNd5DZzaar1lE6C7YBoKc5CoduWWSK7OgXeAt6Xm1euHYCYbBmcyYL3nz0cSBXipe4ZaY3RL+Z0IiJR9f1hfkfTsugK5zoN3/X22XVUnn5xPGaidq5InRSszS96CLa+lmk0vSICEAP7Vi42LOtHdXRhjz/AfTemP8vSnKKP+TU9b23l7IA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pFtLeGxLA9gkyL5EJcM9qHiQEFkK9P3Wf6usjMb9owbpSPWfgfFeXhsXj8Gr4omcdl5edeabfrEV67Hti12yR/Xv6sG962L7ra5LSt6ddELpR8yCyeFBqksgDKONKnwb/YzkkOccsvDyumwbL2jIgraxf6vLdTR77qJSQsI8WUozpEEMArTT9EgqZvdH8dD5zdRXTTManfIMdzCWKZE2zdv6n7C2EyvGtPuD068TjBrKXoQ/+FWqzrceGCKppxwYuwSZkTzXjTSXs5wH2yTwgqqcnTlzb/kNEFt8SXlgrY40cnkjnWFV59RRPEfqBS5wFhQBCblq2MALr8oc88rC+A=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "The escape velocity from Earth is approximately:",
+          "options": {
+            "A": "6.4 km/s",
+            "B": "7.8 km/s",
+            "C": "11.2 km/s",
+            "D": "15 km/s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZsRj4XK+8VfaOU7g0r2BhgPzT5b2GcASifc7YaRWyMGQB5c/Nh2IZjSMDlywI6XhGAkg/zvGzxPQ3WH2CmkOp+uLr245wugEltRfd50SDcSGiUbnwV0LfFQ7IH0sPdhtmCmsAjyYp4Sv7DFSNF3T3BXp5vBUreUhYmDsdt0mLVPWO08snYzDEYIwwAhGJMHOmsMZ3ZMvyp/Eg1R+y9tCX22O9sUD0o4kNpm22dNBTibFH/C1WCNbeZvzOFC/8IuYhrOfidfIBOkRYEt5udYDvgRWBX3m683eIJm+lx7/CyjsaL0BbmpB617SUDAeVB5uEaeHHonLoez0wCjy1O55iw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BRDxMqMScKGFYzu5upsQTLkZ7urq0eiq73F269tORPk+pN4pMsENRGkkTZLffKw72nAs1Yk/LPBs5xn10qQDrzf8xplesQna36kr2s91SZSrxx/tm3ILNdfH04LlJwgspIVcLRqnEnbdoxqSJt2xBcwzU8zwlum0qcgIPREqWQ3gpR9eFg/Hp1iutvxP5FAnnrJ50lUChjC8RF4Ii3j22Y1YeaIaxNMm03uH7kE7Rd3rXLxGQm2IXERGaD3zTlXC9xdGZsJ2qHL9/6gLan/dhmyMkMUafBKEUxhssElhtECU64gpjOzBZWb36FA9hny5dFJh5TsgtJZz63Mik31u4g=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "In a transformer, if Np:Ns = 1:10, then Vp:Vs = ",
+          "options": {
+            "A": "1:10",
+            "B": "10:1",
+            "C": "1:1",
+            "D": "1:100"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bJiYWTcnSLyIZrf3pw0p2RNYDFoPrHtMsQMT4KbcP2fBclWkFDfntnMxH+/zqV+vh/oQxq6j45cwwvnhD4V34cO46NqEqGGmfLNpdAhSQmiiXV0czPD/tGxhLe0ZaM8nbzKLhJYk2VTnVaGxiBeTIK81oH2KJb8QYOrvFZTp0IE0cdyxSCL++dfPjmhmmlJA8nkJVpHUMmWRuvUeQNSB2JVOmhNiQm6RKEYYlOSfcKQdPnwulOFcozO2TuYE8udfpnwWrN2qSsGc+3hV+mrnKXGxWOkYsR7JZ+hercOQ6TrKaIDROxOYyD67wz/FqSO59o63Nf3f2gJnFIaJ8Vqhfg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "eed2JlDAW1lVFfmGEWuE45T1vy5ouyGTUwPqXODzZh3Py9AHSAVPxANSDGjmOelhcC4hJUk8v+t84KH60spXr1fhu+1oVNbpS3l7AUlWVMmK86lzzcPD26v68wTJQrKQUr/OuiSZR7EDM8GkqE7rZg4ks3xf/Op/Rc/111Aiakx8iKNHKgtWOBsV3odypBm9lYI+s53GR5nUC03t/JV0VnBNe3WnOXH3mkTI+gGZF+I2ae6kiB0KJaKOohAlLHSWavj4uV2YIpLoYohRv8Lz+RCTmKIV5N9dwZUyImCOfGc2zlwZj6/YoURG2kIFRVZNvmm4L2lOexgVmzdLUO4GUQ=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The work done in moving a charge q through potential difference V is:",
+          "options": {
+            "A": "qV",
+            "B": "q/V",
+            "C": "V/q",
+            "D": "q+V"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "g2/VQjYgvvUtn27+aQWIt6Rrk+L+i2HrWPGj/XX+f+BnXXPpTa0oaP3xuAvQlXWJlIJYtZiowcWD0MQ9GSzEKBkVUhHFoq3ID7MCOruCyB7D+j9UkpTBPqDtK7ky5uf01XLkx7evxG2SymXlpvKfxs9Ur4HAriXd0Y/b+1c0wL7WfpJUB6flBAMJxM+VqA9zgxrcerjvRF7wduBbtd2w+owwUG/2pCGUEpWhcnXpUGEB0TTQVw/CW6QW8C8/ovT6HWdl8KeiZ3ZDBcxLpKcQ5rimJX32uI59I6cBvwKk+P6rV5UhdMizEpH/4hEFcFpbNTwasFbE31buVtnZHVCqrg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mAbya1/ZOs3V5R/c9H+JOx8McTqAdx04lcrJ7G+asQjw8lu30ngmJHgdrJoLlcIqpynD84VnY+CS4Xj/5r/d0Kme6kitSEUO+GqVK2VLo2fPpyIYDCM/4KVjuXoJTBmzcTQErad3imKdW/gKfCTeBxDVKVnYBdIZdD2TiFQ9doBaFiCx5Mro8XRcN0xQl3osF8wWlFUtj+7sDyC5HlWk78CVuHBsiY1rVk+cwjvT2WHnkNfwb5jluMY0oVtRDJRufiwIPv3daj2ayXxPhvqY8JlcB+nYF7fllXpe9VWddHB8FOelNnBkWDJI/qwiQbSMH65bH1GuZw1sQhe2svClnA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "The element with highest electronegativity is:",
+          "options": {
+            "A": "Cl",
+            "B": "O",
+            "C": "F",
+            "D": "N"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "I35fyq9/ib+xRwDBUXYypq6V34L1+MLU73hzk3ET8iZFrapNc6TorADb5ljYGoA/mvwyN90su4dDpFpzaDFoIRX4o3fmACniJN9qhUHfrVlecdMqeZlTwtZP5Xgpdmq9e1LRUbQPQdRlekvGLf9LktlY54t+Iz6oExqwYbk1NFDk2M/MDSTxe5cNk2Vrft8UZKvMP5Wot/cIIM++V3KZct8yVJT2V8AauFifmU3nI1hITPaXXs2CrBB70/KptgTlYJpq2KIgh/xOiabQm7EQkmhVTv5hXBgFLspjKIAs0jmsSp3GFOCDg+1vtR9QMXLfHaIz8xl8X6GuooWkddlQfQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HLd63U7cib1Xe7EipKO8Acgz2OLmUVa4r16vFvY36lR1pTd+BZFIvqYS8v4WMkVc1COtrkQAeFCHMQM16WlFW9M4m9zZHu7Jd+ZD66klp+ab9Uc1KJ/09sbq7gp7zWvM8dEKaNCIdgMwstDjy9Jrofo/cPZhEubrB9w27hnZ7d4zp98RaFQt0nZzHis4A5cTxvUD3vkkSbCSz4jCpusfO4QLK/eFtFlMgr6OqO0FzcTLMuYV/hN2Q3zjIa4w8YWUsCoad+a2bmfQPtQD1jHu+lp1TzqDi7ndg+6xFxjcLenaZamsY5d5saPpzbKuHH3FxIo4ZoMXGQEAMIKjXFde/g=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "In SN1 mechanism, the rate-determining step is:",
+          "options": {
+            "A": "Formation of carbocation",
+            "B": "Attack by nucleophile",
+            "C": "Rearrangement",
+            "D": "Proton abstraction"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "IseBIDklZ7GHvYlWU8az3Dy4XGg11kyNCmMsWjFOqfd6+DE7akr3YZaCPtwCwV8SHhD/5iVg5RrJZRwFeHyR0VTtJnP+mr9KjgepiZU7EZ4bz2QNkQJGzx96dC8tVmoIAsVvBCPTTk3AYvxr+8jCOn5N2VKw1QOgg3ZHD3IhdVmHMT65n86wiKNJ8SYM5oqxokLAJZoDP6RLfeScqmL38vQ6fkqnFtIx/RPTeEfXYr3JeSUy0fJTUgM2/kkanFMF4KEvZzQnbprijmqyGy6pNY25nA7CgzILiypH5i6+W1IhUmI3sNTZR1nj57mYPF3NiQr0Hd+AGudplpSismv78w=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Lx4lwkJPqQaQw1XHS5tVG6Wnn6EwxSG6yuTd+TY1dQtSEaifyJpOMb5hCk50rfsEhmMMZY7wgzJ2Q5lgI0Gpv1SpvPGNHHmRfTWIpYhG/u6kbfZV0hzD3YfWqzKfUgOvegZ0/toSkSk5fE0T/5dAiiMiWt03Ebg73KZ/BTAvBt8ldnwphh8YphLMvvG7hmUM1guLRjvduaTmUJDYeneoO9GJ7ebBaPGydlZloXMIxUx6dVLvdH+UqfNisZyNjpBlLFpt4JLEvRpLbnePMGFgVjgG6+yEn2s2CKM9Sw8iabdhv1jGW48/AqmKl1XBvAc/QsTGg1RrvlqHUaNx2J2gMw=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The hydride ion (H\u207b) has electrons:",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jiF/PgjBCk3iNuoVUlUaYATbwpSBQtLKX+wy6lZMZCl5F25DtFt6K4qa2XgYp4Rdpgt+V4ICkQgqO8pFQOeQbvarfYpZzzemHXDboeyQ9+0xBdJx/ouf4Z1PQjKkaBDPuv5I4BowcGJw/1UHCLMBxfUf/FRuxCE3hW0NNnhm2amwBaCdLnhLMM58zNfBFJC+6yHtqwimJC16D/yquee6YvDSZ4X/s12SyAuJP0Zua+SxihEWnUu63LSYoSCIUX5Dp8Rh7P1lUp0H2DdXXtshf5B5f+7aAVJnSJmT/QHnkIV2q3r//TjjF5Fv0Ie1SDf6ubrvYWQngFkTPcZr615/vw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "P/D++il0G7Ggu/GG6BBLyf9OSg/+LnjEDAoI4ggCqcFg5ZqgpNyVnPzvz5PTFlaERRwOkKQZKUnquallVfsGvb7xFo69QOW909DtxMGOhWfiiAzmoP7oX98hwDNPk6o8EgZkFEInpRXbSGrp+8YyNX1XygbppWwV343p0VubIpuwfGPLtOg7wIQE647XUvB/8VZW1wj+B2JWmpDy0M/KJCsHFrFQbuU+8H5Wox2vfQIoTLc2Gxmm+wBsKluoLGOc0Rzu48zopQnFIw6zNK0TWhdAheETw50M22ZxfbiLfJ0ig7pxMw77y8yIQL97R1rSgIx4OZRRAt0y3Qj0d/1mgg=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Chelation is a process involving:",
+          "options": {
+            "A": "Covalent bonding",
+            "B": "Ionic bonding",
+            "C": "Dative bonding",
+            "D": "Metallic bonding"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lsY2kJAML5tDBrWREZ6c0FLO5NCIwEkiyNE0p6rEk4mktmTKI3DvR2hj8qYKHtbqK70M2GIfHGRvfSEpVdqCcPIEz0x5tOP4temJMFn0baoRkRmC4IviIox4NlmRElBf1bdXtnBIvUh2kl9p81S2mSzQqI5qdbgZB+LflqTteVWOpXrbIlLUHaMJ55+PT01heoP2v6/yCRDcYkAnI4S/O6IHsfpbReA0iBKnsCmLc5uNq/gPl+lJ0HBwjwb3FQaK14CgzbKLAtZsumkrlLA9aQncJkUvbK927GodTVKT52WhJmiPuDiT6Tdj23dh8X07LzhJW8rMqRr1QCZCLrW6gA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "kI3lEJnDM3kRBAMCbgOFmhM44I+yeBg1LQXaKlMDyMpOFjCwyM/FhPIwInlCKkB3P5TrQjKcjiQ8OWa+f9pSfZiztCpBvFrcuDSZ7I7T+NND4IC3rRlLr2klfj0jBcAnKnRY/ibAAy9xQPZ4n4kTSVrnUYKukjCsFvFbJ3MavjkntJkUrSJVQY/kENB/3kgPA0eEzM219hT2xZrfOE330ZbNDWDlg122J+p1ovgRhCOCeBal/2ZRBJxwe4xz0MTjUPH1Z952El9o/Nj34FyAuTowfLRmOfQ8T7+Q/S9MnAh/7tYIJGWt3J28tgPbYq41Ha+7OagoDVR9bHSwDQpbnw=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The functional group in acetone is:",
+          "options": {
+            "A": "-OH",
+            "B": "-CHO",
+            "C": "C=O",
+            "D": "-COOH"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "B3gbgd3gaFOb6vT/OEC9btVy41bn7TMhX/AmfhiDqYUq+UhpxQQX/tN2WK6rmS5OJjzbpvMSmffYMtEWyQvOswfV0gqFItzcJMmPsqd7j1veWESKGkMuTi1aR6yyGKt9mTF7V6QX12ifTHHLhvlztyWkCxW2MJ4YUgDoXlPj6ozG5nOEQDXImG+k+5UzPV3pz+OD6USS85wjbROrHDBFSF/ck3CGDWO/8WjL6VWC+PBtKtbXRn10CzboXf906A62y5RovNapYLHVKlM45dsj62EjatqyXl4WK+awab6y4BpOig40cpOt/Sk2M83wwqYwy4lVYG1OF86R+Qxi8HSttw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Ex5QkNHIXAQxbBCD4nrEV+GqnjMEZf4FDSCH7IIqIQYNFe04SvGDrcARMhyo1AQJAjr0Tg43gleDpOEfI0RC/QrXH4eO+vnPVgS0wg8bfvVukPhkMKGqtrYlCWFIsLukSTnVsgJqo+BArjXE7rLBo9a2WycJP7Vwqvr8Z6luJt6ED8pSSEz0MP211sGJirYe1zWuVMO5jP99a+QnPVLDXbtGo746Ej2Ezi96VvyWGaQhI4s+DMy8XAqm+/E7IFNM/2kEXELHYJZuxkaKyO/lGFROjlze1W3E8uCPdBIBtisM/GB1Pk2SRncz9nmZu+ZROz8zkCrL9+ZRBEvxuKJOpg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "Meiosis results in:",
+          "options": {
+            "A": "Two diploid cells",
+            "B": "Four haploid cells",
+            "C": "One diploid cell",
+            "D": "Eight cells"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WrHdPx58KQ5fkVhvyVDZpkMH7r6/xJOD6vqpj2Nbum5DOcaPtZStyB4KW4x0cbQbySU1vv2p4T3ZkQXZdaSD26KjKSJcwrKbxM8vYdr45XCP5L6K30wQS75UBxcwttrwH6+krhSrChber6EHLAhiChaihkCJVBMSA44QuHrdv/cGq/FOHNmejbfx0xqpHQel/gMkgWbbcpL16gZTTrDfCh2L4GPEqVEx+U9CFlDZrRqWSS/OtiQlNdijT6TLvZChJsseS8+PvhZldont4p4L+c0HNPLNZAjkOJS/afbl6Z05sPqwE6oZHfz4uf42L/9R//7qai/JVc5VxJLQ+q+Kjw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FTC9q6EHa0is9BsHG4OIxhEzo0QnkmXyeikF0VUcza3AkQIjpz4vjkDxTdGevkmVFKVXgf2I4XO/rpKP+o0Y/6aSuOf2hLM/EFQVU7Bt+LSHIaWVoWVN/CqF/zCiP8/lrW+L7gWMhcQcjCfFkQw3ctr/dOmxGYTEOxU9JbX0CVNsDi7X76V7fXOTas5IzVlmVFxZfk2ZFulQubimFdjZ1orEL1ZDOyv8Lya9olDJ0cgmjfkGWJmawipltACiuKtsosrJDa7pyY5wBKIHy6Tk9GmOstE2xfB7ky0rnZ84mPN1WOzFUXKwInjQILmmqx6NPIh/8FVKfV9DBALBYyHn6Q=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "The codon for methionine (start codon) is:",
+          "options": {
+            "A": "UAA",
+            "B": "UGA",
+            "C": "AUG",
+            "D": "GUG"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qvKkGdCRzvK0o9cM/vGgqglhgJAclN3jTHp27G+OyuWxsPzkCA1t2NpCJSrTF4t45IBvjr07yUUSgGhjdis8TwkAau+/73Trm5jzmsKGbBQzmBod7REgTDPmKL4dTvJcVXgNeW7gAEzKNVGVCVQx8n+NRsD2q4cN/vwLlrskepkNKjW2wLeXXYev7uM4YEupU0Nmm8xuSU++cbZTjotTcgoyO61UhjzNFAwu/snc/a6Zdvu4DATbMHOKgysOjIKc0EYrvtjuGdTZYzqcu1bS6t2Z+V7F8L2hXl8lBM561b1qzmie+5HV5yIxRSFa9nIMDeFh+xjxJHBcnY1tD+iJgQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GBBP+WsEraVUU670mcZASKH6PInPzB/PiGrvfjlpNj5CFh28Nv0tBmIvEsb7fv2jvg0D4YdeHNKsZL/PITe7DwQ/+I7ZErm/M0i1Cep9cIx1I88kzpNnGwwlnpYfiZa1IDVaOnHRj0wrCtVYEGxA75c8qcqXdOO4ovaflhisjQCxmc5m6+dEoz9EgOz8dX1bMaww55N+B+oDqJnGrK+KbI7JCmkzXANYJ3FmsUx+qFaxVzGmz0WuVriCRRTm0hxuZEJb6/aWxsaII21Gc55eVWJXnISK1fd1/l7rYLc6hoYtMxkO6CnmvBu1KgEzsKwWPBseK9O3Jgl7JOf+I+CahA=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "Which structure helps in cell wall formation in plants?",
+          "options": {
+            "A": "Golgi apparatus",
+            "B": "Mitochondria",
+            "C": "Endoplasmic reticulum",
+            "D": "Nucleus"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bN8jyNmTtTrhbh3Jb1YmqmyqiTYdZbSX2djstoGjeBxIicIdjaeDGWFdHIbnRRad/kyPhVUBQagFk9t1HgXu3iUm1fMPZQPvUqGccpmsgWyVSVg66Un6r4LaEiqf11cskw7/VjMG7fRrHM8iQb5zupVtViPeZpyNpcp0t7qOyuDuwLG26lCKRecFkfGVoEz3+3LyXtEwvghOor3UXDj9fMVvGoOIjgF97mDVxBDTV2+sTigO/EYgV0HagMmBAK9A1qHvpx/D8xxXeL8jEl4yokBqhuFzcv3EV89x1KwXSxqxuS9kCaLNYR8CF2cJClerqswZkky/vu25K688TGbcLQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "MVe2+z6OYtoIrYVUWAxQFmaBNY6hNkrh3p4PV+99j5SVQjx9MoDuLRFKzTdpRl4jKUsZgvUAAy0mwciBh0yKmi+4hvL0Fb8vftxNFKOOPRPsEFZuzk2qrPsI8TQk79vZM4U6YpX58AA3H8mRuz+DksoNCIv+UXer8c8Zm5kL8OK0BONq6DaucL3IgtMic0fNDw/RV6Rm9vo3QdPh/7wTDMNUFaK9OG7mygQ+nbvMBskv4U2OhodnoWl9/qS0pUeJtzsJqSczEtOVqEQeqNQWtiT2gV0/vxHIgU5cw5Bn03i+Ha/t4ywRbrJ23NM5CXWfeoIPC2IgWpwGUWy8yN+byw=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "The type of leukocytes involved in humoral immunity:",
+          "options": {
+            "A": "Neutrophils",
+            "B": "B lymphocytes",
+            "C": "Macrophages",
+            "D": "T lymphocytes"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NQPPWlGVZ1sJ9aiDkRcmCQgl/3gNEKimS0dXY9VXj3mbd8+2c0ykINCH4HcX22/d4YXdtmVHudw+EBdvVzZ3Gacwdl6bl0f1ZKZ1QnrFJ7WV7/CKgwyVJxlF1ocbACYXrOD96B4e6AI+tJ/Om89amKIY49eFGp1gsKEGkCgahXlTZfULcYN7YuwRJX5nwuhCdi+kCq7sEqhgZbtYx6kQxQRz0gOQ/uU+fwD2BdVKycYFbdJFKjC3jQNovuCVVC+Eb7VFozobLJyUpX7gM6KsBIKJ1XgCbqGIIIVqjUFovmO3o2Mpp3VHN39lNYBJpms34rBoVyaI/2qz/BkLH7t8Gw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "bORcUKlmgLGd/rh+6NX8khZsFb2D6OnixUlxfUOMIYotlXvEjTMwJrwgEjQUcLAVO1qUCpzUN0WLcsyoOgQZjc+oo1+kRaDkUrYjvwgXCs062hW1+xx0yo5Gpmpev/57ZMlRjPrweCfu1DMicrkZb8/aP6f/JAg2mjeYYvMI2OvTRdgNw9kpCVxKNjq+JRtdH6J6XVjEV947hu4uNnQIauDRUHnUpm+3Gnn13f3GWqEZVMIU+kkKvXY7Ca1KfD0ZafzPrZgWOAWroLMq2z3fNwuG7qtQf8XQRRDJsM+8EQC4VTZu4US3YUskjJVSmPMT/w5/XT1WSiqTGWsNBVjS4g=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The refractive power of lens is:",
+          "options": {
+            "A": "f",
+            "B": "1/f",
+            "C": "f\u00b2",
+            "D": "1/f\u00b2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WNx+wkv/BYS1Iq6YrvBY71cs+six0slcEAHpU+BpwlAoZTy8JDjW4X1Djla2QCTFJqKlMt4TIvzgNd2xK7gHILYJY84P6ZsvPjl/BN6IcMDly4q02s73ZUzSdhe1FvDpMawZ26F3g8O+tK+gkqN7R9gC3kHmy8KLkMhi7PuFkxspwWay8gjUzfiiRmxbSAKlQcd3NXM5+MWnWXfH2zg+EYrpFgGPRHnFDtgdFKy2pnWzngnGofqp18cu5srz3Asldz7lVyNIMA6tatm57fxjE3a4a1q85X4ydto9ARVkz9wW7i4FYUKFwgoD8UdyKyG+TjnGxMeG0nDrkjQQZ7ST0A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "aNxVfQmBwcFxHv9Fu90uCmV/Iw0ktjW9J0D7m2GT8ADclOZGhesNDavlPyD9ELJLl2bYZSyCitIG+WY1YqMCfv6PFfztYpTvqQuqnspP+p4cmFHi5lYXZZ8mRBSqiXTo+TG9X7TONbuMuAbgpYH/fukoKmZHAi1Dwctty2Q0t/tdold5hybleL/HPe0nAzBkDdN+6Hu+IXBsRoMUHrWG0zzE9GzvdjHfrvWNZdz8ph4qLccgxJbLh3RybML6vPGcdHo+L57L0Axaigg2CGM0Gt6BKakX4tjbJFW7BrZZM1pxu6QTbwV1eQYCswXaT7V7AcumWFxJgKd1G2LUe7Ismg=="
+          }
+        }
+      ]
+    }
+  ]
+}

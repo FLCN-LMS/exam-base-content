@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2020-exam-1",
+  "title": "NEET 2020 - Exam 1",
+  "category": "NEET",
+  "year": 2020,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "Gravitational potential at distance r from Earth's center is:",
+          "options": {
+            "A": "-GM/r",
+            "B": "-GM/r\u00b2",
+            "C": "GM/r",
+            "D": "GM/r\u00b2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SmARrVTUXX1U8beDMgIuqy9LSRYoszSVFzeNRQjj7GPrqi9GH2DQwSI4A+Yy1P46C4Nc1vCQavOGs6K5hqSOGdkeX+y93hkR6joDhAhPT+G51SPb4bi09858+q0gWEuaLVJzok78pzuaWH0IL3VFdc/ArFl/COVW7PHGXnTNL/Ot39lLSDbizZusMEOFaAxTrKKd4xR1WrKMHOs9Khqc9K116Fvl34bZOxoqOEOXcyd0isLIohdr5MBHqsYNbuX0glm5YI9IgT2NWCF00QUhQL54Tge4izYKNX00JCvanmynXfX4sjKOFuchOAN23nQ3Ue26IWxlw+apppuxuutfUQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "tH0ThPYCU8NQqTOqYFkqPwHVvf313giPKsxyCK6Uro/TkXxrx2ETYw4eVwJ6JnrJH3XTU6SVVn7VLZIT5zWueWsyM8AoNbRWn/bDhpyoXEG4y8x2pkZfKQgelH6THO04DnBE2XJ0Rqm6tk9t6VqCR0fYsSt5a734nbVLLU5bo2zWf/fH6Cs0Ic8nCiQGZtVRbDKDxV51HzCmy7wCgzBApEPp5or7/w7kEirxpL8azxkFJ2TVwfTyL1Yagfu18sXk+T0W/euM5Hesd7N9L7/n6RzBFGtJB3vw3Nev1EIG12WZOEl688dgELIk1nXPFMqEluulo5X+3WCHG59V1NPbtQ=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "The angle of banking for a curved road is \u03b8. The maximum safe speed is:",
+          "options": {
+            "A": "\u221a(gr tan\u03b8)",
+            "B": "\u221a(gr sin\u03b8)",
+            "C": "\u221a(gr cos\u03b8)",
+            "D": "gr tan\u03b8"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lRipvVaQ611E6I8IM6ncJMJ8DklzxC+AWR4TxX8JMl41AQZZ1AZ99IEnwcFaZuBYXCKSHu6TncgdVYxBx6QmmfbdzGT3IjU/xY4Lupbdo51vNlZrT1KltlDoCVgCmtvMmwJN76kQOyFybLyp7Fgzu+gnAr4EqJhlV4+KP90H34p5/rhXPY5dW7F/+2p083dg6LAzJmzUJq6zKmFfPU/qrftR+0ZU2QQnKt4wgKQvmSGtzGWHWF852VoIA4UOzM4gsLlC/FAsPKVqUfOpU0X2gBbHI3rWr8dG0+V1gSqvuCGWzOUgoEyOXMLYr+pAEoZkkb46Slr4ee8psd2oHB7RrA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "c1GfWqIRGatGLNOFjXhep10Ht6VN4MB2kap3GfDSRS5VMCsrjDH13rgNHuVWbxtf5ccQnk09a1KKkw6tbN1jWUnRmZkFyTigpWEd3i57yLrMNG5z0U7GBzMK9OPQG2gHca7jW0YHsqKksGnn9IEvtIIzb1ODdKNDzFtEkWtcH3x2CS3EvkNdedKK+J2cUUB8/ktdJBBTeEUnu2pAEWGvSz0PVGNw6AWKC8vEjiz3kuWN81QzRfkN10cvb2UUnQ0hUtC5skPWu2qu+OsShlNz4IN5clFIRJZoXGapbFP6kzRFo4HybCQkHRWUgkryFb5vrIOnoiFxUVvffp3UmPKbdA=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "The internal resistance of a cell can be found using:",
+          "options": {
+            "A": "V = E - Ir",
+            "B": "V = E + Ir",
+            "C": "R = E - V",
+            "D": "r = E/V"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "h469K0aNA/6F+a9/jm6A1pjdhMk9YM8JWIl0o07SLIPwmDKZTix4caVOU3Q2cT9EManiWHT6uo3I8Q5xzresiF8O2Y72tP/yB08MsowjdrpYzYXe7g7KIH+2RrzcuQtlaShCsW88Iv3Zl8dqJhM4NTyki15OALTbNlYbmksc4OL7URHAwpAQxzYjxJmurzW5qHaXk9aZN5xZdKkBuUly1GJiRY41tVAXhglAhn8Vlv1NlkeHtYs0gY3i1vBDIuR3wd0q1Pa4fzc5TZQPhc905IyvteIGU7maNtZAddBbdbXT0dICRochrSDSM0DRXq9j7TRe6+wWqQQ8quCCT24PsQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VAxz6XLhJiC/zIo2hENUFTRDi8kTZMps3KiWbFl3EkT2lCOncWrliMo1DRu6ixvy87FL2BvX/6Mebdws4qBzOyeR8CtghwuYviFueVeVlNB4Rhj7LAz7CmEccwOGhXYnkLlSSrdb6yks/6nyXhgdcx8n5RghnPMANX0RnPVvRRge/A3cujZYmRMk4ijaySyJi6APTKN4NdZ4WT1ytd/9CPMcO2B8ubKai73JSCfLmX7CjRG2B/kx5T8TEP7hkQ7y+ozk+hUhqJJF4jdpctOf2S+p5iuIHMUOk47jVv1XG+SGWVfQ7tfqMfBU1jjuQWIqUxZXV6gLSaEol5mk9CeJvg=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "The doppler effect is NOT observed for:",
+          "options": {
+            "A": "Sound",
+            "B": "Light",
+            "C": "Radio waves",
+            "D": "All are observed"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MGxEU7IkfMj0eiUyFZLoTRIWgvWLy2+jrMhspwUeMuO3194kXU7vbedeJbg75Afc+aHS0knJsMfn4XfUFzdXxNJKPGmMl9z7Y6xuTnthK3aiGJSgfmF4WZmqtPRSzYzdJ1VfqY8NXbZfkVAPHeIN9H3rlYzirj4lduspDt0ydpuNrxRACl2+fTsKDJ3PXb9Lm5Q3NFiiKI+pNz+6O3vWfZsRlYEBHL9iMN3oZPqjRlmfIkxlpID2h/mFNM09qbGeQreBQ5wb+0gZ0bQfES9xz0FlnXNHbbQrZDtDlEsindmq4HkKbjrSLVmN0JtMyjZv2zvX1PX8DIw5p06psVyfYw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "O7jA7faLg6bfwaPQfMzBazcUp3m6qw0b+uBbCrjFOBiyH2/2f1YcGgW59o9TH6oYXmJHja8JvYdpZci7Op3kApcbGjkFGyeV95QKuyxUn257ytxE43H27fCIqT7JqAAw5JweiS5ln/Fu5b7cdiO0Zivy+zdsXtE0sDzInS9DsSCO5QUClcp3hPsqFfaT/jsiplnDLPLjGNN9YTFkntxleWQxA5iYRPm3+y0YnZofkP8Gp/aSdaoDzjS3zsYPD6TyUz0sv/pfmHNIoieD0gL01jstXwqoAYXQGraSvIM7A1e4+JtIr/FKiYxhsXpNnuURqCwmKtf5datRAMJQracrgg=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The quality factor Q of a resonant circuit is:",
+          "options": {
+            "A": "\u03c9\u2080L/R",
+            "B": "\u03c9\u2080RC",
+            "C": "R/\u03c9\u2080L",
+            "D": "\u03c9\u2080/R"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "queCv7JLQKoVbQW6utg0+tIC+w4715P/dJ0LhaUzlHECJFcgitRPwUsS0Wp+ZYkPSrZwIDx6IoxEvFu8eYstfB4rY2tGONEUhhJj5X2p6zJ6iICgugHnZfHe8W7Cyk+zu6mITiWZtwxnkSRM3K/dwR7YXT1uEQIZfaoiETOlTxCq3tjxDkN2aHNtUthPjPVIt1mPOoQZanRo1JhMJO5gBRh/lJDwyY8oNT7/2MlRYfhCSHBCHMlaHxTkh7XYYFXzslcEaypK0GNi4Tnsacwc1BtghrALdFTH/k9kmDScRLqp+pZFoEqGdk4ZBxuQxkPdo71RaXD7my9FkKW8jqsSeg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "l0jvmaJ807kiMCoc19Xm1uVDmxjlojsL6ljSXFgQz/9t0fA8dtiCIlg3qFB2nXaMdDcLIE9U3MJrqdqDHbjX5enlzmK+K9l5geDeELMnT8PeLooPE8P1hrCOxeiyeBRQvgWybdkxHDdd3pZ5YpUZgHpLieVNSzz1R4904YKY0RJE6HqQTGBhEUIIkRvxEGHxayflDxXi1/wgBjobt3mjpqKz/061Nt6zKjPEBNGSvXOa9tDW/ysBXpqC4KiEjX4Kw9rPUP3R3IMtkFxpytHR57KKFnVuXW19e9dArYUV640ftg0Jz54TdDLgBuxjLh2c6uU5EsHeAYTEJ6C7TbOrAA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "The reaction rate does NOT depend on:",
+          "options": {
+            "A": "Temperature",
+            "B": "Concentration",
+            "C": "Catalyst",
+            "D": "Color of the products"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "hzseWP4wFJkXpCaWqz1FWCsRiKybhhrqwXL/94wdA5YwWuD9iii+IeDwaSH87lV0JT/7HPcJLHi5kaqwxkiR47Ub5T4f8mDJxPw9OF5E3jH/07t2xRw0UYGPBCRLxjpJwiRu6c5/mboimt/FxD/SQrxawn7XXQtzWNpYP5PZ80W6mlghiMcxMfa8ldHg5qrKGYN14SEfSV6y/r9miOBInnV4vBumZ3aVyLmdb7w0PDUMYzSTP0fwHA5HKnd2d0ylY4jTNaA0tFEPyc42jtLp0m78qBQ2dF3KvmwfBYJ2xZb3/D2J0+GBIEdNNWj6eKpa+ct1NGtdL4d3z/+3pi8mVA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GzO7nMu7qygqSBcH80/NnsoY+T9lAke1mFtmjwgD9jNzJ30kj9uTtEmTfqQh/DCwI6bK/LvXMVm+Ye5gMYg6gcmweBw9sEP72Jr0S4/JVQdLJmB2oId7I3qghXF6rmFO6jAwAoR764dDWTO2UKziwMLpxax5c0DrJYrxLntGJt+gFZhsGcs69IEll61POhq8RrWzK7BK1PIYdjynzf8LsOFOuymaDtqdWCp67D9VmamBPB3EVo19+WgYlF3XrkOlQ6qdHrQb/BZFGeTzf5vGZ+X/1y7K20pghtsTJG5rFIWE4ba/tPojBQ1u8qhYK3FMvqkyxKCyhWVUPSo50O6MFw=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Which is the strongest oxidizing agent?",
+          "options": {
+            "A": "Cl\u2082",
+            "B": "F\u2082",
+            "C": "Br\u2082",
+            "D": "I\u2082"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "E2XKPIHL4l6+/ysa9aJ9MPieR3iBVBKKS+rLIOsm/Y3KLWMx2A5bFranPKxga6FWECinVJQio7ZH0g8C9RQuNhiztjQ/8XHzvs4JL7r2d38IS9XZJmIxzU8F6cffV2VAXFfDmk1ZEwawbidgor6EP71myg2q6SoVtHmpRpe+ZlCZi5igriDmETovhVFqytmSNA0vtS3uZWAVxEuZ+/bikcZh5OGvb/rq5lrpPlFC8ziVyZGWVVgv1PuM2nctE3p9mFupOVavl38myRXXXbMhRhAINxO/l5MO9sH9c1HzYY2m3syuqKLROsj9YTYiNafZb7spaqr1qQPV8g/9BiKTZQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "N7BzMvtEHfSmCsgaeUzyPSw8+EizZ/gGujC/Z8tUErCTyToC8y22WAL3I8IDLaPYDTejDBm3cfqZC2yVmG/uzUy8SPGUeQ41FHYLy3bqRaJ8LwqGYVbjDGUugOoT7gt/HAm8UmghzDpP6rMFZZ+xA9Tq5N46s2XYUP5DQHdFAOV/tJVny+bQ3dbT/0IXSBUTHvh58CHPzLSXQIdXK2HPgrCraOA4pAC0Mi7933r0/9bjlxSpaik3qawHWi2Bj4tsLXdys+jDqMCx/mOhnaknxgeqb9Lbp5GPxDS+rpDgHmkIE6fcqdqVoumhpR+LAzjHFyGdABs9zYjGrf0fp0RjzQ=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The order of bond strength is:",
+          "options": {
+            "A": "N\u2261N > N=N > N-N",
+            "B": "N-N > N=N > N\u2261N",
+            "C": "N=N > N-N > N\u2261N",
+            "D": "N\u2261N = N=N = N-N"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "J30oMJK3E7k9sw0u3oKqx1xaH5f7zLbeL+Z/xppwNTnTgsXQOTyRuGSpjEImxeD1OjW7kcIVD4UvxU+5Ey3CzNd4S3xdtcPyl1vUf3BD5YITagE+4K65rWkvREaTf6rAPxheIrI6o9Mg82sTz/yFi/GpNv/5wzxVfGeEfapsKwkptxtFI3FPPQ3ETt2DHr4L2O5zb5ndyk51hCk7Mo/vbcTpRx8mNhwI6Py68eekMEeLFjA4CxyHuBU58goJfhq6ZRbVU7BN1iWA5I6g3LPqcgxlG2sLqWvgESW7Wbvp/HqF4LVi+DDuFPFVMlEzl6fUHbQJ2L0So8YaV3bQYbCL7A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YKD8Kqp8qvsPJAkvL8V7jR18YoeQ6SJmIyF1ghIxSpciQQ1yvee4VwIuPMI5insCO7Y8kFuB2avlXgpXN+Ea9C+H6GRS1HO7a8zm5kCC9HqS35Z0Wi0K5yJ0ppHI+3tCrL0VVcQBEoPlEosFLJ1In/3W8HiHLynFGAD/WHqG6WlbJAuxJUXnSml5qWexhZLJHaZZL8gHL72ifmvWN1EjSZPamrUwCbzd4pFk3JW5SNIIfim5IDWOVDo9mg1N/J4vGv7DbKQtuYoaVs/btwdrvuWimtjSCBWvvc3vFTxOR6qhqAWLB/hTQzjngX49bkl3sHsmlCmzPLmtK+2berjCxA=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "In redox titration, the indicator used is:",
+          "options": {
+            "A": "Phenolphthalein",
+            "B": "Methyl orange",
+            "C": "Starch",
+            "D": "Potassium permanganate"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "DfIQ2JRQuN18HOivPUTq0172Aziz55kAj6leXDxpGzvL2imo66wlrAZY4uxwIBfUxP4uav4R10HAl3b6k3IM96eKhOcWUuUrRfA6WWa6RfUkqLj0xEGXhJaxOr3R+z3gVSvf3Zj4MQ7YFklbmmUc8akQgpEinuqlQElSZ26oPIZpt2sG8a7X5Dog++MfBp6NoAVp3SqYJlnmjjrV7iFWCybhHWNH275wAuoBS+ye5/OD1Y1+XGGAgiksshR1dYzp7eTo/IUnVfjhF59qpHtooareLY9ARtjxOnDWtF4A7VP2ZohXTJE+iweEf4TqvDOC0QnWsBg9uGL8SpDva2tCYw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Ailz8bBrUvUGjhP+zt6GoX6A4MKmpzmDneQ0/626pmlsREVa+K7QDeQ95rG16HEiwHeCPQoyekO23xifVPDdoIq5KX48PcyYwv7SsBL89AttfRY65Bj09vWkX7w3B1v+eo2lHu/G8xXqkCvbvZCLhm9z9GiPAUbAxYTgslOlzi3mX1Mh9DA/LqPDMvUMRdootFgs/eJpGz9dmcupFZYTFYzFN6KR7LCEtD3Nnd32GVQaefDLiJP0yMOmJa1XMoSPspjy5mY0FYKJRd2TI2mbp7ML61cv/XPoFGSq0ciStH98M2TwK47ckkpkftthkinssQUpVkjVm/9Jmhu9nEo4jg=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The allotrope of carbon with highest density is:",
+          "options": {
+            "A": "Diamond",
+            "B": "Graphite",
+            "C": "Buckminsterfullerene",
+            "D": "Graphene"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "fzC4TXvBD8z3KvQstyAL4WKoYuW4JIkR2r//fD3iIXT6N7D4EW78Y08yDkFrbc0SLSp5RALeuFOdsnkRdXwbBtscdh9R6HacfB7Sz80g6M4THBT+KRIAEKVzdV3peA1PnPUPaceD6bCi9VrBf2ijW+ndmzAVaGCSiIU5O9LlKX9t+PrhPZf/5NLNXmgFqMAhfiUhTlMQkNaLXVXUm/kI/oZWFEUaVgDXacIrqLmfwncwLial2ZnKm5tJwiOB9Zq5zImth5Yg6SZsOUxu7qLKeIjbp5p/Lq9av2TV6W56vxZ9a5Su4nHw3IAaCnm5KoJf6qgb3uZKX7Lp2KQoSlfM6Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "STvud6sRHxw7FELrW5fDODLIk/UnM7c+NGiXZZ8GGYnXNKdic9ATP1pZe8jaUy0/LvW8a/iWc/G+tZ+z1zaZznvnL1NR+kEhyZ4rvrRqn3FmyhgI2Ou984jqeYcxUaRErB6KQ+tJZZoB+O8eLORRbXqvqAlG0ZyTZzoHlBPQTAgaX7LZq0mNzMHJsTlLaVJtu02TwuoqlThMb6O5nD2eOGmp9uOtRcKc84jaFojDjWbXW7MPqOoeLn8egMph6Qyi3s/+o34jw12FWffz60/boD3EfRElMvjyuHFGyjim8SDWOr3MvybFPpv15R1rg1AkwiEszOIi16bmGC8CfVNM4Q=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "The outermost layer of skin is:",
+          "options": {
+            "A": "Dermis",
+            "B": "Epidermis",
+            "C": "Hypodermis",
+            "D": "Stratum basale"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "G6qtXrcW/7EVMX5Ty8Xwbje41MwuxtTbyswxb2scSlaqujUhHve5iABwlBryDjz9QqMUmanY+pc4bG+5v6fgtcucWIgyX49daT2G90ynNVJmhvVxL8ov7kHjDsC05YE5aDjOvAA19m4+Da+z+Jq76o5DmOeAZuJ6lc+3pZyLVpXLBt17tDiSmwydyhz4TeDYJBP0B1IqcFL/ilVZYaySYqcIAqF+tRLe5Tt0aeEP5qbZvjLbqMyUeygnqM98TUBXrO7KrMCP9rT1v702VhQ/oFNb7Ha16D5eMBmGawrmYGN6cSHj/keDVEtjlOvw5tYa2f6IbbZMym8o2DwvQYsypQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FrjgMnf9ilcaDx+qUC9xmXxYoZqn/fcnsxieATuTH3aXVk0xk86SdPI/yAcwKvRtuhh7o37MUyLXQgmEOaRlCnJmbEfM+zL9rOP6Vo0WgR0kbICgeTeyOVJU3tZo+ReiLrCJeNfpQaUWWn05gNlWIypaeQXIWfZ66FDeBqsP9RiwNrDc/IYzRQlpUMLlNLYgodRGL4sn7STFosZ1YRCNN6sYeVEZLBA9fYjT6ZVEsJGPsJGfOoLJpH+3r3wWX92+o+lsFE/Y7lKKh/epA7cZR07nSKlha8C1npIoUoSLcfuypqyO8sPe2BwhwB4f4Y3kC61tnx46vsDMvHpVcijEfA=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "Which hormone regulates blood glucose levels?",
+          "options": {
+            "A": "Adrenaline",
+            "B": "Insulin",
+            "C": "Thyroxine",
+            "D": "Cortisol"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FYHIZMmwJE9VBiqrGyt8+8dHoSPq4xtANg+96mGlyi4abeKPdUysTpeUKIcqDOs6hNgqGNibAXCNR0yZKEjufWTEAoycIw/P3xF+d7g0G/LxFSD2DY7MBPrAZAQTuYLBxP2xMy0y5qDQmqwCA1y8z9EW4c/Fr6kZJrIs1k3S9Y52TJB46TuZYttG56zZwqVU7+JXwlGEWi1jqM/MnJ9hrR4WYB+i8F1kAIP11UfBUCVnJsMRIChce56PWbpg0qDldbBgB23LaN/+OTmp++dG1I4+DbQclv8fT5EtNZlGlF1SapNjqPwpSQ5o6O0tgw0LU8q0c6SM/nzqjS0v2/Frcg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JRU/ojP7vugbdENvE2AvXLJmYmd9GOGKTexj2p2J5gXnWLKaZTpq3bbAkLyNsMVP7HKNX8Hu0zNdxVARjmPASN4DUh9ICVbm09ftuwAwI4kMWZf8Pcog3hDFl/0cqOrScBFbh3i1W6zPn1VgwIQvP0D65VKLDed9vXUrm+RNJ64pBCr8tR6XleLU+YmvfYrT8jOVfA4//HY57OJNqHWNOsnCo2lVZQtdUlPs4jmjmEToMAfHQ0N+EtXBXcjXbHLvsmG5HBmD4iCiE8iMmc2snu9Le70sL0lRtDuFgrUR/7oonz+0Sc+gdIVgpq3vBa0+2yJybk+nhCmktxEiPW+IRQ=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "The organisms that feed on dead organic matter are:",
+          "options": {
+            "A": "Producers",
+            "B": "Consumers",
+            "C": "Decomposers",
+            "D": "Parasites"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "A1tTUXSPfXN5QJgoSzzCDDCos/bl6sdPJhpZMbLGdHV89hfKzo5f5/NpFhanDAmH5xCt7xUJutVP9q609NR9cQniFuVyVDMIk1yWK8CmJjJOFPTDVfp2bqT0QMSxNIB1dzIkw8jgyeitsL/fwgBfIlaHmedRRAqww1ZndMC3ow5vGfneUDoCxk9WuF0j06Uc1VuyzlEZ2wVj1g1mM2hYXdN0PXamznUHGCMNvq+6uZGNzB1ZR3TE5kwXT9CqMcZls477iQfYKtQLCi32AAHnDS2rXT04Cjislt8P3ZqLsu2chFQ4FFaq18/nZWiqCXOdZ+ubFels51wTrZLaVkJjQw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "lIryjApQYIU6ZQN4wSj8na3ABUk0E7CoUsUWYFUeNpinfQj2v8n0hYApf3ssEinUrvPsUzgslzuItEqQjUimIm12yv/wDGYl4jOFrJEpkaYKuG7+a0eiXOVvJF6icR6/uqfenMkZU+guY8LOREVYOUuqWM+yP6sdeuQLqlMyLDtyQEjQtKjKGGh0yUi5V+D1fTfGuNivmAGNKWYiWqvP60azivZiXRwNdtPvJqMp83xeQ3zS/vW5v3QhhhHkrUytxVfI97WfjeoJ6Ggt4pDIqUkrKESn+/uRJwvl7iy3y54df09ysdB1JHYnujEfgW2dYEFkRXE5E1R6Q8+5O18+bw=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "The ovule becomes the:",
+          "options": {
+            "A": "Seed",
+            "B": "Fruit",
+            "C": "Endosperm",
+            "D": "Seed coat"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "E/QH4NHaA5rFq03aFwBdpAwZU/KXHQzDlfExuu86ciec3LLpFUz2LUKt8Ajwz2wGL4E/iNsPe4yDj4JMhqmWjY2jeq10SiP37sSum0RiAZXO3K77xrE5fi7QaU3Otv5sIxwKyw3ueifsa6Nx2NtvTEPzkENtTobBTY37rNZ6JYrPrNYJEd3s/Ra+HgH0Wm1Bnx1AiLtcEi1KntLqjLvmJXOTihC/SBft/PGV7vaKNTn6cGkAbCuspBETLW26Vi09Zc+C+VYPeNmCIwAPHQ+kI5tI8T8mqgq/oGS/R3U/nli7sL61hneZL4S8wtD8tgD9RRhM10Fpv/3+YDCvTGQ3ZQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LQWKzjPYjw6n+3gpG95i3Dq0Gnjhyft2HIuV9j4iy29wDAuKf/fCtxxslkoKLJ3ssd9LdJ+61AF7CdWFxbnlO7vKRTHew6QkMJcvUHlnvV7BWD3GkQxnYWfyWgIoLe1nAUW+VXBshwK+8xta1bRlxAaQfO60QyUOXB3IBPiHHO+MCkCcv6eGn4xK5U8ZEr/s60gJUrMCd7VwQib/8wJnepM84apnnMKI7YCRphbygeWzUE3ek03N5EC4G7PwOV5mv/vcDEWt/7wL56o6kRtoKYshtModzl2gJ3M0LEWVYg1UTv1/XWk6Yxd1rnIIiH2McKW1doXP3S5JWZv/8IvESw=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The phenomenon where an organism produces organisms of opposite sex is:",
+          "options": {
+            "A": "Budding",
+            "B": "Fission",
+            "C": "Parthenogenesis",
+            "D": "Sexual reproduction"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jV+SEMblQnwSMwPu4w6RsiXn6hd6ligreuflAWMWHkZIUDL+qTBz8UR0tGHxhxa0rJeNECCy38b1MN/kbKRsxNnoMJVZPcBXGM+P9PIdSA42S23HgiR1XMpN+gcCkPeZJqhVzdTA10jFNulCb6TmMZ/eBrcNIvavAuB3RBuT4+FupHLx5YVbDqSKYJJvlYVp1XL4yBL050la3gn5YjI/U6NDqeUCSQddxhlqxrSpDzZmmjpQTikWOusvsTgp1pMz7f+CpCgvhmZ0ZUZRbOtAJt1s8ZOGzewTt9TAfMIf2EB6sZteZE+SZI/haQczj1cryAI/LQfT/xpgsGRKVrhWvg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cv5mr7M0AG0Ae4MXYfvwCjpWoVHNH/I7xxPOhQGDGHJqSvfRU+XL8/8ZRfw7qHGin4FDV/WmZprSdKFMnry872LXBmVEpEG7B9ewAo0wW4qRc1PhVjmPMTjZkTuM2eLwcgpDO7rYy7aPbtQ07UhZcWIcugNJCApWNMB36fDyQhBItYiiM8uUumqNObdtF1s0PtrDFqhSCBsE/eZonIqgjdhIcJp5gsIZYY8YXWkuxjvmFVlzZKO0rN6Z8vYsO8kbliPccpxVeXz6RDSFEpl+1/i4htfxFFBuo4K97+xb35EG51gcEmHEpYfXKYF82Xa0Cs3eE7gedwMYWXxbvvZpig=="
+          }
+        }
+      ]
+    }
+  ]
+}

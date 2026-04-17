@@ -1,0 +1,160 @@
+{
+  "exams": [
+    {
+      "exam_id": "neet-2024-mock-1",
+      "title": "NEET 2024 Mock Test 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 180,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2023-main-session-1",
+      "title": "NEET 2023 - Main Exam Session 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2023-main-session-2",
+      "title": "NEET 2023 - Main Exam Session 2",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2022-exam-1",
+      "title": "NEET 2022 - Exam 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2022-exam-2",
+      "title": "NEET 2022 - Exam 2",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2021-exam-1",
+      "title": "NEET 2021 - Exam 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2021-exam-2",
+      "title": "NEET 2021 - Exam 2",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2020-exam-1",
+      "title": "NEET 2020 - Exam 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2020-exam-2",
+      "title": "NEET 2020 - Exam 2",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2019-exam-1",
+      "title": "NEET 2019 - Exam 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2019-exam-2",
+      "title": "NEET 2019 - Exam 2",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 115,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2018-exam-1",
+      "title": "NEET 2018 - Exam 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 180,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "neet-2017-exam-1",
+      "title": "NEET 2017 - Exam 1",
+      "category": "NEET",
+      "coin_cost": 10,
+      "total_questions": 180,
+      "duration_minutes": 200,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "exam_id": "sbi-clerk-2023-exam-1",
+  "title": "SBI Clerk 2023 - Exam 1",
+  "category": "Banking",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "reasoning",
+      "title": "Reasoning",
+      "questions": [
+        {
+          "q_id": "rea-001",
+          "text": "All A are B, No B are C. Then A and C:",
+          "options": {
+            "A": "Overlap",
+            "B": "Don't overlap",
+            "C": "Same",
+            "D": "Cannot determine"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Qb3fywe32qZM9vxxGP8UpKIgmbfXLLVW8ntWYXoFn9FhBC2gUHdec2D5dsnAyEu0ArzBc8HEYZYLufCCt63+5b0yNemDuUskSJHekMkEXQFnr88bjdE3ITh95oXH2W89GsiK6fPM6BoofgO0JVYMBZT8thw2HMb2gDPZZ0Ep89TvkImmes+M8wjYnL2R/8AREZMFFem+8Nb+MUZ6qpc/1E/dG/97SCE7PlJDjiYmW02ESj98lD9w0u+aiadp6DgmQlb1UOH//Bq07NrziFRTzu+yKGgAjPH5Rq/v4czQ0aoM6q73/tH+leKuizmLpbgMGfIsRwIHhICiE9rnJ1rvlQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YwNxnBr/5ehCeL6VIo5/AVBwlDvIWFcYCJRcIOP1TF3Ny+0Pgs9/B2oUu2Meh/m3gSIQSv+QbK/3i12q+FCTFOAkWl1PKZulRO8/P8sDfW3dvKuW/le2qv4M+Ck+7VXdHWkvzBYmO2fENPkq+EIXzvvxGqeaTGjtsuZxsl3lqBot2yHRWQXhZOffLHsRW8EZbgdMY7tUi1JklTfEKKgvdH57FXZcJivxMN1d8bwp6VP95UIU0Nq+7OUELm71ubwjB3y8EID4WIXcryVV8rXc6+qWYDPlZnyMycy5M+1vpx9hrLLSgsiAA5XWrj2mBRgXTMrpMnv4kvfD8C0yKjPVjQ=="
+          }
+        },
+        {
+          "q_id": "rea-002",
+          "text": "Calendar: If Jan 1 is Monday, Feb 1 is:",
+          "options": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Thursday",
+            "D": "Friday"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jriRXWjtz3Mkz3B2efcHvjfPj2pkuDMYEHFS4cOi0iMFQ8JfhovoN+OHlZfKiT7/1LDXLUnj8NoJKpwYPm+KG8vwbYdZ4IAFqEJzHkz4sQ282/4rYQ1rNKEhYXPTVoVnfU8kBG+kPwkcBMUrGiTiFlzYgBT9xQI3gFKyl2p21fdWBVnoZG/IqDFADZSmG7sQRyEA6oWPVatt8eMK3omKPFYzXzt7r8H0Fsgdov8esTuspC45zqTNhKlPFKhG9rwcF3ZUSXk04gW/xYNvpND6RyZlp+PaQa/N3PNIx3Nld6kPyjXmjnNEpfpfWcFBIDIf8KuNTMWRpsmLrFvNnWIONA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZS9sGl4Bj02M+bvM67tBrpMuW1yBLP8Z9V8I3t+EuvwUh1Y6fjhWXqs8dUdFXMN+Rn2YF0RiNDQ1T6gMV9rhceRntgVUuMEFZYHHE4cmgrw7ABUXIwN2M7YFJSagt4jgCHlppr2DDH/ponJFftwSD7U02YReRhKTJ2H+sXSO9XcCm1bft80fCt91oTD2qSb3XJzMsHHsqWHQ/QdyRBu08WCx+4B7gK83O8cagbbJ0wtIqd2n/khl8QAxnc2Aeq60ROkV6qQvMdd+QE4dulDrlQhJDfN9PM96DzgFb4zwYpIcD4APTxS6S7+WCLjHMkAcb+KME36gD0VgWop4rvExSw=="
+          }
+        },
+        {
+          "q_id": "rea-003",
+          "text": "Letter sequence: A, C, E, G, ?",
+          "options": {
+            "A": "H",
+            "B": "I",
+            "C": "J",
+            "D": "K"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "PgMJjJ3eX/D74faygWWzPzmK/YFUnpI+wEEe1l7AlveS8Xnw1CSfojnUjKECe9VkDcg/u1FmE7n/opN32vMHot8h5YD5tb8ae0qvdeXg8CXuyRNWuo8nIn550fmv55MPKk027dx+LMvb5Z/+SKLf9Lq+zyfYRZfLJuDRwAmEi8IK+I+evdsb3ojCyu+z2GosW29GjbKe3yCUBIBtXRvA0ONd9OzBbKR0qI3hLzV+MMpKkZ7i7ETSOEucPwtN/No79dcBgbVtr/J9Y2RQjt7D48MJaxL29rd1xN9SUSuRAPb0Vy3iDgR7PG5LTF/QiE8GLOqj8Io1fTmmSvXnQlierg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qTlY5eK7UKHfTGXnTAeEFbNTtHezTK/Tm2H1bf4y2wc0WuKxfz6t4dkvUSOjWx15nlA572uS7nEKfzBFqKUIruvUZR7a6g7BGOOu+Kd7GekOCD0wTyUhwEDv02ooN1Vnd/lBzUPEvmOQ47IePwKRJAw4FClWB19ZYlJR1QXwVpiswuFYl14ZYoVVJDjE/53A5ntnT5dOqlkjt1btJul8tEBRYlVNZy0TQu2KlaOx87LVpk1fGyOmEq81laWENZ7bnR8/xaGGimO/IacTSVICfwkUtCOSh7KITw0NM7sqOxMlhUMyM5Wq/vx8pG6pFJqDbAEB++PCbuiZYfgiCFSwVg=="
+          }
+        },
+        {
+          "q_id": "rea-004",
+          "text": "Number system: 15 in hexadecimal:",
+          "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "F"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "VnAYjJEz8EReLk4q3T+hFuWZPVwcR60bKrAdT13vmcJZ1hOz6dVKJ9pEMejn89H5tVw8HUk97f9g5vdq8yZ8btgKJHIWuL+yIjOWgnSHeRQRH3c4N1Wf2C6flD/vNZF5TugrS6dS0i0l/B0O/cESHfnsY4VbhzpGe+hCxXNC6mwgLRoViZvbPmRyW4fYli1iWtXCiTgHa8DTKZNyWpshDr5lliL/lteokKd377s/dT0JJZ9AZ2dti3yAJ0i4EEJfkufcBXhx42Cv9hxijEHFzLIraN+rCQlU2jAkb002UDx2sDjr7uF/DkMCVJzHdVG1d+qbCxxemzvU058sujflxg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "F0DFx8wzWBgEutxxEs/WtWTCTzpslNXnAUYHJAOZFlvdG5A1C8y6lUu84LyONO4tOfrxokxSJf6g2CGB60gObT2E/ZaU58lwLjOkydQkLiHeoJFkSIJgbQ/1ucw7Ooegzs/+3Zt4GWC8wjIX8eEhpWSl7aeubh/0zF1LfIua0fBVT3x5cxob7IezzBUAyaKwSuSx7lu2BT2edAC+vxICI4I3cChtCxckcsfPNZ/650REqNtrSVODj0THSoZudsinqS2MWT6jKv/NI5q7Im7k9AOeFyKlIshz9q/Thpd2zdlCPfBXV5Icuf26+bfTpl6qc20uqPqb/gmfYna8fnEGcQ=="
+          }
+        },
+        {
+          "q_id": "rea-005",
+          "text": "Coding: FIRE = 2457, RIDE = ?",
+          "options": {
+            "A": "4257",
+            "B": "4527",
+            "C": "5427",
+            "D": "5247"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "TrVuWfEgeS6iqg1uAPW535s8cLL7yE4yyO/KLQRnaSW1t25840Nm9wS9ib4wIeU+TNx4NhFNEV3FDNE5RT2IrORfDSi7/T3hiQlwiZ8loJ3ltnp5wAIpZEHa0kXb0/Rehf7sjM2UYVZto64kyp3qIah2PFT34dHCX3Xj0D2gOAWW9HJ7YyyzO2eeQQcVhwCNCVOaAyOf/OSUF2HEd/bBBKmkJUqa97ziLOrm1VmWbxDIDB6uyvN6GXZR6Pm1SlQund22JxsAJj9kDl9xVePObkyUQUjvDuF0XdjxAfSxprQo8TisZmypM6FpPd2d6NaqfFuhXxTYz4GTtXihkepLWw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PUSknt/RGlzZCuDQBudAAWRd3DEXuzwMLuZfZDvA+FAUV5RlvtcTh03+8TJMbwcXFyg9qK9WW8XkfICFkGraVtJ8UWo51K60NisnGPHXwH8tnvJdQYJtn7CtAywAI2gUtQoX2ydPeMnNHR9qEOkUb+T1yKlmeMpcWZhzvQ5klvQ2XHg6OOygMewLDQ5+XGIWnMSZMebCkj4lt4brKrgWjK/LICPLtNuWIhq7alL2wOJhB2Bxz9ON8xcp2IsMKQvppI03kNSfX+xaC5+cCsv1F/7ADhjy+77ahu6wPAP8OQomYO9UHUABcT0JMhztVA0Ithj39ZDzm38wrtaLe46X/A=="
+          }
+        }
+      ],
+      "duration_minutes": 15,
+      "total_questions": 35
+    },
+    {
+      "section_id": "quantitative",
+      "title": "Quantitative",
+      "questions": [
+        {
+          "q_id": "quant-001",
+          "text": "Time and Work: 5 men complete work in 10 days. 10 men complete in:",
+          "options": {
+            "A": "5 days",
+            "B": "20 days",
+            "C": "3 days",
+            "D": "7 days"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OrMu1wDffjLUV4kxk/7fVuWMk+TyySMIecuRehDHeDzQTPwlhJ4DyBVoI4spq/3jAS3YcTbWy93eZFnGC9QSLGabYg8T8XHsjNm00OC738s+L5cBoLBtxopdYM9p1nBHQzKPMNSQo+oi/rqz8RCuVrHcjve4ZBxOXDyAnvk/c7JDtQ+s3yaHnwEhgNlaKw+nQpGgLU6HxcWjlOucMZMcehs4S0cjPl3QIItDzPouW9VtaegLD//oyECPz6Q3gUEQB302JTceVG911GGs/1JhaHrHS58b5SNel6UKzf5SYTSkU2kWuqJsUR+OqfCssV+6RFVj7msJXY05JPK3LgzHAw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "q+JRxt/M9BCoau9aODwQ/rfJsN7OcSOqa3vwjkd3XetHtGfyp8W7QHnGfgUSh67qjC8yS8qx66/VJhyjhAISVmKYWCwfvy2NQE4JtRrYCT9tWLKdfX9SDyAF0wY41+LtjFzIhqY9+QsXxPBybst2jPQZU8k36fjgleMbQtmkw+eA4k+ua/EMBfAn2qnaQLU8szau/YXIPY7aoH+Vmvlx9tcoEHBdcLdyHmCk+4MEUzpdfAHyUi+UE8VjE5qDZhQ8m+04Q/VVnqYj7jIiPU2Isxe7PZDmVOwzzlQfQY+ckLbxbXRs8Ssst9VNt0AaYJMVDqPq48KWr28PKrLe0JSkJA=="
+          }
+        },
+        {
+          "q_id": "quant-002",
+          "text": "Distance-speed-time: 100 km at 50 km/h takes:",
+          "options": {
+            "A": "1 hour",
+            "B": "2 hours",
+            "C": "3 hours",
+            "D": "4 hours"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "pka57o4BqoTmwZHr/3NKvR0nQh87d5+ET3aN3KeBN+unN/9c3ocXes3yIrPKS050DROwYJtjC5Ye/6t1/T2u4M8HBDlnJ3n//hoUONgqKxMMKmzflqjC4e87Rid6caBGXM1ofnq3b6fbZF264Z2IZhBUq9gEytLW+DbdL3E515RYCJpyeI/jfBD2WXwMosLrQmwWUBXhtld6HRBKM5RIKcZcBMXJWrZFdiYNWCbsqp3jcYFhXsOp4mLk4G7dyq6i5/6CkNGmGwj5sRoOdW3Igm/H2j/eYwRjSBHSBCn4qtjAebkrf9ME000777O5xIKFrOszP7rAKpcGL40hNnH0Hw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "RXW38pHHwhqH0mDvTul8kpKH/9H/QzSUjIMPsebNLqALv0pD2z2ma/Oc1gj5GbvSxRoOlJIe9zFDHOHSLXo+hy4W/DkFOKaaX2Y69y7VF8S6O21sS0Usi0lHy9Wd/oI0WPtHgirpgbuIihVnmE2fAsbHy3J1QF/9TkCD7mPZoYGie2Nu0h8uZnsUhjlxM4dl15fFsf8ksPF+KsSNUQc6c2pOZ64SGXv22TJ0jr0giFjMBOrutFGEa4Cs/XWqfjViktnoGYab1HDMqdLZeCVTimYSPqZwg8xz2fAmc3dIkB331ZPX5FeD9YbYkKUbHUCd7uNiqxmn7i4k9BwxLkMMTw=="
+          }
+        },
+        {
+          "q_id": "quant-003",
+          "text": "Decimal: 0.5 + 0.25 + 0.125 = ?",
+          "options": {
+            "A": "0.875",
+            "B": "0.925",
+            "C": "1.0",
+            "D": "1.125"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Yiov/aOCanU5OzmhylER6DywS0gQYfcdGm60oNoFSB2ooIyWNMuuo7CmEcj9pFGO8RBijZmW9sAXDWLOdzCxQRqaApbR8E2wuFUneEl+9dnaHPnrNLf+n72xeABHqvrWYzaNsiz1iiGeKC2cTRNYyYih/xH+8DCzV7lSZqDiHrHQhffVe81HKy7mz96hi5lXE+aBExflckFfAu9ik+R/PeAE0Mxcux40c4XNXhhFkVTOAn2pRlA2lROLC6/hsShkjTwjhvo7Tmap54NglGMAK+cSFehxuLIx0C45RYZx6gZngTtooMsqr5wg+NEZamzbgRaeWhH8P+QwIAPIKG/3CA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Du1FlawGH5onAsSbECGo0ikDGaB5552Lve1qT+pbEdd52m2v2ToGVlb3GbKn8dRgnacn3BfQTBNUF9+LgNpIUxL7dvKxZMCcPYpvqvJGVglNeD1Zxa3iEGixttB/HFN6pSQzXOyzS/Oy/wzryD1aKB7Dzrh0Czu0hPD180inW4MhdryKbCdijPwNXDK5VXigHi917uOPuMt8cY7F5+YFMvxmaIcO8TpT32CWbG6SI7hB0S9XF23/Ob/tD+jnoblNmoH4GTV1KkmhGYdvY4DJFraaBpKFb0wHyrobzGpZWZNAjSDvfsyd4Y0OFchYaPHaPUzgaYhGIwYO1RNLY/dnuQ=="
+          }
+        },
+        {
+          "q_id": "quant-004",
+          "text": "Algebra: 2x + 3 = 11. x = ?",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RGpOuMsUfxRLLWpRzLgsW0tyoLK1SV8YobBxVBv1b5UdpDrIP+Cfan13AzNj28xeOAuchRSNfQGx7a0avcE7OfttRCjNjxEh8ntaLAEkMaoa1nsZ/SSbiwTSAAwhSP/CpBOlEvt5ksav9sfpaL33iwhysOBZ1HSNK7KDtHAQn4N2DINNRWAStIoHVmQbwqKyvO+ieDBpCNUhtwNOQK4UGb/+3jBP4Uee4JFqity3atHDG6YLMzA1OcWFaZpRE++XFz0WUm+55c3OB0n89G89iYD6vjve6kml/M45GCYcDcX2zsolPwMbTpO4iMmMtuQiSmfaS8pwt4Bb4Chl0tT50A=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "E5DTvvkjpvuyltLhq0Ey6xnjqd8LVBXsuSEzbfNEXl6hYIs7F/S3nkraLrPa8v7UlleKLt7sNBTrUDOlh01xR2EtbgCMxgiO9/jKMDiBvuVWkmJC8NNrg0RmDX99JvT4WVMjUlCE+sY3pCbXRj3nGAI7ROfQY7hLTR5vLHsONKaX5yUhhmzxUkyVRuL7Ppl+VKBR93n6K/VvhkK4ArVeLg8lojeL6mKTMCYJ/KWmjebCClDyowYA3vs6srioPfiFV5osDRaBNVNbCT/armi2TyH73LCG5jQ0etk82z0yIJtimldVJXC9JS+W2TZkTTOgNte2LKGEmrzRC1NPnV6y5Q=="
+          }
+        },
+        {
+          "q_id": "quant-005",
+          "text": "Interest: SI = 1000\u00d710\u00d72/100 = ?",
+          "options": {
+            "A": "100",
+            "B": "200",
+            "C": "300",
+            "D": "400"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gYcu4N7mzFsg5IUji2rkl7zWDUmoi3Nv1o1CPNH7TVKaoksovUxiif5ScBz0pfXr5PGFMvJQdaAL+ljFFZb9Qpyc1z8Jb3degfslbTexUpvwCOhHpIszXk2lVCTjVp1wjcwPsgm54KhAxTXwFrSJyAOKSEDj1jqJGAONR/68iz7CZk83lXIo2J6rEkuh40rw9ZBqk0EYD67z246d8BxzDavsKX+DpNZLH4qryT0567ZN2yWFqZfFDlo6TJSyGtGZldNafOZVuznMlz1fPbmGYdG91vD0LNUcUEAjx903mtwdN2yckX3dZHPof3GoDtG8vceAMStnuW1s/KwQ6fkzdQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dj6OS0TUgbcHNZ6otR3SedRHtDdo43rMOGDMa4iKi/IlErloP4YyOtTntJr3Uc5/a5BrCKrLtD6nhcQsPe0OseS4Th/8k9UGBFBFFStFO/D2zJNPh9YOOM8SRVVbt5tz4MLyn2jvV9DqLmyjPBrsPkEHO8D8pdeTqKzWsJa5mNrD7HGNf/8kMAM7KqjGN/giyEass/nRry7Y4Rb0XaJfa5urBVg/3drhQkoillyw9YIATtax6gI2aIkTP/f4bEb5xPVZOhl8LlH8KIz2ntkMZ2dUzdwxOd7wcQ3WH0FZUpM1VHzCV/jlIvD1DCK78e3XXnFJWuK5yKJHK16L0niK3Q=="
+          }
+        }
+      ],
+      "duration_minutes": 20,
+      "total_questions": 35
+    },
+    {
+      "section_id": "english",
+      "title": "English",
+      "questions": [
+        {
+          "q_id": "eng-001",
+          "text": "Clause: Which is dependent clause?",
+          "options": {
+            "A": "I go",
+            "B": "Because I go",
+            "C": "I went home",
+            "D": "She runs"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mSAVYDCiEbWZ7dfjbIbIcFGGIdybvXJZog3yqRq8kHOU2zXvldxjXSl8Jg5vvufz8Zsf17Cv1IAwhC+IO+/N1DRS1p+aE00sI6yqX4x/gT7gG0MWNK1J8uESIBGqkvwJXlvc/y0J7d/s4KgslmVAW6oYQVP2RzUz8AFCvayviyTaKOl+Bi5TplO+Jaf1rEZueo4neDgbBapvM0+tu7HRZYidF08Fo0Qi7XLIP2wnm1+MM0ZkSjN8oB312gCbFNJAt/fDxwjHz5C6kxdOgaXt3lQ11LwxejKWYA2x/kaFot9JsWz9bFV/nXpyMTlhCJqGiJgmu0f7dlmj0ydKEE9W8g=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JFpNzXnFreT1BUK+UQaogEhiHKTTrsaqNZ0sGvJvjvBlq+kzxpKBZ8NQvdebtuaypSwL2SM712jcl0gyFNDw/+K9j3o1tIFfT9TEhegaF5sWpu1Lh+Wl1wrVP0rOV/Q5kinHHjAywAb2erPUzP/i2h3zEDsBKDmamsViXnLGF7feAvUa/PMKFRYM7GsdXOeSbIdixGQrg49qUsx7Sh8LW8jJaLff9bVNhetsCLJadF9LA3NH5JaJl4PpsCAK0TWth8/S+EVY/ef2NNYNuL0Nd1J1Ow+zNB0oxvobieX2+4oUBJQdej3qkllQnS5Of2gYMnMJVzLzvOWGes3IYwvA5g=="
+          }
+        },
+        {
+          "q_id": "eng-002",
+          "text": "Homophone of 'be':",
+          "options": {
+            "A": "bee",
+            "B": "bay",
+            "C": "beau",
+            "D": "be"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SGGdUfyWBw9RVkpaBIaNvPSBejSYSGd6BLSzRKgVOBbThf5uT48BWwIYC+iMDZzPmBZZTHYYpvG7useWGT+2HaZBKV8N9naGNfaP7gxsaPc6mRKG2oThYVXiqLAVaErwKb0n+QKsOhvteUVOVOsKwhYvU9MeKbCnhfxu0VqN0uft6oeLCU6ADsZbQafivcV3+0PBkiWW2ivywSuo7OPWN4VrjgiFjjqe5gtync19NyBSBCHLxoPLw/8wH8musNfr9hQ6SwvPo9Crk1rnXaQIyLgOynK1qZPOZZIW/zGsrMJBo5nCvScliMofhX7XFWweiyViHCK9aeJBDkQl/36EuQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jYQ/63655Z6JXl3raYaUn6nb0iyp2P8PPgAnAQLNAC782HexUJARMPdJK0vm3Xr/MRbuez2tEh27OwTUgyWTLLtt9Il0hE8AQC84JOEHHbT7ppY1WC4qnqJqSFY/ikQN18o8Enrzbwu4G1aHQ0ra3IbrrXxK8unfbFq+KnhbQPT5tnnNwVDCw5/dN5Ky3igB6uhwcCzvlWhn1Yg53RhUJ4VPxdsFfChRlB9YL9cvRqfyy/XMfm4ChfQzVjMn+C/Evj3lQL9YabPRkXttT3bsUzUIBWOhLIt2C4v4StryT1+uL/VyAjsWJU51ma1jvW6H37+P85LylR7NbQdzoQnX8A=="
+          }
+        },
+        {
+          "q_id": "eng-003",
+          "text": "Conjunction: ___ he tried, he failed.",
+          "options": {
+            "A": "If",
+            "B": "Although",
+            "C": "Because",
+            "D": "Since"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "dKZMkSjK6TC0dAHe8uEEZPl8wNayR1QfO0r+qkIIfZWxWNzv0mIDGwN58orrQ60S2uYNI14Dcf6elkiez0ztYp2HvFhz+00+s6fEeAGNtvSLOEgVfrTkDpQ6oR2RGLNlCdl4Vb85ZE6pnApi3Gz1mwlpZuIL2fN7PO+pQlq2kGDP+2M4JjHpj4LOqMB8oOGrwUrZVGPXLpEGjwc9ikEjpPJczZCRfXP+jXvlprOVmPtAJTiEzsGWyvewlCAiDILkJhMuc3sdAOYcf6VxOQrDqdHIibRXv3eYtyhBR/IBgFn/ikxJFPKq31U319ycRNijxF0tjMqlyP5VF03b/jrNlQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "IJ6dUwOjlgFoAzkM/O4RW5C445KDhXf3WvKovMSTQ8lsTJYleMNYcc0daHWT3NV2OVdSP5OrNRw83QwH8PnLeuhOhmAwCm2TsB0n1OjBHYLMTDCESk478O+KzDEh9pRPjFCO4pJk9EbJ0cdBxVBZ3AGUl7xP/7he/c2P80icMI4IT7sIGbHcpSQcA+5nGNpq4bBRAlQwHqbIko5h4A3gE1KvSnwjJbcj8dvfO6iaxT844/dlYRC0QiNnrbLt4rH4MITD+PyE3FX1lXMKcqLoNNIVHJn6UVX47yOdX0I3lf7nK+GV4X8sLGWEacASRsH9dScPk8R0m/d6Lj5FkP3Wng=="
+          }
+        },
+        {
+          "q_id": "eng-004",
+          "text": "Adverb form of 'quick':",
+          "options": {
+            "A": "quickely",
+            "B": "quickly",
+            "C": "quicky",
+            "D": "quickily"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "B8NdBcxAo5VS9jd6dcIBnsv0m4Ua/543JsVUAu7l3SMCts1yG5RLmORD24LsRtU1ZqNxNk5W8j4M0tHPMkjLwDLDfLilIDGXRjMQKbEqzAmSDDQZDsAPDTbLiqpNcZeIXPxFu0Q0/LeTYUK7UMZ6gs+CJXNdIt3CiT205rokkLA61kc1h36Eh7U9fgYYwDf/9a+6jl58PvX15Sgq4f4n/K+noTMuRPGlPAqkXAFRkg0llj4GbS1Wz3u9ecxt0eKTeL3sAyMhV9f/RDoeQwyuIpzTxHxxrVR6fQuF1vMAZl6OHpqyo7LdM2p/N0zs/fS2YBjzMrdHTlXyuLpi4OEUew=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ThPEtAbu7F86Wp0hiyFGd5v2AHpgpzp+54hpl3Nci06EEiIm/ebsDv6AkwRbFyrgRxIuaMGthxdOdpImw+1a5/iztZ/WNVhecEtj0bRE8N5IG4UPhHc640Mpc+u08ypRwvxkYtho1s5ChJTssqm2SjU4nhakYqaN+hhp/kANg/BzVlXtfYPSkFNtQa3LPEZY8S+O88ZzQ1zDry3U1J1SOIRVGiDVlXqF3X9ocHJjS39ekFNCyuOO+WVwNa9Msy+yiLJqFNXXObKtq0Xe/P5TS3+jf0Ta7uEWdNTU5YIFOYkI4BXzrLqPaks57IUUge2inbP9SERXO8lahG3oqO2QsA=="
+          }
+        },
+        {
+          "q_id": "eng-005",
+          "text": "Reported speech: He said, 'I am busy' \u2192",
+          "options": {
+            "A": "He said he was busy",
+            "B": "He said I am busy",
+            "C": "He said he is busy",
+            "D": "He said he were busy"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "EjdqfleEIvw+476Ro0L8MSKO8VhAOT8oYlyKryUII6jFQIFHAIQ+hG0nVCrxeLWdJQO2g5u8EdWDgJJCWEZc1fgBIGWWblFuoCa6EnGx/4Tus4wHeMryZJvpgbW0Yoaj/ZfDJJqLr9LNEDtlFP4tq2Ct/TQbS9l1tPydthUb8f3vorWvygMVoIyHfRuCGl17eUp/0frQ55+XQ02cfJ+jrzjAK5pFOj0EgxoiZHJi+GWA33A8OQutajp6schQQuDeKudFegRTlvyu/SHtre4AKQQDM4s3Nk6JkD4VeNdYlq/xytaeXnGJUWxbnWB0YIRNbqJNsw/pkH5w8nZJM2X5RA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "elFDEDHsK2WAHZTFBLfEkccG46+9+ksOGrLI7IUrabsn7gkvK+Rfztc/q4QqhzRqah9Tt38+yr8w+qDsT8j91T1AU9wWyxoFUoSEfcsaTnsNxShB5C3eABnQcnc9ifR6C7Csc7hmhLZ+ONaVQoSY+2JCx0IJWNRrMh8ygXCQqM9Ncc2mSCuBKRKU/Ix9Cb89qOVLFx5i8aaQPNv/7pQswFKO6bPyCJto4YkbpjmMokYDwD5tMc8YbBX3/31++ZmqLAFb89SGutBHGne4OjmUsvVSAn1MtQ5APx214BslR//eIEABXfw0zxCuyQ4iXBR/azWU0wEwjQChVrkMsiWNWA=="
+          }
+        }
+      ],
+      "duration_minutes": 15,
+      "total_questions": 30
+    }
+  ]
+}

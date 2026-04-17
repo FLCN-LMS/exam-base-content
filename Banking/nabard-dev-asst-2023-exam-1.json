@@ -1,0 +1,332 @@
+{
+  "exam_id": "nabard-dev-asst-2023-exam-1",
+  "title": "NABARD Development Assistant 2023 - Exam 1",
+  "category": "Banking",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "reasoning",
+      "title": "Reasoning",
+      "duration_minutes": 40,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "reas-001",
+          "text": "Find the odd one out: 12, 24, 36, 48, 52",
+          "options": {
+            "A": "12",
+            "B": "36",
+            "C": "48",
+            "D": "52"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aIeHvUwQ4PbZcIGUowieANMaYcdjGtZCuc7BjSu17Z9Nv25iPYIasphY2fxaqTFUiAD5Xbq3c5q3Sw+rR9Rm8TRt12dsWshDGgQIflkKAOEvmtKLjAk+Gr6hNg/NyXXe0FQ0/TWISgurWI5kKeP5Obz+nxy6boWnjgHGwU9DwWYdArBr7uCEqCq3+lhizTX8hD/NfvrGMJpIqB7w6jwaAjUqX0/iKO3Q22LEZBCJMH2T85eSAIJcV6/O/PbTYQWAvtgeZBFnp6o2uK7bbwnUKNZ22X+zIkVKSXH66SkTDu8tmqIBEiqCYboSIStzR9WzqcAnvhxtnbbMA/OrVa0iNA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "iRoY4ItrZorMJaNqUyVUW4eZSy5fo5QObZSRImkOsOgVCzmryUxe2ymExU3pj/J/PM3UY2l/8DjKiRq1VcKJH5h7Bje/YQzSznGu+JJOR0ot9RXGH+nOv3hbdatqMH1hYtNa3BLIZHlcD0o+s4BaxByg++W6HyyrZNwQIngRLJaWR3MViuvuNdTx44FsKhrOKmSiYnInb5vFJVqOxjUMwX+MQJszYksDj+aHZZ9sUeXh4pQbMwNpsohda4UgSnATVQJ6c82oHVKQMYAdLqGd3NAY1jpPLjmHUgPlAljwklBW9uDui052nvgZqtX9o6Mb0NFmPPv127kbGrraiHFxYA=="
+          }
+        },
+        {
+          "q_id": "reas-002",
+          "text": "In a row of 10 students, A is 4th from left. A's position from right:",
+          "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "9"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mKCf9iNmKaZ2KHW30bVZ0duNqyWIfHiiseVdYpd5h2+SK10WpxqGUJIAvEP+FyYvPJTZki9RmNAbYp4zNW6cVnHxhdz4kYTa05MTHzlrR5k0UNTuLEg9t2VbLkvU2kVcadAn/1nPZokqF3TebkdPD02F5/erDI4DTEtlEwkrLg6SysY57NAZchK1X1mi6PMDdW0Q3Jd4Q+0AEsmm4UalhAlB85OdAyTtM/hXGrbNZzSshMP5NOMTHnhxiVfvrjZrJdhrHHIbi6GqYpXSxZcnipxBfGrmEciL4GdNL0x8l6lyj42/TS8jHoPCH23cPsu28BxQPrr3QmiPFC0mhd4ihQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "M9hZuLsbAn01NJySKhzo+jTJlVlpvLCmZcuEfHEFtRvYvOn/ZAOiPOua/Ou8X7QgPFz24QJN9gMop7mDObotTPNUy9cVeCgj8txdxYDr9dvVr6ujKqPVVSa1AC895apbm+7p/JDLFYfzTx8BboPRwDYlZFXzOfzi0S1q0k6+AD7vRqKu3UjfhGDWw3Ss16BUsURp7mJt3A47EI6Py79GuI/+/zZBBypaVF0cdq9LyY+D6OZeQwga4+YagzUcdDH8E+vKmbd3T9EBb1q7eNmPQrPTroHX8Oq9W2SaK3e0jvdUz0eg4LVphb9TqWL2EQziI+z/eGSxkAzrbhvuPYdjGQ=="
+          }
+        },
+        {
+          "q_id": "reas-003",
+          "text": "All plants are green. Roses are plants. Therefore roses are:",
+          "options": {
+            "A": "Red",
+            "B": "Green",
+            "C": "Colorful",
+            "D": "Flowers"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "pTojyjTBhxBybzkspqFzzJcDyLHf9IABppNjSnpixVQb0p1JsTOWMaMFm1ZivtbKN5Xg7HmOv6snmtVs2QwD5UpDjtwXBDxbJYfdP967RFQJMw2sqA9LRyBzlcBJ3FyRXrNjwI+x3AEJf1Gz556/J7K1bZnyCvtT+lcyZXwl4rKRdFLvzcjMImUpOA6OgkasDDr/FKaX6HB1YE7eqoa2KVzUP6RqDoyic/xk6oQ1QjvMzq+Wp57MA+HB5/NsyDPhL8RRyv9R9hELYsO3nb98qX4fVkkjtNp/nwhTTbXiq1cMzcuzC7mB2rN2pxBoEPLARGQQapdnfndAzO3fazYOLA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "SHK/BU6Pkvtv9pYA5rPSNCw/2yZO/Sp0IBNfSlGtXXzoRfye0v2DphRW8sSaZKpeYldOhyY+K5jSCOSZZ5SP+D4jQ97avhQkwdHI4DNKNLM7wHnIUsXfhce0FM+HMad1zYRVOOKV2XfyoCrjdniyqCHV09svPky69QqB3adZ0OE4JZMndp0IEhd/g4l4h15SDHk82svvKu7sHLCmBnoKGpIafsaoe/jp4XWdOdqePcI6nEVefNIzm9s49IMlOy2XZN8uKgzDRbxnMxE/O3NaX4sRCxtE17pl/fUCUbSwyty1ToLUnZSLrFtkIvl2MQgYgmSGt4n8vMWtmSEHuQsjhA=="
+          }
+        },
+        {
+          "q_id": "reas-004",
+          "text": "If PENCIL = 6, BOOKS = 5, then MOBILE = ?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rUU/ct8mPXGIJqPx2EHeSy5rXzsS7/KuYt6mtv31N7xONqmwA4UHdcu7h5kiLN3Yb6B9zZX0UtVRWpkvnFd9qzlf2Jkmt2O1P8x6lKKaCLFBGDVUQAxxN5xr3l1iF+YRkelCmKegzaJLjk1vVBtnq8ftV/0zLIO/WuyEwGTwOXg7gd3UozZpGZKR9P/sj6rmIz+0IwKD3g5mbit/g0s6CL2DZ1jUHfGhDON4PQrO1v/RzflqPF+2VohlfjrMM0U2wlFBB51lakX6kNNJQQgjWXwRGUElj3IeARS5Hf56vopXuHWUA81cP3pjOaA6mvZp+WxrXG7UZ3oi3AoIqZf6Jg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Gw5vc28oPEmAC47D46NAlQu3kiqLmKNJdc5ivrCNFZoAIfFOOHpx5Zxzl2uma733xdjPrNp4iiHMD4mvaEBdLYekA2+3KVqC12pq6l2GCzonyH0qkn3MuxPfI0lfHlNVY7AcDq51+hrCEtZTVvQFzI7vXZT5TnDoVSHlcAdvPenJ++AwTu2HNRF6DuMZ2GYDERNndfMdCnTafGObYJ+tyzCfBzuLkN5zuhh/TbXgCSenqCHV7tD9wVqS3z+FgJXdNKa0pHOFTrG5hp3kyfjPRzf+iWS0/JrIdouP7oD7DDXUc9WwKSad6fte8XRt+cZUnBQ2Zj6SzObu0Roy33amaA=="
+          }
+        },
+        {
+          "q_id": "reas-005",
+          "text": "Blood relation: Father's father is:",
+          "options": {
+            "A": "Uncle",
+            "B": "Grandfather",
+            "C": "Grandfather",
+            "D": "Great grandfather"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "KA+GYlUrRt1ehCIxrOw14nQ+X0FKo6UaNRMZQwzb9gfpIuMvsfkL7Cqpn4HaZ1mN/HVxyZlG2t0gx4H1t6XKDfb5JQGRm4YzrpYprtrI7P8TD1ddWSl3S2mmiLX1kIf+HYh/EfOdJI+1Ij60VxCFuH2MOskzICjQ3wlnROpyCWhH6AVkyAyeePX7MFg0UgF5FInxpeGUOFSlE4hHoFlvNPp+Lmfd8+XDJak1SJsKp2txfmJK73KkzB7b0OldOjgtr8G9XpYOCkB7pTbXILloAsTMnGp1dmVUaQPjnpWbxtknK0Ckc/h4Mj4h2g6yT5jhrUTuoU0VWhjLk3pNGCSmQA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DpXXOQYU+7zza4rrczLG7RcQElEbkPdZD8GQzKsZfYF5FNLfSQ6wgrydeige8fi3m+PHXPMpCkq41ReZw+AsE3k7lH0p9XcFs6fCgv5ohc+Im04TaOYmc3coV4/9/t4sjjjKlL9fzHW0yRMRnCL43sgv/IaRygBST/bMXAp/A4A2eQolAI64QqLUXYjXonS6vkpkv0+Zw+zfsZ2vkRnESMgcIQVzno7Smu5OWoywqIjaIkFV2NZjdr1iD5HIMFxYAHzEOIUhUadQlTSGtOZRyAvCO+A36MqkowfLTLfGETHi0wj5FMman26a87JIzcAy0VdXQaUJecbzx71/2QiwVA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "quantitative",
+      "title": "Quantitative Aptitude",
+      "duration_minutes": 40,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "quant-001",
+          "text": "50% of 240 = ?",
+          "options": {
+            "A": "100",
+            "B": "120",
+            "C": "140",
+            "D": "160"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FxNkRGtD19WY5YiY/fxAee1M+5BwDratG/80xzBkmUirc9Cuto9C9CkwvqTTkH0Fea9XSUmkLcjF38/vjkzK9196MoX3CN7zcDGPJ9bZaZnnunsv234suGf9gQ3h//dgEMdaKc3b+MeGFipYDt0Si7uLpRwCfGz+5nv+sTrmXoXZqBMh1g0hBahOQqsQoVmJoS3dVEaZDJ/ari+fVUUTMQeY8ahW2HQ5pI/iAF30tHIJiGqXdN803ABiFE8xTKph4+aqrUXBscyNAA88FKfPBeaLK1C/ysgZL9uQdSlEW8pg4P+jnWy3urgZ0IUZfabPbnChIZP7sOEpYgVUkEJRAQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LTf88Ft1LZGNYQg3nn1S9CFpj1BBRKreLdSORKMUKnTXMDZUA33y6gmb1Q89lL8B+9csaSLKmMV+EoRRKxUvQImhFelC4PIAYR48apqvgXlM7xry1MAp9iy1c/fcSXj2yovN7FA/BuDAcVmJDGzekvAfVJlgY8nDPskSSLAPjpK5npxMg6jeBJbhm4f7isHqod3/Wa9ud3jvI/RzAt01oZbQN8xaV3EI2O4YkMlG6IxZ8Gtd0cA0gjVCGAxKm8kgeM/AKOgNj7HzVBgceX6402zHrC12fkKLTqvuaIEup/BMhprESHwuLI8gLM1Pjq9/DmRFoAivwe11ya1xPYDssg=="
+          }
+        },
+        {
+          "q_id": "quant-002",
+          "text": "2^6 = ?",
+          "options": {
+            "A": "32",
+            "B": "64",
+            "C": "128",
+            "D": "256"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Ygx57ArSL51ctB0n1PesCo/mFMXc3dfL2/E/mldokTr0xJ9QV84E4JRiAx23IBSNBk5R2xnbMaN8QEw2GOtdyqMecKOO4rsMa1ZMtxeRlsJgvd/YFmdwF+AtLJNJyaddEmTOb38gP4TKVQSefwFqF5btBhioDGlBwEVPaCI9qfdpbb6xv8Ecshlcibbr7SqRk/yLz4XohCUOex3mPqFP1FZbK6WBSS5Yag9uL9aVks+YzegHKlhiZK2UI6Opo7JK5R0iCBaHJI14gC7vvJDC7tUqg8AMyXENg7iqfOi/ts2tceVLIYSbAkmlb4GBpu6JICBaHI3RVI4pA6c82k0wDw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PTPWQvVmRcXglrswdXh1M+mYvC8Y4BewCUo/Z8oQsVbu7tN9alg3TbcdpxgISB+HK8YZIypeaA6DF07077mEbCTjyLed8GI9ZXrmZp6+/+cDFcc8iGP3DNh81dGKO469IGjL5aZbfqP+5bmF8z9vJwFPcsTR9QqhKcdRrxy1Badq0resK1nOtABX4ltQLEfcpmvGnuYgMf04KzyID+3hnOsYiht0ua0gLEpDh1aizMhPGc1kDS1fu9QKr1cn9z50OY5sxPGVsS4zxAugif6+tl13Rfaqwl20QbF+3F3h7PA00TlhoTrxw8OzgQwLTpbWmCm9FK2LkngFM40fjN+hcg=="
+          }
+        },
+        {
+          "q_id": "quant-003",
+          "text": "GCD of 45 and 60:",
+          "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FAXft8FDd/K86ZbLqn/s+K8jBuehPK891L3CHoNvDyS0qdOod7owCs/MXucDhLveZgCnjpeC0GSeB1RL7TDMhkT/4tsKd9I9/kaXVWOjqaP4bFd2IJLfbgG8WG8hVRhZnU4vqO6+NEliFCM1pPNUIsfLGgMIEWQl3R8WUp2PhlWAWx35VujDMqC2iMXtNWF15vzf2at48K3zbIRvXzkEujh+jrywZlUruXWwGwhOw4icfZx8v/NJ7Z5djoeB5KgF8ZvIr193jUPccMptVVByv/jJXzM8swLNt/9ovmipkid+FvEV2gku9CaP5YRjOeJM1GcV5TjwM3mHHfBqLv/qGg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "gA1e5fWdeGzl24CYLFJYKFHy6gyrwIq9sbNUyHvUwM5VCCOOiqs64kTSwqXSecqRSpyqtmUvAkcAk9PAkBdYuEJX6MVUhAagf7Zy0Ht2OBm6GX5Ry+6MGLVMaispRcvD3rwESSbcX4m6IKq1S/ibl+4gyQCYG/kzFufeM9q3dMlXCRx5vQVC7ZuYLp0MiGxwM0IHTHrtVzS+WO5alKo11M+hz3YbeU+KRWgenKsW2ehLiiDgP/r4tGQsudDFPL9FY9kTOypWAaobQzH2CawEbiFGUhVSQflHwaSw7gwcDxbY2rOAVfigQ3xkeqSZeE6Tgz4wC8VQ3LixSn4G48VqKg=="
+          }
+        },
+        {
+          "q_id": "quant-004",
+          "text": "Principal = 2000, Rate = 8%, Time = 3 years. SI = ?",
+          "options": {
+            "A": "480",
+            "B": "500",
+            "C": "520",
+            "D": "540"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UJWk0GcoCKeYK7PNZtdW05C9QeK4oJgL4rDwEN499yFDXK0/+9apUScYUrqgGolpUSpnT4N0ZYI9WIh8ocUgb62GOgBFJrHiWywqb4vDXcMo17XzRMyyQLo9GZi+0nZnDlP8mlv5/dy+YnJZgl/mYB7tm79V6HCbokvEA23v1EHD3RNKuEe7BTSbyqK8FMEq54anVbzBU0emElADQEE9JCV1cE7DuIhgs1ox2FPuCANUQcWasDzfvlutKJLnQWZvhaNsJ0etVnUhlo3dl2c/QCrXZnaP9O7sbBxs8kFCHEHzX4RMcYNMIT1xKslhhxD5JIEP75mJCsbeheM6B5Di+w=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "iIJWsTrjG24zEgZCAnDIxBgAmAaNTPVREca7H8fkCfrKM5YN/6HmrNStc1I+e3XabDx18ZagxoambiJE+XBGMMOQHOmAHndUWrTMjsjbM1SZfj08fFrVZ/jZvlUy6Eyhu5/JDkj+gCPrR+XbxKNX7XYN+wYK0r5wBxEtTQ7HOhXVoBEs9EoC3p3QrkXGomk/GSIBtg4xZQC02/0OrbVMPZ55Bl1jQ677xHRJCdvY5IhEY5Asvr4Jo1oF2HB9ll0jIU7Odzw92oJYLMIvPH5mEHD0x9D7PFHy9p1LsQsYXFZKBXXTWoTsgV01c+IcBQkZr716gAMfbQ7DHE4osWilTQ=="
+          }
+        },
+        {
+          "q_id": "quant-005",
+          "text": "If 4 workers paint house in 10 days, 5 workers take:",
+          "options": {
+            "A": "6 days",
+            "B": "7 days",
+            "C": "8 days",
+            "D": "9 days"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "J2w+uWXL1GEK8kisjeJMNfiiDheUnPAYJO19NniFlfYQny4yzaxgUsFJznOBFVyZ2BBrJvGhTsAPgeAqmzd0PHFTxRkN/XqEmJ/Z4FMA7ctcItWVR7cFMDPQHJYuwqfieh/7dPTOWEjTPvhpX2+CiokiP1ogBRuDn067+hRZ0qRmNLEBKYsx3x/kICP/Qk97B0Xa9PwcgpVN2iVrdueKVYETOA66sqZ8S9IvqaTn8nxqplXnsk0fmdxoGUFE1twwYmw6HvR2w4AHIlCHknAU9DeQmINfJ9JK1GEW5NkVPG9Cb5k5yfOw3eVbsliSx7UTcueEPgYNfBtyOTP5iw+s5g=="
+          },
+          "marks": 1,
+          "negative_marks": 0.25,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UeTQHXkFY2Z0gUez3gUMndSQ4ly9ilmIGEzLw6w1HBrNKypxt8DmPTHX+tPsK/fiI0sVH6kt4uxjCLD5Dz6jM/jRa7oaUHOIwOiY7qfOegKo1CM2Bznc+UqWp0ozsE+1X7wkguwq1q9UjgkhHJ3+hgzg5Mxj+6Dmfrf6AQkYKujaHqEYXzH80x6fli1nAFgUVeRtrbJ56SKvtwCeeykqXJJUnj+j6S2p4HqpnfSggWXU+d5lrF58Ag/M/wYgf0Hyun/a6D+IbLsrcnofCLkrWULyIR5856D1pvuZxWjxL3uV9ylw1aWXyX2NUZd7LDRvR9eIoqk1K+AhucH4XYpTew=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "english",
+      "title": "English Language",
+      "duration_minutes": 40,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "eng-001",
+          "text": "Antonym of 'Abundant':",
+          "options": {
+            "A": "Scarce",
+            "B": "Plentiful",
+            "C": "Rich",
+            "D": "Plenty"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SCYx5tpvGM3OgUvjkBKVkxIfQ5huENkNnghYVkRLi3zK3W5q59NNDcBFVGjmPNFoUdP87uHIrDnfyegEH/Ji5xhhuxn31WSb91wQFS/DYojnhu1+4NDLd+NuU1eFOSuDFE6CQ6y2Kr1GMz/o55j2sp/AtREAEKfQ2ugIrcVqz6OyS2xLxIaZ/l1tWUBdxGwy/Aki+4YrnauOLugMkS8CYA8NeOG2fMzA+ICImRG/OdtQQoZ5JCjSIT7zTHTSq8vbEmMNo9tq4pMr9pMOvQ5BjCub7XTF9Crj8cw1B3sdIK1v8w6xEn3v1OxelpxL3llWk/WzxaCKT1bo68oSde2nvg=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GHLllM4TRa6/SqO1vQt0Z8eI0sif6/rLHVhQGhf8bElH7L0SUcJVN86IauN9qpXT3kjn0Ylzqy2IN04DUuDSWkN3yXTZhskmffgUy7N9v2/L3f7OGkffygbfEm4cHbTJfGJjMp/t8VqcXakPRY6lu9HER5I/85vzpjz7wDq41q1wTdirt/geAHS8PxF3djJ2RoiU6BFK4koid+KU2y5nJlTe1DSAhmsevfDODR2zJ8JGgEF9RJKJfUEizPGA8ivi7tpY1qcNtPBlUEAcRU2nTu54LYVbksRqRcBHv5HHWYwwzare4OLK/S+cWlqs/nQp7FhwmvjsV8tkM+Lf/rgDGg=="
+          }
+        },
+        {
+          "q_id": "eng-002",
+          "text": "Correct form: 'She ___ the office yesterday'",
+          "options": {
+            "A": "left",
+            "B": "leaves",
+            "C": "is leaving",
+            "D": "has left"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Bm0vSecOhU2/K+MxRzdZ4rf0FUEiwioNeHKyZERfO4ARX684z2Nn7cTs8rFPj+2WEkeqHcra5bKuUhPELOPQVfI90n/uPtyPKsPKpUkDfXO8LMI7une5cUPxVOR+yA58IlnX+MZ7GdqqOCUF1NT3wr17Fxc+gaZACBqLJulWGgClpOHkIv1RhI3qiaH+JmLw6yx/CzSYgeMvX5/Uie+ERwmPX4YC4bzp+YUroRh0jsc0830OwUBFlB/m/YiTtHWUV1Yd6tNghA+/dbAQIVlGgUZ1XKO2Vd4WPL91MaRAf73oZ+XuuPu98Nu5wXTTiUpurY2MCfuJ1Cf0OCgnzEMnAQ=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LMuZ4geFYaqzOcIcfkF0zs3VR8R7MgE1kDwpk/mk3wefq2bvnGk1sVFhyFlm+jC0gc+u0+hoFTJZcdLbt+hkSFr8v6tRLHGqs2ltSv8Nc8zO4WPizveBOsqpn/29LGrjIj35EQmGACd4LclSiq4l2pmY3MdwRIvmtxUyW/lj6mjl9twOROMn7r9hq5Qebabe5SOzPdv65QQE9x34yXe9FvprR9Cw8Gr6V+deMgRfUmFRdoT/ZJbbAYEQ7Nutv/QMGT69B6XHz8jYT63SfERlsv024XNgQoCE4O7ouiE/X1XilwPB4KMadM7ehU8kL2RftF9/Ci9LyZ4rRP+U67Unwg=="
+          }
+        },
+        {
+          "q_id": "eng-003",
+          "text": "'Benevolent' means:",
+          "options": {
+            "A": "Cruel",
+            "B": "Kind",
+            "C": "Evil",
+            "D": "Selfish"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jiLLU2DoVmYKtWd0c4wGtTvSzS4CTzEc7OeE2k37T/Px//c4wiQr3RGqsPLe6xjUIoroiSL7ps6Pbl+L6Sa17l6HYr4ieoISdIRIM51R7RlkI9Dtr33olL7Ve4IHf0KK7Lc8BXjfsBweQat+aTSFn/UsagjVVkbReFrzneAEQUHmdSEEH/3IMEnsnKxd2JImRDm0muGDm7LP9HQgzl+HP7VH5jnhAccy/diaOhYYcPEnheufhSkTxA+ndRLZqeZikdO1aGoTv/kCCK6+TGrjkTQSzXf5JSpBcwQSLh9cG3gkm0Kbx2nhIAbPTo+oMrSTmKHnzEjEiEQgenVOs2yIAQ=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sGNvB5JddihOdrRbGH+dFtF6bIvSDdudZS3U235OxEp41tboK5GuXzl22SDxAd8+qSfE4fbsuKVwsLloLriNDdWSWARV0aTJRF/wbwDP6Mu8Zos9msaTvshcnAzVcO5q3zvfbZ0go2v/QDiHXlzdbU1Yp8yCk18N8IjiHXh1JvNJbK8QRzsE2zAC2P1Pn6POX4dgbOBgEPT6cfhtJc8JTS99BWJlolQrN9HOfWAtEEbautSRFieFwEaOTzArJwCYTn9Sew4oQiC/cZSBXCtD+FoAT+79XXrrAWONph9tJgQTSmFwOnEeexagzTlVlUVeqzkfVUk07h7yDDeL2vw5IQ=="
+          }
+        },
+        {
+          "q_id": "eng-004",
+          "text": "Choose correct option: 'Between you and ___'",
+          "options": {
+            "A": "I",
+            "B": "me",
+            "C": "myself",
+            "D": "us"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "X3bjWf5Rq86crXXAKPBTjHl6468jrIPEaraKnR/xd+CK+3sPsQ/perEN9rJmvfhp8NKEfJXmXUptgkeHXB69Wg81aFzem1xK5KWNNtbnh7h2Z/FtXbb52k/d5bgHHnrtxds/V1mZQUSeQvabq7cPZhYagvIow8Vn30gqMq+KwmJJ0Hk9R5PpWRHio+yIMREsuIkUGlyCc4YU3SutMS3iB/fx8isxZBr0nAbehrLxPTuFSNwfEkCm2ChqqO1aTwm1ekRe9Jbe6gf6hpKQXg3493OEAxZxyUERETgWrXTxlJa//tHfS6rjvQycMpZa4RtJAg+3TkPGXhJPB1v+Zjz77w=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dgqBytAuzgHbB1jFhyE6ONpuxmq2p1ZAu38MakkxjTIbqV07HiaRy0C3mDUOw3fmaaiNrSQbXN7CIdgFUnMVg+iUBsg8GIgGuA40krvQTFfv0NROIK2G2l8OIdWeHHo60Ha+fAliudfMfgE7P+IUEpqj5YQNImDAfTLvXRqZlNcSkcEv1/VYfm295aKxLlhGpv/31bXp14q5mG50mlzyQx1w9vqB1pWHHRpNQvFJPSOCAw8NfvqsT3MNSVV6fRb3p08OTH14UqbVqZan9efOvc8umCCf08S0/anVLtoVZ5U5aSJnfyhS7UDHIF3pw4dJf3naWTAPRJE14d/20LdZ4A=="
+          }
+        },
+        {
+          "q_id": "eng-005",
+          "text": "Identify error: 'The team are winning'",
+          "options": {
+            "A": "The",
+            "B": "team",
+            "C": "are",
+            "D": "winning"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gXPVAe34hZs2VREn2LjO4wDvl5DSPmSwYTWaHbtT7zGLmq7kIQR2g3krPIsS40aufdrdMmbh7YytrlONbcq/dJ5A74V/DNC9L7TY+R9HxWszUTfZfv9a+r5Ttmx8IKCwNqVCtKpo+SzvGuBnoFrQALoyIg8HM2+CRZzJT5b3cu3/6Z9ChfPwcbytw6ZkHaZyxRuTrbjRNM7aVItMSC1/vAnUyX1vqjBsMSO8/Fu4KHABlYhbHoMNzojlstXJCgiSXc2uGfdiFMuKGniD4vhArTL3/3G5qb7xqgIQ9EMNvzNEzn5XkRoR4SqZsmjbXPsB4VVpbQBMtdcj2ALXcwUeJA=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "squTNq15AIiSfUsHz7jF4AgNj6YgjBJTrC5yq0vaEfiYqz50dPEQc7xvCwCupRNW/LSCz3Oemp7RU+Ey8j8+d0W/AD8+LG7ZM1BnGCM9l8ZPVCW7U3UCywalIWql1k0IN4W1F0Yfu7Pci5KkSaQfCziCBrlP3wP4wKOp5YcVFfkDj4JQsLcUKkoKQl++moWQnljF1METCBvf4+1rsizzGEFSemYBFCJu97331xsrQViuyhbmO59Fbdb0h+klLXPFfGjtLmOaxHBruQKfRclps1grcee7klkgxe1LnKJBmfgeM2xCFqZfZhDi9BzhaEnPJbF47KaI1EV7ofU7Ell44Q=="
+          }
+        }
+      ]
+    }
+  ]
+}

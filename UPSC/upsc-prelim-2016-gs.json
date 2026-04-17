@@ -1,0 +1,216 @@
+{
+  "exam_id": "upsc-prelim-2016-gs",
+  "title": "UPSC Prelims 2016 - GS",
+  "category": "UPSC",
+  "year": 2016,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "Clean Ganga Mission called:",
+          "options": {
+            "A": "Namami Gange",
+            "B": "Ganga Vihar",
+            "C": "Swachh Ganga",
+            "D": "Pure Ganga"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nLdndHEdT8UFNMHydmHbHLL9CHyFEj5jsJ5v5at7gSBrrCKxxHVnjhh+YxTX/YUe8CN/9FZKy73WVECPxnLB/3xvy6e2ghxfxcW8SwFYri1e83+PxXXpWrTaHm6B/QYS7I0bjdFlSkbItz5SE/Qjz9NAlT9nAubeMnN1y0nkvMmyux94FbaECjUJ3th9uyAmuUuYwaeF0R7csLEeuwbX96/OP0SYllSqhbMb7cN5Lh7taV0mFdSg6/cAP/8IZFDZsz7wiF3Xr/1WVYAsbEULoG01WZ9mGc1Y8dDonUr4e+tIEJTohAJLBipfcLuHSwdlY1PeoyOOLvMfcZhBBQgdHA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LML/LRH4/3jSzo2Tkgas3Au9d6CiG0mJY1y6dgznugVl1E3VSXb0Snp3wJ1sO680W4bt1KeBONr+A6laJNqXxI3yMIWJ+DPK0T5IiNYhixpLEmWrePclONtQYkLTiIUkPrXobdPQmz3EQAzJ1EwQdQ+XDiUj8589Csx7tmJklKIQu0S8SuwMziy6RqZkT0LcbZMJkhJZpQQC0U/76YAK00hMS7DsAB97jCC/vbNvjpoJBQ4iPtamrLrfDqo6755H4B79wkphn6kXc6hVsfwYNMpjX4DoUVo/HR/F7/j/BgDmG49OIM5yZfN0uWz1qC79Eql5BUkuPzUlmfhgtP1TdQ=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "AADHAR enrollment:",
+          "options": {
+            "A": "2009",
+            "B": "2010",
+            "C": "2011",
+            "D": "2012"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NPJLfwWXwvzbd2yoO6xVGOKrvKnhCntGw7cbmUIYbezloUW4VoQEtLHOCb7PPv6NNgmrxjePeLNmFruO+Ko7V4T1sQPmyXggKsxGms4/hHQsckX9zuCbp2Ov1ndOHuVatVuIpi/TiRbtj92FY5SrSAuQCSE8wnrmRGOq5XdFva5aUXaOTxb+yJ6ZtEDH53rWOjNAGC6OOJ42k9UP1/RdtcFhznbXitrPCqjH5WS9wqhuFYJulys0tCSSxTy67Pc+hcKQCuKw5J6r9qdoXEXgXo9tX10mzajy5z0qN50EmL0aPQ1o4ioDukSU0NHVDPiTBEtPAQS0zpdK99pe8OSCvg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oIpv13ruDymie9yUdhOANmN+psZbaf49sAWlMaEaSkUnKrY3D7lBJgqXk7ea1GTns1P5Yc+l+72pAgDFxwRqetW1V72LJKaUIOOth7SJOVKBI/BW12mAVOFDA3a21bniPvxLssS5l5bMj4KJHrnsctqaHCTRQ1Oyd/ZOgTfivFMub5aV4vp1ehgwAFqswhPKu2iMk5qO889dUcrE8IbGSr1c+OVS8CVBapQZACmkbcIWspDxsnfTEqEub8tbQiMsujuNdBD4O7wt6Eo3A9G/LATibV134YMhHY+d8DusE7Txs6TmSQl72/RI+ZuhXGEoE79l6uEWr2KqDu4qULVrwQ=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "India's first satellite:",
+          "options": {
+            "A": "Aryabhata",
+            "B": "Bhaskara",
+            "C": "Rohini",
+            "D": "IRS"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Z9edPD+YHXxPJ4/FpGEsv/dbjnj9iPN5V1V+kN5HegYSfystRphCrLz97lzrO7PvH0V6poyhrX59Af/+W+fMrOinVLMDgcsJjtYkMkUAeUOUXc+NWDzIJ7OcmraezXaS5hEDDi2Jf8prC5zUsCjDYLwsU4cWJhA5griaRuV1ggOgbfFCwE3wU6JxfaizW526dRpOhqLBTfyTCC/+qhjP4fJC5Cl3DIoE39e5cTQHWFxbELB9pSX5UwIhr9ur24SxgH0U3eomgPPjjchkcTBWQiCM0lo4AWua8vKbENtKyF6JbQJQm380mZTgcbBkMMxje7LO2m6zi2Uhw3TEpI2Z4A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "p5OPaC/vFN469LNXTVJisVjafEwjys87D/PqqwGDlkK3EfWM+8HV/81oPKjfzxG3h7wyQhu9DMwsjtMaB46hYWPbMWBovHIV1PJYetHSxl1esjFfU4iBEacM+lof+p4UETSlA/jpx+ECCZFky1sqttoY159ZKiOlY6trXZ1qGWOPvBpMTYtfqAM73cN8nwz3RG2ah/K8CfDOPmCiuFhTSxcEZpNYfZwVSV5HzpzoGzdxdaF4PgNdJ5b34CoUaEV+FNGFVSmC4N2qo7vPuh0jWdFRTM1tkN7q/zxBaRcv7tuMaWfI3hEZQL5kuNeFq+22ne+95bMbBWojenweotjn7w=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "Supreme Court judges salaries:",
+          "options": {
+            "A": "State pays",
+            "B": "Union pays",
+            "C": "Court pays",
+            "D": "Judge's choice"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AVCURn2EiCWNXhUzHcgFSRyh8HvKkDS0I5uzfze/wfgHGDLE+aZLsCDbNczISaNKHDZ11z7Mt4qyRnCRJkvFW560C2+WLtGLNq3WB38GzAOVOpchxcg4ru0np3vMwO/ZyfNE6OmQOzUryzwOYFSQIsLM3wnfDGUs9a8bVMiNFtyz6bV2ahyqlggDQoJuQGXt/rQV0SAIbxlPLYnD8YlFe6qg6AFtgdukhhL4nq1WVuJYeOSjRfR0iwtMa59eTocdam9q8QLFDWJiGTIgGNwy3bO5fhnjo5iHbaTQbvAgruVHLFZcAA3xCsSGUFTv/1vwHQquUfitVNxbTzfUoAr3UA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "b5LmJinBhE6Lfp2fXBSCndUnIlw3ExOGyQ5+0evv57FcCg321Yvf+EotQhuIfEbaOIxzE4DcwcYCKLLFvYVDLOKLSul3GXuYEcZRPEtRuYdJXnTj7uOlPc0i36SnRdakD2vB0WmtjQ41R3qTzjfKIfKU4ELXxSOdChEKQKIxL6f6mLSRX9UTBjV5+AxqQ9hYCYPYyXqYCiPpZbhLyOHIhYt1UEdpfErIQV3lQ0a9rPHdDgExBM6RAcCjhki1SEJyxNspo3kjyMaMYNpVUQNBa7aq65RFGRH5f91YPhKLaJC566b3uNcIyfqHxqn6nwM+OnkMAaZPbiaGsU7EhzgRlA=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "Flagship store launched:",
+          "options": {
+            "A": "Google",
+            "B": "Apple",
+            "C": "Facebook",
+            "D": "Amazon"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "IbDyIWHr8AkHwfpgGSLdx5CACeNwX1RtN1pP+ZL4M73vFJaD69m+J7tgykxCrjFDdxP7bt8bpEf/kLLOsZ8Ud9IicxdzB3pLpICNab7BZigtysEyhF9m0RW76QsnXqp3gIjb5KjVbK2xcu21sJ0qYTrLruugVghgRmocLmDojOsP6etxeqACFQitm8BM+Ea7HQNrpaBojUVV9kJOi2dKqUq7HOHIAMoGrINjqqZslrDkLEHH9JwgbX9WdUdAdzNmoQBOmU15yRkMJZRXCwJ0GjWj69fxmum4innEi+ZQ7gcteDurZpynMOTYE+R9kDy4DNotMpsKAZJBt17WjiKnBw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qf5WJ99mQ+BEnM/4GCPNnLgWKmw+QDTF/A9du17C9L+RqOpyroa7K35cSF/qpDggwOSkQNKrrpX67ooVKvIuzsTBmYEOVFsVt7Aiv78fMQl4iS82cAJWDjdqzrB66oJcuzqMs3ien9JgoDroJfFyJVD/fzzne0F/mF4DAf/x4O40XHaH5NVjsiNwbbEgdLJa/Ji0HZLmlpQcwfJIGm98lpOSeptK8R6fui4LGtdcOrcakaTlIx9lYAIM8K8WkYqofEp8TjBkw1oZA3lRvtb2aLCmRpPWEBp7bCIBRiEaqkIkMX5WOVjvQYQU90BYukMYdVQo9hU2hKyT2lrhT+bDAw=="
+          }
+        },
+        {
+          "q_id": "gs-006",
+          "text": "UN Sustainable Development Goal is:",
+          "options": {
+            "A": "5",
+            "B": "15",
+            "C": "17",
+            "D": "25"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MsPEMZ+EVKThKGn6WFOlPvWNADGsZ+bEdgY08bkilOtraOo3PVb/m+Hb0Z7yC5VcXRIlNy43wwwLoGJ96q8xrPaD0ikZqvM4zO4qv/NsinGrQh1vuKRdVatIbbl/lZIClk2CxWDCHCqpa++0dE9DDiibiYqnxkOIOJR3ecoyeOoNbKq5zoUMAZb7id0RlicvpekEK/arUKrQynXV/vd0AGeP7SmFO4BTvPu+j7rxeDmnJ0UwoaDCLnGB0haqXub/igiT9YyhNX7Be2E+5S3Q+3UKK7UCLtFoBGXtGwaOMp5QSmf0xZUfxVuEocP5ONuZPTTn6ZhbCoYST96GqvRa6A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oHy1uFzSQTXRgUQHGj0fJM5O/2TfPdAmtS/UM2YB+mRdb2//UC3ypk/CO8fZLPvCq2Jtdg0kRN6P1kYnDOwS8WRhqSGNFtUn3YyYphtbDErFurBDKPSPSBfrSzIXbYCVdwIWS7uR9r2kdOqmPM09eKTqu3dNJZ1Z4CDSFA3SCjVZAD5SePpK7ydadmdDuPXzk12Fu7qr48N63QSVQ8uFOo0Qc7bidTV+o0R8ExaaELb0brrvcnrCP8Y4JucAFqkSV67PVZexhHzlqE1XyECf3AgerUZKdH1RHdg6wI7gyFTXfpw73zNzJMIc+0/ph1D1REwalKvjJ2md5L4gG91qAw=="
+          }
+        },
+        {
+          "q_id": "gs-007",
+          "text": "India's ranking on Human Development:",
+          "options": {
+            "A": "Top 50",
+            "B": "51-100",
+            "C": "101-150",
+            "D": "151+"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "X469PzcMDAv0leLQ+O3xv7Jv/wqZ34V9yEJOg3dCTui8A2Vum57VgX75BykhAzlcriZaMcjyD9FcXDYA2V0Yr/EXlsjc3fQa0YeyyqK4rsXjy7M6pWXe8ARMHBt4HQFvs462DxLq9YxbCu0t83//E3OE/BfI32R+l8yf+H3/WHm+WQeMk/vUghrlnbzLP/Hfk2KTiXRO9x8DoCuAwxi71DdSwb1zpxpoaSBGB9a+rqKwLJVayc6JsXrP3GOjPVPr9bTPJ1gYpEOjXb+GJ7sVBmF4xIMJsV7bdPUIwzAtcpfcI3qRYDUFSBnCk+xkRU5/YYc0wzne6ElotVA+9/cm9A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jG5YFNRHl0LimGAR6pqrZMtWOY/pCoKwnQVDqKVeoElgNtiv6lQr+UuqfHb6TkZx6TVCNu03gUvLesSwm2S4FV3AmeZRpdrTG5Xl1evte/5psxZ9dpU1SqYyT18GTDxV4PFdxqwUZ7Vwi4aYhk71V7GtoXGOQspNyh2K8SO5HXLxGSyX6lG83l2EkOPgzpbI1gQ4UIvTbCpik9XNfmsJfm1SpVOtzJYlKl4Aa2a1lNkRu8n75/aI+1ai4RK8GHLjOLuGCJ1r4wIJXV8JNhKUNO3BJmhr3fOUK5fH5UHIRGrRIdw7NLQHRAruI3MkeQnkmddsanm/ayLZez47Hwhc+A=="
+          }
+        },
+        {
+          "q_id": "gs-008",
+          "text": "Lok Sabha Speaker election:",
+          "options": {
+            "A": "President",
+            "B": "PM",
+            "C": "House members",
+            "D": "Rajya Sabha"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lMt2ljTomKjcE4403Y51fkrkWFHojIGp/xw3R/RauZJsYWoripfqoXgJFyclZWUufQpfKj8h8kgrdS+IvGFCLIag+8HwSygl5bpPak4dxvCUIZ1blJOIQ39BhcZVdK571P1tzMFN7CYxBaz+Ki8Pd/uMVZbWbY2xk6js9yMjY7yYObrk1rYkdO6tevIEfSnLEvPFAKyok13YA2ivmBq82VVSj/oLRvg2+Li1yyB36duQWttXQ3Sqj9R+OlvEa7OczlPmvjTK0HyNzODzBkAABICQ4YszWIiEntgh3lasAzt8mF/OBj1ra6uKdoMxFaSV6d2pCo/8KnQbwh8YmpidRw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "j5I+Hn/GmbVPrqBKhEvy3qePX7LaVEJLGILQYVYgzK9D+EEJtsIJlnoxUSmACuo6gjcx/7s0XSF03nzGip6zj81ZUuzfvSB608UMn4DhNMvPPXmXSnftPLgdWaWdkMz/Z+nh728++FvxEP5KsOJ0HQpcEmmGlv/dP1qPd3zT0WurbrzfNCR9/o+eIBOidwQ/boU/Xyd3FuqSpx3FbGyNph5Q3Fu1WggexC4H9gOMHUm37yS1z2MAvZ17LxaW2nKu6NGa20tZ7+5ejdmfwg/XZfoETSw9pfdeSjepFytdiDdnLgyKpPwDv7jMqyGXVwsLm2nLyww7BscZ1YD8NPnI7w=="
+          }
+        },
+        {
+          "q_id": "gs-009",
+          "text": "Child Labor law amendment:",
+          "options": {
+            "A": "2013",
+            "B": "2014",
+            "C": "2015",
+            "D": "2016"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SoDEzSqSubGt6Pj5dHIigmyQcBJpVJnqqkVj00WRNNd1AnurnLdhWBaRZwiJGf/3YZfPXRf6yZ9fgovMweqgDKoTtf9R+n1Ayh2OzrMQXID0Sr32ogx8AFjCttEIXTKC0peXsiut3+y45sIO8dhUALW+koWWzKSfGz/1IetDTrsfnv9FvvuaSxqvu1k331dk9m+7RHP/ufUN7iaYzrpcZqNVTCVOHr7cxLrjl8tyDxzeFbPTycBuMQQasNbk3SVry3rEgVVpPvjMRjReFMp7r/IwJ+k/hcDWLoDVWrJvj4KvkGL8hCPBK8idfYKkEfTEMWOcr0hvtADH4oL9dez1aA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "idzyviDmTjVPjCETOTR6/CRlpeeYwuPYxy5fx4nBxETXNjc4yWlEMSYn3coLeCM11yApxl+x/wKzVCvJuT/9olM3+UNnQ7Hm79tWDj1KRzHfnl3O4AEyFqV9Va23RGtmvGRyXeIuqLSiheWc/0y//pBKAqVAPL5AbSbXkkMUizybI1JK6nMh7Hxu5q6fdYUeicIofwDX38V7MWx0vjZVCZMNtAmVTeJoSuXCCQJqruuWvblCX0ZdeuJVDAR1ebQK0iPtsWObvJdjUH1xI/SLRObWV8idLOx/iem3FLRBT+hByI7HmUh0u+V31ytUZxJRVMw3ik6WIA1Yopw7sLyeZw=="
+          }
+        },
+        {
+          "q_id": "gs-010",
+          "text": "Intellectual Property Rights protects:",
+          "options": {
+            "A": "Ideas only",
+            "B": "Products only",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WXBu9eIm16svUAro590wXTGDL2iP6QFn68eDCAe75qfmZhfnfDRbgu8CuPPXqhSujbg+49Tft26gtlV309eQEveem5GSQwqfDiDbhn8h0GtEYrgR0PE1qKbyuuyAhLDw1CbJRCcauROgtYQ8I7uh5Nkf+Sm6HbAJZ+9k3UcAWXaqk8feCqnUI+ttPGJvThEj3VjZdlt4YrzinlsoHyQz9XK9ITmIgHDR0kJL7EWwN13BCtYcG5iAQzd17j++kgY4JexzAAa/vzx50W2P2TcocArBHmwIoBS/KHVRhbhahSUMnRfTh5T57nW9sr/rD98o6MHOZT4j2RiKq2PkamG2+w=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FlRdclfR5NuS9074yUTFhv8vFrc3/3Uc/cYyMFmacctTMROjvEvm87tEPEWSjNgJm1hH6hsIqE53aJJQpmB8OxnuJhVFJw6MHDSRTeJI6dk6o4Rl2KLhi0b5G8vzXcUdrs+lyG/4YYF0wPnMpaZ4KlljlCPtOrdAnHV3fuG9uadivWlavCgQgdnkJW3GyUebBstLi5YbJe/G/hsir3p8sO4XYmKkNrlw7MocyBBvSDHu0kw+Y9PLosgOJ+Q5SIi9tv3TjjeGG+dPOKl5qpPkDFBIsQjh29R/Gf6Lkk5CSc0UFQUlnsbPel381Ea+PEtquzd3qGuFlI3l51v0VOSskw=="
+          }
+        }
+      ],
+      "duration_minutes": 120,
+      "total_questions": 100
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "exam_id": "upsc-prelim-2024-gs",
+  "title": "UPSC Prelim 2024 - General Studies",
+  "category": "UPSC",
+  "year": 2024,
+  "sections": [
+    {
+      "section_id": "indian-history",
+      "title": "Indian History",
+      "duration_minutes": 120,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "hist-001",
+          "text": "Indus Valley Civilization dated to approximately:",
+          "options": {
+            "A": "3300-1300 BCE",
+            "B": "2300-1500 BCE",
+            "C": "1500-1000 BCE",
+            "D": "1000-500 BCE"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "pTPRs7VORdWuQqeBMym7bNoq3AG6iYP9VOCAG0z4nHgkZu9JH09UKkJhM6H3AzpG9zgXA5q9UE8WtkOkSQkydcccAGftV70op3a9wPiVTmn5hnAeJu5GAaIzJmi1LZ90Wl8K5mkCTxntpVcqzrabNd2FxXJ0BjMqIdfSrGFTZ4CSF8mcmsVPWgKGFXclbkZOAwfLfx/PuWIxwZ0BvDmlNIHpoVjMr+s7LLg5LjgzU49qOF+vOH7AZNQzx17A9yGyRXKhgRulcoVebUQlts4uwBmgQKYENbH8/RTuEBCqYUOGWYx+pDpJS7N2Eytf4f/TWDu3hGz0hT4MPLt2sSLawQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BVzgGSMCfUgLpYngm4NrzOZd6e/k4gq349SsUNWidA6pbw4iRwAoDnDMsJmOM/Zslaoc7bQmwikkvnuvsxkkZltgYsrof0+K303GRyyR2r2ZYOIGJMDUVp96JjEH4x/ehgbcbUTsgRvW6k1jBaC6zjmxGc+/oCC3NHxqEHERM8T+F1gh2wZ+KqUUDApON7Q3GiSGa0Iza9SwJT+wed3GfRy/4jqNYc0VRn2DvqNDK7BdE+/Jp1ad4LQ/FZjhWqLBGODKN1Xs+G02BQNsj7VPKKC/1bmZk2XCwHW+21FgkprZJ+7F67r28yD/diEue+sz84qoqezFMWSlg0w233SA4A=="
+          }
+        },
+        {
+          "q_id": "hist-002",
+          "text": "Mauryan Empire founded by:",
+          "options": {
+            "A": "Ashoka",
+            "B": "Bindusara",
+            "C": "Chandragupta",
+            "D": "Samudragupta"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "VDIqO1Xw+FbRTEmmjK/MUhHMUMcfTxJVhGfCbp535qmAMdJ7LXuDsQ4A2tVAhHTrmnB/qZQG8IvpChVyTbrjnHtWmRP98u5Cl3877Hl4Qq8t+KKT+oZy/e/2cUeLqjAmg5Cbjsy/9N0htro1qpBCBi/qJF0UQX/XUZJFh0XBhOKU8xXLT1MSHmh1GZyOSp4WQd41nnAbnqO4wj1tTw+e7CcS7p5z2fwVVnRiPyIeSMQpk/0Lk8tb9QlVl95nUzM47Xs79p/q5e+eshUiAcp644wc5lNQOtzSqsGERqhhgkn2bwBilXZCYy7JaDO897FKhAg3NrlFAfYUId35sMoogA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Fd/AgqLhfyqPurkfO6v8H09YxNM2sPPkS9sLHsJbFngjNNl5uiO1DPokiP75I44QRNDUa0DyGGAwb9bDwY8+UQFolxtVKSgtL7qwqT3YFmEqFtzEBLXB15IwIivW4u8s1e1SORyzKIUDLOO7gQyDbPKW+vadB8WyJp5NyYY+et77ifqg3WymYwclrWQnLyNuWTZj5NeTbWzPows4+DDytW2XwP3t86oavdppN09Q8/tJBgrYBHbEVor5+OLGm4hNVHlRyMZ8yZPqcHRQc/+7VWEWATdQNgsyTTKdCJwdtqXxY4vKnet6wnVvSs/mXARwqzJEH6Eoq/TuNA1hZT3Qxw=="
+          }
+        },
+        {
+          "q_id": "hist-003",
+          "text": "Jallianwala Bagh incident occurred in:",
+          "options": {
+            "A": "1919",
+            "B": "1920",
+            "C": "1921",
+            "D": "1922"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XiLSzg+otCfu8E9Sgu8NaJhoCOIChgOdPEB6yCttgjc3U5bMXjRqnk5sESp7hD91dCHCUjdlL73IHHDGjY1DrSLVdTA1Ho0crLcb5nDEXPCyoS2AX8AK2LXYjgiPTDCMheob2xKv7H/W7kXK5N7yvIssJ/y+vXGpwiCLs7+0TIs39J6RAp+lD+Ghy92e3R9s0HATfyoqGhODPirenekSuA7xyZ5rYY80lkgY/rGeYh+2E6912eKbBG1miwfwFbeiG0NfWA+BNIH2XdkQptX+nQQNg0jo6g4P4BI3ar05ZCvOFkUIYPvrebC7s0UJGQiE23+lF3PPihJLRcs9XwPZ1g=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "h+zkdafzfvYbiFO83hDeLo2NIkSxfMyz7+UJsATvaSF6xXdqRMcSzOlo8SohkKiE1+WEkk4Kz8kQTWqUC3zcc0ZUwLp+AIfpjYUT7uT3Q2YLh4AI/7b+Hy/KuT7DufsW1AB/9cNwJ7k+BEpLvHS4i26LpoGzJEE6DmMQYa2QL4uLkjbK6fQ7As+tNUtdToLvMqhi4fpdTD//kycjOiLMTgYOP7IZ2YgUKUmh+7RzI3bK9E89rinNUyQ3rgmJoAAnRujph0dQigSpBmW7ptg2albruzhhtfCRCay+0MdoYqmDphXsB09076et4eDHZqlS1nhmY5clpjHglOAO9d64mQ=="
+          }
+        },
+        {
+          "q_id": "hist-004",
+          "text": "Partition of India occurred on:",
+          "options": {
+            "A": "14 August 1947",
+            "B": "15 August 1947",
+            "C": "15 August 1948",
+            "D": "14 August 1946"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mgH8i3QTodEWRkO1j/oe62yD/1UplLXQupLVmVWl5JIGlPEACTm8rsleBYDCUR9Q5I667uA92JFTBpyqPjt5MMsRw4FCmaLAHZLAa6JHFqc47Y5StVE5tU6zY6j2t9U2OO8hoxXdxzVRMrkMW2qzfzjg4rWGpjDqgvGWszG6GbjoG26QTAjDPhLRykuGAGMo4zUK8IQvQHvdaAWCyW79CneQf7yaAF8mtMpJvDI6ZwkoIF3BdTl14SbEb6jZOfPV1ekMMrzsGJe7HT5a1xxI8h/XuytjHXeCVl6CazM4/eJ0KuLWFy9bKmV5IUQoo5C5tEJG8WdlPsQzfajHZ6a+pg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "neZc2XovimPYlReUZ78bhK8vNp9YmIS/T4u1ysMmqF6RRoydMKMOLOyFxhyOKI8yWHYwUDxvuj3q/1iiMwly3WFL8MsWGF5zX5Nzg58EigMkIDdqu5U3PoO7NjF3XcKLMDMPrATeAfe1OHXsSMCNtLJZIrpl8d5MsLfRvPfP+7Gy5DjAyGE6nDoVLMjYuXeFfont3TP9HbeO83eizffxWVsKihPQg9OTPQ20BH1iQdNiQYPI/Jzb88E/S9hwHHq4gzZcDTTlRefJ8GBp1DE7HRcCDk62FKVJzMsQPng4eBeVkpkY9L22xbV+f8aJq4tmYao62OXaM3nFSbjZ2mxueQ=="
+          }
+        },
+        {
+          "q_id": "hist-005",
+          "text": "Magna Carta was signed in:",
+          "options": {
+            "A": "1212",
+            "B": "1215",
+            "C": "1220",
+            "D": "1225"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "EGq5sLHYlDKMRgPz+GRW5IV+YeGqOT/YhMkdG3eOsxVxfuJUp0F8EUy+YBoCZjHO4R7aSOPngycBK07wb1GKe+C6w03sMMxjxrEKFdwDr6HHGnHyFNfs1oAz9i+t/2OiQQmVzzMKJUrn2h9yhf1fVN/L1PRtzxw+ZxNuGlgrL67Vp+7Px241GTtMOm8nxn22s1+rVIVs6TYBw4juAMl9n0jX2EZrj+01aCh1cbDqkRvu8SNtzRzGaVyJ5QXK63lrsI+A7YqmUGOHUBWyNkjr9cr+GELz8ynkxohXcyH5zfc1EGJ1y7vWQN1OUl++ZwXQmYJUU9NEXlghaAlia7u+iA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Dzr+Bd53Mvrgqt0QySGAb2X9Go7QyTr2DaXTuDC3U28ujICJtP6Phau39NRyrh97kWUKB32qcUH1oeUhoCv2mhFqTX1L4V3IsictBXH6DsaIDLFkO02GmUBfcNnfyYYWUGDXYzvnjZ5dHSHdwPuEqsKDtImnOwpgENSExhwRiNS7HemIYKW3FtRiyYOdMNQ74n1WZ1QR0J6CB6aav8DjqK0fbuK4LHPB3dA8RW9RuqsCAM5ovY23Q52QhGwqaRkQHJ0iRm9ZrSD15AAhijubLHqnIRJptX0Y3JcM0guuSQuV8JECeEUFAnxjakoKo9jpp1WbpyuC1vVzGT8mz+B/fg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "polity",
+      "title": "Indian Polity",
+      "duration_minutes": 120,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "pol-001",
+          "text": "India is a sovereign democratic republic declared by:",
+          "options": {
+            "A": "Preamble",
+            "B": "Articles",
+            "C": "Directives",
+            "D": "Amendments"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "YVa7LujGIzMleQT/w6e+FR7NBy29bM9DGLAErsz2oQh+W/pyAFtunWxDCpGvADKwtGi70U/C0J5Fy5BUQyYnZ91wDhMTSHZ/9ebahrm8C5OG6YNyUqW3BQVfSV0VUMLYykxwz2zpPl5JVXb0pfm7ulzdSq459vFc+vrN0FJ9eYITweZTPMrQmkEAi2HKgb+YVizJCP23NVJ5KAytG6CO2gU2Y6Z7hYiUgWHGBiMJPWlUQvPHt37v5nz/G9mpj/Z/itAlM8tw67jZHcfiu4s0JbqoG8jsd1naZbxo5LMNpGb4oSxqn2sMrLMkHsGQDz/2EfpC7LxvJUiHuhHaXSOwBA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qxtyAgkS2N/+9EFUNJXYMSY1wMBBiafvIf9YRKP/+fcmjhxJ7RxMaUsVFSM88jZxXPI9YOUNPygaJKBEeexKuOjoSmSkrToRRik+5pmnISikuJxvyLLVxH1JSk3sgsi7NZbGZHto3g9e6FVtuEe7RQruanQxsnuwT0idVtBT+WgEG2M8U9FMobHhzHmJHk+lQVb4nNklicEY0z3CZwpcezLeDAMLrOD+8Si/uLBHrr+BOVEXXHgqv01kbfvVHgok9HMKxbgSbE9KOcGmCBuoeSx0TDuNsTKmJ6iHAFUj0LHDVqpZKD5xs8gT1myB1bxX1pCzI89TF/8k6095F5nXGw=="
+          }
+        },
+        {
+          "q_id": "pol-002",
+          "text": "Number of Union Territories in India:",
+          "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SYe/mmqldsC0c2YtFF4IvrWMUpUDIMdKxK9VBmq/bRMdy/elzCJdybFEKwbwGhQa/nPCiWP4HZ3zqw7E8wxSY7erbRt6Q5pkFGI/mtD/G/4XCs/+MEjzrHahQK8jcY+/Qb6Xb1o8U8+LC6PcbQZtpvzmF8csJak7iTzZ7UJKKkAuLWok0Fis3Io0avnb/BU48r7586D45I8fVY9m12GZTPDJCJ9OgEsW3PzJ45TfrA+QT2wMbI8aTp6I0S1f8zIiFWx5B1dTGWOM7AZrEx7c40hzV4ikHaaHBESRyoRJzJ9lYjPlvTxihpRNE7badWAAE0A+/9PvH7pQRhg78LLnag=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mL0/wDoaKG2NhpB/8SfXugebYNoELxl9fEpoNq8fK5i4bKVa3v6i84GqTw6U7jLKdyDyXRwsdZojOVCbZB/rfUIXv/YQ57nqPgz+IKtP9JJqAJx3ocATi19CEfa0RTXkpVNyhlMvSnRMfgGf0W8tdQ2+FLRbPKbx05wl2mBUnVpm5qpB7pMEnZmmWvtz6qZDVX/OV8hhSvja5dxGW4wWGsaJVO0kiJ2r0zgeD4S81vHE89Oq2ZQ+lsY2ZrFqadPzuK0PEuXo417IUITBrxHdtCigpNbnxuY7kHFY/Ohf2Oj8C9t1KVaz/xkDy2JAXkw4fknnV32rvBsL3QfKNgDvVg=="
+          }
+        },
+        {
+          "q_id": "pol-003",
+          "text": "Rajya Sabha members elected for term of:",
+          "options": {
+            "A": "3 years",
+            "B": "4 years",
+            "C": "5 years",
+            "D": "6 years"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "N/N1P3sXZCWQyiZXfZnBnfUUCBzklFIP5vQv7BiJ/9XgEBkIR2J8heNR8wVtwi/vIhRaZcUhSADwvTdk0CEFDt7oGUwhKvOcaoGiv6VRngX3gGYndWwmcGVnVxcPDr4V5M5BALY4RswJP+Xyf5CIqYrCBVNy053ZqbWseDpdeGpHwbeDY6FR8wQu1X/y0hdveYxTmaPqSfW8Il2eZZDJBY6RDEPNI2ZkZuYmZBZyj7dfRBkTxb0oYRi1fHYF5lfaU03bI7nyiIT0Lah8xvh+D3OfjUe/iSp7sMmWYnDUwtKrQAh/CZXuzd1QO5eLBImqQdec0SyyLZfAdockZXdrhQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ChQTG5KNM5N51jc1pFCSJBGPuqJ+ATg6slC4Hr5sTSGPBkiiVs01TaRcPaBlfzlTQlEAGF1mvAS/A4N77c88XmpYqkA3jusU2BVYLRJC7MCjjiTM4BcaYQR5c0YB7abPJSDL+xigkJK8idBq9XHQAZnppcwaPOW2L18P7RwYw1ODtKv19iuV9R07JafzpiM8g3KmLtio0PjaGmq56cfePCSPJJbJT0V1Fk2kiiX850NzWF0J087m6kixWdtMuBWGDzEt6Bf0xxfkNp3quNnwcy6duhM3G5vIpbXs/k3FGV9jTNw0hKG84c0dD0Ge7Uoxi3ObKNCA5K5X3caDrxV5nw=="
+          }
+        },
+        {
+          "q_id": "pol-004",
+          "text": "Prime Minister is head of:",
+          "options": {
+            "A": "Judiciary",
+            "B": "Executive",
+            "C": "Legislature",
+            "D": "Parliament"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mRHMKcOY3QFSHMA4jJtpD1XtYqLpexOoOCIvdCZxNPblW97OtAs1QyRBqHsKhK/HY/wFaEJWSoPZ4amx2y0cxMB/tsVoRQ0nuP5CWKyOMoZ4lCZZdYXL+XdNiAEptw+rJN9hOpnNF92uHe3NlQa5vFyRPMpXZGW4yNRMz0xNFXHmFuaQ/6kacf32AY0dC+7OYSrx9Pz0XYAD+EVT2bebTB+CPzQ1ndraP2F8J3sqVoTd9hzh68UIHOPieXBzjcWtps33CrXH+iDcF44c7dNqya9BdQCkeoOYQ98Wq77Mmh3ncZhKyoeKGktiSuRI9IReTPjfY7uPSZVjg/ch7y1M7A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "N+9cYFTNqt+eI95z6lab3qQ6jvcz4yorzZoEkCPrrzxwmVzuO1OJvynIfTSC4nGTM0M9Or3I0EMhPwm/Ksl5I9Bb0dS/Of1DD1Pxhh/o13VohHuzU8E4u5VYxQjvwVfAAXqlUcJGkJIALRUHbEOktaUdi0Wqhwch29qMSbSbcY95TxhM8y7myW9uqemMpSecHFk1k3kVruVZmn4o1cRnyfseJX9rdKAUsPim/swsC7smlIMVLJbHsIif3ZSpt+JrGcAPflyhgxyyy8KRKx1HMgrhyEaUgOnat4pwSVb9pl8Lbk9D+4tPbkNiQNS3wv+4QpHtYIxmYadMjnftuI6CuA=="
+          }
+        },
+        {
+          "q_id": "pol-005",
+          "text": "Constitution of India has:",
+          "options": {
+            "A": "350 Articles",
+            "B": "370 Articles",
+            "C": "390 Articles",
+            "D": "410 Articles"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nC0CqRF4eDKIIb0IbWqnMgm9kj+vG2eehQ7cjrFAhHJ2DO52TSslSUac2Kl232o3m4BxJX7yovECgvc/vHH5dB7U5vYRO70Owz4V1138ZLM2P3ODsTPRNDfsiGTubHbZIWobOGpT0Y/+QIXsBZjzo5zs1xgBvnsaK+Vh9f0Hfp4j4CN2ra5aik4uRgvjKIuURkJqri7fIAyr+vwEFGPyju7whYzLcf6PXV3j5saDwhjHk2UENLDL+zYmet5gg4BMluyrfO3nhw6bG9Tk4qDTMv05zZZj2QeywdCsu4VFGHNfYWF1/9djlKHkQkQACO52UBI2iMxN1YEqX2CNDNb0bQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PnKAFND7N/r8UfnEcC0e0Ui46Q0Qd9+DjGzpWdeXMoDZR/h1iFHxZO2ClsN3FBPSld2RBY/HA1uiwK26jbtHI+lt7roxbmxYImU2cV1j/do9He+VWavwJUgI394Kv77nNxKjWt/SBPpDeFqqA0bbj6nqitinwsGJ8cEK9lVkbQbrHQRne0VbU1Rbv+dpycAgl72o5g8T3cm34XB1Ufdj2ClfbQvacjXQ5k6HromKw8t25T3rrXLna8RljdrC+Fd3QrNkfIt4RUsowjz2rnMDAAVcpShz54p5vSBuhl/XSVlIDKCVU4aMgWU6nae3o6ZIG/CcOANdebf0eZosS/CDBQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "geography",
+      "title": "Geography",
+      "duration_minutes": 120,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "geo-001",
+          "text": "Largest ocean in the world:",
+          "options": {
+            "A": "Atlantic",
+            "B": "Indian",
+            "C": "Arctic",
+            "D": "Pacific"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "b6iKDZjwhLnLX3AuIvF1g/br9UdtIna8EeTbO1GsYqj/QubWj7wV+VTNlyBmDW2b/9i3XyXZWEUhhygzdRNv+5cAHVNE8/PQurebE33cJytm9NF10UVlEcbFYLhFH1snvRVsbLIYJhEtrltJnpx5AVijdktYAXnWicZ9H+FX+gqeDiRbjsCzi6qhEoDgz1aQejSS5UGWRRC3Gw2nZ92IrTjItZZ9JG3761U9dxIwTbIaHZ7ppfSQ/PgJLMJvJE6nnhV8jrdLaSgSjaiS1fH6FhWAuDxI2Ci7fO3dHucVHLC9x4SMjHIcD7/dhMixgn/JqUaUEkc2IMC3dND8WHIpWw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "RoSy6bF+NxfBRhf0WPOnGTtkNNX2hzfjXCKbvw3oQyWRJ0/PfnoIwYYePkoIfUN77cgvIl32Sp8sdqwXwnGjVCG8r4Q8N5duaBbheuBf26pIVGbfqkUFOJkjuPdgfz6eI/41KqYY+8j7UKboMwrHsPDJdxMzGugS+O1Qdtb/yNemYBFEKXh6WjGhRU45KElaKsKE5Q2MNisunQAmupnZY7dR0/pzR4av8xNTcDy88CbS6wcInQzFlFaO+Y4qC0ZaoYtzRPnsXDOMS5GtTVbnJE6yck3RBrq273k5xeyrmpEyu9MNQ0dRfEXaFkXqm9idwZspatEkw0Dv5ODEY4zFiA=="
+          }
+        },
+        {
+          "q_id": "geo-002",
+          "text": "Equator passes through:",
+          "options": {
+            "A": "Africa only",
+            "B": "Africa and South America",
+            "C": "Africa, South America, Asia",
+            "D": "All continents"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AverWvImnJWsydCUIpATK3X7VmQ1lkXG1bnA669eITJdLFqE457R35Z7bj/NeGTwaiCwVC8F5i9PK6ac+i/w+MhSt4qm0/S59mmFOmOsg6sEtokzucCM7+5xRiaD7GaPdKy6DRU5+lgwt1q0N98RURe7KtSoeHamioEJUeDCVz+w6Okxc+c3WOXUkAO2P+Q6LN+vMAt0gKzJiaxF5t2jg5MYouMG9CIr86TBufgb96WCpXF63HwXz+8LVt+602LRkpODIMSX0HZipki0USIAStEJX5Hy1y/gLqvdy3QLH86h4j7YB8Gjx5+pS6e4aUKseX5+LYT5WCkD6RG8M+rOhQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Aga4Lxd8uDWJ/+wrSJt1fOYWraIK0Vu873TmNzuGzj8jHxuaPRoPj9OHAWR9UozCkLFSdfMH5L+Ns5BC8SYOvBqcVprgPVtwGlsP9TYlcJbZ0HtFXQieyjubgzsrU+mrvfaIxFEJKbjBhmUHTJTH2wm1Hxs++z78mh7pQc6b6CKRGVXfKosOJtqXrCmgDktmYqnMHbAVU3NgizkqPAAAex1ecYbPGOQy289tivOwTDneKJr3g199EHpkrhu/72n4uoU6lME6m7onnrMkFk3N4VTL8Q/Lha1Keppg68U7YQGda/q9nJMxvNuQzt1Nvcqo248yT0sREFSj/7rclkfzvQ=="
+          }
+        },
+        {
+          "q_id": "geo-003",
+          "text": "Highest mountain range in the world:",
+          "options": {
+            "A": "Andes",
+            "B": "Rockies",
+            "C": "Himalayas",
+            "D": "Atlas"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Ych7MdjEirb+MMszeG6p0FRkbZt8h1T2dCk+GPXL3KqgnAlowZQdq7LGtR74QHzaDBCphChZu9QOKXDiyVQDcNX34m8k4ZbZLgyGwTVWXVPD/GGO99SsnNjjGDOas+ZMz6zQ/1cegSXWX4kgzMgDl6CqOwOvJAB69sA7mOUM7mmxb0feqd8k++9gEtkcZBBm7zUzHJIOUMA9d/tyW21WTTdWmLiyoXk0RHmI+lnGQALsAXrsqSlUpRcg3bvHgREGIaeuMHF12Eu99yWHOlbjWypL5sN80Hnsdk96IFFYHQ0s0vMOXd5566fdoz/ut51ACdH02oEmigFyyc7QUO++yg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QDVxtpZvSv9yXSJVo8hsP5YiEldsmCJrCf6Cl/IudRoMUjmd2Qllkn+T3x2l89AEanUCnr6TURSgeytsYhM47C54S2sONfgYu95y2OmTIhnCC4Di9x0qOEzQuWGRvbE3PJdnDMzKf3zPy2bgcJpWPMNqClSuc0Mb+7UcshWkxq/ZfRTals9BWZLDJIey3mBcrDsgAfrmuqiwVcPzUmyQLbHY14Q+9jbaLhshXZ2cdfAjDt6JFifqzUHtzAqx98GBDW9adzCRqMIMRB0oHbdNXzrnqS43dvzq4msB1kxxHrXSrDnXB64+u7BDRM1wDwGcjiNiLwTt9XX6J22ztm0lAQ=="
+          }
+        },
+        {
+          "q_id": "geo-004",
+          "text": "Sahara is a desert in:",
+          "options": {
+            "A": "South America",
+            "B": "Africa",
+            "C": "Asia",
+            "D": "Australia"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SqRpJPK6gJ3MLm82ocHySDm4Fg/uhqTc4or5ssDUz64TrLQZNnRFmgZNiOMrCPKeXjlSxNmTcYF1zVTiMqSrMUCswFjag0h3WQTrpjXh4xaiOPBPloBdUoU1Op+sn52VFdzE/QibKiSyrvIbXkr8YMT4BzjZVl20hEcC3Z6Pvmc4pI/89mcO/m1N8mCqvFDbr36saM4ypni4WG/cB9yGaWUh8n35fAgOrd+GrYK02GYRiEPF7cEt9OJ5+LD5SYXpH+g/CF14bYgBX7fqFgCylCMwS55aXgJoVBfMWixHQyENEFUM6/ciMewSx73XuTV8ED+558mE3k5AeqTLFs9dHg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hXg0Y76GQR4Hr8UqyjcVRudG5+Jl+QsmXVC+5eXQz7GRW3VjxLDNn/U+/0ViEvsfKbZYlmQolW5DS4fo61d84g6xuGwQ0G+T77DsyhHQzWQo6hyPaOUIhvrwLt2FA2Pw4PGJL97pEChgdznE9m3ESOnjj6QjZTIDHBkuYeHD4Jm7CDZKOhQYrdVKT/JHy8Qmor3kkuqGqywbQaLo6ovimltwnerVHbUlLYRAPyYxkQnnHJmBw5nhd/ABzbNMG0zTWEis0ro9xtWatNeU7GwUNH/UFanhIEUDLSXALyXTt8VneH5glS1x4okHFXgGvgubqXg+d3dWD3sH2J+6WB0lcw=="
+          }
+        },
+        {
+          "q_id": "geo-005",
+          "text": "Prime Meridian passes through:",
+          "options": {
+            "A": "Greenwich",
+            "B": "Paris",
+            "C": "London",
+            "D": "Berlin"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Vse7P+6V/8+jZptyAPamjdaqP/7cLKHBadnIgO/h8ocA3YVH55RT4SIAYvh4FmE9RSUDnq3Od/dVoriT0EW59hHmUwfpTDQrWoICyQcfrfaZ3pKY6N52A/FvAxVyDWdm7G8lnnZr3+mZ8ZmZpfFPN/CL6WbwRqR81wwTLnAW0e/FlOpPox7Xqoq21EWDpbAlsP6CE/SE7vnbyz4DogNVo7fh6gIEG8j8N+nsp8xdpn0duvtyR8WBT/vfeOm7xC5RgjuDTSKxM3d5gjMzKSLv5Ebx4clzBWvu2y/5lU7IUFgqQ0cRfUVdLfi/S3cyot+CJ3UweRQkCdusSN8iA70XbA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Ji7/qGg9QE/qJ4J/4gf/yfTt15OdKkeiVNXRx2V9/+dUUDJlNvfgcuVT8ff9lSXX2N8/BU38BZPBOfCMjo6frIPLaH9fHfzBuYZKzMzXHXkwb3hK8H71UMGpW7Ft+qrqSOYmF83AXHK1GDtoCi+Oq4OfUSMSQp7jJ7oCUGA2j+fcRg/VDrioXxN6g1dsALqv9m6ZSsIMRXhg5uRJf8ML3FWnN+hlqs8LGMFWFw9CVMgaoC8pODGB5KeY+sEQleX50gsVaYkLjwh+1I6AQRYiMoRhUY5MveXFY4Ocpg7WBWvz/RuOgYdqTDUwR+Ef6GDF+zHDunUp29PyBePyMbHdNg=="
+          }
+        }
+      ]
+    }
+  ]
+}

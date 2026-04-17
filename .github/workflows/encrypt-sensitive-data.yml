@@ -1,0 +1,129 @@
+name: Encrypt Sensitive Exam Data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.json'
+      - '.github/workflows/encrypt-sensitive-data.yml'
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  encrypt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install cryptography
+
+      - name: Encrypt sensitive data
+        id: encrypt
+        run: python .github/scripts/encrypt_exam_data.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit encrypted files with smart history management
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Get commit count (if > 2, history has been partially cleaned already)
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          LAST_COMMIT_MSG=$(git log -1 --pretty=%B 2>/dev/null || echo "")
+
+          # Stage all changes
+          git add -A
+
+          # Check if this is the first cleanup (multiple commits exist)
+          if [[ $COMMIT_COUNT -gt 2 ]] || [[ "$LAST_COMMIT_MSG" != *"Initial commit"* ]]; then
+            # First run: Do full history replacement
+            echo "🔄 Performing full history replacement..."
+
+            # Create a new orphan branch with no history
+            git checkout --orphan new-history
+
+            # Commit with all changes
+            git commit -m "Initial commit: Exam base content with encrypted sensitive data [skip ci]"
+
+            # Delete the old main branch and rename new-history to main
+            git branch -D main 2>/dev/null || true
+            git branch -m main
+
+            # Force push to replace entire history
+            git push origin main --force
+            echo "✅ History replacement complete!"
+          else
+            # Subsequent runs: Use normal commits
+            echo "📝 Creating standard encryption commit..."
+
+            # Check if last commit was encryption commit - if so, amend it
+            if [[ "$LAST_COMMIT_MSG" == *"encrypt sensitive exam data"* ]]; then
+              git commit --amend --no-edit
+            else
+              git commit -m "chore: encrypt sensitive exam data [skip ci]"
+            fi
+
+            # Normal push (no force)
+            git push origin main
+            echo "✅ Encrypted data committed!"
+          fi
+
+      - name: Display Summary
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          echo "═══════════════════════════════════════════════════════════"
+          echo "  📊 ENCRYPTION WORKFLOW SUMMARY"
+          echo "═══════════════════════════════════════════════════════════"
+          echo ""
+          echo "✅ Status: SUCCESS"
+          echo ""
+          if [[ $(git log --oneline | wc -l) -eq 1 ]]; then
+            echo "🔄 Mode: HISTORY REPLACED (Fresh Start)"
+            echo "   - All previous commits removed"
+            echo "   - Single 'Initial commit' created"
+            echo "   - Repository history cleaned"
+          else
+            echo "📝 Mode: NORMAL UPDATE"
+            echo "   - Standard encryption commit created"
+            echo "   - History preserved"
+          fi
+          echo ""
+          echo "📈 Repository Stats:"
+          echo "   - Total Commits: $(git rev-list --count HEAD)"
+          echo "   - Latest Commit: $(git log -1 --pretty=format:'%h - %s')"
+          echo "   - Timestamp: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          echo ""
+          echo "🔐 Encryption:"
+          echo "   - Algorithm: RSA-2048"
+          echo "   - Fields Encrypted: correct_option, explanation"
+          echo "   - Public Key: encryption.pub"
+          echo ""
+          echo "═══════════════════════════════════════════════════════════"
+
+      - name: No Changes Detected
+        if: steps.changes.outputs.has_changes == 'false'
+        run: |
+          echo "ℹ️ No changes detected in JSON files"
+          echo "Skipping encryption and commit steps"

@@ -1,0 +1,332 @@
+{
+  "exam_id": "jee-2023-main-session-2",
+  "title": "JEE 2023 - Main Exam Session 2",
+  "category": "JEE",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "The rms velocity of gas molecules at temperature T is:",
+          "options": {
+            "A": "\u221a(3kT/m)",
+            "B": "\u221a(3RT/M)",
+            "C": "\u221a(kT/3m)",
+            "D": "\u221a(RT/M)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "p7H1ITSrXZiSlejt9BD5hSnBY3aC3Iu7rcd8WUDgkB6fLQa2n4T8okdyv+q7hShxSBFNYs2mK7jg7+t1tWsBPe8NCP1vCB4Pb00hDys9kuOcEDwsm7q1hUgf0ik/WQaowErlSSl+dwDimo/qO8HFryNL7h5fSg/8q3enB843SkGwRJXrtqM/gd574s1cnaPuhCVrj74J1g0XFLMySovOGaZQWbRy/Ih34dRoUVO4NX5yiV4QTERzPxZhBErIB+CzqiGBVs0hsJNjTwMuECQLzcu7Jfh2b1pgItvjjs3eM9S/sG6thd3JLAcf6KL7kcUDQtYMFztpo7N4f74IrZ43rQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "kkv/oq+m/XpHVNX+HQHOdzXbzZu0nhcItd/sW+4sUn4mtYjRQvhygtIl8nO4+IXqT0odtY6YUeqkc0GY6FhdVMKf6fDjnFXbZsNJZMB1pd/GPpiJqmIKszOx2axL/txUVcjWQE+7ag4igksEYkbf1jR+iUPUKTbhjZ9Tp01okrjmIGcC/cAb8f/lleVkz2cwtr6chk2waRY5TA6bFM9CAqXXqV/DqaQ+W8gsiW4CeTSgPR2RMQk6boRo9pbNxDpZkbuPln1/qUoZfpXNMO2iDFpD/T1AJBFhF2hHen8IWsztsPzd4/sbU4hSSFlggehHfEHaavno1sidptUm7ulHKQ=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "The focal length of a lens is doubled. Its power becomes:",
+          "options": {
+            "A": "Doubled",
+            "B": "Halved",
+            "C": "Unchanged",
+            "D": "Quadrupled"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UVZIoy4TExIooYvG99yGOX8f+U5EiEulnPkmO7U+CUQIBj1q6gRAIPbaXF/cmTEeFipKKy06KYlTspj4U0ydUMmdQ1kBzycAWZRLfjHq0fveywGfGNgD4ZzHlKFXQxsAzR2PpYlx2aiOdcKSWkPuCuEjxbhkkASZc2oOTVuvXCALpZoSH+pY6rnrrFRMvpJl6PqYtJvA1SO11dDyx1s6qisqXY+dd1+YQWdkqN8SN9o74fpoYlOBUN0I1xOJYeL5ywHrjuXB3Ryz9YFjpy+MuTYHIJWjroGDqbKr4emPICTyYBNuB4/mT2/vXuyn1/9tUFknOw+xe6cGgGaZwRPvCw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BGdkl06Seq/eu6obW6hOQOfPxYreFJWJF3D0BtdGxluqxi+fiNrwX9aEVy0N8SI/wmESFkiIkKzXtRkb45cDoHXAhajozFwdQRe90ujMl5wYB7lSMOyuZUSd3MtuoXhXlCVD+D4BA2K4JyfduPFxs583LTD23KzSvjVje7OTrygExqaLv6rHBTt7hlCLuEEI/1vXoyJ4vs6m42FcGDeau9PgCjXG067tfimDnz94EO0E5r2uORaoQFaCkg7v38JrXlVAWJvqWsUfDa0zbPGKAD6tTMYxFeS3uSwf5utcYQOXMzXCS7h6rvrPCIJnLrVWW/uoY3o3m6DGpNrlGnEhXA=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "In a double slit experiment, if the wavelength is halved:",
+          "options": {
+            "A": "Fringe width halves",
+            "B": "Fringe width doubles",
+            "C": "Fringe width remains same",
+            "D": "Fringe width becomes 1/4"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Jcm/GUhd96Fsapx8KKGaa3R7Exm9/IndIuLsVO/fY8ksQXHqE79C7n6FiWW6ErFgMSfSvpPLwttzaVznF30G7c3CpuhxNmsVLo6C2IoaCof06dCZnIFdasXYDeRbQeLePSidRhtEJjyOovoSCI0Pd7eRPaS4KcfQu6abA7ibcac/2v1or1OqFPShtQPAh5CU/8Ym5qkUF4Go0aoYPyjxdCOxLdlwXEJoZFbMgBf90UTQ2A/UHg4JKXbuFMylN9Js39vrzuKYFsO7RAkSxXhTnlYPm6BzLB/UdTBfb2cRjqKUw8tR9M81tkW0GSSKI9GT3HcuzTcHGtkL5r8ZIIIeOg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AxySsSUa6FDZxJVwi14ONMjwY/e2T4yl0mAkDXwrGzpkiEK1Uw1h7GqjE4ydcfRwc0BubN3UmoN17zAV9hixECriyhx9l6XohxoMDG1heRp0k2UpOea7smjgKZZ17EJ0a4727r55sGTCL8ejhCWp3BhmO0KachDgcCTr7++9ZLqllIMVs3nMNXqXy0ASSFS0VjYAqJlyeN1+QadpZUJ3dVnxdBZ+ZEdN2yCHdNCKgoDvi/cumC6eaa/0M4zxPrNdDEzbzatB4UA29CySzUF5LOZdXcLL6P/AKUwW8pFbc0nXbA0E0kKNZubAhWVpVgHzvedeQH8790pGQLdinXeEhQ=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "The self-inductance of a solenoid is:",
+          "options": {
+            "A": "L = \u03bc\u2080n\u00b2V",
+            "B": "L = \u03bc\u2080nI",
+            "C": "L = \u03bc\u2080NI",
+            "D": "L = \u03bc\u2080n/I"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "GInrhCWMZ5O7gcyGFUilx2fOe2TbCKBQCbf3qysIPZI3pX5KonWymIUbJ3KyQyYoPT+zJ9+NbTsnV65js8s/oWgY0W9Ux0fq/yOjFgeI3wkMH/T228nUpq0KUx2ctUMwzdhFxE7FvtSmI02uhzMv1hHV170QFMo15sVZ8PyiU1Wy6CDfE57OTuEb8195j9upqDjrW9Q+fOWo4Y18RMmFDmNlUmjnVNAdkSVJsQIVflP/JJfbnHReNaJqENfYXbGraiNQhcHiIOdugULZT7yF/I2p8IMm/cwBxH0X2GLUwfwyPHCXpETp5nrp70t9c9wCErw+lDuRV9EQ6atLyl6tMQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qF18kDcTwTPeqEZ6suXOm5PLG5f8hkE/lmrxwC3WTXJRhFTHHrowa21hPfbhI5dRgRq7tPAQ62BXeIeON9mzVHD9jFVEuitQn78jKoEcJ1vQ76p4Dz1rxPCQF33b/CaiucOelNUT92jubuTRG9sca7zVG0610t/EomEIyNrc+1b2En0cWSMCouT+5UFZr6ObP+wnG8Lb15sC/IYhPppa7SQpY9vxyTTYge3LWTYYEs/GflclveeCD7svYS8kqkz6f+aOyqpq3/QrxLwB2vO5RXPn1TKcIKt98iJiGbBdenMkLtct6qMujaKSTkUjxxROzzGtTEgG9exjKwm7xTzwJg=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "A body falling freely from height h has velocity v when it hits ground. If fallen from 4h:",
+          "options": {
+            "A": "v",
+            "B": "2v",
+            "C": "4v",
+            "D": "16v"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BtyPuAeUbMXmN6BeD2D9nczwCIe0hBnkOzL5Yji/SusHltlCIlh5PdJUmS45W77jgF0fXSN5YcvSeAxBK5i5qhHxg6R0rmvOtRGCD3VExrUNMv3QV6SHNY/JXbio9XiV3qYp4glKMwwJN3UmuTDxjv83GqCiH55UkeYq7cS69xpnnZlSrBFSYltVhe7ZOvGmXjZ9PS+cUmipM55W542iBJJOE6lkd/Iyzr1L1ACu6u4uvCLzXSkZvy9fmXS1A3EdAvk63o7xTQdjv7i4bqf2jvY0G6PGl5cU+MMLeiTPt9z4zcSUYtijdbfGQ7MP61RBaTLwjT4AXgdOFp1lmnhg3g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Gg3ziuVV4LB01UnN9eCE9ghI5CUIfEWlMkS/hUFO/ue1HZNd1abv8DtesCPCOQPGGyxeyV4mnet/jPemIc7n3imMQ+Y/NF9u6nP9RGdVnagdfONd99pBAWURe0McmwVTZN9Uld0ZpsR2oHY/v/zaM+MrxW0kwV/LAm0c0l96eNkN9nkn0olvZ8ZZgPwKRZbPMyxZZKaWoYDTnMNb7LgnOlAFpLnV2b9AUn7LrUEPN8VOhV7ULALLk4QVW75DCyLeHdSiY/30xt1hkffp4B0RcMXH7duTooxeuwJ0EUkqY0bxvjH7fYb0RxBpb6VAdhx4IdreS/Tf0DElsEBUg5eLwg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "The standard electrode potential of a metal M is -0.5 V. Its position in reactivity series:",
+          "options": {
+            "A": "More reactive than H",
+            "B": "Less reactive than H",
+            "C": "Equal to H",
+            "D": "Cannot be determined"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OVC4Ouy+qyYQ8/x5PzBxf0UQUyBEfxilW6OCbKFpg4otCwT4RbgLCHpmVkh/Z/cxaiFI3XR7QKRHV76OPeFKV7JZ3E+BR0NqPQb4UfaVxczKAq9aZKX74L644SISLcKU6Cg5JvEK5XfWp9aqhX2NVMS9wG7xNAj13uu3sOq1GUXxHjiI2/ypFNZv96jN3Pf9puztgqiwXj7tz6dCqoBG2OQmekX4t13xYEYzZx/Wc8/oc8GMd6CfivLWcujuIU9AYWZ/m4c5cRsnGJLen3l4uUyYfj24KP1zbOIcPbk29eJqnbRYp3YgVgbcL1bVI9k8ng7kblwh7LVwgmYnayjobw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QSiXqrMhh9ltlELgIrbJ5P/OvR5mcK/lWyQ+pjXz/5D0x6/+r6QzzNjNOSMtcF6QfM3XRHoW4deQVKjUvGM9u+NwRAcuTcuQzBFn3CGVfFEzSV5XIc1gobOweI0O4gDDCTD0ZGc6nbRTPDB8liG/j8HeX5Rbyi8STjCkIqa3FzWe2ZCXfpfx1RFIjJ7wWJKnRO8UfnSwX4ePNIora5Q+1f0RsQh3KGPx4bUtLGYlbdpN4l4LR4KSquiCz8LPaKvDYQXos861yjgv2ETvh4dq6+uU7etxeXflUW4VadBy4dGvQlnbka4NrV4aj5+55l5iD15veH1JZHDjAsqhEqj6LA=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "In the reaction: Cl\u2082 + 2KBr \u2192 2KCl + Br\u2082, Cl\u2082 acts as:",
+          "options": {
+            "A": "Oxidizing agent",
+            "B": "Reducing agent",
+            "C": "Catalyst",
+            "D": "Spectator ion"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qO7MEJkyARfQXMjnnAB5Wix2iw9tLMD3Rd9DT26XKgcSvor9gFoBWQTn/tNUuipY6J3bTusJPp9BlRXb3z9vxiavwm+f6LKTrz5iweCflUOY5L42l3JOlziHZCA1S6f4S+ZbfW6ZBiWL79CrYk0h7UCnRZLgGxsS6FPFm3pWV3h1LxPI9/ceNU9DI0cDzJb1M9dIDPmUmh37Wra4Vmwvc4YmDZazBtuPNzWVvpNdVB1SN1BU7x8e6p9/otWr1FMSpIBWKleBkirmA2rYNNZ01EyT1ns9u6VYem/bPqsMwAREdfC6Vo1CeypTnkQHd561oG2jj9+svxil4pVdviwWGA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UhVY7gc0CFegqfF2alPPIfNHLAqTp9501FaIQED6rZ37Xm8ypWJOk6FZ7NGZ7Ww1/fdLfmW1kL5UTD1PuUJyFyxyGK6L7xTB0Njm5ZlURxSR1wQvY+ixuj8IjO8N2aeOokA84vR49C0jaJyyEZ5poFR9l1LfHHWmob91lPxRJ4EcNeQEqf2PCPvyOwwiLbOwoZ2IEi2EDM4s9j7qDuVDMjqP1IlcpEXg3+phak8GglHVO4Bv5eQFN8pPpT+fOmSbsc/NeaT9xKAWU3jhMDcZ1Y5OxPBPt44gDzOS+yb+CCtGv+N4Vwozg+g5yAfSKsRmPqjQeGEl0nHyGtPVKsG8fA=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The shape of SF\u2086 molecule is:",
+          "options": {
+            "A": "Trigonal planar",
+            "B": "Tetrahedral",
+            "C": "Octahedral",
+            "D": "Trigonal bipyramidal"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Oxc0DZ7lpXz+9IWO+Gk/rsh/fuuxW0Bo45y1qENjIQEFbSTixo1Fp6ZJJLw+q6Cc/Axy6mCW8UxoZvUOsHNpTJtDci3j175HJTTKIoU7+Pl3CLsr0Fug0T4hJe3ZSdXQ6qBpdlpemaNuRIETmZFycXgUqMZaj55jLOsLh5Uniz4Qo6rA70NBnz800TCPxqyDeQ6gIVdMPtaFNOPHAXa6OSEuafk/qrZ5plvnNm0F65sWZNnNbIRWi2JBpZJf6FlIla/jpeNb030mbd+9EEQJhc7K8E9rNb3BhtgRYg7X77uIqwktZTeGelpnQaT79FwZInABIv/s9po+J+MNaBg4ow=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TLkBE0t8zIbcC4vqDyLn13vTYMJi7B/gIR7jXUonjuBeg/5+gj4dYmieMqizo1Up/VitDskiiYWw2idsz8IHQ24rgoVOmCe9iKj9YPVY7NCRNQpE1edLpIp6pEwGlazYB5FRSTLCvN8e0q6xgwnkwKQbXR7MYz4ei3d12l6d7fCEpnVU7h0pHPeshJ1XwKbfB3t1j6nDP8pvqpxhsnIDHZUFBBkr4DfvTDW1Qcbx5vvo6ij28J0V3Al7y3g/tCPaPriF9NdLirr3tN4IY4Iqs4T5CvGCtrGy1poqF7CXXk/xKNbvDuK4ABPpni2Gt6cNvR5+rPoJRkx2jbhi0ctmvw=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "For the reaction 2H\u2082 + O\u2082 \u2192 2H\u2082O, \u0394H = -286 kJ/mol. For reverse reaction:",
+          "options": {
+            "A": "+286 kJ/mol",
+            "B": "+572 kJ/mol",
+            "C": "-572 kJ/mol",
+            "D": "0 kJ/mol"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "oo8EV9kawSzu/iO0k/ge1LCZ2Atv2+KlzR/+zElVcGyjG/A0g8V6sodY4UozbOo+pDhZhrBvxQoQXn2OcF431BqIzLL5fycsUmElXzGHlU2GjZ2tbe/17dJh/JBg0UPnUlH0pvbsV893euUGVXuDLj3ORm/rSxFgP0x3+igNC8E+S9VIiYYs6BwylYuowLS8cYe0/JQaF/AGd50c1m3mf0Rqy5+sYJCSvcPo8poSGQM9V973em35ir1pYX/0k3GNNtR5wW4mwcaMrYOGs57tYjt+Si274R0hpIYwnPBgAkpt3XNv8HYB0x2DRXW9e2ATveXFzbO4cUresKgqb88wuA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "H0JMNVk+z56/LKJ8CW4oVTSg+/IIPMiX/tWb5iwr5x+xuuEfGWCuo50R+xWYhssvTldE8hj/P1JqOlD9KD7dNVcOSf5WW1J2M67El3AUhxwI5SSSwtYTpqT1UXNXM9Bbt7GQ82zdlDqG46bz43H4dWlwK0nxrvWHk3Z4foHePPFP/Ur2SQ8lCfwsRtW3ho/gFxZ/SonH+k7VZUHDnfAt1uCF2GFts987MZ/g5EzYksSaBGSJqHBXxJB3ogr2ZfTVxminnYvH6lE6HXkecBzpDQBLygj1JsSDNSm3Mc3F6iL7Z2NZ4TkeNEs4ca8O2MzWsLG1YCs93ijTBjWlKaajjw=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The pH of a buffer solution increases when we add:",
+          "options": {
+            "A": "Acid",
+            "B": "Base",
+            "C": "More of the salt",
+            "D": "Water"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "T+9ng91OyrtMkSnCXPjneoaPkRZvyKdi617P7FW+M+ZZ4JcAO48+tAS5hdiLoTG9/RoYTKs9j+aqwhBXKZGCD+wTTMoyI2ONb9Kod/jO72WCYYTfhk/KGI+L4FyzYZGNKBWMBF+bJR85vY1K6aU3Rv44H0WheVSb8/OAZv1vt8NG/okExin4fFXo33vB7u6nRF+XhLHl8y/EUdMRKL6wUViuaUh4NGcMh4gOxh0LjbFCNxhYxFa9+6hGDM8MX/ucylfYkLzsM2lYf2sCw+dCKINUgWABg/giam323rh+SDOkSDdUxWNQJ8CYnBKL88QCwt3j8OvfQExQ592EmiqOZQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YG7u+S6Vn2x5UG5NUGhF6xg0M09p/D80qumQfWazvOYqGJ/VKKgLNwQGlEoPvCIG6nRWlCiB2tgu+vVRK9gs5E1MbCLtP7cb+lJdI0KVsac+jAKpVZrah5poWKPPNbG6cmFod/rA4jkGEwRBTcn1B4oCERedM3ngPb+Kz8y63RqRBbzj3sCD8SVBgfuJtnodUK4jWpPm0MHIMHtdhwlUXCb3zeuKqlc5+ugRKZ+aXXQXlT/2bzuZ0YtNCawvmB56fPGHfuLK4Gi8JGmRgK6LmXQlk223vQZIdf0HWZk8G9iSDVgNUxkzAZVn8zv8VKxc+2f9FF/cs8NgVWXuN2bnPw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "The slope of the line perpendicular to y = 2x + 3 is:",
+          "options": {
+            "A": "2",
+            "B": "-2",
+            "C": "-1/2",
+            "D": "1/2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Odn0yjtIdoSkYCHKW6p+W5cu5MOjK/bfa7nnOxQpr1+QTEoE5DPwwMLFYwUp5EzzPqcQ4/vVshqlQwyYfQJQgoe35ka+ZxizSWAZHmpChRGXEgQ8qgmVDLcUFQZrGJAxGDOxv08e4/DCD/bsGRdMBK0IyQYpdUCTktkCtuHQ3BcIR+jhZ675qxsfkE/Y4IlHRHaiRpZDTz4YD2xDlhKvuhZJVo/+FOCbp6H6ARS0LQVRrRvI9ni2d/SDkjOWgHMd87P5fR7MgsnPeSKq4pcPvHNWFvJ+ptZXI9aKcKdrKStRtMI1MAh9AYfXIrkPnlSNwyA9qR6v9ezs4WM1M0ZbvA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "a8NDPlaju62EuaqsSU9EaxZLwTIkCE5UR+euVeiTh9hb2uq0wXLb62AfTk+NkFUxOO//y/0fjlLqW94i6lsWwtFthVD1Nl1D/FekwMFsZMUv+H4ua9SHM5TWts0C8Al5T+HWbeRgclOzor+s76r4v4o8y/8hk59egc3tY29P9PgjXgZF+haM+kaB1M4LiEP/Cfxx5A5RBpkwCxnRVxo8K5W2Hv9Dls+3o/HPS36bDyuISW/83c70zHMyEoDipVDdieVld2m5p1M6bd/ovEvM8SWfIjw/8FdOjBM/FAYTPgAkazH1LJTEsIDm1NHG15SrbJGJ9KXx0sCAbIbhLYI6UA=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "\u222b e^x dx is:",
+          "options": {
+            "A": "e^x",
+            "B": "e^x + C",
+            "C": "x\u00b7e^x",
+            "D": "e^(x+1)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "pWpwISFPb+/bVTYJpMa6iO5cvcSv4ItkX/eX56hncgXNrYqjfDVfp+z7ZB0tyutvGV0dxWbsEP1oyefp9JNUDWsazGsjmFoM6nRlQ1y0rzBk399NJ6LyVLOJFMRfUhKPar3wibX2Zlt/j19LQiHyFeb3R3sbiRW4oI+MAsx3psOKb+U1mKsEp0A4zG37GbJVag330IhXyIp/5a+ZneCjAIAztCGPoZIfi3gqYSS+VL9mgW1wV2jRlkgtYsnOQd4gHBJ+53g4ANhZ/pYxz9bmlT4xWJUKCJneIfqUVkRhExTZ6cjCJDM3I3pt3mWTlBgZ90y1FXk32/MFuVojPWdxxg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cjqMI6orYMZFYoF302FnmdN/qZpWCroTsZYF1dMluNPBcCKy6md7s7KGnflrbD8dGxLfr8OGxmjhw+8pLME+x6I3yZx4Hv2Vzx6hXVG3W9KgMCzWRm0+TUlrW+oZ1HN+PNu+BUNnRNkjUtjpbqbk5xJPooGNLiVC290CYVHjkajEI8XJ1mSkVf1OEf5dyEN7fZYzn0Wf7k2t4LfkCiSDlsNaqROTa4AnvlIci8Trzx7ST17yDZPruh9fn8k05VaQDdNi3ZKXbOhXETXNntXr9Z5FyFYWVVl2w0uxCZMinmxOdF4nPwEj0Ka7bN+q9EON6zPxny0tYNoUBO9VzOUkJw=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "The value of \u207fC\u1d63 + \u207fC(r-1) is:",
+          "options": {
+            "A": "\u207fC\u1d63",
+            "B": "\u207f\u207a\u00b9C\u1d63",
+            "C": "\u207f\u207a\u00b9C(r+1)",
+            "D": "\u207fC(r+1)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mcrfXAtaTfALhhwNF9tFqF5BhdMI7Uytn8KESQmL0YF6lVNV/5ndGutVuJt4QbPr/stiBMFOOfRs72y3ewFhtYMV027SVEg0YxDELbQ8CyAVXyvkA92/5U65LbjCOs7gbrLS6i2s7u3gaQTWo6cv6/IBQLpGEix11fvRvVCvCN6akhKhlvdbFZr3fCCCe0i5+VFTGVIxzp2W/yHiTmtF5UTdIDUEJGD2d4W8Dy0If6xM5aDSPW7oVyM6FdzQdf12ViZUtOU9teJYjWJQogPrTKy1stVONo6ogUu4198znRnrOjP0/GjLtkjGVFb8YuR19iBY3rDNmhQN28haJe4tRw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "XPSYrTYkNiPP5keSUrJEZ+8m/ijXJBe9480ej/zG+nOEBYKTNnEl0sYKKgqbxO5b9PEa213FJdHp/uUJS94gGU1IUwT9KwUlBzTNfzZHsNGrD38SdZPOYmAadr1PWr7xPu7vuZlu7wUwIio4rkDZOv+ewTQ785VSbLk4rgqoJTt7VNJZanc1JlzGXYB+ECS221GwtxsFIJUXV1l7FWQ3+PrW4mSoMrEF4ntF2fTzHa4ZStlewBv7yP7dF1rqVgsDoYuz2ZY+UjcxwI3c68Lvf0qz4Yv5UfzEBkCCMiKcpAYbfftIvJ1/o1pM5sLNciBAEysMu8C4bHWukGCUZX+wZQ=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "The modulus of complex number 3 + 4i is:",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "7"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "DPTQjZcjTqgGUp1933ldmRO19heg4V5U13dIUE3iJn3YRhvULH4Sookd3jSJ28MX9nnfb0TEwWA4bs4377R5MYJ3wgQ1dnguJbyoVAWlKkrzwVvG+TnoYKgRGyi2m3qupBpBZq3WaeZd9SfcYwswmOn0wLfp1BGKtL/xb6gO1S9T3Azm4nNwfBWnMmZiyMnXu4Lhoccoa+k32itnsAFIIkmZXWssBz8j+DC6AmdBiqmpp7ls4BAj6PbQfUfKkGRGks11Dyhoa7ld+7PgydgtSokTxNhpMh5LzGjLwCu1+JDHanzoB/1b3U6w8O5XKs4FCeGzR/Y/IElHWbWv56kCDw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "gDl6P40Vi53eshDZJPW7EyPSOIX5F2Sl7mzni/7s4keKC/95/qF5+2bG2gZfaMNqQRdKKJxvdaeAMXbW7Uy2ekwQXUaJ+BzC6mJQWrSD85ez3OG2XsnfhqDyZ8sghRuNJCT7Qnhg0AkMB+SbDojSiS9gsO/N/U5PaLb8nal9/tIQj0nnKM+BAl1fMtNaKHT62daZ1jNzJG95jmjenkDGPc6cMP3gqUUhIRX2giiPyfb+A7YSaxgv/tiQVKJfi8BNV7Wk3YCwV1zyJOVXNmWkGZjWPVqjEqOYeeI/z186DJSZNcC5lEz+WBfGKv7+ocjB+96M6eFjQ21YOdAfL+wsXQ=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "If A and B are independent events, then P(A \u2229 B) is:",
+          "options": {
+            "A": "P(A) + P(B)",
+            "B": "P(A) \u00d7 P(B)",
+            "C": "P(A) - P(B)",
+            "D": "P(A)/P(B)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jSauU409dJRjScetji9g8MdK1X29BpyA7GdBMCYqykKGgnZDuj2JI0ajXRei9wEs2uGl6CFX362ufBByFYgjE5JxKUbKt1tyazoZhXiywOPI6m8qMqKPtbKyecxOWQxBQyj1WeBm3TvSOIq+uE0qk+H/wMpc0+EuFaococTwflnHprgpXxjqQZNNf+qalyC8tGidJGnolZYaImeRvnHgu4DkGsf64UQ0ikGAsEirgKknmNOTQ/2OjN+A9ykEvNikWs1eGMfymfnrHqSOZUSOIIQ/lWuiP+QMbqEik49t38O4DXRGoBoEh+myMpilnQgsfxc0KOt6ldOBRF+KOx2Tow=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LgSpwWiXoCqQhmgOXQaI6oe/WOaOKjtYaF7HkO6Qrzwd3R9LLZ17SVlrIdwqMbcAlInjLX1zP+mPX8d/grbQjRFC8zMsQsbjlb1cXSqGQXTwb4SSx6Ql17NoUycDZwEu7d2M6gjYmYFwEhkImwrGbNr1BTbNejPzRBLkPRXHY5825usu4Ejf8/sdVfG17729IK+5kUw5uvvjPiYky0uHmFhm4FJQSVP1G6JoQTvYD6xEcESNudjSQVFm1fmrXZ28wcs8LX6meYH+ea6nQwGJHfPc4sE8uccgDd5hpSplCkaWdU6uEZqfXQrY7/M4VqWg4F9e3XvdsIEmZ3GhR8WUCQ=="
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "exam_id": "jee-2024-main-session-1",
+  "title": "JEE 2024 - Main Session 1",
+  "category": "JEE",
+  "year": 2024,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 20,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A projectile of mass 2 kg is thrown at angle 45 degrees. Initial velocity 20 m/s. Range:",
+          "options": {
+            "A": "20 m",
+            "B": "30 m",
+            "C": "40 m",
+            "D": "50 m"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "q9Fl9UYKDc8kSnhAhk6VM016LiHWHePj3R3+agUrq9E54YypWmM0D+gOYjbiT9Jzi5fqKwRBc7hyosOmSMFbYJo8PuW2cMDNmeRqyQ383SR935+nOZAD1LiIwjDJ2EwutOKviDe0Ptjjxtb1um1RAbWO+FkG5143aboicCI0Ru0LlK4QkBiaGH02ItJkL+ZIgisd/Wa4HCulCzO5+PsZKXtxRtcWnYD1yv8z2Q4uXKdA5qCbugKPFOsPEWldB/r24sA27kvdS8VDi9jmr/wu2p/LP0Y4pvhrpgDx3rQfp32aQ8PhlUu1cLPAmTHvkj7SFIgaIDP9FAM4j9hb7EgN0A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "RdAzD9SwelvUq2EM8jptAjTXyoD42bMUmI8hTSw8dYe1vU/+/Bz7N2OJqsN1GIXr96j6ZbQG7uDOHtm0daBpQ9WeQ8iC1jr//Fs4ws2nU6GmiuCImp+t+UNKPsdbbZMjPP03QcKX1MFolTVASM/y438rvA/k99k4/pIYnyzPQrQe7Eyx1RC6NYD6X+tb4UVo+E/fHIf8KtPGJDMnTsdvPrTR4UJnOpQ2BI3XGgBG2hOU6174btCpl5weqXblpuAUYope1RnrgyYW+Ei4CNPihVxuofnQFtlqQUpiytwhfjdj3CDioY2YCPyzgQY3gplgggNi2hQyH+Hy2qeZhscMUg=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "Moment of inertia of sphere about diameter:",
+          "options": {
+            "A": "2MR^2/5",
+            "B": "MR^2/2",
+            "C": "2MR^2/3",
+            "D": "MR^2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NXoh8ohIw282nQ5+gCGE9p3KXxyHSNMvqRxDpDpkOG0a86ycsQRPugl3WGr/NRmUlyX4LB21Cp200eM/EBkYtPapq40Xdw8wyuXDMy/WXH5E+7Kp2l568RyA6eRD2K2wGZBhlHCsd4fApDDuO/X6l1VvEdtNvQx9rnMKG6S0JQZWv0LQg0oKh8DU0DedXxjILHWJA3iZBs1LvDiXP3y9AZcLU8u/19QANfQpLfbRU4b1fHFrRrEKx60lvS3rnUlMd9U7r1uwPBoBztZrK6XJ1iyWWFZKEzTTAXnK5f3NEvQ2KiFtrqFualgXHppkp/p7STIC6h4Kk7G+rR3Q1pZlXA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "eWBcHkzo/JJ42QkH7zFOa+4Yv6J81WXkURxJoOl7gV39CcstfSfANxNTNBMixN2E01lmRABydlqUvM+33MjJmJqwABosLLb8DHrkTnFv0oUf9Y1CozlaWewWsSxJp2pTiZwjKvzB1APfnrklUV6lvlnJNwIBz2UXkUz4Fn8W35AAq9i4LgP8BMwxskxH0UhVxTwTceGPcIGawkvKqws1kbFovxlkYGu2h3MWyU0hcpchxr9qNRYW9D6pedaMAZfmisHtqOI6mZwu8AwP19g1Xtg4D+e3EvRNxJqpC8eHJheo+h71GHezqj5yxcF6djbOXzULFppxpD/d+0qEvSPHJg=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "Thermodynamic process where pV^gamma = constant:",
+          "options": {
+            "A": "Isothermal",
+            "B": "Isobaric",
+            "C": "Isochoric",
+            "D": "Adiabatic"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "G4Ov/qU+h6MmOAwNJr8nV2R3pjPET+zYCo8AB0zwFYwqAOZg7fC4ahKSUUnMWtU2I4bMCZ8DDNayFP5m2+NBzwfHld3NBkbXvOdxIC7FReX+/dIBu7Bwu0UrRijCxBC9Mp44kXN22dHHFe03hHMEKn3L2xtSE/z/TmB6bCCn86uVulvbFziP07m1vra3F/5JU+WBmkf/5qGyXDWfnUMHttdY4AX7YAi8XPF1Pzv8/+e3T1mJDxAW+8ykGLeZvfzXmDW6UwaL5tHiLQRdQP2qx6faCl9EgnjCX62oUU/M8WFxncVssubWQybjoN+hPXFXLdhLjRXvQZk/4lFNmb1VKQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZI5upDXdi2wBFwaHPOgzcIyL1lMPycT3BTaNvHcov9etrZGYyhw7C6v153kb5jYa0IhIhdxZ+mqv6Zxn5/870Z6QMbgkZx6rKCTdtL+c12m5viVWHgfs1X1tPwoouPBx4diXYfaAMZiFi4yhm5qiRg8VBEQ7K20/qXKljtn3vlxPa8rj1Gh84pjIwpInNImmLwmAKAgaNeDPje/U1mGj07yWpU/NkaF+fTjUPETI+ztDMWtvVnc75vqWEdCsXcLgIkahJPyiv1FT4cwNnTrQ9YNetk0treC0JwAVC8UiDTZic/0uMOx1TblIojeIfKex+plFMQZSnVyvAFOw88BMow=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "Focal length of mirror with radius of curvature 20 cm:",
+          "options": {
+            "A": "10 cm",
+            "B": "20 cm",
+            "C": "40 cm",
+            "D": "5 cm"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jQQLEHCIn+yu+zjL9gj7jut1u0RQeaOvmeD6SgRDZfOrLrDtQwNQEGCgttJDWmKsT9kJ5Bo4cLoUQnUfTOXRTneBYu2q5Ktnppo7O+UjjemZD/GCDDwO566atF6FEFPl/83IxoZSMef6CqHkfHRa2FCPhYr9O6etwxOBgtkZDMGC5v2vI72U5KyFk2UHLuC3lLmKnaYl3bzHgh4AxfThBn3ZIu4mNyaBX3svfjw0lWFbn1uq5D/mjb/qA+fGy+tToa2+f4i8NQuGuq/gN04mYaxsu6PUWiPjo7vTVdqg4MzjIR2lx9QMuHd89DMhibgJxgbitWbAcjrItPa+FD7IIQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "SUoFocOscU9ICeNJPZ5qEOkbRsL6rpUz7DaxpTnyjuB5IJR6zLm/wI+QQI5jgA+nfwf9jm80SVeKrix9Xzao2+687u8i/UrbbmZxcm023Fqlufolm0nVURK3E52F8jRh6mBuj0esYdERpE/+bWUAJmEXVdY5E1qF2LcRIOvPxMHW8ny47uk5p9U8estA2WOt7wDi+T50dO2+nUR8UOKShbHOAzkyJ63qMZAw6v/3ZA2U3icg+QoAxS3bgPLUfiCSFS/20do2koMNK2P5sqUzOzXGbd/X0oo7hHsPGk4YSiFm++FWESiQJpxMGwXOucm6kyP+AzzVJR/pPJoWXcuKaA=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "de Broglie wavelength = h/(m*v), where h is:",
+          "options": {
+            "A": "Planck constant",
+            "B": "Height",
+            "C": "Boltzmann constant",
+            "D": "Hubble constant"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bpXPCzA8apOqvUcSQoQxe+1lNPA1ZaMYRbqGw2zmpityI7PM7vhk5NiGXlqP7068xM5fS6AgpHE50fTTiR9sUPuizktpEZUZJf3i05I1LO3Ot5wqXt9uMeCnDgvjX/9+iE7LUg2AvKFoSY2RE9pXY4pOQxglziwXV47yV6w1apvaap60dkdScE4bbga8DjQFP3enbJUKuArZbZ0nv60CHxANbMOksq+eslcEJexH6PJI+uVc+Qn2aljeSxn6IMpvpYgG0wKHPHig6zp67+r0iii5MCkHoK132sbI4ClX7ZTlArCd/Fc3yyeDeOTF9vrnUCyhPZQ4+hv3FaTv1b9FrQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oVde9+54bS7R+7MrU0E/pmoe/rhq9WyX9oetFjMjvbIX0OiYc7txaSjC+XgjqTUUjPNeRu2J+JTa51eUXjTVRPRkbv8eCzJfYBb74eNOkLEqz9fp4Kk4c3Pm4VP6HDii7Tui4HTuzasRT5be+yKN5pw2RaPI9bzGW8rAgvPE60QZIPh+W8LF5QU2Lci6IzGBVHpjjC5UTyX90IASwdDTc7PYPX7OQruTJSJK436ZyM4+B7Su3eWc7f08EHl88duljG+CZabp1nzb8ZdpejwiQhiShmgitnlCynMCcRB5ARYmCzwu6H9tea8HBgk4zbQZtULTeKEjBQx8azAE2DXCNg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 20,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Electrode potential for Cu^2+ + 2e = Cu is:",
+          "options": {
+            "A": "+0.34 V",
+            "B": "-0.34 V",
+            "C": "+0.76 V",
+            "D": "-0.76 V"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "plXy1Ab8mFbXwjQmViUBPkso3hZEh2vfTLoiT/rQPkdHbeWKLaOVacc6YG2hZcat1tpb+Y6PpXBNVlxg+EODhGq0C63EnG4ImJz7BzRx8OHO/CmwUJBLYZFSszwLXCBpbxjuM8r0IYjWPxHU5DfqKRA1hPuH58o0YYPjkS3JWjo2g6CD9KkEJef5mxMkZ2VdVjDRiR0Ui6qP2AkVxekN+9+qErrdjI4J5mcfEFkpmPvchitQ3BP3Y4M8V8Si67WzR6CE84wQztGc94t6V9K+JqfO6Xf8RwjCvn1TAVUI+csjpjMWWxd2xBLgRS0gSsYGQ/7wdbiPANvSitnHom+ccQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Yi3+f4dzgu+m6sKAOWqzh0QpF8yIoDmOWcmdR3z8xAjxI7Tzro2fANmch1J0G7obwepAavPXIUQmjafwYNhDGNghQwpvzEhq9uP091GvNUZbb8xaLgZN1ajlAM9HzOqOxbvvXPFeAk35ULSS1b7pi7waynnlJ5Z5as7/ZO/qSHUldeuYFMWKb60o3QqzpNtOnUpdrXgYOodBEitqErMh2/cah6MJY6XX9xMxbR4/LcJebMa+ujCZDIYA9ugLuH4ayxFUeqhVywrUaqdfYp+Q5w7bGOMa0ArCqBfYCaM10HIGWstNQzxo1tcNmCFRIin7nJ5rWLtGZTfyrNsZNDtXCA=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Which shows disproportionation?",
+          "options": {
+            "A": "Cl2 + 2NaOH",
+            "B": "Cl2 + NaCl",
+            "C": "Cl2 + H2O",
+            "D": "Cl2 + O2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XIfh9t4s3lUDoat5/dW6t+l7vczhnbebHbgHfREPALn+ijm7LKI/NZVt/NkwHUvZSRFk/VTNSCzVN97U+5cCf1Jge7ILO+9bL7Id9JEAHNI/5LBjBzvaOXo5HnXqOlSmQJSS+DySTAsPxttyN6bdg+6VsP+ZZnSlNRtyxI5IQNfrf8jUtxS0hrNS2gz/hlzper/DHjWLlM8hmLFy0k2n/3Ck3KXw2BAm6I3o+aG8WpmZsgYH0cuznTbm/RUmeopiKaGEAcfoEWy0EbCt/q3ZC9/U3RXnPw190RQiK1ANE7lCvHeovqeMHN7GbOr3Yo1VHse+8m8zNohuzrgQlMTvgA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TiA7UT3QdSZ7pB75y7bbZjBPyiUiMTIb9jEJNZWg/S44y6WrbzQnHDQ2L1ck21TxhnlFi2y7PjQ0Gt8V+h8/wETFBElqSExC4iBnAWDUCxX+NQbgULvPqHKGLQJkqpM9cyjXprJjuVxxmKwwXMG6ia4MF3yREds0UkikWAkIr7MZQd2hf2HjtQIJkAWNkYkShaBWeFUaMGzm+tRGFHejFLWEUmQZPtbv20vYEqBWbVgySd0zwV6WSr7N/KLG5/JqmepGq7SMhSkjrkdmPj0Lup7R1sBI1gD4dZIpaL9WrcLI8kSluzzXPoFzFO+fVNAMW8PbjSuIf1m5TdBisFCZEA=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "In complex [Co(NH3)5Cl]2+, oxidation state of Co:",
+          "options": {
+            "A": "+1",
+            "B": "+2",
+            "C": "+3",
+            "D": "+4"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "L4BsyA2YTyIHkGaT8D7wIINIfq63bDuKCLRLMXdLujGKP9DPTm06tOi2Kk2LRGVaiZL4h0fqSKxI9/iDSkrGHY3FhwWfhSoEddAl9oxJmQ7pFOp+/1R2aDmuzHiYVeYK6bt1HKhcPQeEytp4Ia/y6VKeJ64vU+koKDQnQmdn46xFVTaPw0Lc+UbJIpPNPeqC/ZjIKt48+r3UZg8X48JOmv5w/mBvwIL4DbGj8o/BRlwwLSikwNKkF+shsFfQsXhGhRGq75VxuvVrbMhrKcBMpakxDIFw+4RZg0lh4rt6UXpaXIfyRYdNcOvcQjDPJZVO1Zx1kDVlTTOvlbHv5vf6qg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "fAk7DnT1ePCrlPVeLh/MOCzkbSY5SElxjgTQo5CMtkFabdQEKjP3XdDp8PWBbQjrVpZvq4Iv1//wmduXrcICnYRY/7nGqjBa/KoLhuuUobmT3C4yqO3AS99iHZfZatFjfxOFiWDagV8/Ca4kv1j8V7rdc8BV1VXegST2hAnkXfCB7xyho9ZpqSeszfhgJNaAlykt+7D7IlYMBvDBYf8TsjxOIlXPWz59MCZdV59igt/iuuTZn950uLWX2vhBYv0Il3lpN14YMsgHJFvJ7hbAEMirarnF+fhCNl8fggs3bwsvtCh2ycucug8Wxold/TdBWpL1yyFaxvfk+/ATzBJ9Cw=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Heat of combustion is:",
+          "options": {
+            "A": "Endothermic",
+            "B": "Exothermic",
+            "C": "Neutral",
+            "D": "Variable"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "P5+A1fqgrCdNVFp+G+TAKMJ/zLCKO4p88rXe0ztrSzObDJ5Wlz8YLPazvxp5TGvHcT46ARyraXnsHNGDGOhPyS8KfsDq1GBFR+SCxSyFLHAcJXFes90SOaLOTRXhexjGI7YtSvYW3RtH8ODvxByZDRIlWjklKz6C2ZxpZw+jJcZBCIA82dgptFUpKffdLXbK2W/BTlI1aQkYDzkcPB1BGlHz2534UjAg3jwP4/SJ15p79K3tpuOMT5u1WH+qcijyqAtmRf1i2o/EpxubGwkfu0fL1JFMjiU2pc7jf6+2FU/oer0fVTjR82dI3w0DlyLjH/cTDm1+p1+wjpAO5btDnw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "IMadZv2e7Ge6XIxabWx5r+FDyuNJo+KF5q5AuqxMeI8ay33LZwha2HyCrDt6NlvJ1c734GidIjUBYWfYB7xBwszBu0Smy6FZ5u0AhD7Lz+eRLcSbI6BAjZJ8pUeqBXzDbilOcua+8SVt36pjjw3+oNbB4L+niliHzrnFrS7WfnWfqnmN96kEM3298dBNpO/G9IRHgSNL8674Rg6eJqVs7Jve0CCPLa1gNEy39Y7b28bxRcIgsOkjGPTKW98Q4vsn4CPb9XHwSqTti02BL3eF1KYA90U1FzDsYmJrQJHD3n0pEMdcJfO4msRIP0REn9F8kq7qVbBlDDu5u5yS5Xb2Aw=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "Dipole moment unit:",
+          "options": {
+            "A": "Coulomb.meter",
+            "B": "Joule",
+            "C": "Newton",
+            "D": "Volt"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LCLteDShBTJ4NuRn52txOEIQKWyZb0ulg7EM9HBiWVPSUvTrjzBwuos3QIyxQ+vgnav9TVM5WGASk5weXsBoXHv9VINyxZMV82rk2Mz3BxEH4eH6eAbQ+zuiCNeOtRoThzMZRMMVg/spFqaSobTwX54emjTfxIZY/2sRMBubgQhEcQzDINfRZu3JBNkaljSjqoImaeSWUWhoSTc0eyE/VmIryOmOMI4meweYQEoxuVeSJxxqJ2rjqmugCOkkqN4XEComUZ+Co7WZLBGrhVgpIMeOeoSI8d4t+MACA80JmUqiAMqbUfYtKk76duMkxdw0RtkpIamZiK9DHTaVaHS6Ew=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sWdUMcVZl1mfFJdPFDZaViBUK4kxgqaW5bCC53r3i09QWrEq4UUmDl62gP8rExY/es7h7hlTELEbSHQcpQURaBABWuo5PBnZC9T62WMhkkpTr//w0OdCPubBcU2blS+CfZgDYPuq+keLjnAFdWg2x6Velxzv7pP4CidtoGtASr7g4rG+wXxNgl0Jr1rYqvtXVP0s1zZ0JGCRLu02DArXUQ6llG791bKYjN4T0EuYnHibX5CONSK8dqRU3J1DBFZvQtAKYDFxMWlJEmVuMzW+WkkyFraVwfFHM+oVNcvFqFh2LK/N3zI4NioimFTruE8UvA8AEnXLiDhXUICYMeI5iw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "duration_minutes": 60,
+      "total_questions": 20,
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "Sum of series 1+1/2+1/4+... (infinite)",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "infinity",
+            "D": "0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "B3utA/UMWoVBs2Q9NW8sB6XuqaLKrEDI3JSP8C7XlCIOJ56zD5ic6tsDohGljqzavgDNFie7tTH3HWilXSPPCbHknLP5yLkG3YZrSrksPs8M3ckXEIFwCyQCkrsJgHgsUj4wXLLUSTtlSFxfw5tLDA+2ZYK6gNJG174hy4IfcXFxs+6BfjnyYlDP+fImPjIgG9nngV5wntIiTsa0w4hs/o5W4jiJrzJFK0OJRWCd5mG2dJ8jqrVJ4sXouHDdc8N834cCLcusmzmxS4VmjRVYt1wnFpzP2WzCBt6tBy3Oty35+4Edh490g6WvMNha6XjwphFLMDVTBU7fz7TJE1JXhQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "N2J22qjrZ0F8VyMZDrmxgyPDq8N6b9MDM4mFTjQ4+erFVyVx/4Ezknq4/c2Zqs6XRwD3r9lFzB9DAaBhdgNs7Y2qtRkwxrWndWSSNRlJle+nBVFCg0+FR4BEutqr4L8vpO5VMmCE3MpJBylDCGh9w+r+N7enrsZ7t83nwOCkwT3GSkDqAFQiBzUfJTZKam9LZugURUBRBR6ZPj2BB9z/PNR31ArawyL+nfr9STsKacnwd3tMz3u1/YP2p8I7lk83UmizRsM/WKHjF8nUW7QvM2WyoV2WiMD8Kr9nfMILr/z2ajeDEBg66fKeHFOXh/bmuA2Tdl93kApuGQx4LQhhFA=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "Derivative of sin(x^2):",
+          "options": {
+            "A": "cos(x^2)",
+            "B": "2x*cos(x^2)",
+            "C": "x*cos(x^2)",
+            "D": "sin(x)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Qfbjo/UdlmpoHN9X2bn2Ytj6WBBH48Z9/U2ispARAxUWGn3y730FpzJ7rLATNP4831VGxCkc0CWBh/gEqkorpIE5/elkaehLI963yxa0/uD4Ox6ag3iBUKpKXD16ks9NSxFU3hg+JDYm3CpYx4noBJNmtFVlPUc/Syldr2dH85uzFDB20chXQUXL2EtlXOensH1QDzNQUr9P82av4fgPhZMU6RjywOkLJ/Jmy5PnpC1VGN2hM2SXmXbVz8QpBkp96WRiZ4rprTrc/D3Qifww0Jf3MINIgKzyyqVFU2fBzgZeN60RTRXZQkSime8CTksE+Afg6pGYiySk/rikPYJ7oA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "rwFjy+zbQGyuqMcJUOPHnjTETq/oGtxMlRAXc6AX6pONzJYRMUMhOsqTcpAW806YMTh85KPeTO1xmu43fyCBWGd9+jgiPvlKhizeEjMMkMQiKHcCVjmeCsiPO6zsVo32pDuvZ1hSreiPWNfsdsFKD3DTtIL4nGUQxMbLf8N4oy4oQC4mznwqLTJXgFAGnNGuiOBmOLWn5STDWAjoJr3zS8zOuqlucAY66ilj3L0bpIZ+cjkP3GgoTrqVwS4uAQupMAHsu/1JWMNj0w3juJKFWo1Sxrm0w4cQRp4qAEVKFlenqQxxDfwFq4yZXRGdmbwC9+1QZtISFSpfzAToW5LXzA=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "Area under curve y=x from 0 to 2:",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nU4Iy/zmX/8o3MEaTz57MlEKoN2awNrZoEtg127JYV8+1dlGcgBXoPz9ZPXBmLfWKvL+gq8BkntceAtPvUWpYt5xaLGKsz9D+lUIJnsDUThKFOz5dnXo3EUTB5tXUYAWBD1xhfXLUewNYRF6QGrje76At2QsMsqdE6SB6HOfdgGYAQvD0gHdwvylN5wRnXYsqiCEeVFKkd5KC347HP8e52OrPmr9houXnSndDJtDcvwxGttvAFXRaabgAJWShaDpDCdl5bkR4bCE5OSxpuGFjX9vsAbDfieYltfFM7aOrwOBvHp/njKf/v+VTOoJRKlEYRLW8dFmH2wJiCYnq0a+sA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pOUWubfotyljhEVdYVtwZajHFCPDK5z20a7uW67ec5jYeAqTcQ9IKYKRZ87bFmnm/X54xTP5OLHjsExhCrUH/XMLxeKi6ZimfmRlLBajQajsxrvWa/wq3otgQ4QCSFCYiI+9Dkf/f6isCBirUuFG8n6C17pe0/ONDJI0QwDG7InLOBcCznqEmu6yc0d5mfqxvdlNjqx0eAn5vzAOn8Is7OLFp44i0NXa95+f1AeunLzCG1HhRwrgr8MLx/vXIsLSxuboV9eUmaDxAxNt2SuWeFrkbkIxSek1hzSwKrfe3Pj1PgaP4hr/58IQclcQUsnvMtB7cZU3oqAbFdsq3hs9IQ=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "Rank of matrix [[1,2],[2,4]]:",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QDWspVHrlXOhRB+uH5FXOTNPvhpU8UEa/MljK8CTtSGv7qzqEg3IlgqaB2w9Go0f7Pw1ddThskAtcJHgFWNmJFciQmGWuU638mxCzZVGvP79zSJIlBBiNZVH9Ck5R+sc0yzJUW+3M3euf5/jttsNPSnwNoh4OmLPwg+AyOp16lQguLiJ5W11nqAqQMYwsR8YSrzrXRm7FpiImGMXSXnIP6pDKZtBPcfjAZqNONq3qZ6ZiQ8nPx6aSp6IdXgO0CyWmEshhjPdFQ7xS4xLzakV4ZD5FBKsKg7jlO0rcTx7P/keXLhxceW4esIK/DUUYs+2GPb0WrIfZ1yiyu1WV9KNwg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AO5UVOeXDwp+Q9YDcPPibeZijomocAY4I/aSAz/wYpasbZOTBT3ySZN3Dw47vG2oJCBXChfWEMoSecEDYhWly4h1eNw9KPI4Rje/ExGiJl20+I1mQjNmoIqo3vyGUViiGQS5gedRrQsr7GHSjrOpCszXtxawIJA7YEtKpU0mggk9jWfGPaVCacju2Hmiv6565ZEH/xpj2noWt8HwUC8AenyYDzkkCBMCnyoeZ54AXqne6r06hxLJN2rACK3GzID5mRWaCf3zyL40DPK6mF8j1RuS1qg1RzcM8lDmtUsQXBpFQS3/kKM9uLeAFx5XQemIkmwvXdF/kE0J6aMTzHkvQw=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "Limit of sinx/x as x approaches 0:",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "infinity",
+            "D": "undefined"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Yq/FPM82/tMulFr5mCQdZ68n1ejnQGxjE29PbdqJQWsl5kOOBh8tEOtvczqosyaY3nvLiR4tb4uyMFda8GiYxhCfZblBJOt+nSYpTTnSEErSRbnF9VRvCw0LkstKgCAoGNOFMMCkMgE2MFSTOrrcfJKGjGgLT2AfNuzpGvUQc7ZEtmzp2eUu1uiLc8/a5xOCZWVlHvs8kwvK10TKCvvk51Wtvz800qtqcKYZ/khjGzLTDPWlRXP/k8b9RYuzVbFxF8mh7aN3sFDXZIPhG3t+VcZtfLa22181qU2XHHiyXWXmpI+rJi52+2HTD4H/NdgT/4RO74MwRPDaih1debxaVg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "e+VWpZ3JT1b93DeGMImQpJK3e4/S5XQnCCd0pcgJDR+cj3vUWSeEw58/hMsRt9MrPbxqLGP3WI3sWAqegCmPDnlArwNDumMi5hlIiuhRHTXGiOlZnTDtKtaBHtSoUGUeIkCK+aZdIaTWmDPfmzFYLLFGL803EBmopve5HHhWiSY346Pdz3/nAqitXs/ZDDDl25sG7kadE+qXjThcF22hrPGwJMWHkm8zfi2iSc6t7cJZCr3uzI+w73dX8B7dVOuOZAItu69LLflQfhTL2VrlBukxQoSkGizEyKTFqgNGzUjDjOr7v9KvKVCrIfCxhPABS9Y6phHLQ8b+B+6MwfAuIQ=="
+          }
+        }
+      ]
+    }
+  ]
+}

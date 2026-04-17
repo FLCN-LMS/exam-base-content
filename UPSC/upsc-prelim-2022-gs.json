@@ -1,0 +1,216 @@
+{
+  "exam_id": "upsc-prelim-2022-gs",
+  "title": "UPSC Prelims 2022 - General Studies",
+  "category": "UPSC",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "India's National Action Plan on Climate Change:",
+          "options": {
+            "A": "NAPCC",
+            "B": "NAPI",
+            "C": "NAPM",
+            "D": "NAPG"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UR6+Kn2lclpHmbH3qk0wuornJSMbS45ro2FkjI9NjeCg90lp0JLEsD7NUKBHLXWAU7cuIW/SCdsZmTlfpfVwk8RqONkp4GqGIImMW1DJ6hVhnw7dDiOaxRMMYsOnHRdeFPd/ERlSxNSP+MlC7yy9s/ghHCezemkNahen7gxtwq78lDgG0OT3ybjTFe04Zb2aa6jSrt1SJPmmlrMwpZgy663qDFZbhvzb4gxMnl+mslDWx0/dkJpchot6/yeMz5dHctrAVy03flEGPcOCXpZS9E4cJixMUshUqCyP33RfsX0+/WKbScK/71gxpd+CNPe4bvm6I/0VUsNLRGAMcEBGow=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DUiCFXWO+rpexQN8JPS/ew9WIXXFvGIgMCgRJ/zjV84OUieDjWhaWvYJMYm9jIVpHT2c6ulBFjBt0Y3h++TWBvBxr0dx28oFpAKKYrYrIW3Kz/VUQncQt11ZFZnueFIiZmRbEyRZlFHjevIu34lQpECOcc4zpxHvH6OgfB4FC/mdDuygk51mdf23J1Wi6FuJTWAb1bmN4PNlxoDBSIt3TXmJ7zR9Qy7/kkuYmodQL0qKVaw06F3o2xue8xMO0dEk8ePP2K6ej2gY0uQx6Fchz3GB07+k9RYHu/gRpGue1gKFJ4Xx2N15MFTLTqQCuN8oe8FMljQ0YagfgchHOK192A=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "Pradhan Mantri Jan Dhan Yojana launched:",
+          "options": {
+            "A": "2012",
+            "B": "2014",
+            "C": "2015",
+            "D": "2016"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qc2qmg0rGUfEM4cJTMRUebon13dp++6p+MNg3lXVsioDnGI9cgqC5Syzshg9vkZqVj1SmnNE0jILoXKWW3pSbL3B66NGQodZKRjcoDZutIC/VfXkhMawI1g9u+5rMtRmPJtQ3MkljYDbClCDrFnydvGB/OB0nwa/TkgdfD/3cvYMvbmKCmBzjCkScH0HpYLDb4GQO8fuAkC6Elt1mL+ZrTKwqrZa4Q8qGGa+Nw2L+GAAUhfr+17d4LvOfwYAzBVqsQZRV15SKzi6ushklUkJVP5qH4CyBmVhT1dXh90xajNM/eJAYHOJclmQ4P0PvilWsbp3q/mx+Qqe3o9Ez5VITg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Pk+/luC7YFOL7BMSZxfdr0cQEBxJK77Mf/3ybRP02NmKaTH8Mm7S/qYaZsA6zvTAlWIZLEsRzVrpgtElDUpviQduikNEor5zuyc13tXyNLN+1HUNGONGUHq7cNZevrR+Z99DJoTW/4ubdaI8f4xuPoyXtGW9AZsIyCfL1COSy54K6Vl4Wqa6y8WH79wRE8qwawb0zexV0x1blErJp2AGHTe/qvY7fEfDJZFK3SySAA+vepQv7SRo2FH3mkflCFYkggeCDgDSW795b0QOHJjfDZMyIwPy0HQj9xBkTZals7HI2Xtays/r8fDC5PoWmuxjYxXX+RhzP97LTQdmx3VV8A=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "National Health Mission focuses on:",
+          "options": {
+            "A": "Urban areas only",
+            "B": "Rural areas only",
+            "C": "Both urban and rural",
+            "D": "Metro cities"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QquNbG7sr4Kqn42YwDIUNe3LEaSFJVipYk81vfX1hrB46KWEqDgEoN+sZDlfRNLDOPqdOQW3dajtt1gIR2n27af8kw/bM+es6fZqZ/boJSEcb4xuBs8sLi15z1+Bz0UsiZ/ZrxmE+wjqv1/TtrxJuQNUHsK8JiMt5E2wf0l6KJO0/SnAGt0McbIDzy98Jc/cmyIEuqIeRYOj+ESGrBRuR2Q/xM28AUF9ALneScaHmOD1lfMjNnkywF2niShd3wMgRC8dzMpuOXoWcf8RGda8+E69oJ517XZvogK5gGqK95AdEzu9hNrzq+x6sC2JZZ7sIpbB2j5HaENq3rx3o5t4Uw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "h0MZYs3VGRfLFmZDulKOlz3b1tEvpOdS/d324HmBpcWWVfOQOKpdEX5tJl5dtj2pNl0mfOiVacrpNDg2xcPU+G2dk9OF6UlEwSKb13gAPKHr5rtHnMMtN2n+rz6jzkAEMJoT9DtXxdx6HQaaii3UO22l4WFqXvqTVITng4soPxRUDi7gWpS4zbU9NtVjhrTKV2qo/h4QTpgwO/vdBaz0tSbL98iAkZ+dpb9MBPDp5XVAzwNiTK7J0+hOuT51noXzm2vq5Xrzdr5QoU3rrH2vtfNCxQHgIQ7FxsPbcIoEwoInVrZ4Rhl82DBMv53roSIbaZPWxbI1Q1hJXg3kXXLu2Q=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "INS Vikrant is which type of vessel?",
+          "options": {
+            "A": "Aircraft Carrier",
+            "B": "Destroyer",
+            "C": "Frigate",
+            "D": "Corvette"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "P3UbelkuwpiSL/lvDEaHekGygDdHE7jWlVrXVMbvw7iEPz5AuSL5wsBeKWju52clSj6MtlNDPsJ0FOUp1f5Ii7RX/f/F48dCsBPTt/K5J8sdoJgYPgGrwYAO3wd0iNS3S3Dv6oQxZQp1hTvZUgdY++tcrTiRD+ROYlTZ+8LHN9fNm8B3lq3aQNnkzajm4V4tdCQD3kGNL/aisJ3UTHlh1AL/ZrgJHs5PuAZeFeAJXu1mDVVZkNJ0i9m++5zQNKJLVySAJJDoknE1kp0+STVKyH4qXyZzuRBKJNi1F17k03GzNnS5w+QaTwz+pQNvJB62vup5zPyLw4Q0Zimy8usGYA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ss9G8NXVKFJKozEVVxwnI9SDeQyaptxRi6Z9+tXrFYXKhCCrxr328dIWHsocLEJXi0M+fz7GtqFoZTyAdG3KAniNCHAg9r6qthPV4nYLGHRDeScm0S+TWSFJBOT4GdxRMNjS/4WF0c5L7tjMLDrT75yPTF4BAg/crjBBw2rExyYeFv3Ctfx/iXjVU0SoMUX5wgkXbLK9k34zk0hUJrkRlLCcRzbbdNmAQEZRMQU2jzK2VmFbF0m8xdqC+yj8Cmxm3lHMZcGcE3fB/1ixHu3RizSCsrXccko8J6pa+5N7GQcO9bewS5cWV6/zDo3HEeSMqdhwLwO215gjVc4ZGg689Q=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "Pradhan Mantri Matru Vandana Yojana:",
+          "options": {
+            "A": "Maternity benefit",
+            "B": "Health insurance",
+            "C": "Education scheme",
+            "D": "Housing scheme"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ofCBP4sLq2uX7it869VG8VXHVXSEj1ABkgDOdedIlc3QlujT+4artFzc5AsdOooDbqUc5T3MS7OJ5wHvRniPIV7DCpo1aPOsvLlaCnpk22iWWoCarKIRQINN3m0bXN1qJG26eunmW7fBGvXS+i/8Mz+zvppgMGq7YyOFshMTTu7Dkkc9breOHQ1H2q25PHFTABH+u26ikpNUm6HFaJjK9q3nnEMjNHbCTYZBhEQCZ1GFZQcbLszYjnI2wLAjGRzdecfBcqqetoUzhOBz9bK9Bo6kFRafzn4nCymrEOYv0jGIYfX7rxNwpfRjMYDaMDOa0ZXSkePcM1PfmtKY9wkM7A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "D96GILRK5wYsfhGeqqmDee8FSsh2tnyHD6YwQKEnhG7IIWSKdNXgLMxwi8zgfiFRJfsSTS4rzgJOt61BuYSJzD44oDD4ktgN2qp2fdpp1qe+mjIqdFC24k942RrkwZhoKggK7XK37KzIZPalrvEfBzbz6U8v3QmNHm3kqrJIXs3pbG7mN++2J2Mpff7ltiI/atj5eYISiL1331Yxkp7EHsXe5T+xvk1JHL3qTKbjkuaiKpk6CF1EcYtw0cw1knREs9ToAxh5Gbzdzdbt5Bp4pX9fQblztmYVaECFEdsy2886FqzsPOauF1MqH99QxnxFHWHJShIscqMM6oUuAeItPg=="
+          }
+        },
+        {
+          "q_id": "gs-006",
+          "text": "World's largest railway network:",
+          "options": {
+            "A": "China",
+            "B": "Russia",
+            "C": "United States",
+            "D": "India"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nTEXTO6rNXNZzQD9oYFsSztWtT0CLwhIERc+N6hg2jH3OS2OnoFZB+nwIPi+Xm01c05ypZDT4oLqQEPwShFzUftXrafP9tufs4ayE6jFTkTUM6iqC1taQ9LvwuCdSXxsjlADAoyIvBblIYDBX2hRdyaVMnh9PT6fiPR9mMJspixeclQenyp9ro7J3MujK+iig1aBPLrYaIR6lcedsqhZUQrn6NHbNj5W61sTfrUtgQhXByPxpmilNEA5j60Nsd0V5rUH8qF4ET4LuC7IbFF/oSt4nWKHR7nP0xn2WXQleLkbTx97+IdXnvBXYm9B/9fI3CGo7aCf2H8QfGt9MIK4Yg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "NHL2dCCO50zR64ADJWjbGUiSLQIZ7IuhiCPaVGRlZvpqK4CaLsepNOtLy7PccZ9kTtEy/Q1+6Otnogng5arB5uQGesITH9MIBSF9+eCaSjyum7RG0hld2wMtqa5Q64xcKJMhSVOeYc9o8Z4Z3TGpPwGio57+qC0Pypd5XUSxc4hVyIwWRp+YoR/mjr8jQ2IdRRcRx+bhGjfkHhfrW9m0rC+//4lB9J2GpEkQUtDoUpxmsnC62q1tWhvAaA+ztWe4kIt14zJRWxteEvkOK4BPZ0hd28UBB7yxz6NdBkw+vsPkFNZlgNW8AnLZ575774zt1zGac5rFuBsHDUCp6SPyAQ=="
+          }
+        },
+        {
+          "q_id": "gs-007",
+          "text": "Netaji Subhas Chandra Bose Day:",
+          "options": {
+            "A": "January 26",
+            "B": "August 15",
+            "C": "January 23",
+            "D": "November 15"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OPwdOBAFrkcQPuWK0OixgFazYVK4oDgMeC0B31iawWDGb8MohU2AkbePzEpmN+x+dSVeCY7D9x0ADuqzv7KH4hS2Y8Vj9a34MXBSMoD2nOiFQJN1+EQNYC+tgfsZaeLwWvtraMt3p2rURz4l/yfsmtuWn3Tt7iY8oP8gKMpVsCMuUsoRo8B+CCS1ktekj6wJ6Fo+HMp6VYPsbnVYah6lSSRi9vKZnXezMgbzdKXcqGYecsK9DCLR/VMYB4W/GvPg56d620hGCg09nqcCqV2XARcbYZq5c14gnR3ZjwbrliMgJODffBI41tqLoXiRV33XpO1aJ3aN5eQ+LmpABwBS8A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DxBYDwhryiFwRGUeLm5PqsXVK4aT9OpgQ5xLG0yCZlDX26zyvWv0jBjP1Oys/48/eQGDotZiQp0Qu4qtb6VMqIuSpyxj6e4ov8GX6fVETCpc7V+Bu4UdoV+SBFeZ3HJaxrE8XC9eEioLxQaKjpttxL9lv2Qohr5yoVBwtTndZYM/KXEjPdGHTR62glj5MH5zu5DsgnZiLgg3ofjDUI2Uplg4TqBs/Iq9Tf5F7AI28kCFVQ5lhfQe9FyJ5gdSr23ze3feMVjICaiDZ6MQ25auXAQfRKtZF+wNEUimbaymSTAY136uRgiM7re787yferyh5pmkigBKbhHvs7u5b71RoQ=="
+          }
+        },
+        {
+          "q_id": "gs-008",
+          "text": "Scheduled Tribes (STs) population percentage:",
+          "options": {
+            "A": "10%",
+            "B": "8%",
+            "C": "5%",
+            "D": "15%"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OlDca/tteiwZfYacnnl1avEKxkA8pSrE0pJCMW1NrNVO/xUy+7u5FZDmKL7mFhrMjO1EXnPTHda0z+BTkC5L5Xrq5g7VLlc/XKATiS3D032y/OLm5C6Xkfq5X2HhCFcTsqkGZtdy3oBhiD/xNWJfugccIVn/xwsLjEXY37B9sn+4n64tY6Cw4DeXfD9Xfau4Vob7nidME2K1JzAE7bLx3DiJKLLzC9uO19/X3Edxpa+xufJnE2umpnULBdOFaizSBY5i6ZtyJ4LTfC8z6r9SBXFrrmB0yPQiEiHJ3I28WJwWbIce9aVBmE5vYgRV89N2j6aoSDTKattexHEVgqkrug=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "O9AarDS60Fk+M/dDPpdSDg8J9FBt8IVUX7Z3U2w+AON+KeGXm/Tn3ifR/FT0tGGnX87/DPdG3tUL/JBq+hnydezU57i5w+i4xcklKbXm/OtQiQAQxW/kKZ3fAjTj27qm81j9nzh/gGL0AO/7GqOIT7Pf0myXYIcUW9c6Z4rPBUOTmrl8YddTixsx6iJQagfobpgCv4OFmzXv/dMfkpYBnuIHgUNTJzfXPM2AGV16tXLe7srHY+nZ33PDaAYwcLB1zth6iJ2Co/sH+uK5KKFtE/TXussHWBakWCDxtEcoHJpQHXU7iDdkN00rOo55zzWl0QiXcEBLhrLTC93cigKEJA=="
+          }
+        },
+        {
+          "q_id": "gs-009",
+          "text": "Gir Forest is home to:",
+          "options": {
+            "A": "Bengal Tiger",
+            "B": "Asiatic Lion",
+            "C": "Indian Elephant",
+            "D": "One-horned Rhino"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NiMBAVb0nGUA7nZ0BwzerMELHqI1yyRSJOOKOhf0ap84kLnVl3/sluFPYzPnb4uw1F7SNoTShJBjC72mS98npkN4K/PIDY17Xat8axnW3tAntrTzkPL8vjto7J88VsOaPqlmthEHpxmfTMN41FtQ0kxNhxx/aVzR0DGhecqt2HMT/jESYBv3V0eM6xRgHXH2cxDpnjxq2WRVq0kRLk7Uu2wdQKKqIrZRma+uqXohNmhDYMW9GOes3OdK1v3CWCyAV/uD7BAoeZYGSYm6VY/cbqDNhqlCqDHiuAmk8B+qK4uw8TUnTqyFiFjq4ZkFIITFwvqmAf/WiE9YEOWJj4+1Vg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hXGOG24XCUOFUdsEeUnh7kLr5FG1diCn3GLsgiVFpzmnUnA2ogsuMhIalQrZaHvv7WXcdslndyl5RC5w4n/XWgNBq8o0jRprWISMf859lE88NNZMFkGWirGHtci0rWqwmxLUY9plJq6OuT33B3Ho+uAnZ9GGgKwhGkrPl8c7eEZZutuCHpjlh1uGwxj0TfLaPiBc1x3kUwZxvvH89cKgHuhY0lTtyNjGXqUMHIfGunu6blFPLvlUlf082FoT+L4lOpTjCL3EEkQSpT6E4mwvdJwa/fnIFFBEp1mzO2nQvhVb9NmxoEoLsypQzMB9dmx9FKbnzpuwr6G9POppaU4e1Q=="
+          }
+        },
+        {
+          "q_id": "gs-010",
+          "text": "Ramsar Convention deals with:",
+          "options": {
+            "A": "Forests",
+            "B": "Wetlands",
+            "C": "Mountains",
+            "D": "Deserts"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "HHskHvYvU8XoOqyQ9hGvnjT5Y48EFkaIocVfGwYqTW9MauYHgi4CpZSTsNjAQMz4QwPy12vj/ZtMfOeZAz5Ah3EGoJikiRWW+yHbmmJwS5gO0RPWACMo5N9RdlhsSWBXKI1oS05QpPML92UbKCMULDFPH6MGAVzW4zZCl4nSSsPzc7Edr5CBwp+9zj8IEgReINfgqgPkY04/bQfcBtT8nXiQ9Y2+BMMOySRC31Kk189HWNDcf5/SLfAFSlgxH8+GIroHxWvJIwqPEygE4lGYgH7TAZOtM68VRb+5goZTpf7Axwyqjldye+HeS5vKRgdx/JbexVPgOXIUVzZp6Yb+5w=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pPQCVH5hVhJ5lY2eiFeXp9ZrbRxgU9bdl82yUuLsDjQ3zYMI6MPMz/eIbq6WtpLlVlBpN9fl+0QsjWHBZT/YQ3D/bRqjPInDU8l3v3wkO+xzGPHQ07Gt3x3D2HG60/MKbAHMPr2KvEQRD2fPj36oDNhEe/77JYRJH/hd83P8eJqxnjMeCHPy8vKilrLWtWOcolraF7tmGbI36dwmCf1s9eS4Ayo4exVIwHkpBL5SgwYnvjlRKI/roQuLLiQbS2Ljtr8Kc2YJzq/FoE/q5gWQy9Y9zjCoqusLqpogReKk6cBi0ZJPr7vGaUkUoiDni/NKrmD77fnbqTGkqWBaJKQEQQ=="
+          }
+        }
+      ],
+      "duration_minutes": 120,
+      "total_questions": 100
+    }
+  ]
+}

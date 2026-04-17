@@ -1,0 +1,216 @@
+{
+  "exam_id": "upsc-prelim-2015-gs",
+  "title": "UPSC Prelims 2015 - GS",
+  "category": "UPSC",
+  "year": 2015,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "New Climate Agreement (Paris):",
+          "options": {
+            "A": "2014",
+            "B": "2015",
+            "C": "2016",
+            "D": "2017"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "KT33x0ZKbME/wLKBJfZmXJVyHMi+EpTgMvQJGtzXuR2jte9WYnU2gQlUWUiOv4zNKcO5pBTVWsfN8CGA0qDBYi+QNadDdGVeNUnsVkqAPEz4kZHKMWa1QVmOns1T3kKPKhNZh9gHbS5oRy7Z0vM4uO+NN8REZ4HyvjYsmSZzngjuBlq6sQyWdHk9Ji9VsCoTx04KPLQSejLAOk+LOlzcL1zaPupIdg71kX3trAbR79n5a/UaZvTB0n1i1TBIr5UaxJvLR0IIQh1L2TEwveJ3RNQf9Sipub8ZjnScNG8RqVhKTr4VPelLou88AbjfS4Ywwz2NM8km3EmxPAfJnQpYhQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ayK4KjPX8gMovyFOiqqkBjffjtjnFwpthS+TUPvQiqlNWWeZod94OuriuBkd5nGyDrEz9fbsTHAEkfnrL1vnkY7Be3QBHX7S1gY2MRPDsEV2gg7MPFm+Zn9JWlHLMnRgGpZPeBPqszPD+jtR6fwipGbMBjA8AdcjMZtwxww0cbHaBnyhj6nJoRwn77AdQvpZVHDaAL+BdcOY22ypPe8t3hgaayqOfsfM3Na4oQ1YEuR8esSc9EQtkTxXZJ/WqV/QFojBQ782Qd/P4lnTDU5Oj5Xq8vNFgf/OtOtF0YYcKxjkEaebntTKXOUHw4F3rhx/GKe4opGic45kprOYULw8CA=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "INS Submarine Arihant launched:",
+          "options": {
+            "A": "2015",
+            "B": "2016",
+            "C": "2018",
+            "D": "2019"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NYxy8W3JO8PU1uGSPSJuhxf/r5DIW/0BryV2sl2BhGmKbLFKpZRMu+zeosoZfA0rWjpOPlHqbGP6CSY93wh8slxMt5ae0WfpJZd0pXkm6sVe5RCQYEJ3njsIWWyUKAHgAuRUvyphORYpSikyQu6g/7sbdc2H4c9BbQG4qjiJ40SH7ICdMzyDHbrxWQFMa5/Q73l75lF0mirtlndzqRM0HC6WPeKkXFIiCjY0xSYr+X9om5s9GbmacqRVXHI9eXclN9BpKKcOS56cwP1cMXAFRBHKt9wG+xG0xKxvGEJNbDYPtv1rqeRhN7oKcZSxFNaNP5S4WLvFx0KSBzGna/4BLA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jxavn1IkS2wU/IWSlypKW1rCbQYuLId6sAZcI4joYBFSLQAyJ6tiY3FEUQxGEj9FIMmdEHghGpjFNCadjuiKrorLTYKUWzNrvLbojgK8cEiWZH/bKZA6T5REhVs+jdySX48ZLg3Shnw0EFlguzBFS+XGNMceM+u8V+jJZWeH4FFjtKfdKFysHazCErmEbP+SrI6mz6PnA5mktaaoT3iciHNkWI1xkDXRsJBzWqtInID/GCeEOVQfMMomN0s1IGIrbhQH6YSt8AkwjiXs1BVpq4nao6UrNAGPTSJpUCBIzbaPfg9zWjpJ4XusU1F8zMzf0I/xqCWIavwc4RmZTF/mVw=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "SAARC comprises:",
+          "options": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "cEWoq97lK1lwkDRfUQoPYO0lAXDijoD5cCLjmfHenV5eviNI+hUi7ZznjyJcPCHqUDYoCUKAqtyznF3Wj/0Uz9NcSCYNUrpg4/eQj/zffWJ1+EP8pF/bnSB1hy8UazTmMilNVAtqimU4f6V45+votz6ICNaxSxwgxM0Vd4o85j/z0LJvQs+/2bGsBTQ05+ffd+Qh6/sbmDVTRGnUaEo0IjPD8qbLkRxfQGE5HDjfTjzitCyOO/NxfccIpwNG7To4jaQeCpdbfXxZKAzIm/gCoLYHPQZRahuqetHGBV0QiJJ0LzDgZnnY+f186LQjSeoAZ7l+bqhWnz3ihJcTONjBwA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "iFn92eqGXOy+pCP3Ca6xrog5Pd3/E2papgg/HbCHRjz2OvQDoaOfsakQnFdDEB8ZSXO+cCS02n3akOikVSZJ71BEbcIsgPcAJqUmFXKISrvzWfYHNO9avh0Pd5T0DXK04z81+cYF60XSEvrN4FXqfQhXpedffKXA+3U7KioVtMOfy5gPAzAtd65bV4hrv3XD1riMRlP//2tJHkppC1y4BItI+ki1naOSmKqbXX3kAR5AQnJ1rJ8SCtcG2fH8ap6dTgidhrK3Hl9hQkZJwz27c09aPk0UZHRueiv15GHl2PsFbXV0ESrcGggVv4yrbjE0Kw1Tmlhu6jUJX8GXONGQtA=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "Pradhan Mantri Ujjwala Yojana for:",
+          "options": {
+            "A": "Electricity",
+            "B": "LPG",
+            "C": "Water",
+            "D": "Health"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bBiQPxpeD+1bq0zFs/3hFdX2ANEybi3AzuEU62APZkfcDYIfSHX+IcZFjjuisRMMgCWTtYrv09RAAS77L7G/sGnSe1/xc/1NAFR7ML4xRXEotF7vCPe0eJ5AnlH5LGQKNQMNzsxedDg0oKAsqQwza8DaYsvhRuxwSa6TvFAA9qokN32DHyr99iAZL6vWVKVwpYlkCk+rxXz48fQdeoqWqxI/SWw1qvuOuUcWE7M3QcyumlFCAUiJ3maWVOgdgtgZk/rpX4sk4dzwG2def6oDP/PiOYfBTkqFuq6LAltc5cFlzTAmEYYda3+pl3QiIYjB8y+HqQQu0KSuj2TsZNOcMw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "F3bmY+/gzuO9yhQDBTFv6b7cS2Ai496pNoqoRpIFntHAndPh/ciPqmAaswIfXGTl6UTJoSLHwgpBFoYS2d1NP2HhhFo/hUUj0Xkh6maeHd85DoOrowOOmNSwbLldLiRst4ffZAmweqkqpPC5yDEgHty+uUi4baBefJl0wJqKoT1mj9c3DJ8kOeyE+vEQ/i7wdtmWDl03z2SlZHjzNCmBPDgqCiHT61Poo9SEk8K2cUTlwTiI3+Au3bDIWEso3KZ/DzRkm3M75eGRxbv+7gidrNosuhjjZr7F1C/fWkWb4nvi+kM1J1zpVL/o09qZj73qKTXnAkJ0NcGcWjleaUA62g=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "Indus Waters Treaty with:",
+          "options": {
+            "A": "China",
+            "B": "Nepal",
+            "C": "Pakistan",
+            "D": "Bhutan"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "CHaeS2cMElrvUQnBA3ZR7XpydndDTBA6M6ew27gT+cpipjlUE+NkV+u9mWKuZRd3h1Y/8VM8wwSbQtbDtwP9mb86fr+a5Bx+IVoLomdm+WKh1H43nTpBig4VbuZC7E+HqfVFQofx8cKZ+7J/PZSEao5e69fslEcay+RbaQC1u2HEH6jGq4n0UBiIOhe8FBZHOhTHSWBEAObh3thkFNBzzuQbzVTJ9t1yxCWP4ZreGxkTF5AHBei2AibboJ6YCGFLjt+UO9RITNttYQkvMZbLjvjJYBPvIYPIqc7o36xMw+v1QVHeW/9XYFxTeuk1YeSjqGxykpP5wXFn4tz0pgQwag=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "m56orGO0pw+Hrcp2VBYcFkDxwe5NybJW0B0MbDci9kNFdtSgpj7zgG3VX90Pbz3LaheMXZUQVcYp2auwUkYzHSgm2017SaHq21WapFPMf0FVcikSj8cENXkNf/Q5J6DWE2IBNsvAU6sbmP+osyxu8cyel4bCpirSzkV02H2xdSfDWpxX16+LnBi7/ezX8GC73xK9ThUp4jmFt4IaVH1CtLff8jyWUVLeRt7ucv66GaRVr6DN6y9kiCCf37JdIiscvnygrrVnOkUkX/q/6pc2rRk3ktIHfN/cQj9DX8P+aTprMWnKQjpt2+Tp2XgdOxse269bAplqjCJCOUPvkgQDiA=="
+          }
+        },
+        {
+          "q_id": "gs-006",
+          "text": "Khelo India scheme focus:",
+          "options": {
+            "A": "Sports",
+            "B": "Culture",
+            "C": "Arts",
+            "D": "Education"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aqSXCPrEP/V8Zkys4BYxAgjDY9EZCA/qOU8mTs5Do4XytKyxBxo9Omuh6kTf7z/Cl51J8GDCridI7u5tHCCcgVFWIsvwrMzAqrdZ6PvCo1w1n7d2HurHhCprVxzhWuvNcSJF3o7B74yqOl1eKQr7VPGzAwebh5bsSaeT92eHPtkIDv6sMj0ZC8HjiXd9S1aGvU043TRRIGJqk5EP+KYs45waa87Ecp/disEQkcYobP/fexa3qd7ABN1z6M9mSvZiFYBJhxk/Sj89VOzKf4TVqTVt6knIpJSyVNxWkY7IgF4lRv6p2YUAubhsdfO5oos2pQyvRiExDKzDJ/oo2N/IQQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "V+Y9nZ09hatY+ZijtZBbQ8TECqJLBjclARb53wCKlPcPgHczCvOEcprd8cVbRm5KHym1DECxRGTU361GwvS1ylNO0xA6E+gXpEGgQgMOE77Ch85DcXKAtZfz+I3aznVCAaM6jmg+OkJPmFhRFvktU2RKMpyGyLgF3g/6O15aMVM7pYb2hkvHkOre5c2nUH8WOQi8jniHvLVjSEc5jL0acC6R78i8W8+wyGX7deLcaqz9fHbnDtztFxJNwTFh/BiIdRYNIm8Z/HmBt/B4s+bCQyd+10Ox638zNQwOo5mhA3HJiVsweFcIhb6uYsgiUQ16qDQmBpsrN8d3PNhK2lYy1Q=="
+          }
+        },
+        {
+          "q_id": "gs-007",
+          "text": "Skill India targets:",
+          "options": {
+            "A": "100 million",
+            "B": "300 million",
+            "C": "500 million",
+            "D": "1 billion"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AzS9R5g0qZyrLDDs2FIbzvzY0I0UJswOFduvV+DdvHBXDz3ak4PcjuSec1bZ2VqtQspOzfL51HpbwlC0y6b8EbUgW88sk3xOVX0e55eozcBXPhtgfpVYh81Z5tqoZaiaIZKCrXnVf/ApGeJzM7KgqDO+uMK++UDIsPlMnbQwTUsY56XzQ2wgFhNfc6u+PeLkQICvxgqvEq9KqUBCFH1LfVeZsOdi1o5Srk1/iU+TTlBqWyC/VGZFC889L2A04fYfjVq5iK9nVCVHHJLQDgFay8CehrDYyibIVpP0FwzgnkKYiBq6OcFEzKT5gAEf8nxz3LaXT/UJynJaRfSMswUPgQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "A/1DtX/7vqr1mX+lLtHzt8Ra67/epKcENNVXzIdgwm1b/luNfU7mEGnsyP3NWDcPI2zXWvWNF4oyF/qSRSPITc8IAz6d37/Axxi0/1LYOaAFk89RkxVk6ot6yNR3ACiv0q4ZF9hMv6fDB57a/dW0tL6BUWoW9sr9JaPyk3tOMPzmUOHXZfTgdj2xRhnSxWXBcsQZVaBZ5C4F7z+D7lXHCObAXM58bPrFcUrWVjG8THI9piUyRJO0pcsmdwe4MfSw0aGq7C0aa3U6CAMp4KyRvwOeGR0k2/yF1Oq+7mOSI5+KkVUy7U1WgtMiarx5eZ0YfE/y2GD4ScWq1ry7FD90Mg=="
+          }
+        },
+        {
+          "q_id": "gs-008",
+          "text": "Make in India sectors:",
+          "options": {
+            "A": "10",
+            "B": "25",
+            "C": "50",
+            "D": "100"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "L4kpucxHL/SDlO1GhFNhL1yzCybAOqgOS4gF2gc59Os1dkzpYrs6gK/Gzc1yG8b/UD1m6JV28g96s+ismypI5ug2uny0Ikd64Zn0rhR4ImrYQ4kfEMPMaMqY4akt0xRc5YfrcOWgJkmTOob1tzRHWeCJ+mdsUfxMjhnkGcEubzOWqoseKE8xQCCYZm3GitkVz4uBUKiOZvmx2dlhh6eaaEx1oC2Y7kZYRucP+voB4nu6masJA3dp5iVPdj7HbOCSvmgvw6iGncd02Oki+IRV3npN0nPPDRgx7m4IARZYcNnR/wFqeSbNXfoJU/BvkKBeKJSI96QpfMjt6nWiNCf/9g=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WyI2HAaWoBq0AxiHwjfUKvpsG+1rDGlnKSd+1Xz+AIEsr6f/mlgxVxW3K3ork0Z3HKbnH3Q5IQghEA+NLV4MZ99qdEbdMjeM2t9wYVp/OBJLdLxXj1xutiHfwb6M5hlBtDbGUmpmVsCN6DH+nLBA8DHIc6DtUaEjVTZ3U+skas97uNKj0n2jhsuMeqWfl3bm/8RURh9JcsjEY/fU5mOtQwUdqJznEk4/oe93T+L1vETu1TnDTv7qGyvRAkV0Ff5fa1reNvF1NDThAdBjDDvLI1Y9RVulS8WrnvfwKTmMjJNznc2wJyIB1kmNrheAoQnNNgWKhqYySrNl2SXAoPHx1A=="
+          }
+        },
+        {
+          "q_id": "gs-009",
+          "text": "National Biodiversity Authority:",
+          "options": {
+            "A": "Delhi",
+            "B": "Chennai",
+            "C": "Bangalore",
+            "D": "Mumbai"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "W3tI38K+yAb3BC3ZgLKOC3noQeof7rSRK8QrnD4xky9eAYASg8DMxixiimCDmVON2QigZxnSoD7uJgok0U2cDvgyQaMJgPe/3iUhymD34h6mJ1xd7gccx2eFMtVl3eUyx1i7mWVEECtJMyu0DHAuISBU45gKnRerhMPKWV+DU9xcsXZnHVHhXROWxsJHF+zLzhf726H5rtdI+ABBpTF/GXZwbvtkDhwLskchkAUOaYLC0ICFApwcT5u+PRaSzZg2xac+Td778pjdNUStQ0zBRaVANJvS/8ImR62wWwxA2abZGW5G7C29q+K2f6XGNdqw96kGp7E1qxDkeoW/nTVS7A=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZyzP7PnqEdWic+9LSCMfuI8Lkxfv4Vn/fXHr9H0UtG0QUOMk0Wr0ndOevfnGADVrJdTSrQ6iZxTTfDmbENPo2gh9OoFsJnMsSZ+C812KWr8DWcgLHX2OfKHwaotNaYKcc6wpmG/TNzH4/jo7obsGe0A62KyWHVRCm9Uw7pZo627Pmk/87y7IGNfQtf5EM2AyTB4dOtCGlYDIxyU1th0dbkbEzLS+hNJvR8Vr+nny0sMsLfIBqjTrR4mKXxuwEMULdd4Tv+g6uE+p3XZSroM/OWTjV+jQdyWuSPvev2AJ/GYj8+kRtPZOYB7E1pKYLMA58w93xa6mQDEJBTAhWYkm0Q=="
+          }
+        },
+        {
+          "q_id": "gs-010",
+          "text": "CRZ Notification applies to:",
+          "options": {
+            "A": "Land only",
+            "B": "Water only",
+            "C": "Both",
+            "D": "Neither"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WyPqcM0HGXGlRCl/I1z17LY4coxqI6PY7H/JuZkdxnid0Gzyh0fQEAVlsGGkJhEzhe5KElqPepyUG8qpkNA1EsFy1u4u+Ap+9X76feQV48CArhOXOh8kTHzAAn6VXZ+eOkz3mUuS3IOr1lyTqNmt7TUMaDTfNowj8RkpM3JC+b+O02vNKG+RIC5Nzu4OpI56kWjGVeTwwQsYUdCsmyycZB4IXqt6awiIH1yBZpwdGe4+iLNa+giklyfLEmlmgJkRsVAnUIzBW7NYeVqEd0KWOp+hjSTYKVzw6yflK0/1jBjrLlyV0IE05+TuNBBK8Ao3NG/Wsz3YEAOkQfhp5Edfjw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZG/xf/A0biu29bxNZSQTcu1+X0t3iLGh9+DsENAFZj0UvaYaFrBqDuoBD2SUoYf9wyTAhUEwDb+k9rEde7L5ILK7l7B3SVHPux6RLxYj8BGKiIKkFangeB9TExEniQ0S9v3iqnW7A5zOIxShSwmERLZHWxo9D+UH2Kfn6j2DH5/iMhUT+xtcfBGx0iocCkP1xJnUOMJvAF4BRSRivedxM3+Jb7bM1M2VTIxdvANu/bcfd/KJ4ch2UhDhUNV7om3Vvv6WvtOCCCKmaW91L5xKnuYvT8rWoV8cXAtHiAaKiQYSjUG9Bw2zs766Ad8IwwE+S6YTkjvKtJ0+t1UWlko+Hg=="
+          }
+        }
+      ],
+      "duration_minutes": 120,
+      "total_questions": 100
+    }
+  ]
+}

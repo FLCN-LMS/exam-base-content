@@ -1,0 +1,332 @@
+{
+  "exam_id": "jee-2022-exam-2",
+  "title": "JEE 2022 - Exam 2",
+  "category": "JEE",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "Young's modulus = stress/strain. Its SI unit:",
+          "options": {
+            "A": "N",
+            "B": "N/m",
+            "C": "N/m\u00b2",
+            "D": "N\u00b7m"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Fd4EwAII5VvRJYbO7Xj2tokCt1hj7JPrEaACcFPojFvNB3jJMO9W50SY22OBcevgqk+6gsRSqU9HT/XwxHJ3Crg1vkq5TvcdtTQasD7RPBHhloE6mCqDhSZVRfXYrIOw6FSOG6oPZknw1b58TJZpAmhGTNMx51p32lnSTbjP8Qd71Bmka7yyyiuUcRN74wE31kujv7mMR20QL1qmCElnUwb6iZfIRc5j1pH6OpoIj4lOI1G7HJnipGxh8coGB32t10o4rS/+0AaeNHLEWT2Bl5U120iSah1Uj5xkDe4d6PguiYjFPH06v/CJ9ypu9Sxx5bexU7Xi8YXFcxY/mZargg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AdCyU3sgkYoB5cMJLtz9VgmJne5EJ+yzGYC24Y47lVAw3TIlqk2CWGpIjooAKSYc42R2MqySlshQ5SrwH3/v2uypu8nVNJCY2WGr+xUk7Yek+eR+bq7GL+ST0pQ6Pq0Pjd6eNSWWRwzvzAXlW6qUBigliSI5J9poZ2rq8WSiuhyGTDrE0TQ/BZUjV1FQ+E8XmjegFXMcYmq9qqgOSGfBgIyumqOwneEWLyjEy5D04WqtEwZ2fUzr8FJg6LBdMBslmFdKbFnXQ64y7MtFtNi9Tof0ak4a8aEFjg8YvMo1nwS9XacwXPvxyUf5hnJbeN2iej6+mZUVKfl105HIU8blbA=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "Intensity of light is:",
+          "options": {
+            "A": "Directly proportional to A",
+            "B": "Proportional to A\u00b2",
+            "C": "Inversely proportional to A",
+            "D": "Independent of A"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UUmFGp4Z8HVuVaGR1N1jgCUUDwLCyMlLY/h2EoD1AtsH9hDu+rK2EjD/tsSHAoEUvXkE+aH8mLobCo4LTVaAODyvjIyA56Te3nqMOVDqNmoTnGCCLXYY/wqWxiIrVZoGXHdNp+LWZckNDM32Lb7JfRmAQntB53a5GJWJS+ShjZyHItQgoPE9ZiHmE9tSqbCO4NnjrJkvEekBfr+dr0mydBWkcizChj8E+uc5qnw8K0pj3DUu+8SAPThygp06ueirtu7zzmbYTL24eDAYyYVfwaW9c8BU5I0XhK4ycG8M9XA9X95W3H0VeQcFonpsEy5qnLJNVyAgph23rgmF9dl9bQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YJSbdF67ccif/zvfAA+X/j1er/a6omIF0+v6xPA8UySEEYgZrkPNTRliTxBD1/FTmubM3jLqaYXdaUKYk3VSmU4g/zQePC4nFUkDGGmSFfbJAfJfMmR8D4C4CRS9ZDaK4eKBYOTBfKwujNx4DMxsxHNjV+rkcOMeT0FjxK9jo7skzSNeDOkh3mNc21WtMxjsn7l3pfmR180ABZ5050xPOpGF3S3yrDcMt0p1nLY1R72C/N5rgcNKh2fufLrVkY/xUIaxOqmdPorbVgUNJAnH90phGrS/MUwiW+y6F+VLyi3X8SJSeoZ7q427YsEOqk+TfW6BadliyPfJWtCQ8BxXRg=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "Work done by friction force is always:",
+          "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Zero",
+            "D": "Depends on surface"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "On84gpINpS7+FKoI4RS1KHZ6RUrbk6fHwtNAF2/9gcu1lL+VxsH3gng8arDuyfpo8Mi5QuE9PprHtgPWaniFGiQ/Z1i3oSrQgVxBkSe+PVLwiuf/wriuj0qMDWe02I0TVY0gGfVP3IV57ov/UDiVF1f9NfTMQy3iYX7gndLxZFe8ZWhBPTLBGdUuz13mHnSU32uTH4MzkPx053C8OTCWpSFqmFU2u+JyUdRk/HXBi/1wBDev5XFwuEQdzWb1gfQGJ10CH4gkuqjLNLWaWtsPjuUCSporg32au1wAwDfPK0yjXHoClCpPzWTMxiUmH7YHamhGYwpuYnssEn7yZ0GL5A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Eh0deuxaDNicBhDv/FWng1u/QW3HAk52FhJUAENr3wuuBEUrGdemLVV1lwY0S2558dQyoJdiDHte70LC8dF/5voT15IoVgry1vT+4Vxmf+09r6r+NynjNo/2TxWRDrdIR2nbls3qjUeORqRV7J8ZUiPEuJGJTijt57zhDSCWxlCRmULJJRaguMOjs1fcXOrWX7fIjgjdXk7zfkRr5fosNFxaPmN8ZhyWCkDx8c/d/pBfgJ4m2n3Dm6HBkH4L7cGrqoT8P4is93OAdmpJpuPBn6ApT0ZbllL4QaH/lIWCejkv3m2byjZq3b0HGZ8UQJit/EZnWhys5wfXtcZrLjLBaw=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "Moment of inertia of disk about its axis:",
+          "options": {
+            "A": "MR\u00b2",
+            "B": "MR\u00b2/2",
+            "C": "MR\u00b2/4",
+            "D": "2MR\u00b2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UIwZbBu5Q8U5igX3CYbYTl/8RWrfp/spuo7PVkRoK0WY8oexdwOaX0T5BdsO/yPUmKa9AtBHhj5doGOwAbpShpPtjmhgKSoIYH/O3x0aohE2RH+5L0Fgk2H5npB34nbarIMgHW/i4r8YPHDZWLzg6kAcCCxGJJ6P11vymiw1xo92H3niL7mB5CfVbiJ+SnJo78n3jbY+YHMkXiCBPxKNMOlQuOU+IkJ3AuupRjmRC5bZ34SdBWjNl+fTFulPNLnN+oVDA1SDFEBYOLlt6+9l569iaou0/KHxcPRFIN1kU/OcMeaLRH9XYf3+lwkUZVmAN0NNaeZtVAVGIm5Yp6MqoQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "W3tl94veM3/rTkoev/69TrJwI4Gzh60kTEtT/996mRYIU6RvNE9qh//NQPH2Hg3MiZ7YOrH3oC7UUpX4pENlMmJcckbhDH1nP2pOYiStZvnHAPkIvFvdHRS8V44MwmEOCMFUSAInbYb5rWm4dBd80TkRMPujWo0ZNTqxu2KqhDByFHMMvogVxO8zj8s2LR2OLPzNq7D1sRuiwPv6twzSzdzqnH9i2zwJdA645kjqoSq2Sfw5QNE1ghzCt2K/K9YbdXcrAlaMoGYHSKJbQRlPEXLDjEN0Oa0uqEQCYvBRCUVpqR0Uyt5x3g4XVoYHMEwlhJSvce16+cuCWRy9OfY21g=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "EMF induced in coil depends on:",
+          "options": {
+            "A": "Resistance",
+            "B": "Rate of change of flux",
+            "C": "Current",
+            "D": "Power"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZKoIoZyAGql37gZvV0hvAurWRUEtY1ZQpXdwosng4J+84DUvFM8cqwLBPI9WINi+wGxKUQe2WqIoMzYJaW/z9Z3kPRKR/Pb2VvWWYKDtQNGNQwBYSlsMC0zKRnQRJtH+m4u05/byu8iWm92uh147e7bWysUFac2qDIKKW3fQcWt0mfs+DxEZZwfIPl+q1Lbzr1MPrj9Y+0FOg7xxpKaOCoi0dVzsRA5ms793Inj39Zy/0a5HYDkugCSOu4mJrNzBytQNKVzElZ/M8JcP8CM8sW2++MTZJBc1hNW4hgyBRJvLUbWEZstNoZKdhy6aknbV1ZVGNoAARicMnzHRQK8o6g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "NZLWLNfIaVnn9B6Zj60UQFSOpLtZZUgxq8KA9lxJUCnjhTktl5h1TzhpKSgEyeVDUkwEWZivNvTGZzqj9WNBkQc1DpZ1kAaAobdApboJ4ww3da37GE4vV1DxmtSzqrKD+tvC3CFz4mBBNRRRC8EFzWmQL1yEYOK+ormzuY5QlgN47vjtrSvabcicSXotDSm7LDjyC7V5ChFE5UXMplmbfLJyQYkefokKMGmfvMIQ9jO6XI1YDczzQJjhnwh6uKHik51gXF90ZFnG+04z8Axmte/yzX3sVpbJSCuuvW/1WGCsm21bzZ43istKrW141Es9QzfZVXi1IuMjBaImnFwJWQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Most abundant element in earth's crust:",
+          "options": {
+            "A": "Oxygen",
+            "B": "Silicon",
+            "C": "Aluminum",
+            "D": "Iron"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LiyjlxTYecbZgpPo76eqUtcHvyDD7P0uSbR1g6QVTcTGZmcYd3MOzMT2i7jnPA7rh8lqGtcLGH3jHemsZ03yvI6dmnBSkrWRqMYRvBPFUGtiwxKCk3smR94Nzk4XJnDbFBF0nLnaMSRvNw48Zq3YT7w6fwf1Ng/HvK/1enrylrdpfby6QiCLSMP3ap2hMmblAo+mfVX7Igy0IiVjjaC8HtPZR3oLXYBLpsorni13K+KvCYTgh1RGWsT2PNnnW78UekT3AZGPrL3Co+YgoxSssLXzSsHxj3vt/6BWBOuqyG65x+eR4/Gk3+/siLFSMh1vKKFynYAEabEHB0pfbFWydg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "CRgZrSsBoAXIvnpr4x7tetV0D7ZimhKhOQZuoS8Jze8R0dEW9JIzXWOna8CxyI1XW/t5Ax8Jo1+sG/PPsGCyJGG35trX8DBXvHGyOxaLosdaeWnXhssz8/mMGGiZUdfqSNsh9L80aZ5aDHNMH3Y7JthmYjnByjBCmIEMjAY76XCLNTOjYR04fIbY9/QcOo9wQMnh5MV1nCKYTY8fHxA37R1agyz6PwxQp/XhGwtg9fMWfwiqU5ENx811ZwNEEct/GElYZWcRL8f1/RQDCkkZJVIYXWyfg2bJNYYZOFNvbplDYgX9o7HRuDlD+dQ3xqAGi34eC8hJCIvWIknSa2l/vw=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Electron affinity of noble gases is:",
+          "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Zero",
+            "D": "Very high"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "j0FvgQ7ay73t5BMbEGuUZykS7+57Zu8bkpF98ivkWomsE/T0ar0fZestXWVhIwtHRN/vIumji7otR5jOAPOwd2AaJJ1h6RqAw37H6uG1msA+1OMTOl9kD9Q/KlER+2adfms7EQ8XABdIDqpXFndm7XgHl+7dvo02zDrbFH2OJtVTCmO4GPI5/mImA/OYAQpgyyi1ARFg/vgShhWSgLPZT7ALw35/UXhcl6ZURq9RGyEM+82oK42B2Z3+Bkbr43P3Xwb4eGABri3wH+6reqay25wejPWtabqDyM3C7G+4erQEgSZOBnLNOJB0fCwrH+87ryfrHqViUO+YWvYOA7vRPQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oevhNxzsEg/WSz3gOJ1ZOnXPoSKZkuXmkfoxxpaC8a8W+QJ28vlUbQVmzGgdTd7Epio4Tb5rfmCTDXTKe2m5u3V/e9vDI0Xb+mEfYynoFwb8L+uVoGlGby3V64OJyiz+N6lBAJmBtQfyey3dWDCoNrXVEs31+Zci5WGYM2Y8HXhH9IQNvfhm0X0DxadUhb/Kf6w2jxEUvvu0RoLigYmf83/kKIv7ADqmqkapY5wvnDmeb1EAhjcX/8TwjIA3sQVe5mtPHFmtmfxddGtOqTKAQzqh3zsCvRIiBOkhiStp8w1uR6PEVZi08Fiamx1bHDoXk+QFU/ifFKzYiaAf4D6Wwg=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "Combustion is a:",
+          "options": {
+            "A": "Endothermic reaction",
+            "B": "Exothermic reaction",
+            "C": "Reversible reaction",
+            "D": "Decomposition"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BZPRsF1YIgFsPwcErhK3VFLatiySLZx8jChrp4ig6FANH6cLdsWrA2CyYPbNmuVy4aqBn0oeYdinoqiwoF+Hsa3VNrd+SPrQdEayVNOK5/7ZtBXfSYbQfcWFYJAsSwDnCn+XsBsrFGOD0Hq4QEBY8PJqvOvUWgKJkEKA6ZV2tqXFweioRdpmdly2n9lJ5eB0ff827FGPDaJDeLq5tDYa6+dq3MFIfr5wmxWW0BEalWZy/ItxyH4nYL+c1jTeJHl0vRhBArrYmFPehZDT8mmt0vLtCC8JrkBm5mazaUTMb7+dnkKl3Ja/IUV0gO5Z1okemDkgeoOE/iZugR4L7LmL7g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GxdZvxU5nhq+NOS36gqAhAM5MsDyoNphDrveP9N4U8PRKchlRKltyp2SF0lGP1sMcmS8jqDdssuMi1ulxaJ3p5IiERhE1lAta8Mwbynn/uJWTwfPMhjUVDp/tyzj6VVi3al28wiCHHzFIO0yQkL/FEKH5aYMZ4sWcDnkOD4ftdTyXoxNaqL2XiK7znbmIYz65eYfYKnzn6ADRLkKj/NvB4JKS96XoCmfYvPoHlj9YH33XJ+pJT7JNB+03YYyvtEx00Wnww6icc7NO5Jl2bKUpD2zpTDbfFm7t0xv8VM/6NUIAb8wh6kp1Psuywi6J21Ndo8SUkyAjptKNxHGC9E7qQ=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Solubility product expression for CaSO\u2084:",
+          "options": {
+            "A": "[Ca\u00b2\u207a][SO\u2084\u00b2\u207b]",
+            "B": "[Ca\u207a][SO\u2084\u207b]",
+            "C": "[Ca][S][O\u2084]",
+            "D": "[CaSO\u2084]"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UKV+CgUIqbt2DiDrclkeGwO39ADam/ioYN2yWpjwjyiGuItCG2wdMjwQYy4n0OAPJ32T/fYz3lJKHtwZEm2Q98vOzofFP7+NWOPnZzvcS3FZxxezWx5+TmsGQJrdbFkElwiR8TP1X9j5wRZcrXbFll/JCQCJPIdpjGuBNSJrdw1PeME1T6Gz6V29yxeIySIgFssGSKRobAnAPIxeJ2oYtmIbg9YxWp+PqUNOIFq/qIRaLzPETRG8vmaiuvehVKJecZh82XrQlRDBStYiGB3K2iRkh+rU4t2CKd8xfzU4o/rfdK4Wd5sNz8TbWBaiqHJa2VP+sp8lonsvt/6N+TEarg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "By3CH6/fTUMTsuuHlzVBS4hacKymB2LeDt+r1qedtY49piCbMGYtRpykGvQ69tT+C+TCwm4T98SVfG7egvU5ksd4AjaUGzF1g2G1VIK4VfKZy0+FjK6bpNAIp/OUi25cZlMYeXD9mUPIDPcV5kT2hd/dzC7/XKlPdml9RwxXA0inA/HnabVHlQ/Sui3XkqEsqkUl+FUd1f2GjZ8ZljYJrrNtQt94inztXyh5hb08dXTXBjlAEU6d9sFvEMjyJa6WKx2GPE0pZx9Yr0rnM93i0OsrdXyLYq8rVB0ZC2gklp3UrZMmGiK4LEM4WoChMrom1WKaWN2mhAY4YBuD/LvOLw=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "Nucleophile is:",
+          "options": {
+            "A": "Electron pair donor",
+            "B": "Electron pair acceptor",
+            "C": "Proton donor",
+            "D": "Proton acceptor"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "fwi7Oq4heff7Ev4g9FspKWqLl4hr2NssW+h0xN3wELYJhQhfwpxgYqGOPbPDZos9tO2s7JRfL2do3Bvw6wBg217tl+vgAe7ZbLOdUyAZmLPLL9aaQmeQKhNSk2MZkBMpYypMtSxKO36gTxEnAyJ+PIB57XmPaAF5ZeKCk6D2Cguvb3+uptYDGHNH9F3WsNQ+icMNxu39XIendbhfT20mfgr6MGhAVJCQNqYAbLaRklaPzALxO/xtWGRRqcASd1Ykp1J9Kt6McHXrjThF9NO3UztUbTfrgmALx2flrK3s7ohQb48l4vOwZw5Ts4GphDYkGLXQYNf5iyGxcXYl/8LzDQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "CYmoLuaIkCywp0cXM2NHtbHuD7tQ1F5uE9tZURa3D2ZPIb3UIhim2ZSs7e/2qNqnfwkiVfWlPQ7Uagp7DhUXm9dMzKZbCaKZZd+k0nA3tYdqNtZGg3nICyU9f1mx+Yr4XuPw7JIKyLL49FFB/hW0hPz2EyRWU9lnErUG8acUGcwSINfrfr3cbmsGupH1vDlefiHk6QcX0jk1B+ZQXZJdvd7x5rNxILEUfkSQJ4cnb9/nBhMN88w7g0pnfTt/61J/t2Aafh9zNPUG6asq2wKvx9+PpxxyZQyBPfp9Weq5kE4nJBOBhSnzglY2C0TJt0P0OJ2ifUWn0XsgaWYVHNQnPQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "cos(A+B) = ?",
+          "options": {
+            "A": "cos A cos B - sin A sin B",
+            "B": "cos A cos B + sin A sin B",
+            "C": "sin A cos B + cos A sin B",
+            "D": "sin A sin B - cos A cos B"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "E4nlkYUh3M/5GcExQbxAb9NMub/tfLQ4u47THyrVY5beNbrGN3sigT89p/+M5tkXdmDXY7UoFBhXjDbblaaIDrdV3V5mR/ww7N16pfusOgFMW5MutyAvGH2QA391QNdO15GPmoph1Z78fsm00t5CV5dX9WK4ijGEBAdpnbufv1f1KrC6Yo9PP/wIsuHlqIBCQ7MW9L5YBzfDRjzQOimikX/kqAOG2qfya7AkqfsWW/C/FCHriAa7auTloEOxUoTXlYSGigN5axHOoprJS1d9ItyDbj3sO5iZtN5BUtPNsm5ddmNN0KNXEsrkZMWUKSBdEIEsK/8/0yf8n3yzILzh+Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ShqfZRQvh4ppeKHVo2ISYoMKbQDi0wNpviJbFG4Z8xOzYl1QOBKmkSSOTIz6y/EMKiKxvPB5uuLJM+9O166UyJ2LyNuqBUu87ZWojJNr7TUzAoNobL5GJBy2nJw5X4NBrg8S028+K152oqyh/JIthxh4jKUGR/am8+LVXptVjx+Leru1ITuft2cUZXx09tfHVjjOPlwg77h+SN8dHCLJ2p2Vr9yt0fTZ2r96y8xK0OT8yVZsLMjrM51f9rMmbpbfNSHqt3QV38ivtjT1hEzXsWZ/+vL2u04Nzfp02ZNK+AzcBxHxxYd34xliSehP1aCRovtrnGWGHoEy+ArFV+wq8A=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "Degree of polynomial 3x\u2074 + 2x\u00b2 + 1:",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "KisrzM31hFh7OmkBwdJI1ze5ii/ejjRbgurtWqpg26T1uDYWtMiioKuTASFHcMfYfbFKacTJFk6aGu3xw8cZTY1AkpGDmoSYvd83rrqonvr9r6wwThPExeCUTdJFZzKyUSwBtWkOAmpSyaDReuTjDuTWsCW3UmE+Z97lPU7A9qB1cV6uhQ6eEFovnYkXpp1t1rxiCbnyjE+MwgU4sgW9Xew7GzYUm28BEg7C18y3/DOI4dIB71PvDbF0NVuD5yb+4NkbDfdGsBkt1aR80Jn7VMMYRICC4v819gKn3GCfaWfWXOWKq+HlrNP9mIagND0AeaVvk9H3laWPlzWQPpOI7A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AEOD5QoFx+Dwd6e6UqD/zdaWU9ECaPj69JvLXHh6jQBm2Sp68lbQrARLIMvN1M7lEhBgXxIEapMiiDacejmcuplpZPgb14y/AWr13FzAeKs/BfMg6k+XaDALWA4AZ1GLzmOD7nSasWa0Ha+BJPiKhk5SWDMa1MosJCrdbejAD9/6aCKwGjY4Q8mB4uqyHuXdobdzw9IUL7V019D1+7/apCnhcpsjP9rvJwpoCEEImC2Sl01Spu588xbjej82v0W4+UELrROUsycI38kjbTOyupMP05IX4BHGEhNIgg7I3sBhvXhzPWkmkBiEitVy6hPKP849zt1KR4AjifRKXqEEfg=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "Vertex of parabola y = x\u00b2 - 4x + 3:",
+          "options": {
+            "A": "(2, -1)",
+            "B": "(2, 1)",
+            "C": "(-2, -1)",
+            "D": "(-2, 1)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "D5oTMfzZZB7PFUMjPtbyZueyrWHa2eGaAIoH4+GF/B8LStDyPxt0WHldChR8q85SFsvCTFNWpRcZHoOchnmbzjKzsiZ6mwZN9Vgw1rdYXZJmY053RemAQRsMJjOn40zmkA+NyD4U7SJw95B/DDolon51eFLXq7y2NsgRcGdaRqKVd1R+xY8yQJ6psOcHByYoaKotWDXo6yJ8CoSlXPAQkXZVDkk2u1HN2s/mOlK9rUF0sda614718aD2+1tmj5KUBi/C1mUVYUJy1B2mJPBQVqaGh8rmjim95S3Wl1AtsUm52NNui6wVwpjcyV2iThv36Wpb1rb7o/JBT3TeQJorDw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "nfAe+FL7E/HWcOwSfG/r3nvfd0240g1NzTho9Iv2hMeUtgd2i4w+6d2M18yWeRnsZmqnW3dv47AQPnV3pMXN8SsJrnogldGIa2qUp4ecYV298HLUj7MTUVEG3xkhKlI+TO9D8D8mv5bDa/2caPQOUrrDWGW2rvNgd0kdZbPI8wM+TIVb2xWELPyEKeoKhHgzbckznzSAaaW/pjGwtoJdtJXmKczNFxGPE64e9mpV2vinbON32tnaYtOdMxjKV3b74d65iYCkyvqjGD/IXz36Pz280+RkaOnjrpgXdsRxGCL7j7MqzC97K0Gt4dl6ZwQdlGLKx9pKGwEUUmn5+LMW0A=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "If matrix A is singular, then:",
+          "options": {
+            "A": "det(A) = 0",
+            "B": "det(A) = 1",
+            "C": "A\u207b\u00b9 exists",
+            "D": "A is square"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "pg7CsABu2IPXU6AbA4dCWYHjVfTct9y7jRUHwT2ZLJAf9ctS2wF8x+kvFiXyYuWgYwaQor+claCvFDdVd+colTG1m5i3hFrk06uQV/+z6R1u0mcvq3qIey77AXQI+AkxDcN45Qa7QUWxZre2Gd3dxthTMR8LCPCGx7BYy/731zbEq2MoT8csmIrwPJXxAkmUcUmU9IvSD2ahVeFy2E2lkeV9jV3dRLhpcLFvsNTWsEqKsleqEFuNNfQ37deGWttsPJFiCBZ0wCl+Llr2Qcc3VfB33pdithZUzWEiKYu06P54bkDDTdri9E6zGiRNBPGblxudXXNAMk4RnVR7SDMAVQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jXKgEJtEtFHOt4n2hYLI3yIKDXjsrFAGePLBazupUjA/OO7th1WOL7GqbdwVyL69hu9HarA+Jh+mR9vYTgZhmhJlSaACePW6IJ23JEf1EvA+0Han0XxdNCTYpKanI/MFYFSG4MFW9cq5iZigOI3I8DmF9mVvE9+lFaUzSqqSdSnkuWZIMT4scGnP+AQmj7piNQL1giNY5tXTUzxpcz28eTxjYcj1Cew225+DjhVP7QwMid3MqGR/gZ/3jccuRmG8eRs8nZnHqP9wvl4Fetvxb7CUKHAFjALf2fITiquTdyEeQ2OMvI5anTF98esPewz/e2bxTle6TUzrouSbwH2e+A=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "Limit of (x\u00b2-1)/(x-1) as x\u21921:",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "Undefined"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OnObY/T0IjVIqFm8w3xaHGJHIH6pmDyW26Gt2zU07sooOuHcwwXyjTzh8lKLFNf5LHTtEifU7JQzFACOi8mLF7raPPTSl3S4jcGvyaJ16WXU/PKCUdk408bUFISeVlgtYT2va5NbqviH+YYLkgUKQ9TIkbPsW8L/gNROoaWpPJ0vLMaDAMSu9wxs77EKeEDaXnG1JLBrb3F3k+TGTQm6j0U6KOPAKeMJ79QADZoDe6x/WaWzG6zLYyY1LVIEqeVl0v+rrCvvwcyGU2eam/dJ8cHotCg+VT1uf0FR2eA3W7HXMhb70OBNI9G1f4X9WVG2LaZGmuXAiYt9I78ikb3F+A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qOxJ2QK13mP05s9yn2O7GYXaLE5Ub6JTm/o9ipwrCc4RoJs5pSZhC+o/Q1sb1JspNFvErIMLe9v7Yi3MiHPzVHChpqI7tytBfr6uhpkqbJyFB0HEWlhKGOsEKYmeGCZ8lMObxRUFC7MhrqactmqtlEaCshgRLDqsjM3fhHEnPThWNOQmXnD5Ds0s/mHjtFoJCnMsaXjBzkd6XREHFZvdI8tXBMWtexNu8xabJz1qmohn/TPDZezwAQ/ujL6Jia7ji/OGr6p+ipYjZHS1cKdfVLV+/TCWONOwfF5Ayn/o48/XDWIh8G1WnOe26zU9wcwFroJonIX4CoiZYcTv0CtlNw=="
+          }
+        }
+      ]
+    }
+  ]
+}

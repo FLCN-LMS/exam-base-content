@@ -1,0 +1,116 @@
+{
+  "exam_id": "state-psc-2022-exam-1",
+  "title": "State PSC 2022 - Exam 1",
+  "category": "State-PSC",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "Current President of India (2022):",
+          "options": {
+            "A": "Ramnath Kovind",
+            "B": "Droupadi Murmu",
+            "C": "Ram Nath Kovind",
+            "D": "Pranab Mukherjee"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ESuZK8BROm/VccbDHOLa1JJZR/jM047n1N5vFzLhOonXoZSAe7IHPkAUtKQNuyjl0/XxZ5BXkvlAwSNBeLWVT20nG8bZtIEvYf6aAzxrs60Yr6lSx7GkNb5pTdjXtGQiNDw6j3I94I2sqMcJw5oEAPgkG/SK4t0o/DC7Ujqtoo4KWQQkniDD2jpY+ZDspirDFqkecJp36LF9Z1oaaLw7cJQ35efDo9+883RQDoZzYzEXJVOXfvfn3Dq//uV/txvbsrZQlhKiWn3++ed5Rc6y178lo1HiNsdEB+Wbk3R1V2KYB+X6mFt0mvrF8MylXxNFW5cXLrIwMY8L6JW1Q/4cuQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "buLO0EPHzo3qSN0sLtbewxY+8IdNSwaZc2tZf/YxOyFz/s+v+gG8cFGx3cF98M7gp+ioE9hgVPkR+nxPNejJB8ZmVeMsGIIY/3W/aZ8OyRFTTvQhTCEFBFc0s/yF3fFVl0Ns30ixbwVluFYC3/bIR+lWJN4PWodLrAJNW3aNqWlaXPvw4TaskXVV4W+uCZYhucUewHWTc8N2iaJDhcJ1eWRQKvO5hACADwQ2aX2cwwxXZAnuzEYA/+Hl5Uf/7Uk1KO4SOxvU+OLrE7QcCT0dwwbv5VQkvlyps4Joz/Ipz1z5CLtVEADAOyDkCqmXteYtlJWjuxtZDlLnlo7IM8JmzA=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "India's Green GDP rank:",
+          "options": {
+            "A": "Top 20",
+            "B": "Top 50",
+            "C": "Top 100",
+            "D": "Top 150"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ABEoL/sFEgcoYTU3vs7W7vw6G5NH8kzJBWB+s2EbPHcC5AGL3KauCisDtjfQ7OpHdDhkCJHTiBt8WAvmDjF6Av03dDNMQyVcwUes0l97Y9gipB6BkqD2xKpmyKycMdoOXOjJkA8vjfJOrg7oUkNpY1h9b/IVw4WAjLqESjIiF2uUAyxkPVY7t4pzv+t4U1jvEgeFVWRM37oosGRu5fGk12A6aXnu9ikJRwEnSmlR0t9n3ESbtuiFtqB4blEvCiWYGFPtxwq104FIwA3vRJ9BtXLkltVb4QiIrrenhnIlMplCD3D3DAZlxhe0M4uNRzYJeWN5yISkUhiGhwMgeESB3Q=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sXNRnPh/wFq5ATSxjFE7Rx2aHhq1R1rcic3VtfhxYqisvlQe+MvIM1G63WWlXYB9MPwXNHAm/pWWEcJDjRojDcK9yvg6ocyL8eHaYNXWkDJeNJM47CVYUF7fNviJ9MK05UkoSir8bybcm/OJOYXrQYzH8zL1FbWIYSzlfn7LLHG1cAkJAMbUdbgahu+vvOm1/OrJka5wPUMjAr51prU/QWuvcaUml4++VHADuHjyTGENLjua0VGuV/I2l5ONQdUUs5WDUWXuDFnCD1UpAoGZXI5+y6arnGEy26ZcbtBaCM2Ei12Ub8K+e94sKAxZinnP8A3j7c2sYVSutr4vPL9zCw=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "Largest glacier in India:",
+          "options": {
+            "A": "Siachen",
+            "B": "Pindari",
+            "C": "Gangotri",
+            "D": "Kedarnath"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OFKhyAXEOfAFYpRLCaH7RjKjcutt9++lFHxdQRkKw8JsfqaXwgOQ7/Mh0WOvR1f/O68vlJzpV7VpdLDjbzkYADjELpr4UQSta5Z6pmjicmJGRkGvkvfeIkXTmtjZ9Dvx2taR/phN+1Oq4eFzh1uSVov4yX9hu3LZRWmm015j0GR1AVv16P5CvyONG6ozQ05NhHUo5eH1QGfhjhUTGl57B9vVK1l6n8PNg1wZqXCWGfAfb3KzKd6UceqVNdlS6F8+LvvHlhr5LHbgVzNNqwhUhih7zKzahMbG8MLtrdDZiN3Jta4Xf8yUt5W+D/c0J1TK7u8ixxfCesefBHL2DEMgaA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "p27dh1T1RQ/DlzP7vh8jAGqhUC1YtIUYrXsIuYOmyX8NUWszffHBuoJsgZ6PgWdcg2SQzVf7c5ki08Fm2UEyg6g6T4P/ZiXRMyBPQ8YA+PV8ZUWE3x0Tlm2x1+ITNlcG+A97/H1dlRfFXWwNAzzI8zHzpeacyo/L5Y3nZmuOsYFYqZPAG0XNjX1hoftgQxIrBgthok9yLobM0mXojmxg2Ts5mKvsyIHXktd6WJZzMka/6sNW9TaT0KpM2xEk2gKh6zY6WjRFyGZHyaSKxbVUfb663kJJDOVluA7C51yKl/OlBwbmlknuyz27lZ09uM2xKHuIrU2G7Gf5i0wyRxRAng=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "India's forest cover percentage:",
+          "options": {
+            "A": "20%",
+            "B": "23%",
+            "C": "25%",
+            "D": "30%"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NHqqUkszf3ag4MOu3ANoEJ22/BtDHt7YsaNCu50EzcIn1TvoPsgNiIRQ4FmLj8tWHl8PqOLm1xas386dzpx7SZsbUHIRhTLAduY2JeB1XHCK1YCenkey+ondiOUtoZA0C2c0i7TK/Nzql92VZws8P1iw408rxXlT0bu7wY2U0MIg5uHTBgcCoqC5leZFPjAV5/YFPm4FCyFKe7LL8mNpgKafTTGlOC1cZMED+J77nsdHX9eGeTJYWZlygiw0IxspuFA8QJ3hf5XI/oZm2xhfg9RpDHhpbhvqpMQ8fyH7fK/m+C3ezag3urlHvWrqWmCnPvsB2wMar6PB1OvkU/ivwA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZtZA/DGoTQ0qx0pFzWqB+t6DlcjwzjeA9jA4gajLeg61rEjdwZmJhm7wtLz3BQBsV/JFdIdo7R/WPkcLoCDo/9anA/VoC3GI/5gjRyuKTt0kG9bIFOkjhASOluyIi66c0W8QRB4II+LlbFy0XDeO+UcQMebJSJkuTdJOt76Qvw2avIPUmVm5n4DLoAGJyREOV1oq/ZXeMq0Dgh4v2PMj2MIpwunK/QgOrbQhiT7434PRXN9h0hquwMqq+WThfepT/Bf5nvP39Tu21wLP4fMJmQVAZSQfeXlH/gOHPPbIf+VzQdtwA3+nsNIWAGmGDiZMSQb7QxhwPqMF922Hrqe6+Q=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "National Bird's habitat:",
+          "options": {
+            "A": "Mountains",
+            "B": "Forests",
+            "C": "Grasslands",
+            "D": "All"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jp7QVx0ivszbnOGl09NFaBb17DiOE+16iCBvebhzvlHbMvEZHcxqQnrkrf+8NE+QcM74DscMso0Md21s7YpcuNMvPpXq5J79GVbpEb2K6gToeVR+Wvt1boy95OkqITcAh+5TeM+FHkOxkYvJfYDObvv7ZN3F34Rjo8+LO2Ux4AtL4Kid6XQs4VBkxnv9Nu6C3bVm0aAOH2lobm8JxvoLsRbHp/tun1QfFawxrDRty+yXsW5RIB6G2Y6jmPrIYAVYw0Jv+J1eKI1xTMZ9hcXGHwsFGX4XsSxMP7kmcvht471gJ9ulaJtXm1tznGuHPYBUu6pzW04wjkWGEtCOFLBC5g=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UgYsu7ylMemxUpCXZbeSFTvnAhCmQP4XS11SdPJw29lvdYcoVXBn9nR3iTdQYUKwvI4F35EBgtv5SAmoFKGA5ZpLM2+MSZd+k5I1WWDcGa5OeSsQ/A0EpsFVU35sxiosHKEwCK3C8f6x+UAgiczCVC1k0oDSssDeHMXWVBwUBnpjQD0b/utIpTxqH4OWqGaXJo0TMrHwM/Wm/dZz58H5UNw+XzQh7cMgNpVCrOBCDRuE6ypgGjALo/hclr1GBLdullyInWzOvjHwSXyIpJZTssviJpwqnv85vsBdk1Q6ng2HOHrwyzktMIlfeI3BjG68CcOK/28zND9eu0GlCmis7Q=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 100
+    }
+  ]
+}

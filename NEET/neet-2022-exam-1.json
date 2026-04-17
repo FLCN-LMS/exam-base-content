@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2022-exam-1",
+  "title": "NEET 2022 - Exam 1",
+  "category": "NEET",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A projectile is launched at 30\u00b0 to the horizontal. Which of the following is true at the highest point?",
+          "options": {
+            "A": "Both velocity and acceleration are perpendicular to the plane",
+            "B": "Velocity is perpendicular to acceleration",
+            "C": "Both are parallel",
+            "D": "Velocity is zero"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "emgmZoAQs7DU9C+LNdeWSGewczR78CZ1d5/ETkNyNWPvE1Mk2CVWC/X9y6Nw53uQvmK8zri6JTNbNr1bKfA9MPE3vMqkCP8MJZFt/Twsp7chAyzxhaXTIT1zdTJyxvRTtPH8wbaFE85zNTMsHzCk4lralH4yprI+J7FQ9layUqHgQiYmvrQ8KKDD5DXgErhtrr6UZc6D49C4RktmnyxjRlxuiJFohOAHun/qhdYKCjDLW1aE5ulIOMi0zJGjmngjHUVfPKs4SJYmrBqDpeudwe4S4Mo7Z3culeevZ1ccl7n45Etd6JgRqVuR/LyeUlRHy3xyccNCUM1GwITqtV1fwA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oyRC1yJ/5m6qle5PGvisXvyBF36MTbVp4l5thBn9zMqJgq6HgXzpy2jQa+ce9IxE12WC+AqJmE9SFPbaJtnPVDaa6GGR/DyXsZKN7DjDBQvkW7UXz5yZHeO9TwrRtm0uhVFt/hNtu6WKkfglgtWusWwI/CDuZbxrvDJfl4ETxE1YQMgD5g1IuKTPHBQ/7teqHXkeI+7u/eIKQjNzxLAK9LuL69GrkTMz7gcuMyuXP42engmA3CxCtjfk1ODgwGB4iV/aN2xdtpDfuNJoYtFgTNiklLH7VBASKIcaqm0SOBm5qFU1ZJasGpSD9tfJNMSXIbV47V2tAEen9ytqaVZaMQ=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "The fundamental frequency of a vibrating string depends on:",
+          "options": {
+            "A": "Length only",
+            "B": "Tension only",
+            "C": "Length, tension, and mass per unit length",
+            "D": "Density of the material only"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AADY27unNaVF93w9lD2cEHWkdbb3i79/0uD48QR/nFwu/IyXOkKZJcQJxKcHgYqYIO5DRpHQpUbaCCUsnaOCmcjeaMUmaLzLYVoipOyyY58OEFjGbljNEckuiK+Ej+aGLJp/y4T95ef7ptnKf1BO8w4m8BUJmuwU8Y9Ij65PWean6sXhlhC1a8POZy+tTuA3FfYSYaC1QUGldiHq9edJbnvJ9cYkkXdhw+S0Jcq8r/7j0YlVy7u7FedvBtRQJSoQnnXEfUVxYv10Jc5XvRkUJ3x6IlH2I0vxQjYXNYZZTWXHLccpE+p05ZQnYym27siHY+1IrqVMqw0/e7RfWrphcA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "F+Rmi2nxjVykZGp/b0u/3ZymYCROKIOoOS//mE34tnXptoAgPF5aqxsE9osSaPkqjyTC8qvyU29z0uWXMatCHGlXqMpKrv3Ha0P69M4m/SPyijGEHavf2Oxme2+M4hC+6x6a2DZICjB2NgdOwDIZRk7vN9T6SL0Xb+vM4Q/sckV8jlx6a//JFFN+I4eKXCyISHaTxZhr+fIy644N/9F6IaTSawUH5pXnrE2NgrRU7gpvqgGRAbGhrVFpW5SUSxy80QiXh+kSs3FU2tMM9pJJnH4dqWNClV7gLJZhRMidfNKzF9/rpr8voh19T2DYn/iFHxaZEdjHPyesNOgFUPPc3Q=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "A body of mass 1 kg is falling freely. What is the gravitational force acting on it? (g = 10 m/s\u00b2)",
+          "options": {
+            "A": "1 N",
+            "B": "10 N",
+            "C": "100 N",
+            "D": "0.1 N"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "PwAUyO1b5OfLjLbDl6xL6Q57u97jsbj+pJuo3rDA5KQBTT16HMfsQsyBXKzRjX7LS6ajr0cm5EMd29cPCIwDwVSQnTtY+VtcRe3JwqYugIk+2TLQqoIyocHnKYJS5vqJa/bhwdYAlfgJUUX2miLBtkbpGgWYOlJzgHzoNw1/Re9EnqjJxp1jYudcJqnRIf9Dv8nI7biJiZEtQDQD9kwUzbX+61sOHQxcBrPPjACZ/ySb/ZO1/2THVn3Faf8oEPaukceFioLgJQdWU6bi12tn6exRfhmbciU86Kbr79nx7P4Dw31Gxv+PcdDvA1ni8qs6Am1mKi1PZDg0agkU+MU9mg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "IFVuP/6V5+VkiVByXwtZUvHxGxDqc4z//M8OoPDjwLVnnlQzHVhEZMCieHyia7l91uHaXINVFTSiVhQMUFx0scq5HZNMaET1h0usQ+fDgvonqaJS+y6cEhoPc40rntcWFCDdyCxsvmWtONVB4IwUJ6ORf9Y54w+peSe0LqtVn2dvCAEsOiZH+wq694GX0VYkyi8vbpYdKoy5sDu8fgyO5p1Vo5u2z7HXYS2o79m0ebefL2q3xG/zWCtFEpr7q2m4iNqRB8ORZTuCU9rF+aJ8mwb38eY7FLeZDJROsNzh3I51qsMFwH+w+rM347mvEvtAmFl3AHZCrQr1FYc/3/p8/Q=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "In a concave mirror, if object distance = focal length, the image formed is:",
+          "options": {
+            "A": "Real and magnified",
+            "B": "Real and same size",
+            "C": "Virtual and magnified",
+            "D": "At infinity"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LCyWGXUBTAmTIanRwPVv7nCIfVyAjm1vJKgKmhYdqrbGHV15V7lVxbDaaEzPrwRaTrBSwditbYqITSvyPx+OWjhyr5bAHn8tMNJdrFvSsnzazE6ezMXm7GvSgzVctoNs3OP2JD8+NCtOeT0j0dDyLEwEZ1F5Rk1yq2Ji6H/2DDj9D7+3QsqbgGGAwP83G4QZh9vjy1QliBx499jp1gVzuJjeA3AayuAJAysZbnKuKwLgEAlxVgdH2CqwBRZCC9Y6+OUTFilGo/Cein5Zt5sSqoPRRFKKNrvmCSH6PWP64nO5qAnKndBUEhXFnhwNEDe1Y1doXtkCp+IDZrf93FxRUA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZDYDd9QUSBN9/zg/kgtkgFqFo6Fv/B5lRApPqjqhMSie31omrSGsLdIC8Tra7ImObJs8kVEiVtGrFzWSGhP2sMHr7HckPwvVSj7rCHBwajdgK3VSr54OjBAkOvgH6N93M3BDjlUePvvIh76QbjbmUDHUB3ynkWXkQw9ItNBSJcJ6OnYmg53Qcp7YOY6ARMoKB7EGX+yi8vHmA5BcAsxfv0lNP764NTGO17F0Ummi+dgES8segYtwuaDSgPO42oYzRYUsoKPaAZGaA9QMVdeyAHHOqdYcEkdDW3jKLPomXG/mCk0683jby2a/sk4rdWEbXMRenSjSa6e8H3XVifQ9TA=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The period of a simple pendulum is T = 2\u03c0\u221a(L/g). If length is quadrupled, the new period will be:",
+          "options": {
+            "A": "T/2",
+            "B": "T",
+            "C": "2T",
+            "D": "4T"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ej39wOHAl1DoQOp4ELO/mrzCrjU/B6F/a5Lb40TRM7Gjn4NqXbLFKvONIDhrdghJDkvKINi0PezG48bDchGyqiPpEjCiQ2vDRKmkyJCPUK31D/D1HH5xNERIEHH5VRNFca9qOPCzbCFT6s7lOzLqPl0lvNT79xE75qDkVe8NF+v5zJGR4YglZHVgRLIxKTlpN6jFWvZqN9dVDJqg8nO/4xfvCYGpmQ2Y5WTRUGSz7yzm5L2eDQXcu8k16L+5PH3sFUv9wpelTS7Thm40BpuXxyjDtQ/il9ub69vXPTgDEOJWz8La2R6NmDLzz6fSG/CbvWywkZjlNnLjycugdwfYqA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "rqLiZt51DaO46QG8t1RaZdoa2Cao+UKz+UQF/spfHsha5BSJ/3l7GjY1Jr0Xfx6MDD1f2SNIb32bOWrXw8xuAYNw93AwpIiF/K18i9lNeNYKXzteRGBvZR9RxKBc/QtOurDFZj8jlzfE42fo18LxUGkJAY5EurCZZFigI3ciPbETHqz5aOhUXED1gmmfn0s37xuMI4NLxQIvJ2SQHykoa3Ry3Zz47/uAnGSlH20iou0wi2S0/JzFxVtgTCcrfelzkHKr5BTY26T0SnkIZ7JO4tEuQ0UV0Dfe+1R0V9PrCx9GMR5x44Tzi9gD2uo/UQK9Kihhw33TeNJ6qGApPk6T0A=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Which of the following has a trigonal bipyramidal shape?",
+          "options": {
+            "A": "PCl\u2085",
+            "B": "NH\u2083",
+            "C": "H\u2082O",
+            "D": "CO\u2082"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "YqsiwlRStSqZHdy6s5eRTU54z6A70Hbw1yWh2pxluHS6knML78di5yVZF7n4eQJRakGvIMPzMPj8aCsGrLo1p9aGFyT3Eq7Q5//RkhvS6sitIlpCJwUulMFPu5bsebKtPUSVRdTtncQ0wwIrO3ILOhHt7SeZJEdaJu3EGoBbBM7/b8a1pjgxVK8b5kwfCHpQwIU9zCxVXa2j3Jibwa4uHF69qZQFlkhZf4cpCoSiRNi+vFr5aYWh7OtTcyikWMIGNBYHkJg9WTErOvdLLyzeNmTu+nTB5LaMv23kCPLkW2WdX1Xxhq3lVk9DIKyEOqs5BR+zmVD0wXiiMTCKMpEn2A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "H/2JdjBIqHWFwQdbbMbPTkw/N8flxLcoXlK6Xyf3UA1GUeiHaaYCitAou3nCZJXdue3x4FssNDNCyNQKhJc6gsALwwfSf68lM6TViH+4IAigVc8MDJ8K6MJvX5JQdlq/iqB2/r5bFNibs8UpGSM/s26Eg39hR/aPvYzR8rEDSUGapt4npi1p9yIbOOvb784vEpi1ABryOrkRuzlLW+zG1d3pa7foTRbWfxcNBxLLjCVFDmPjDdXOzN8FYSYb5oJLdXd1y2tYgK3UsbiygaoKneHn55Gz5cX88K9ww0ORyKoDrckOPjb5EM9YIw+3LMLBUyJeMLjOAudEvzXJBWxvbQ=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "The first ionization energy is highest for:",
+          "options": {
+            "A": "Alkali metals",
+            "B": "Noble gases",
+            "C": "Transition metals",
+            "D": "Halogens"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SjWjiZ862d3ooOV5HWQtUC0dcc7voyOc1CxHJjyVaugZyXs2zFvIvu3CBPYofSgGi/KPtVVezRnc3dFAYGQkYVG4tXQhGsHpDbxv7xse+FBNln3tquswOVD1hI5Y+31rnUcr8PsbbSpsJyItsju24lTKV1J6LV33VI9UPb27dZIZSpMB2otj2tJuE2gzXyJInWDplDJkELEpIopWJdSW7mhc8CGwzbu28I6psAcWVijNd/bb2/qwfBn5nFywFWieW1YpQjvlXSgUpUU93nC1oxqbAXFfw3xzhiTHCUXRt538LeeTyrLK9U3bOuRHxcEUjG1F2hT7l/+AlBq02vPZ6Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DQUnT4ni8pnCOrVSn9YL4d9x8iVPrU+45BVHcwWZcmEohWFQkEBYo8CZsMi0su4s87LWHJlfr10bXn/uWrZrHvWwzX4i6/x6TXrZT8aECpk6S3GcqKRBHWrjRudWRRigZMWZ1QsR+LYqodroXbskyOUIffIM6SufruHuV3WWM/hvL+xPzLp2ZJ9DdpXDI4DRlzJ4OTIYIrt75rPemD/nrYXKX+DOndqiVVQFnStpHg479lT3/XJZrM+ltSGU9MnUUGPzAA88EzWjouMMSciDpk+9tRZw4o1cvH5uJIvGooEcl0syh3EF3qI/sOR+OhW8wVyTfZeck9E4vmJPSdOzJw=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "What is the pH of a 0.1 M HCl solution?",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZCo4edMolrfG5ID+pvon1GqNckXmcCcZTu8f/L3+vrMvu2FJwLPDXtvUIYa9eB1HpCk+vz68YliXIfT9JxT71R4gUZPfaH0F4FgX4lZ3zjd43m07O4z4J7gZXMtomUonicUnk4S+YeDTR5cHEcIZtRUY7OLMh6q91IcbUgc68RH10pOjglPx8XdVbABuwWzeKwgH/6XsGx0R6Of/LrBvw/PcWQTMQiFfHFDLJ8ww7lELpddp1dzJ1qZ7aC1NcKBIcjbMzFx/KUb0y+HiJ8B5OSzL6iyC/4v4WvzN1r5okdr7xS906H1rt9wsAXggrkh2yrIDB6ZfZVTURRojNYHHcw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "k1o3C0mnJG46KLuNoLsbp4yCQBkDkweGNUmtzqunKUlt7jz7RYhGckiMbkadI4cetAG981n5XEOm5jud384DsryqNAnNQupMJNgGoybOp7xlevtfaCoR04pOwMk4yGJzoyg3OHg18V9w0Y7Gf8GHu+bAFqFFUvHOFDjUjzs1SJBEdrjqf0+gtL8y29ktRSkvVJAddFCSahS2aE1tmhAkHADsLhd2PqBt1n4/Bc2RowjmJdCi/7fO/TaeMkQiMjtJ9TYcrBtdk+Y2I7er/Lj0rg8dyf0JZhnmqQuEQLAtJH2X2hm9AdqnG5lb5WNX5s9ez6+y9IKo5+FpbVfbKKY08g=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "An alcohol with three -OH groups is called:",
+          "options": {
+            "A": "Diol",
+            "B": "Triol",
+            "C": "Polyol",
+            "D": "Glycerol"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AAhOV3jmUaPWJq3dBAHhZNVnssL7vl/exqAXFO3MfXLNTDwd1HLHSewfxLQTqbPFEQCQufYXWgXMzQ/tHtQkKN1iSWpTBmQs+P3SwFpsD3rNIOP4BbS5aYBlPW2kCZqg+ySx+QwXlC7Y1WOrC6kSUXnDf1ZLGdrlbW2EfnpQ2pnHPaDk6u6M+yuUMiX35dwrB81rrxnpsPwMYx78rMfbhPCG7BKjCo+7kjH+6PXQsIfX8qOTsxFyWTdOB3UNz/q96RBV/nBgV/yIzZAQFj7shGqharHlFxIWpx/0MnUcSipy/2i+nRYQWQBFvOtmwkjxNc1h3+Y+NeWPGVV5S81Sag=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "tTWZ4cRvaVpPS4eX9g+zFe7lyP6gfSFGuQg7BFt1YAhhR4jS5KFpqnhUvN0CtbzS5RiVxkhyZmX3A1D9zrXpRNF/4kETRFHsfQuR6QGv3+poXoRczqCCxSvgL5D+qHjTDCrwDiKvb+L5MSeEcdA2gWNsHAPeRJ0gF1luJA+P6MZxz+PCNF34cBh7vj1zOH8n/IGehmgVm9mjthlih7YwTKRsnQO+tzaNiHAZxP5HN+k9aVCS9ripNG0HTypH1FdJgmiw56VpxyM46hO2P2bdcsiE8r7DcH+sqLl36Npd0av2GQPUYvzGCuqH7E425RI24Be5Ua/PXYvMiWmuTfSHjA=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The empirical formula of a compound is CH\u2082O, and its molecular weight is 180. The molecular formula is:",
+          "options": {
+            "A": "CH\u2082O",
+            "B": "C\u2082H\u2084O\u2082",
+            "C": "C\u2083H\u2086O\u2083",
+            "D": "C\u2086H\u2081\u2082O\u2086"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mUSX6Aci/FHCZwuruEx9SjtW0Q8l2uTngq+shsAgOxK+TWnIUWS0Y7pFAxwAlASxPiUk+CIC56WdyMrZ7Z8rBE7byCjatG8R14QrvkoKFXEHOZ5WoGmClhQsL/oGRnEI2m5ek96CpV1oP++7rnmeUL3R0IClE/5PKtO3NczZmWe0cwnHHuZNChEYAsbelAmV64u3e/FSARkl/KtqnRbMZ8zNpavUhYHBxckNkK9Ogqh/cKsdS+urPevPgYxGKdtNKrP1MZcZjPzgFO662dkY8rNso1lF/FANmGQNH02eWtFyj5oMu/U/tMcAbuDF3wyLDx28OefuqSqz872hebU8mA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BIYuCzmlOoLB0+UbBbfj/s9yhHtKEdUL+4Vjn6XEW0nOW+B+zteqLn/uTNOnRzlL31A0mI8cFz/kS2n+fusCA6i1UpvuP7hjOvTSuW0XetAO7iXkU/3rtcbHQnD2HN1RTZm5pGVl6IUCuEAWxbIQ4M1u6w0UvO8iyIRGVJgqxu9V04920qDu0lS0w4AttgxycbbkJW3leibeQH/6HfdAuwRVKTR2pfstWiyXJy87U7xZYGQkiW/yiI9l6H6q+eCjcBLTHYQal4UqATJrmMC+JO7FJn5VBSJVFXsZH/mk5VaiyuDyEUWPk/KKO41p2SvYrrE1FawH3KKwMCYpZjbjoQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "Which of the following is not found in plant cells?",
+          "options": {
+            "A": "Chloroplast",
+            "B": "Centriole",
+            "C": "Cell wall",
+            "D": "Vacuole"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MiYpnUEe60MhX91KmosAF5XUyylfMHMCqz6y51+b30L0DCpwTf5k+mKjwkghuK3zk9adwYAR3GHvaBEdmUrH1r44biq3QWsexsh1GX2SnbnoXPUXqSLk09QBtkJpuYDNoRsSq1fQMwySYkVFWRYMZ7JJGxe3D/FmBPUC6CJxTA3bGA18I60RwNWMnfVNw6sRTNJiczBWTZh3B2pZc0for9UtW/0hrX/Fdz5U7L2PKEL/bUnu/lb1b1S2+R2imoyGMl2abXikSGL3puUcki8zGcg147ETYDxlHQA9Il1Lx/ubeYOpjtQH+q0tebE7YA8AtKF2FcUUZe9Rz/73c0DX/A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jipoAAVhSjXd8occEwjYfgbqSyzCftfHvOMScXrnW+kCn5YMdqN+H+gbAkR18OkJx4aYJt6hustEKNSrxZTCk08RklelS2W9F9GsxA8p6VEgABEi9U6yFAJQpVXI454ZGksIaQO4VgU+x0KLby9ineWCEZLz3txHInMkhliLCoNhTQV3o5KSbzHa19JKndS8ftZj1SOE5z9U9BCnLFYs+IMX1iuWi+HNCSRRV/7FlEieLmZWosyU1Dg9NaGxyGkJ83uz9q3l3eBGDrQokj2zYRjKirnqlxT420MV0+B+R32dkvQ1i7G0tmc/5usSsI7GeS1YSR0E3g94i6myDc4plg=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "The xylem tissue in plants is primarily responsible for:",
+          "options": {
+            "A": "Translocation of organic matter",
+            "B": "Transport of water and minerals",
+            "C": "Storage of starch",
+            "D": "Photosynthesis"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "eiJ/Jb30Ss4eqXfbdH1BUMF1MD8bVLLPlelN9BcfTYmJSrc5q9Bc3G0505i+CEG65h4ISc/w4bmy1GJj4ko+9kKkYnxPk3LVwBPXUk8Cb91PTfToQSUApSmAARMdEbzca7L5wnSuy5x/PaQJBqki9/wGQFOB3cAL4F+3CsGZ75bs/OEPmo0j1FWtuZIl2zbprLRCpr06JJhocerJYcQzojVMWR041aPyT+Ey+g4U0OFdVfWpYE81qvqomtY083eevWybtR01zFasQ0H8t641QJRDAxQd78Vt5BnEXDRyUEf4iy0QKXH5PRbDYNsKZC+PVh0ymI9vf9zLEnPXC0dYeQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UmhbDlo1bM9i0RaW40mFLiD0cn6PXNq13qYRz6pOImNeaZ4vXDRWbg571ne4eMvSpGwWjpBlxNwTLx0IieXyLaa4eCblg17a01TJmG9KMni8q5wHgZV7nZSi+Ceh1PyfwSGxQ7rpAbhCVVtm5bS3wQDnOj+fC8T/J2A2QHPxIq1kmT6Z9tT1QRJXsHi8PByscvpPX+WcmG7nViU7c3LkGqOLKbXKB4JbVVJh4nHvh/ioPjMc/FPiwQXAhbmniZcWk1A6ULHv1KJwn4yyGgdyVDObCk1gFzhRp3vX8FioUBUHn7Nf/DIyHnxMmziHLPlG7nCEyl6OmgQbNjI2pVQkFQ=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "The splitting of water molecule during photosynthesis occurs in:",
+          "options": {
+            "A": "Stroma",
+            "B": "Thylakoid",
+            "C": "Ribosome",
+            "D": "Matrix"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WEl4J9fWhfHZhw95qUyKiagke5Sm3tW56Nchki4x0yjDTavT7F43fvmWjDccJTVxsmHMG1CvUcgFXx9IsvPlwbrOb4ki4MevDaWwEy69clan6fySpUCf02TXIca606S70FasKxqLFu70ZIOXEZwiYPHwUBQuaFHhsxayJQP5JMSu2K4hVHCu/mAyCQDfjv7QVDuuimr+HPinO6KITICZd19uiXPotmM86rhlTc9N6WKM/wHi1vcRSrWIGkS4twTy/ZR9hecfeaPYTTciWu3VIWdvaygVSDJ9lZSaDyDcNycoggE6+JdMF6O8ZFyyLbf2jmuVJy3sy2/S+iJSyoNoAQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "aa3GHYnMW9FpP2tFL+eUkzSZ1+6Z/NFWCKytIXm0ZUYatb/OtCdHoOjTtOE8UkQjTi7wvMql9C20NICCjq52HB3LZA14CQ1547UR162hIpfKyyy11oGdeZeG4xmpg1uwWvx8oTp8WZdbqJVus04wiFrcaKbb96jJr+yrs3SUQRjDjluJwMeITxDH20LHmSFBjY5MeDsSMw4o4zTzo0AdXpdwOxP8WxEvZkpgYd1U18CAwaOKZABe+YU62h3cqzunUudXg1ZYSevaeILAzvftrQnsodip8WmCJQ7UDB2gtNYSMwIPHup0WYFPGVIgy2jIjoTXY64CKkrwJFdnV34XNg=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "Which of the following is a vector for malaria?",
+          "options": {
+            "A": "Housefly",
+            "B": "Mosquito (Anopheles)",
+            "C": "Cockroach",
+            "D": "Bee"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "dniSkZcycbGmsw2q+CYg5U+7y9d0EN0/jW6QzNnrv596MP26k31HgK8Ncvt1Z/GvvaVKfJl1WCP3PLcJ6NtuuoTayxCMjgw4Zp/KSgcN4OSmjA1ivzVvQCWnzQvug2hLWFpRtSmgQqhsqH1O1fms5FJ8yHeuS14MnYWWphEqd+YPqu1Ppm0KU9HgCDU0MyZYTgSGFG188b+wb9ED0Lha5awBkS84sge0bfW/ckjKU/1VUsFbYF1HjniXGaAHSDrjvn/eUQBigJeoBb79pRlhE1SA995nzIbHHYilhk+7XzkKCsvldKNDPla9ff5rAJ5IWLz2zbhs62fCEulscQ4d4w=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VhaywFCPHWqY1XWL+Ibg2Wq71xW8Ovtg4wGRIJ7/yVXRlP1QzEuFEyXt8DcTeFyArP/Kzj+QaE1/C0R/htC/BGlBX0KJ2DUrCRIuLAasmDYMID44vbs0oabbifvNuW3HzpfNAxvDbcetwV3Ojvg9DwmCjhEsGZZNOIVk7LWx1AQ3fE1QvbouRUpj4ptwdvuJ/DA1XdJCawjzlQ806NJwTdl567f6GhDdbVWggYPHIJwU/EKqDjceyW2N7vWYPHM95fKS/AgqUpXKXtnERhappqLL3QoZPWPzDlu30YHXRrcFFdsGXvK53StWVbuqv18AabZ6fEAVjUYJkq5dSWZv+Q=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "In the human digestive system, proteins are primarily digested in:",
+          "options": {
+            "A": "Mouth",
+            "B": "Esophagus",
+            "C": "Stomach",
+            "D": "Duodenum"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZOgL5EvhIchhlSkt539EZ3RCt7wrgUeC+Vy/hTjpxSyA9RUP9mnNbplZm7hm6bohorEXeZgeekniXQUn4vav8nqjrs+83zeF15WernXKKQH0DaYZL2kgpjr0vqNMLzeuKJT0ffR6HbbgurtWh8wKLK6Im5wOZr4MP33dPO5DmKI5KHqO9V0TipBYwr4G+UT8f4D1E5q7ao4IiCY2LlAw6eTClvDtCXckbUbSgV712w+tq8312COf0yNDnB9BprNPvwtZeErme7/uI0KH4XM2KpKHG0KUU1baUn4LzRjODcofljl6T4hB1yaVOFVCc8U1u34fsFOIdGTRpG2WLt+r3Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "L/+JVQFmmw6gUOBXgiM3gxk9XIcTkYpzDtBGscNDEE2qW7bA+BmzfF1Vus8P7P2WAeTqcullDUSaaiA5ZL78c03UKUbPj1EpmR/Hn3nzRs/I0033c6zuva/Mratb8SUo3o/b18G38Vq1oUKL2DQr55V88d60d5YXsAmoOqPvidSRAl0bDemXNcYwfTVnh/Py95trKDbO8mksMmbGYuChkbsMy159RTo8KELuoqXXdDLWOtRh6hG195wCvtj51vDVcDL3NXgI1KoczbGRUCo7rUodYU1ntlPutxebRxKYmgaGY9HBcGFS/BIrcUn41SkDxdxdLLFxpSPcFaI+ddlTPg=="
+          }
+        }
+      ]
+    }
+  ]
+}

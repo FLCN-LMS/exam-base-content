@@ -1,0 +1,64 @@
+{
+  "exams": [
+    {
+      "exam_id": "ssc-cgl-2023-exam-1",
+      "title": "SSC CGL 2023 - Exam 1",
+      "category": "SSC",
+      "coin_cost": 12,
+      "total_questions": 75,
+      "duration_minutes": 180,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "ssc-cgl-2022-exam-1",
+      "title": "SSC CGL 2022 - Exam 1",
+      "category": "SSC",
+      "coin_cost": 12,
+      "total_questions": 75,
+      "duration_minutes": 180,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "ssc-chsl-2023-exam-1",
+      "title": "SSC CHSL 2023 - Exam 1",
+      "category": "SSC",
+      "coin_cost": 10,
+      "total_questions": 75,
+      "duration_minutes": 180,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "ssc-cgl-2021-exam-1",
+      "title": "SSC CGL 2021 - Exam 1",
+      "category": "SSC",
+      "coin_cost": 12,
+      "total_questions": 75,
+      "duration_minutes": 180,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "ssc-cgl-2020-exam-1",
+      "title": "SSC CGL 2020 - Exam 1",
+      "category": "SSC",
+      "coin_cost": 12,
+      "total_questions": 75,
+      "duration_minutes": 180,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    }
+  ]
+}

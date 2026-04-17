@@ -1,0 +1,332 @@
+{
+  "exam_id": "jee-2022-exam-1",
+  "title": "JEE 2022 - Exam 1",
+  "category": "JEE",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A projectile at max height has velocity 5 m/s. Initial velocity at 30 degrees is:",
+          "options": {
+            "A": "10 m/s",
+            "B": "10/sqrt(3) m/s",
+            "C": "10*sqrt(3) m/s",
+            "D": "5*sqrt(3) m/s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rFwrGBS5pS70Tx1rLUkyPO3jYVnpneIqG+4M6Me8eyG+TVDpejfEIdr+tnsr+K+kcUno9HmVNPYs4TFHwAxuqsaEN5l1n9HWMeYbJcLxmFVD6QRZLcLNuGOlMr8cKxTgz98Vh2iSuVjScqqIB3iG05lSgF1KpJB6gtETig3FSI/amlD0/4P6tCZsJX9hH28mw7Iqt9HM3JwdOv03ZjHmillaFh/jFhTs7N3NtstccbZAv+e0x7JszmK+V9HOz73PxBjZsPQLR1in7LAOOpSBUe3B2Yh9bmgU56EdSAV9hVCPg8zECOvZgBGGzkrW4gNw/2bPb8Vw7dN0Pp8M8E/HHg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "iKJi7R7O/257h3Lb0j36BlYluscCT46cgaG9HzwFQWcXSXeaO6Sp1lA2V9mFQxRcKqtVS7GOLuV3tkQ7pWfY8LYItijcruOJs2/rHRM2OMQPJEFNbk6u/PP0HQjUjL84/xO1ClRi5T5zdRiljyf5Qf0PgMRbiDnhIirub3r8PIk2ZzoRHr/QOu3Iiubt4VT7Vx9PZMSRuqYnndaGfNEfPu0C/ODMP4TB/86173CckH25Z3i5Y3d+DSxlUicoFYm260hFGS9OsYjxbprsgtS7xnyZMIHTI5jy9jeJ0dx4YAlsMS8drwGtJUYNbGbweyyobb8sm1zdx6gxBTkQ6PrZyQ=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "Equivalent resistance of two 10 ohm in parallel:",
+          "options": {
+            "A": "5 ohm",
+            "B": "10 ohm",
+            "C": "15 ohm",
+            "D": "20 ohm"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "k3+CtvBg2TgaMW2j8bzO7kzMvqQCHYMC6AwYIzp0YgqSdWSvQq/OCxOy6dWNVJeU1/rHooLdln17R1H5EQP4RaHcYogSCaKEO6pE2Rt7O1mS8KrfEZxvDSo880VxoJNlhQfvJ71DqZbOsGwD5UCNN7VJ7+vIzYIBGBuPzVBlUWgGjEP7PZBCj4DYvitqDZKYbPJtyH+aca4TpvjmKqHwFnrxazO4edZYa8dkLwhvuqtuPERncSDANuF+fFDAKPuIv3lWVIUSr75c9Zn6hiugBXVCfZcFlFeerj4e604kmp61KcOHtImap3CqBtMyQiMFRhbzq0f1nJXbYm41YYGIDA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "r5NKa3+Uhc0LQTHeUjoHBnJhl49v9hjCOh3O6fgh2ab6sPp2Y7iDEIzemF1hR3s/iDPffOje3f85MYy3NWEPu7xxPraUByTjnGDF7KLv6EPdTz2XgvSjqvAzYWxXi/SZWxlnEX2526oOsvG7d8k8m3xtZx0bVo5rj2Qr4CeVZjeTnp6sok6I/GjRSgHu2zLLpyVvvD/GQccavdt8sFMTr97RY0puvUAe2w0qO811OhSSK2AiHgymGyqjQTCzpsJ8lgvhI5mhn3zj3Py5mlD+yvZzsO22LE++PMExjNqM4wP9rARka9XDvuIOEjzsYiNgMcNCXmCOWtsaqFbvQJyiOA=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "Angular velocity in SHM at maximum displacement is:",
+          "options": {
+            "A": "Zero",
+            "B": "Maximum",
+            "C": "omega*A",
+            "D": "omega*A squared"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "hawQCcEGKQeoH/9eWNORtmJxz0zzkXcvOIGUGgF0tUR2cJAw9gshdoX1erl/6yfmCgAdhkNhBY6eG/QcwHpVFOSpsfOrTg7HSPOcUURRp0ujybFxpZShdTBd+SVfArYaq/EF0OxBhXDDbt3cGGsAk52mKlf1WAjCwn6Ynia4200dTyb2gFyRP1FFPlYGI7oTdAGYHkAt3FvWoOfGRkNwMqHT+CbBJ9u90zYwTFCxS7MUzZOkpdWzaaewwXi13RrtwWoA4eotiQGrmy6FLKKClxkabr5Vey8/YQGdkM+t0DPmiD7N/FVLCoLC9wrMibSclyT8yx14HxzsEp/3cjTSKw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cwy1gFPmxBTc9vhEkjzCWd4WJ9RKO347hEbbvzQ0ctg1BomEtiJ/E8IZrTvKIHEvJQXCr4kncmCPh5lv1ZJ4OQEWOtVRGCB6AwWgv6aayp3pOx4/OvgD04yuMhW+Eb8IUvPUco661V7kzpsIAkv6d5GEGWtEJU8xSiWQTNH8/cW+qcBs+3ZL6v5fxMm6cKkubY8FQabEt1P432CIlNrKzhGU8E8bKHIDVfjzm1NwLQdpMpeU0/LR7ldKB9SUlSZSYpQ4RmHnmkWURreesjCMAPaPRzLAoDrGQWtWsYHvii+q41RqCanoXhVh/vno7PLUX2c8yrT4AwUTOs5VSuAfTw=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "Liquid drop of radius r has surface tension sigma. Excess pressure inside:",
+          "options": {
+            "A": "4*sigma/r",
+            "B": "2*sigma/r",
+            "C": "sigma/r",
+            "D": "sigma/(2*r)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "DIX4itVHjonjRmhMP4U65krckp0OEmnrtIJz1mIP+XH9ROXW5CTbIjsBqOfD40U+9i9RWnwc4t+MRC6/kULojNnPPV5q4nOtXCbU3i6hbGsaGRL64JxksBrPNJYYGyTqiuQJKdNfz2aGcljEi4Yef1+dMwu3Rt9+GUbRxWZuxIga5jVj/VOYDYRhmhcYCCzvWgtybwY8owhvDhqI2q4j1cmgUS9GWz6KtpBbxRaxZbjG/cGbMFHXg0kjhNzhQI37e2UOW/7qTUJznR7dSNx6I1X2Aufny3E7How8WpMLiRYAaeRvtQ6NHewcF0F5Uy2WdkyI/OKwX+XX1hpFbTJcZQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "oGh+Iu4m67F3kN6arpA5JUWWiqyO999IyLSoZBJ7zUMW0y1xZoNKtIzgnuvHoUuY2Kx3xDzB+6K+q8OXwRgodTuZubhQjXwXUkx3cKddDhWbdfpT9axMPkPgi1MaSge0TpCSSrM7+yNt8xvNK6tgsUh2uji7v74OQttAJJHD+iLpHqDVYEdeAo7ne7fQV6Zq00DRnILI1kwnUOJAWewjJGPp9AtgltlujqHvSF0la4s/YaVH1tIZusN3jHmLU/5IOE6tkYM+QiFAfSXd3ubvhpbs/r/Yyb+CMW1YCCQD25CpBTzDhqQfb12e8qMVNL9VMnFl8WztuHg+xml3jwN9Lw=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "Speed of light in medium of refractive index n is:",
+          "options": {
+            "A": "n*c",
+            "B": "c/n",
+            "C": "n/c",
+            "D": "c*sqrt(n)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "De2V+CdNYMr0SobTkxIuqxSW1ytOa0w2d2vpwb/ppvAX5vBY5nh4zvZ5aYDfymAQOvZW78j+sAJiIvJnUOseRSKfjrw4iGMxDKjVRMDh1hCNf1P9DqnE9bHP6mnHwO1cw52S949hFiNwO3J+0XUa+RTnKhnobid4wyVLqGH53Cxo+UFVg7FT7Hh07aHMvIX0e/bVi/S7PWaJxZbxcir7ZjahAF2I+itBcfx1cf8lARd4f4hl6pLylS1R4XlnJoJddyHwvw1I22Ddr8XSAykbdeVoNywUwVofEkVNvxmxMro29BnYOMo3iDtacsHwIbiwLIRgO7likb3zUWgMWBBBHA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "eWGVaWRKSRDHumNME8gyrXIrXLPS2MYtPAV0NAg9F5cAH3u7aK7PxYha6rrORkPI+68mYKfSMF7CXiqq5M50DBxj8Bs/r75EIBvkZAJeg2MZePgkwhAfpqwlV+V6LYZ60r39MBx8zoIX8Tyko1v3ocaQkK9ucMHgNG+OyvFKNKH9TapN+5/XeBkcRsyc3nt40JEmKvh6Bv/DKz/b9BwduzIiur7CaytScRjegftmS7cTmrTWKONHER54OE+5c9rJRxAK3oK6NB0eSMkuATWDsUY6U3du7/haBzsJwg/Nuwzq8+b3fy41wGhrmJMtENafXFV/vn8PvDVz+HTzavmbdA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Boiling point of HF is greater than HCl because:",
+          "options": {
+            "A": "HF is more polar",
+            "B": "Hydrogen bonding in HF",
+            "C": "HF has lower molar mass",
+            "D": "HF is covalent"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "DYEjOfdf7lAQq81J9OSGf8Dp3KZMHJ8NIVfdx/7bEJ5LLm447cZsB5G8OWXamrEJIG8CAnGZXfUQtFOjCjJtmyYDP6/QycLtwk8Pv8QN+6FGR9nVD7fFEJZTnwdNaAikbbspFJzt5oVnNYvXIvcH3xhWa8s7pwcSyFw60W0PszS3fRYeGeN8b8Xsq4r+b6x/Jb41BMzAMiQOiQbA7EO2NegB6q+PIBQxReZ9qTN/pjEm4QoyttlN1Oz8/+9/u/hjDq2EB0FziDg5PnEmv8ZoBf44XzgCL+XhwJ3lFON8Gy7RHJfi4iCuUleX9n9K+fo7yQcdN/qecCbPBn0hvbWP9g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "IDgDAAZ51M0ZL75/6BT/2cneRH2RdUnI6UvMqVwCzDLN+2cMujyCegZGclUcR0cP8yrYfEA2I3h/ZA+pZ7kRLQluPCcC10swdibm5DjLdt1GXiHpcoZ6x2/gpwEY8+RL3jfr877LCwTKafhe0f4u7DrnBmSch7MJlkjeyDmELeFhEAvM6qMImKi35GEbGOeC1uB8MK5j41PEVwg5CyFP7kY48Me66dajz7BeYHyOktCXjWkcOxWd9apCscW9Hyeov59G4J3T0jeOXamlbpC+CniV1m+7NrZNSvuAsWqvkFP6tjjKfjMT1dVva6P+Kt+sL7KdZoJ1yKBXetjkUCzS8Q=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "In primary cell, which terminal is positive?",
+          "options": {
+            "A": "Carbon rod",
+            "B": "Zinc rod",
+            "C": "Both equal",
+            "D": "Depends on chemical"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "fbwePT+si1G/gZa01h2BUSxDZT0eL6nAJkDHG6kZK0heIRER2e4vZ9GaQFP00Ys4GENyxCoI07zM72aPi9CknBoiyBIWjft8hQaP5C+hUonOSkXC8K+LSOHyv+3wm1uN7oxXlOTp5bhQypqtUkQ5q/QydvrEr9MW+Y+zbYy5nrI051ZEdeb/5qIWX6BPAPLsZ2kuZDZhNP2LEFIdy6C8ehf2IBnuBIeDYCtIWCbeKrAkQZpW/QhsQ0BsGI8dUlHknaIoUOXt+ZcCqkPY8NmtOHTsEceWstey69pxKSigAkIrs09Mres9L0HSTNQAEnv9572cSgyR+O7NnsmRnTlclQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dDsanEJ/wwmD4EQVqXGBR9vwWukTb7gN3c4UP4+W36YdoLZ6iz3hCgkHOUO5tPszQn7k5BZJYYOmU/hft7494C6042d+KhbuaI28P+d3rv8NWxfHUMwOHEINEmUMo4L51ItWKWnjKFO1e29b6o6g5jZtvxZOw+YDLwygsFtCl63IrbLNkF3NCK3wjiBGcDWdEQ7e5Kq6cJSgPehvXLEl3g3lm5GHN8XYMr07sjr8mLHAxZDF7QvzfUdroF8SIg4/NY/xrhXUq82+A2006l0PyEiys0t89vI0WjmOwzpWDiz09motwWh5K4gQRAYYoAkT6cCz6PfghTTrzWd2xLgB7w=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "Chlorine bleaches because:",
+          "options": {
+            "A": "It is an oxidizing agent",
+            "B": "It combines with colors",
+            "C": "It decomposes colors",
+            "D": "It is a reducing agent"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qXOUpMZW3TvhrlzWNSKkiE+ht8jmD++f7YPLC+XseBoBjucZSZilQ5YyrxccM56zsFWX1tvS3uGiTtXOn/LdDc+GA+IrcOU/JaJ1OsbZeOy3BOxeq7pPjtezmAa7lj9ccPyDnPY/KK56LUy6S7LVPLwCllJV5lapYxC28IplPFgzS20k/WG6+O/hqo6GKbtejH0EWTC9zkkoLRKhh5nTQN+CcNSX72lfinRJ4SqRieUQc3OCGcY1jgf9XbQuowQqfJsg0270zqQ2L16W7b88gRhneknbZHCCqi7vdan9aGPj3lu9VT4BzBIvaqxQTqHPDXyiX6m0RmaRQrnr5duZgg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "EJqCX9C9FdbjU/N+/EdDNji2VMorsywKJsh3zkU0RylbNwKFdYObCHpwAUd1XtukJJMId0Q0ZLtMLiKuVkWsUL3M8/nPvoZKn4q3XvJ37vQkC/q4gVQvJIqpcb7tAi4TNCA13zVHQmOssDN684aji5NhMjanaL5HU77eBVtj7r3rD8MsOKZxwM2jLc7UdJQJFvTbKRI4ThQ3dq5sMXDIE3UrSUWlUphnXIWWdfv1wn4xaQch3GdshhWqarLkWNtQNBq4qr9l5tOqhl+PxHM/OfBcIVKu6VzMQDJjzHxWBmtgQKdBOrCKqaQqi5wSR1zxFeoPhOtrEKzdcMpttoINnw=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Basicity of H3PO3 is:",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZllChXQsJ4mf5Uvvvka6gjr6H6+3a/O2/GpoWslENENfYFkbSe/5XvdXE6yg8scPVxZfMiOyrKU38TDKhnUrqvzjPmIYPPE/0bsHC1bdurq/SUEJ7y7RVfVt6UDTEHWJrZ+a5h+/mmOcMOUmy/6EsSoWr102QxbDaI9JjWEN4p/QBE/muA0ob/8ZHsrCsocgx8lis63vg72oF77LN0m0eaBiLt5Q5D9i/27YGnXmPOnoXOeBkzMxnzDIxugVbz236VXnjNaBBT+ry8Okl2YlV8v1wlc1/9OFOLCRHzJIdP1DyYYDtG4vVpHznCc8RMDa55MScC9tM1tcYySvlU6xGg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "OvZFBYyN6KrbxnzEepV/Dus46dMRUZx/g2UtF4O1SFSs8WtKB4Ts8Rud7GwlGSa5TEQLMxrLPUkwMITl9YegyHs/KAf3EgeFNqP0mXy3aE9e2u840i0UEZSb6/l+rz6IYZYAKlsuoFLYzbc0mLhmtgZMsK5oADWfcyF6Tz6VEDaDdusihAIpKaAz16XcvEfyZR0vnKjLG0hLZwP9aKKKTTyT1S4p96FpC3vjz3ToTeG5dle9fxHVL9zUKsKRfIlCaNzCT3GhYQnhQRi++SZPmZGa1jDAeQqmHhzLRnhcizDWnc3lulxHPRnrZ/x7KKvH3I8Gv8xtCmHFoCEA3aKMlQ=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "Which does not show isomerism?",
+          "options": {
+            "A": "C5H12",
+            "B": "C4H10",
+            "C": "C3H8",
+            "D": "C6H14"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "PiYzCsFwQzZ+FuCklChAE+L+PZ1sVqSv+fOs0qCKhs+xtYhwPtga36z8o/Bmq8h/bnky16MwSsUCO66tRJsUb+0PcAE5ZMV6w/nkhY3WFzWr4HqF15+vdDHfbvoc3O2B6ortFvU0CyZ//hSCYrncT1OFu75fflwwh3+NO4OWAUhMFRiGJdM5Vy4enFfJbFORGScwBwTWX5a5i86mhhSxzrfGitAlXNjPzSFl1vXDR1z/FOoMaZd9VlAGc7j5CvUlFjds1hBnfdkH9yC0xCEbP+EA+5Q4A0fbn+EcSLyKA2A+MsUKhsQqw5QnBw9EMSTHvGMXUSpgqp/dPBG9MhTsJA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FYfRQTn9DxW+t9wgLeA9EYhX2xYcktwjaubO+94QygCRPQDmeM4YFB3sId01o4LQbGxwNjMzvqovFpNIlUrKYGBq+ttunA9/gbFnB9E6lZ0sWEf3baPZIXwZkfxsyBou3naVm1B77SMKoj34P6doGBwG75fNAA2CSOoSKoYK/GJ24lWPXdpae/oECXyw9fhhbcKn9krQBbCuOtEfrIyMUWbRfJrnxGdbjr8z96kwvAhZwfMSQ+1pwNPEljnjlo+xTeyPYxN9IoDKPAmOnqhDSQrIjp3qApjHvCxB1SW+pXPsJ1gEsLQtT8MC7bJhrUiCqkAeklz9V82infk/g9q24A=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "If tan(theta) = 3/4, then sin(theta) is:",
+          "options": {
+            "A": "3/5",
+            "B": "4/5",
+            "C": "4/3",
+            "D": "3/4"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "VG7u9reIPc4ojb5NsUuKvJDhPU1sY+rr1+ot6o1c8HJRRulhjX82YKSJVSi+MD0/KQpbGjyQ58Was/IJyiFE5VrxHR3b7tY93uEcGN1AJT4BD4DY7ityccG3yHvuMNGEPVO4d+eUugUZxrXt4K2wykZmnj5kwaTyVlKTIaGFqzioun+M2MFfR3FVfNweD5SYLI9I1NfwZq8zJO5gELunnwG/5det3ccgp3pLQvC2nJ3lIlDRNsnk9xxJ7m7b3SdLMPg0yEM5BonUTmiHKmGNBCht4N+70IyC9qeCI8m/01Ev3ld40rVvJEDUlXLs4+mCfiZYzSJKlOyMLJt5wfiQdw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GXCg1n0VLVgTZmTfIDYlKyasPiEFRGkhLiDqagRcE+GvOI14scF6RXGnn4w78tTb30LkmQvkMFtWUx9V2xFfAOcZWseiDaOjBSxGYpE7ZawqyYXCS++GX4v/xnFZ2JHL4hdBiF49eb+qkY9x/QQyULRbCp3ygVzfDzMhpOKkVZ1mllCjKORHNC6U7Wdvd82kS9GGLWN7V033cyRB6U+Htq1uuP3stMxdbblVdAJe9jLW6ZnmhC0Vd8uauc6mFIF8vtyQdj68/gKYft7q0BkpBU9IE6d97qoY4O596p1sllHzy8Q76Ybj9X3St8e/HH4jUABv0VZnpZ1mK6Gx9Mum/Q=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "Integral from 0 to 1 of x dx is:",
+          "options": {
+            "A": "0",
+            "B": "1/2",
+            "C": "1",
+            "D": "2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FUWKFqy4Y3QDfxQ1qVclhoAG+1sNGwT4gFtnr4o+ItLMRBSwyHEDlD2xLRbGJf7eNa3DSHhM1aPVcfJmfrqcg5GD6TNs0pdlp/EJgAnKlCg3uM21EMwyGI1nqJb9JPb0JvJu4iXu4+1JVabMqSy5vNgmpBofC+ZC15Scr1ZXH+tpH7uB/UxyimT8eijMCew/Sj6gH+V/qJ3YTyrmAk20K/E2LEp7PQQAbb06l8J+wSH/yv3apcuaf4bjS4pLju5xHE9X1jokgeI+OefHLtnzPK06yakdTntuIW172CUPaEjVssYVM8ZLSQJwCoRxQtV9fpfoEIcbZV412IHxmU/+HQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VGF4cvFobXP+cFtyuu3zxp+JEXgFtaim3U4nqYVFKRzajizJ57VioWCLYLB1K9eYC0VBIctd+n1Ii8ipb1tdh9ovlILULYVf93Egh7drsdRGS0kSoJdRgW0uqv3kk7e5Pxs/UNZufR51LazD/V03iSiuBILEbeLZ/QXI/nRT9P5TcZ+kL+qgK4ObyZDHYHbDohThQCKSGOBorJu9yQwqZtrEissmX0tD6mrPTTnwGtAu1teLbFuJeG4bVc66QWTkJcAIXAUYTVHbKNXOqJBBYQvNIoDpaJEBb98Q1CzA18kDzU0FtZBud/AMny3qYBkfzsLZZ4oF4xQbW62OLbPpLQ=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "The equation x^2 + 4x + 4 = 0 has roots:",
+          "options": {
+            "A": "2, 2",
+            "B": "-2, -2",
+            "C": "2, -2",
+            "D": "4, 0"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BsDxuQnFtpTeQgyNKLTTQimS5CWmsp9ALYkAiPFXDW4VyP2wBBmCJ/uzhD0A7hObSayc+M4y7ZzopICb9cF1qKQhkqSEppsHve5yVQQJ9O/bgPNjNTtPp/NKTC0iIEkVpB09voWrtHYs2r3jxO2B6jFNYt/7TaXzNWoJNTkuq2Q2WkMdiSgwKjfBLrWC21Wx/F1zVY3EtZP3P2IJ6IGDKCNa4gaqWFa2DUWG2PNOakN2R5epmIUTYuF9pG7CO2hcyqhhYmWHzxVtwHyT/JuTZeJKePXY3mLzRe2SjFN3iUrV4W18W5yn02dFNUovsf8vGGJLc2nc7eHsWiNvovePgQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Aa+fHRZJSyT8iJPsWna1TAEdzXCNqvNJh01rn4rcK+GeYf5EGKw+nEPAgGfc05+ykICCvI36pwZOsH41UIZngl0PSL5fyU3m6E+N614PjJO1XatS61tSbuBd5CE6pbkKbIksn1nRnEqTpwf40JfWDRW8S8CiWnIKm/ExTAuREUAeQQileUF0qz5rbYQL49ydDMwa5Mw9J9TlvwneLbNvAESNM0NwktJDpTbo56i55XzEQ4AdaUXWk88LDe9OA4OL5+tn5Ac69hBywGr13avGIEU46cQsyxlr+X4+IVV39fReZk/hxDY60chUtZolVJ7FD99hT+4HPrhwVu5FeoFf2g=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "If log10(2) = 0.301, then log10(20) is:",
+          "options": {
+            "A": "1.301",
+            "B": "0.602",
+            "C": "2.301",
+            "D": "0.903"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "YKneigOwXoAQqLTWLhak7HPt1A4p91sGVvPQl7dtll6LMYo93UzLC7ysixV+XZThKDViK1d4oHWOHZ89qI8ICAJ4Wne91QNkPrNSa12oDqQ5N5sOMkbbt3hHolPXFh1G9dFIZclqoNla7bQrUWHdpDBU80WDgUy1IoV6vrb3HDDRQ/vlTyqzLTkiPyQy1esKwDHmsQAi8OBOmObt+WFmNpsM6LvMyrgWKtbNNqIMVixRSYMGwYLqo94X6Z6b57c+W68R0LjF2SWgvdBEVN41UD5oQ3Wrl5ARwPGIvN04fsAI5drL764j/E3CYE51O/EpsBV7HeV3R5acyF/tCmrrbg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sxmv2+RtNu7zYEAD/biaZGNSUxlK9Q23IfJGCEvVzmGm0Yo/BRYRGQGWZCW1RjBJwnTFx7A7QwfEgMDEGYDxAYmxm5tMRH+ENJXspCdguoUGJrdoHv5hOkXWa+dTqOI7vA5dCwV/+/o47eSWWN6XfanokV6CCwTXOnUeadNv0ubXS++OB1Uwc8Kzyg1LQEwlvXvp2OORfAujFHQB7MYNA8LEG8VrDGnxmXjBS9juZ2SbvgFXVSmAM69iydTEnZN9oZGXh+5AUn5bR2DH030VUNfCq+pzjuEjw+y94ghg8ioGRshsVL/sAdfsJtBjuWaVu+MtgTTcV7j4Fo9bhTACvg=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "The distance between points (1,2) and (4,6) is:",
+          "options": {
+            "A": "5",
+            "B": "5*sqrt(2)",
+            "C": "10",
+            "D": "25"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RuyeWGDtfhZoS2HWwQVngdPZoIrQOip6G0cbTrgl3b3lwjj8bPCRMVYF1aCmbO4YpWWVmjGYwA7Lbjkfc6l8IM0f+FNOS6E27VGI2igCFJ1WQDci1kwdWUi3E32aU21G3yFGe2HtzPBAP1LJejypAR0wudnuXzZU7xgj7uCkHLh06fLZVDkqSSB0ATNqvU/fKRgJDcPGyIRj97N+kNjlQasFnPBlFxBDN1vmuI8trNh7ojPXLqtqXmPYBxGdUnN1pPuTgm5TlqP6WVBvCiQ+FT0YiL85jbQgnUsPkC2+g+yJoAs9Br15E3opJZu4QBNKNYSA2QWC9gm2CPw69nSxjw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "It6tkDqAdvqOZaKSis8j+VyvXuegrxbQw1YERnI9UsSScOEfhH+0mkbpaUXZAC/jyWMTEwe1qfDegIrinxpbuoNEuqWPLOtjt0Qs/CbQftK6YHASOfC4JOX/YMhWt1Mh++Ar3HA5vEUDEAG3Pr4pwjpgL1O6ec17MQHrz5QMT68pWp9vkRHBR9YStxgQOKz4ragkTnLcB0l9F55BzJqVD3CFd17PJGxIqqqppVFnXbF6MBsxBq1IPRZ/9H5rQXywGakgIOVn5VLcfUyb2HrxM/DnM97etvodu8N6VHk+g6x5a4b17dSsOmShqLUVR/HP/glvya3iTPYcrPVH7ZnxXw=="
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "exam_id": "rbi-grade-b-2023-exam-1",
+  "title": "RBI Grade B 2023 - Exam 1",
+  "category": "Banking",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "reasoning",
+      "title": "Reasoning & General Intelligence",
+      "duration_minutes": 45,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "reas-001",
+          "text": "In coding 'BANKING' becomes 'CBNMJOH', then 'RESERVE':",
+          "options": {
+            "A": "SFTFSWF",
+            "B": "TFUFTXF",
+            "C": "SGTGTXG",
+            "D": "RFUFTXF"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Y9Ha30yUZX5HbN6lcJp8whskyMoA/FHgeEIHsUIjabt54/2jCnsYiHNtxARtZI4JKVbubkWDN6K0h353ya+/X3HEk+eC5YWBjtmPv9yQUyP4bYcZ3kr2JKw8kasFBCC9+qmmRCIDEsoUf47rkO2nQWMMBlJvvWf7hkAG5FFbpYVrgkkRuzjSLdtvsRDD1A5a8xg8sZqtKSfoHORD8DLyH7TwMoZl6ezTFKDwHpe93Kl3i6uqoE+cnQNGAV41NMuSHeEyk3U2F47Ko5ZlUaAiXLr1ztTPtFLud2BnNlffE0gDYH282xFabVGjVrBaAV5NSl2PTjuLnygBSGQgAgRFGg=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "I80BuoHYmFmMF3m+hFrmUxReWP+JhKcD+wz7i77VQhC+qURypLbIFdbsoEG9pR6lHjSh1WV42EcPzZqzg6v94ncuGah/Z9hJS+vxGaV06C/ncVlyVpW79m31ECYtJplnApqRdd2/Kp89y44htxkq0EsNDNbfFbd9QQCnKOTUdlpZIVEWqAK/C44co7FKiqS5FbxRntk8xCZXryo+z0o6zsN0/IRzmdrno44hdyiH6MXG9uAgfA2FwE8WXWvrZ5sOMHZ21zphHt0u9xJaAtdDOlhbCkOIfMii47mJ5+U0dIf/dD1TE8nKo6ThcGqBt5ADutsXc91VL694cQdotJU+yA=="
+          }
+        },
+        {
+          "q_id": "reas-002",
+          "text": "Which number comes next: 1, 1, 2, 3, 5, 8, 13, ?",
+          "options": {
+            "A": "20",
+            "B": "21",
+            "C": "19",
+            "D": "22"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Brjp+BakWT4r4kYsr3U2AODk2IovAHqnKmOyGGHiPAEnR9MBabB/3cb8cKtgSDNPUlpESd3/sIUEDgmMhIVQe48Ya5lje8VrCcmyUdVc2eOHibd8xsRjfYI481irMIsELyHyYKVPrUJvn9kM+BCm1dQXpUqm+ILyfZeAPZ0x+ZyGPXNyQqw4/axIqIUthLJNmil4n/eQqRitlI9M2mAORglKa6b2yyMlEKofc7TpWIS3rAFUvEZ9xMCBX4pka9wFfJbDym0aa8GiY6RFSvufpnmTWdyARcJC+oPD1RNuW+8tF6E+AeVKxkGY0ioY4mlK+WKUzTTf25419OYqwv9LoQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "awYVCVPc+NdoszPMbnqYJE3mfV0qXtdTlV24jApPlN2ctVzNgNQlOI8/wv+7FPpvmhZC/wtoKO/wReu4RIwI4N1AsTbf5aNpVi/dVJOUkqnWFQINQL5eUYCZyO7okiMLHqCt0mNeVl969sCIaURQjqJGX7SYnf7I8CBhOTnIKxuuyr0e8yNPFaNja+WHSl6M+QnP3GN0G4YBmJKejG4EoEP22I645dsv0Pe2ZReR2ZrbkUScYLA9Sz1FF6JpkkUR40Fm4WXl7ov9P+2F9nqbETyE0QakgpV1jFWCViasHRPAK98gmm2N78RYwYb27s1nS4EGI2hJgyK5YlS5FQzgRg=="
+          }
+        },
+        {
+          "q_id": "reas-003",
+          "text": "Statement: All banks provide loans. Some banks provide insurance.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Cannot be determined",
+            "D": "Partially true"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "giU9rvibBX1/Jlnz9tKXB+NyAW9oFBGpn5NC9GgR0+xR3xWbq5S7DKx2e0SFZe1u/qzJVWMweN7I1ziikmwsoSA45Sbe5A3jOlczLq+cr5l7zjfWacXEZJXwU3N+KzTlCVMHwmB9C8h0lcvyySsm9w1ZZ7dR0Cdb0zUHvA57J+SU8h4MgDmhgqXInLiKNekwZlc6NkKDAEh1GpBsA/WlxArFH4cnxiatfi06N3eeVJsHrHLAU2pt+yehJ8SPsYkNqK8z7PTkqNpJyuAumZwP6dm0M3/Oplf1XvctneopjqksNNotIOp2C03PSEJcisy3+lO9VdJ+AmQPJEWpqcnIBg=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "chiw4Xu2LUmNFrz3wjTkFGUI66MH93pWt/8UjUTzwF7QshRsYHtXelU6a5ZMyTUJ9fshBeJjlkhQuE5xbXqKbY2iYDdtb08PvLWrqWDJlBoM/peHkHTN4Jk4wfo2Flcnymp7v5uTqgRwklBP2h4Q8yFZqxOCWJ7WDcIrKrDn+qo1ihzeB518gLZxKIGuJoYVx0baEUrwm343gBXRpOOJh9lMT0wS3L7tPz7yNxnb3sI3eRyR6bLwfXfdxcJ5jgce75/ZlQcduRxDKcO50Laj5d/cTde2XK2zboifCdZPMMCEpHRbW+DzqJewzVUnvNmmLNnhWMCmyPZoWzke1Lttsg=="
+          }
+        },
+        {
+          "q_id": "reas-004",
+          "text": "Pointing to a person, A says: 'Her mother's brother is my uncle'. Relation:",
+          "options": {
+            "A": "Aunt",
+            "B": "Sister",
+            "C": "Cousin",
+            "D": "Niece"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "kUtEp6fjP4D4aHh7jqiCnP7Zvf1175wG13dBPVtTQHKkCjKq7MI4GsToa9rWW8/ad9RCogsXAzuI/3SZqRi57z7geV8QNi1SmwGWQyjZlOxIDfWE1hezmKAuebo2SLQKfafREIkI161BeMOOcnDCRCme1Ts2ESqbQCr08UTY4aL7xzEkgOKZO05eoPvS2SOiFFTtX+ASYM+KFwdLOq4NOYhprauen18KgfNmmTUUGO+43YBdbHvnkkH0UdIPsys7jRcmT2SH3BNCYwRbiLfre7pz2PefvF42zit4R6kBfGxyg6AhLegyC5g0KtN58UdBj/JCwg88RNmGeG5Dyw3Urw=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Qn4/7WOYQVJI8oUixqGrofDgZUdMUxdavQT3Ma2Fr9WGgrcujfdeXnMTc9FYuPwf7Ok0U6U6Ti3UIStAQ7MvWv/pZCjENXTDwp696xJXKr8oCNB5Z+kNKueffHzrtbczrMuIhstOAUZ6oyPZQ9UOEYy+RON5IiugETZEvk2ZXINXrv4Gf92UZOT7fM7RB+ExxIrF0M7EjrAr+682cSThKLlEkplvbkENBiGTbFE0Wf78xvrPnH3FjUVwA8R59QUo4o7rolg/kDEBHyvVALTu5qr3J2EX2m8IbEuGrS1qV10pT1YI6wyzx80oYEbb2JIahdBBiDKT+oiAcKzyelNDUw=="
+          }
+        },
+        {
+          "q_id": "reas-005",
+          "text": "Mirror image of '12345' would be:",
+          "options": {
+            "A": "12345",
+            "B": "54321",
+            "C": "54321 reversed",
+            "D": "32145"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AnahLGf03Na1jjiGxFneBWHvTCarGtBgx4/AnpEB3IaSzau67GSjIAn+/sGM0fvQM8skGA3p/7ADcm9q8QKz8D7l4LRtZeqWEbH6LUT9sJ/975Xd1NmKbEh0D33DVx0lV+nyKfEAS3tGWjhzHdQaLVWkl4CONTyB+G7PH3oXWyKO0rOdIquh3X9l7Z8BbxlkSsLN57v2yjpIsMSRpfFXWMhb6JAQ0hfQ5De4+e33RaL4C2n/hPsli/FWvNoOg/QZz3Fzg+sjqKNfZuVVQGhwQqZnw6wZ2VUsq1uAB0W2aCOz/smEYFfHsUB4UlbltpqjwC07HZq/dU8BS74/NfG0Gg=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hbQP8cXybMyeBwbIS5dEwS/dBESAeNuYp1WkMi59LBNrqYTKzc2npO1AkZgqt+NOsovoWLk7llQA/2NhZMmu9omRfG7c5cY+K8cW78wVH6O4RBHoHcUC7/t6W91HyPXY2nRdREpjbp0UscL1dAzfkrrIB7xbSZ0MA461zDAz7xLkePndau3ePpOsdS9HPdh1l08+ylc+bUJ0g0Log/k+iQNhCjKnv53g4lhvFcN25wnDxynUWvcYZDIRiwFomOkDlB5zVucNmEFxEULF4GD7WGniY/jqE4StP+5VGrm5NDaGXcU8WSYVwdpmm1wLCmshc+l46kIbnoWwA+znBn8SBA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "quantitative",
+      "title": "Quantitative Aptitude",
+      "duration_minutes": 45,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "quant-001",
+          "text": "If 5 pens cost 50 rupees, 12 pens cost:",
+          "options": {
+            "A": "100",
+            "B": "110",
+            "C": "120",
+            "D": "130"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "r1oPa0LHCcvGp6PC2bNvi9lxF/FrBNGTyqzc3P28nehg9JX3c6sLJwxcVhxb2NK6QPL2J92e8IoWTJcpiJ7vV3rMKjPpky8y3IrxOTdurFHeBdexh0FrUWA4PtLl5Y5JgHpOGQfxFlKVsVy3cE+HouLjbqqEQcEGTlbZUcu/HAmsjBM7WojWq3pfA+PU2RJ0xGa4D8uPhnLxJ7CFJgBli2xKs7n7ybPddtse3A+Xtr5oYeZkqGpIBBmWrBYWQOqtOWkncLhtvb6ht7E2MhvhzHhJXpoqLXVZiFORicpfM+l6skKfljjxEfaG40mNbjPr4DGpLutdsmpR6Rii5LfHsw=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UoqtSfKtYX9EgvoXA531W+p7ZGGG5qz8PLuHVncqIq/4Vda6OnaKsF/VpKia2PonRufBasmezIumHQfauBAn33Vm+3eB7EsCoySV7fuRacLgo/+WspZGahrxYK7aV09t7Zxh4TaRUsMbnaFGmlQA1tLDfbBtEQ+2bsaIPZk2G/n1NNgyF2adI0to13lxN+le8BpOG435Jkof/GsDkpl5T9taF/FjZvRiI3awFslR1dfHcuTZ+Tnr2dkYgCFBwNIwj34NJeeppT504CD1RNdafDO+eKRhMpss41dGovAHyRncg/fjEtOMT76FC0PTDiOQG9u34qFQwaaJRzIFMbkfKg=="
+          }
+        },
+        {
+          "q_id": "quant-002",
+          "text": "What is 15% of 200?",
+          "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "35"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bBt47XLzxHClSdYpIIwzMNggPd4ExN5qHOeksa4tLyorp64hRmodtmgrEncsKhtNsPXoj7Gwr+34AU+Ge//drrbYA41AzZWULM5T7nXu8HEz3fuKfhDebugbv0d7CniCxQB7l6VAEYYG0Qg6Ns17pg3ZXd1CA2PGNckVXinIizDZmFhOO8bf/eOcp7bkignOI4hV0sS/UTZMnCu/UFc6t94N2sggBo6t0o/pI+A3gHaLCQw2HWMUOQYkR+v9UUn9xT9gtgmHTFqmsXTzlXv5N3vr5eT+1E8dJG9VVIH0gWKC/1ZsDlnKH+kmmw5wjlGnQwWJ8ASVTwXNen1+ZD08bA=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mHejQtC7/wpPmIlcRc3MTGhSE4OOr51bxNfK+63CHTNJKfoWLuR7tAncLTt716X2ybY2bHtOMk4DJUI4KCNRa0CkIof5zVauauv/XAl9YIdNCO2qS3ocVK/am69/ox1qk9cVq9j7FUlx06EW21tfGhswSn8gQFyuhjUKuQs0t0VRIMZYv5j9HDm+lAzLkyHRfTn4n8/OmnS/KfdFEdNduIvXEVcGk6KlN0r4sGhPqXUrWgsbwuZpulDBFF51pfOrLeuU/L0TTSJfccO9Xu+C7n/IPgC7BdMipWsb4crWsABIOq83u1WxkTRC1RZv1nOcGPgE3rgxU1W0d6suvv0ysQ=="
+          }
+        },
+        {
+          "q_id": "quant-003",
+          "text": "If 3 workers complete job in 12 days, 6 workers complete in:",
+          "options": {
+            "A": "6 days",
+            "B": "8 days",
+            "C": "4 days",
+            "D": "3 days"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "W7+9TnBpyQiKP3R+w0/JiBkWnuARTNYzDxBnICx+R/r/vpj6jvmgnUGekZ6uDDbqGuKWLiiGhdp3sszd/CmdfDCF9k0OKoQtWKbBWDK5BxClfU5pD7Lfp1eqFZG9v3/h9+UIN3xOZO3lA+2ocjV3jIuaQJ64XsBpXPCdtXDkeqIdpbIcdKuF76D5UbVRJlWnktIA1G8wmwGaT9qPR0rCcLRF2jkMmPk+zMa5ppn8ju/+m52pSUJFbzFoVgMXDnqC1g3bwlBymZlfI3VIUvQHwx2sN6kxfyXlvwjyg5nVOdnciYfr2Z+Qukc7ENLcld7+qVCXbiar4Sp5tTUZ0/3eMg=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hQSk17+G1vjL8q7JNqgbdAwlspqFpcIn5DqUWuX9A/CTOknYioP+N1wmV1jcCxvq4gbJpTgrEQVYijCgF9nAi+dR0TA1+IG2iS3yiw+SKupguBxA9iLR0BuyKZTLBGUmOvtYiiZiQQ/FmmirXZhCH9/ANqR7ZLMQUM6jzm73EteqfrO1idz9z2OPhCNMWOEZWrbBbJ6DrC4ExdepMfnE4KSqNTrWzmNmu04CbmDpMbzTxi0vP4wU4M1hS1HQS3tJpVUXRoQ/n5v3BHHjeGE+xLlCljLS1OvIh1uYhO+Ln4gY7uFklqMWl4vuGxViU0KByk/THkQeAd8T+FMUF21fDw=="
+          }
+        },
+        {
+          "q_id": "quant-004",
+          "text": "HCF of 48 and 64:",
+          "options": {
+            "A": "8",
+            "B": "12",
+            "C": "16",
+            "D": "32"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "cIXNmaWLA74D6/F1s8MPnIlGocofwMsAa+/r95EEwY+JCPmJVNRtz8WiWtVNkV0kTWFKtVIs4ih1Khct/XTMiUdDTgMUpXDRsdum5wA8/AvGTazGeAy6DU0IuYT+dSz2VRw7UhXepSPHcWfus4wJSsp46KTC9uzT/oLan20kRhEx5wPcim67VG5uMWKTqVidyLgtf1JkkseEKcwqTBtgta6nC4YTN30qwO4P0SMDb92XK3+KyuODvyIcJZel+xiBgu3yQRJYnKC4/9QeryMzGcdREU0uR5HIIEU7tElV09p4RxYNofOuNC0D99VZdAHjLyGo1nJHvQtIXlMaYvDwww=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Q2qsL7kQMwkjId5U5DnVJGFHZdkWd/BYwyPCBAH5dvo7eyHpTdCNL8XMtr5G1VnHmg/gGcXxIKLm5qFzwXCf3ji/0mKJi5XEOq0qgoLNZBRyE7QK+1S2pxneHXQWi43rMsrqybsE7AEYK2cEb8s0oYR8ZbbE1C4vnOsdfz7adAmna5u5UQKDwa6p9ossCk990zbS5xb93htcDE2+edx5pAroyiPrA0aii2jloHY43Lz6SCcmEmHQtBKlXnM7MyTOcFiEHC5tmmspJBV131vXdVA7PK8zGbZPXLC4vtqWr4egE56jN9SRTX4O9pqgYC9fmwvDyl0WoWGczlElGlpkCg=="
+          }
+        },
+        {
+          "q_id": "quant-005",
+          "text": "Compound interest on 5000 at 10% for 2 years:",
+          "options": {
+            "A": "1050",
+            "B": "1100",
+            "C": "1150",
+            "D": "1200"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rqzaBXEDdnVq0YX+r5UKmneFe51jkHqy8hHlc5aP55TQgCy/jF2eB5hdlBKGbUiqikvEiZjcfI8pol6amgO526NZZ0rthGO5Zu512INpahSgminHE0P5WCkPfdKRfyZMGcJkVdTxAVt3avqFvz/j5VssrJ9mVeHmYVls7fjXYq2Rs0BaMUjTuVCSH088XFHJlNmSGTZ5Du3iQwLP4Gzl63NFb8Cj+gd8SuAmJyiBysjo6a66CSYaYU6Y7uvBHfG0nIfudjr1NLaZZyIaMFcVaXP7weKCEVsbGeyqmDb6XLa2T3EKy9x8BPizQmNnbKEVE/bR/b7hWhh4gJ0lTsXnag=="
+          },
+          "marks": 1,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Amw9hiZ0Q3aaGYeDfBHUHx57C7maxNLw4+1i+xvVIuiRd9RIGdttKPEaHtxfeZWW7VQQ4J2PEOldqO5JoZNfbRfuqIkVYKg2NQzqgPerBaVD4eqPTADRCHFisGUNTHB5rzYsEy8Gfaq3N0K1iMwZ12z8qrHOZHn3W+VG0/UOwEod8xcbvrPwEsEjQsVLaj8+Ss4vSxrxN1dPfosKeoRB+iPdi3VUh+jij5zz09pqGeaGkyI6HXATfoeZ/HHwWnydI+u43L4JdqyHBAr5Pa0pYi9F9uMCjJJXwgTNjBadUrGUrVEH+sMyy64EizZ4leJ5FSgxALvBS3LKSkdRcnHzyg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "english",
+      "title": "English Language",
+      "duration_minutes": 45,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "eng-001",
+          "text": "Choose correct spelling:",
+          "options": {
+            "A": "Recieve",
+            "B": "Receive",
+            "C": "Reiceve",
+            "D": "Recive"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "fodfYqyP+sa+lzVfkpm8FdMgPKb26lS+FBj9Cds5+NXC/alUh0Ci0qYMTQAdcy3ME+ipI1Duu3jHu3vIDXItFQckM/qJVYp6kaXLwt8pzRHVpWAYgXdbM3X6iOLFqDFUBcqpk65z1kAVLYQSOxVsRa+UmhxWlHWkh9AmuVtNmDxg4dNgW5eRkr36yracyeHGjS2dVppsPF3//0hh9W97N02BO1Rv5VTDfSmya0LYai5jNaAX6bil70qr9iiH9rNPMyXxhkCT+ZGR2wzzyqTDD/9ndKj2xPP1/DTeM/4cgZJ/4KdnIwqic3v4fhuXazDwypmq7p1wNASnBHqKTYyCsw=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "P3LiHa6J2iOHMxM3d3kvsumKJNEtMbaDS3PDcAJdHAKYGe9OIYOcXOk0R9ReYZt9eOoTkS7M07FtIdp68Iz1zSD4Ca9rOPq9jeRBJoNMsmPW6o4+oXC32o71cDbnvXCgX9vwYzrU7aqpTpogrrT8Zm3IOZP7QtkFYWdrGdHb3nwBYm46RnhbKmuSQG9FyH6z/ko1sD73TwWmlwqRKs9oKIV8IZSQvSuveH8WqRpw504UR5eQCWhjg1yqX7uzf/dWfKGI30s4o7+9e3WCbKoL0pOBJUKURq9tRS+Q+HXTwe4jfVGXNHnh0I7ZDplyG9C6g48rK1UkaxCKEHGW2TY+Aw=="
+          }
+        },
+        {
+          "q_id": "eng-002",
+          "text": "Passive voice of 'She writes a letter':",
+          "options": {
+            "A": "A letter is written by her",
+            "B": "A letter was written by her",
+            "C": "A letter will be written by her",
+            "D": "Option A is correct"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "PsOPDrfDD+fsO0ArKnGOFXgVpBa+zpVMBc0Lv76YWQupReL/Or7vlZT53nSv55/LsNl16H53A2R1KjbIDkZAyB9fD2kmifOUBSTVZvG/10XHWaWlNhKebEnAFK/wC9q4d+fjR9gEChN38rNleMMkMJp+WhRtHrhTtDEV4a66zn97Sj5hDZkkKP/GOxFJWPh0diq7LW/QqYqhRHlTNxK2Ep2dMuUPvSIUVXylfO+a8JCBGC2Kf21NWCOipSfhHzpL6uORA+3zWAN4C40H4Yi6DhR9mgu7ak65hqqBqQKxaZlWNpy1sHA/LcA0KD+tmpQqu4jT4RFkFUBfKkBrFCRPgw=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Rtx59V2PkpdwnAkQRvHZ0SZZX94NpeUI6ZyY0b/9pudRCkIWyQyt7TJa+tTtr42BJYebT51+NYLpB+WyjBsBM2QrcTFA1kGDAquV6SWhNLrVc6V1j4oOFE5wgahogy90/XoxSsuWJNtfEByzE/PXR+Tcom84DZ0INvA64YQ1U6FyBey1hlt9GffpDTJrmpvRO20+hb/LP4Wyke7fgsvfNT2z3fcDHtRbS9XKAMhzbpugt9ov+Q8HOsS+ZURPE7KhMtzb1LuB/SNO3rM7EYG1L+luLoDYkCGv/0SOX5+gTe2caGG2mOjOW1ksHLCCmuIrwnm4FI9B3KhFgKGPgF7czQ=="
+          }
+        },
+        {
+          "q_id": "eng-003",
+          "text": "One word for 'fear of heights':",
+          "options": {
+            "A": "Acrophobia",
+            "B": "Arachnophobia",
+            "C": "Claustrophobia",
+            "D": "Agoraphobia"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LSMWHP1Jdz4lLcJoZuD+qyix6yPwGRFVrIQkrIxr7n9WdKgY5UhdgXStE9azIXLKo95kYpLLdRxDRFeE9FixPjCj6WnW/mQRvylY3bm6JHRCIoZfNCdTjf0BfTWsuTzB5E2nW6yOTAYpLYRdUZx8OEaP+5YMeF+mkG9edThzLnyloetykxxOYalizXVPRgA/Yihuq8n+9XCpsa5QSWasfT7TQVDkobUV34VWWyHkZYZsBB17rVIML9Oen42dJDRZMi28Ful1LuRY2eYYyLOPJJLBt4lfEttSH0gA5NHUUTnV3RRr8PjIc8FEuQtDRSoUIMbS+C/hfHc4hLn46kw1ng=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ejkO90LowSTZaJu4zSR2eBuxwq0lDKp3BpC0sIQbo/KlYDYcrQKRnXbPHEuc7bxAt8j6SYLE3Pqu957Xc+pj1YJ9qgksz1lQQmeAgfh1JwGixGbwGW+0kmd0hqBJTQLrOOl5bjQlIlMXkgPeUDtfqrqGFDEEw0gyOwnNsxRHEMUO5QPU5WSTMGV4ZLB/RyQ3Gy5+qEwWG2lDPWkiqyDbs/3DjL2AhGd9SRYUkXMfDu6l7UVaFIqrp8JkVNjhvs8YErHmNOpzFxvKHXH+KWsqFCTXnhlMAHJHTPrhyzpIqkB8/sVaQL8HNIeBvoEskWS2ppNdj1mdGRomT8yfW5SMpg=="
+          }
+        },
+        {
+          "q_id": "eng-004",
+          "text": "Choose correct form: 'If I ___ him, I will help'",
+          "options": {
+            "A": "saw",
+            "B": "see",
+            "C": "would see",
+            "D": "had seen"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "GwSeswa0SoZbXw7J1h42IORmzcANH6ga6XGqwnfR3SEu4V5EC+dTNANNku1emzAwobnAJNGXNJzSFhtE9Msi1ZqyJSTgztmkFEe91ix9DQnMmcd1kaxsyRmnr2hGEEF/Q7VsSb9U7KOCIVzx279UGGYQgSzv0uroO4I5pNzNuLLu3mSljsJ8MdTWFInr99Ww/ABADoAzvBTe5MkW1DUT4URye4RA4VUDiYEeIWDY5Q0QLESkMBtFuoUYToD29HVHcemudFNLjTudR5tmBVagPBFF3NOdV7/H/AU/w9uGqiRylnmFfTbOm5D3qI4NGPQcKZ9xKJnSVYhENR37MpRl4Q=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YL+KL7+MzEoUwDLU6xytJdNfUCJWlMS9sOx5vOAXFhy2cRH1O5LPKEdEnvSLXXUNd0Rezu8PxZuH+qjykF/wjOswxs+YYXIllxWXkLwpxO6ChLcaFYXckPRjKP0FrybvGQThWo81eS7ZwoNSmjM1JV1zMdpG2LuZtfkn8obPY5XGhDny3GYKy4HrK2IfdtgmYUVtENe1iwMHpFtNKzbDWIJsXUzFOjUvcwxcEJLF/JLRhmukKFKe8ye3Atd86dOJ5WFlwFnY5Zihwy57/HMX4Zc63OBcUVi+9v/TXM7voHkm45zMHvs0Clp4BgbnGFipicY+eUsS0exgQW2BwavJBw=="
+          }
+        },
+        {
+          "q_id": "eng-005",
+          "text": "Idiom 'Break a leg' means:",
+          "options": {
+            "A": "Literally break leg",
+            "B": "Good luck",
+            "C": "Stop walking",
+            "D": "Run away"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lA9BonHLNnI1GD+8uSSVP9FjxxAF6P+F2Gv9kys5JW6TjaBKaX6fkIrxoYigdFqj8u/9v12LnDdh1Ox5WG33JTbuKoMDagajzG5xcFV8JFGWvxd1saMetKKVSqF9arh0MjL52uQwlNeTkgVoMm6v6z4LhtYjasp6hDke0OvXxozkqYUn4wED2K+JGo+aSgvG3U08WdJHb3fsXRePzB7GjBSQnAEToYde0ZSswiYDrYbtNcvI9Im+jFniCKD0UuKXJOiIYn4bYnOMD88OlVH0qnZpJUfniQKYi46XxdcBu2ysUTo0/YNdLHVTMsK4rZ40ibVRhYoHbGOpLUYR140g5Q=="
+          },
+          "marks": 0.5,
+          "negative_marks": 0,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sayfRDq6RKDgGY+3zgF7+OUvrkPrWtZVuOGv+D2JlbMxQIaCPivDsGTVjMZ4KpVjN8cH+31qInn19cvKZ+mLzTiUIOXRS49+tiLVDyKQragXi8HM5qdhXhI26odftAx97ZiGMt4IktEGmVKB6qtX12whZLZZSypGcrAwNDI/fCeDU7WJ3vyDV2aP4A8Pz3TzZxlwTMQsGThVQhVgMo2swOEJxxkn+ZXp8fpPvqDIMKX5rSdU+ztmVibmPvpfUWGMIf3icHml0VJkuiuWd6YfDHtBb0C/V+tV9wQNj7YRVG2Di+itnQeBZFJYNFeA79b7i2ZI/XPl951lEPgGIPxlSw=="
+          }
+        }
+      ]
+    }
+  ]
+}

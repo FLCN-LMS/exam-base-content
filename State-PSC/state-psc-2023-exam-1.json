@@ -1,0 +1,116 @@
+{
+  "exam_id": "state-psc-2023-exam-1",
+  "title": "State PSC 2023 - Exam 1",
+  "category": "State-PSC",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "Total number of States in India:",
+          "options": {
+            "A": "28",
+            "B": "29",
+            "C": "30",
+            "D": "31"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "HLdw1gH0wu9ExwejdX0VgZ1yL76cmIm3SqYoOKPVA8wvtWwCvec/WDSAo8iM49QO31tCrHW+zEQi+PXWURvvUvnUfL8j3rXzAugjFFMa6VgHXQ4v8U2JBJewAZRthNOGhUNwLWeAAbI0K5pZBy/28/0EfZngpLfIkzExb7tXpBSP/a7j1mk01akGljdYYe5ajXDJoaRNLZBab3nkKD2d7JIzJIIuWesRgLck5y/tDaZQxfdTYWdrKtz6YNDSDBrisWdmsAes2ZfHY44f6xqX2+Cl8smxIOeNxO/HIjvhPA18sJ9uz/ggcm0tpEc7tkp0pq1ZQ6wV3kUQeGClXoKS8Q=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "m4ui4Q2mqrObZNAxSH5JRhirZ8xsPX6I+shuqnvcPRHV6jPWmiY5y7n8W4ORGojUWixGITAzx6YvsmfJiqksbs3cz+ngQccwfZbEotXrSB1yDPyMj0RAd3o/R+JdtXAgwp49YlmsYf7/nusguqvK+QRKUaTMyN/bYrFDTtLTUxA1N0ipLeu2H2UBkG0O1jmIWgzoQ4umiI37YxrdTBL8sScDbQxvDilhNM1vlr0JQKtAoNOvmbvu+vsImmpMNpqM2RZAgHzI3vSKBg2/XJ3rC5oFOBltkRVaZilwoZ0klaI96OHxl75QQEoMCpUnfclMkhlXzHmxv301g7XRDX68RQ=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "World's largest continent by area:",
+          "options": {
+            "A": "Africa",
+            "B": "Asia",
+            "C": "Europe",
+            "D": "Australia"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Txzod1A072g0wljoJ4QaHFfKbCOLa9mdjoJZrhwBo5aYBBY60rRp49nnI1nDDBku/IigTDsG1ovnXy+V9c/xwCWnrz1eIXtu1CdHXk1rE9KZteCDwBBQaVjEPT8pYs3Zx3CtmLPhVJyY3kL06iJw+RVj17BQegy1uzSWhEk4DKwOmOwMxsGEGTxgZrk9DUQpQLQrPfwQCfGgY+HHJ3maasrhv+i1ZudFy2EcmZ7iWsSNuvxVzxjRDor5DGHsjxEQDc4fgEVZGB9zl9xYW4wwOezsoXJd5e+gieOacj9PhRp8DzDXYi0+yaJHp3jysYgNAtvWyNitOH/B+xwzxblW/g=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "FjweiHRqoVbK+kIhsToQ1v55dwkeSXPjPpbtqkvQyk7xZgUnm5b5YDPkbrLXw0qec7YnS7asNT3O9duv6G2MBruYM2Jn9o9p317EMxkPO/XeXFfc3zCgIPVwAExGxH0QEPJhBH9wDyXppWMmX0qxhokzC2LS3DDim7SLhWUNOd+eCjQMJ81p9jaq9t+haIRL8o+nXmr2zLl6JBB9MgKyBflQQYFBm4imzuvK+/10fY19ZbhTx1outjpu4nZFCiIUXnUqF5qP90QQBlMM5OSdli8n99gkduaFpnIpnfAW0V553gOTcr9liPXT5SnCNguohbtLqkGUNP19PL8Bzes8jw=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "National Bird of India:",
+          "options": {
+            "A": "Peacock",
+            "B": "Pigeon",
+            "C": "Parrot",
+            "D": "Sparrow"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "c0+f5prhqEWqgLNOHx9TipW4qOW4yL8+B/Un5ZxVgzTp4Ut7qpq0QH3bd6ZK+fSCdJJhIdkCfzp2gPusypdaUhpdAjHOaer82bFNMj6atQDAhjTscuMYGMthEkN9Z+5CcWxhASu3+JXXAH7869GU7SCkyH7WycEznWM50nl0lzR4vJVAsIJ74rG66t3h2UXVuurZtxGLrvOIFMch1GeeettHbxiy8J5OLSSfUJipeddnBS/QXdmARiF+tQ593ER6eYfV0kf90PkQq+ByVxbWnC676nWD8er4eBAvbcRLoPbv05oQvrfhz4NNo+A/40Sg8JNn1V5evoDNqCMQy6QrLQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UV2uUc3UvMLbWrE69qYw01/SlWLfryw8GeoOdMNDt8ylnRZOTmg+hPkU/BwnlqcqpCZYBebUFACrUgjS/xcec1fdfiyCXU+b2jv60fBYObh2Eu7MWs+cPDYOHhuUrRSSyG89oMsSFx+BAIZ9ysqqyCLT2Gssqgj20XI2x1mEELiTyTUMapSSge3X8KC9WfgvZ4zaP+IFaMWi1iESZaXgsANfNVF8oVEY+wBrsP8121805QfOKEHYzXcnM/AmYJnBM3wUakFNwu8sonJovArVXCOS480aYe/LSY28BuFDXcmKy470kWqqcBpXL9kiCj7BIpxOepQKq0r7LIvf9HJVwA=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "Chief Justice is appointed by:",
+          "options": {
+            "A": "President",
+            "B": "PM",
+            "C": "Parliament",
+            "D": "Bar Council"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "l2fAvKNQhr1HJYb2g368l7udwc17FPoS6HwsY/ZlLjne6DmaTYEp100xgaoAV2ag2FvdNmwDIshvEC7a8aLYpbDkdeFnriab2bfzH/VP5vfIiLfPMAd52C7XDN2wX8jOyxpu/f4VdlDlHUkn3z8Aa3Y6L7CKKSq9/1VoR4fX02Fz76U6D4/ah+PY67CN9x6R+TaQJF/HGt9Hf0FphvTjR25Zo0qd5e9K6RmPkj+hEMWYhD5V2ThXMiN7u7rZ/fVegcSSXxpwUg9X9btia74k6Cs7bfBYDYL5xY0Yd25bdoyZxya7HXJx7851OiYwf1aHEZu832N+gMZl+8qULo2QgA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "I6Bc3qDA0M9HMMbeH5EEB9w8X34KIy99fLOwJJnott1i/1sJIpDDVPhbkJa3JbFO2F6O/whB22gLuRQvG26fdySyBBm6uAyKc7h4gLJ80GVBdWA7KXCfRWE/SaLmHlo+Mv8XCv8OMmyOhQegu1m8yKyr/y2sCZbx166SozPw6TiKMtDtzMDnXwmm/J2jAMbvhnoC1cDa86oMpdhV5WbTWbYAygBGou+tcpj/IE5Rlc3p9jC1vY4AUR6uHXR/+0/9RC9Rd19dihwi2WPz3vv6wOI3DyrXklbjC/0T1n1D94ulpbsD/mxdjgZsLHUfgWhknsWFWezklAWgyjCqRJkkPw=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "Highest mountain peak in India:",
+          "options": {
+            "A": "K2",
+            "B": "Kangchenjunga",
+            "C": "Everest",
+            "D": "None in India"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mSHqH5YC3xQmomnryYf7B75VyU2cQyiC8CjzdgNTAOlIBu7CWbqOpD6fFYUhFcb2BR8tEFUyDx63Bn69/vQC1rxCyiSeCinZrxqVvshmJiJsGDcEr1YBATm5iw8CoNMYkI0jCFpANkmPwbNHJKMi4jBj1JWXLTTriTx5EwCl5SM4XgXZ3Dpr+atzGUbXQ11bwgNbfr5K/5VzyEtef+C7nJzx77pNCFQqYfxVHfDhZADZkRJI5CbFMqyK3dNCl9rdmrPB84ppaa76oh8fgJtRfDnl5xnyURKOdu56dhzdbvDb5dgqVnGbiLC0zJYjbiGegQNaXNW24puUaaGKGwQkfA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sPgKorRGHn45pjfuERPTDry3j+FD0GkfEwmXF17Ej7R8Rw6y9HI4s3T4nEQ4+C+qqpQ6LD/W/SG5nDinTEQ4wk/pxz7sqtKiKEzAXBJQoRyc8FXYzBIHz4CjeiIcsZtjFYRd/Oy0Ob8YG8YtI8fZZc3ffq66jlnJ5o7zePLhZZl6wqrtPkLbkIv+STT0Se0dWP5RFAKV7p9jN3bP6i7d7qaL5DNjODH/hO3YXpdUFcTumv61/8+IjL6iZUm2EGP1gDLfGjsdtThSR60JMwWvLwmXYcsNul/RECpgXcBJtSZnTnz9jWz0MHuvwh16wGzvIS7xqinVc2Hd7eCJQMY/sA=="
+          }
+        }
+      ],
+      "duration_minutes": 60,
+      "total_questions": 100
+    }
+  ]
+}

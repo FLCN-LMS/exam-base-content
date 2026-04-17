@@ -1,0 +1,216 @@
+{
+  "exam_id": "upsc-prelim-2023-gs",
+  "title": "UPSC Prelims 2023 - General Studies",
+  "category": "UPSC",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "Which of these is NOT a UN Sustainable Development Goal?",
+          "options": {
+            "A": "Climate Action",
+            "B": "Quality Education",
+            "C": "Military Expansion",
+            "D": "Clean Water"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Fta3dUXh1CdzupOWqR2wkEJaNGL7eK7TRnM5QglPlO2Kaf1tiI9kAjCPMgd/ugi+4LTlyyrWaF8Mi9dc33z2wMfbg6VxrW290fvMLqoCdW4i05gr6r8gI6g+HLc3J9PtOSUck2iYc4fXUFqiIIKuhtoLX5f1lUMHasHFAucOe3VPRqGjQoc3kTZjXX9os+PAvLk2WggPtPLuDhuE7dEGRjRMLyNIME7Rpth7ZAtr9kBXoSxdcFfAmLWlqlwynR+bDNYMhFkptH6YvCkGGChjoMgtSTkJ3rigsfxgynW72MFNm4XdjzKBcPTNrAZE9uA5hvlcQqssjFc+kDadDtvvTQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dLikyjNnvMNrGU4wgO17VAXJyXdCLADUB4WOPEMpuaTNGd4XPkd3wOSYEiFATE2ZLYvX7rAMwiRBrV8KTL3s6co0+xS72oN1N+KM5c4/oP9IhNFXQogf/7CbqLyc3bow2PpEv3r0jzpJG1ft8cnxF4LMasr/7lBfSiMHW7UlPzYF7TqCivn5Iwd6pcFHHxHVYBnIYz40j6XOIFMC6vcQLp6Vm7VIkmMgK3mBock7NAItCswcp3NzYCW0gvLUWO6BX3NJomODfcfunrKIulT2cnysO4aAVxrPJVJg7DPCXnru4yIZfgILiPvnxvkUx/tNGBysktCkFy47K7Y7JB0cpg=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "The Indian Constitution has how many Articles originally?",
+          "options": {
+            "A": "350",
+            "B": "395",
+            "C": "400",
+            "D": "420"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Tn1Lr3VOimmJY0FbDHyGTbQLF1vVp9o1gCkRRhEddR2U/MzZjjF9jLya5iNag4qjt6ZFyXg6WaQx7EMPEjpwoe1MZ7ThhVvmvN65FoSiZWTB2mfA3teJFqN/mgPDCmmnSg0/NTVxOtKYU2fOIlo57pFLOlawiTrHXr1U5DdAdLqZgKdE8uRa9ocsIC3GGwZ8C9AmHE9NdkePDI4lC27VJhS6A8UkKxaDaekqgPLRC03pw1bWERLUQ4KC7wZM6JusD28HaMbLC+W/dqbNV1Mak5+nBV5+HZK0RwQIl9LjcyGMbNqYiVCwdvkr47g8jyd+o+ZY27oAFc/3LstOf6lNig=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "i+ZHZCxOOpKVcNprcfjhwCIvIAgdAJ7finJLAI2dVO4o02GantsKnWKbsZH31Pzhxb7mauA29F9xR9aPEQ6xuctfRfj1Vgr9gU2zL5kN9aehOvKdYfW/xmEfFEryPuJH37MaB1JwiPIPqCxyASxJ6UqNmdZt7R++Cm6fwFvs0kDauq/1zDnjkTGcVnJl7/v4Dsr2Cy14Vbw7NwJBjIZQKJV8K/XxOSdMSDsr8ip3j44x4rzxA22d8oWDtSn9+IV34qg0+Hg+zUMooB6odt+JBkoQnl9YpzG3reeeYpSpTKqPV+QBRrfJal3/ESj5IJ0072XbdQGmCm0D0mSW3X5+fw=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "Which state has the largest forest cover in India?",
+          "options": {
+            "A": "Maharashtra",
+            "B": "Chhattisgarh",
+            "C": "Madhya Pradesh",
+            "D": "Odisha"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "U2/GcvOw0HwGkLxqJRvuKmJ2Vg04AQjgGdgttytrMVavse9JE1kOmw4zvsTMLPZCwkePiPJbPxwndn7CEarQ/l+JModKAPPFatNdTQNmecEj1QxVxTUMylw44qfvPb4aL+N47YBXzA+fTqpFNW7hcoNx+KSgICQaoRNNJRtQ5zZ6d+WbBXSrVCzWlDooaZXUJvrYixxCykv8xAXmYQ8hsk1vpX+av+EOhWbBpOFjFyurmIvMgb+NVgD+XS92AlbFFlGig6JKzXBaU5XoSTCQcTooUvMko2F/z1jAXvcIs4DwVa+whaP/muQpQwT+kVhuS7biJ+GpjWKIxgaWd3jOQQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "nKKk2nzAlPyDbKtKcnetuzEjIWUx4l4BO7dvejdr8eAB5VVfwRaI81s7rObrrqy2QahCswF1zC2z6NK+NpNXGMqniROW7Uod1eJ/B9839Mlyboj4Pw7XRv3wqMkzmpXKUQaQbPFavVo038yFi+2bC6HScP5bH3TZkm+YspbBeJkHHsBvaMVZHW0343By9bgW8HWbI4J95DDlDnypOBZIQwLysCq/GfPSYnlFNv1eIPYADyc6sqBqTZJe0vTDrEEJFHE/HTDeJEmB3+R73spOH3b5fS0L/Lb9tN2d9qf9cXroIa02+ZjmnMxQb91tMvfJcbdfqmylXgpt87QD9akkzg=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "National Green Tribunal established in:",
+          "options": {
+            "A": "2008",
+            "B": "2010",
+            "C": "2012",
+            "D": "2015"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LRlZSA/WtLoUJEByIf7JLdyJMWwMFKEvM7YqVBYPTGr+OQD6d5Lwvy6FsHI3x1ZmL5hGLoXicKK/PWcPxgw7ScsfVHoGIjT85tQxlGk15S/PsmtxGhTH6IctoxhBlw/9k4WD/mRDShiv24h3xuAXU4GF9H3446DMBRr8Qv98IZ7bnCN07t4leXLg7WhzLdl9JnXg82HVKZvYwqaD4kyCVnZysI/dVcDKFsLdOJjckPyGaMahDGNmVaV9cUzGo5mO+ht1qdfEADZL8/LY1EuhRAL95sFZtMExK0xyL2/HEGc6j0KU5r+B4PxRQxEn/wpOiF7EshT18+w+o2BFdPpmyQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hgCuTnR9wqcVUF5KeRS/JLC8n11eVc0eWU8GN908THLD7tJnm1vG9KtYClE/usw9Ky4cAR5GPwFD5B76LIWgtVQl+saAxOQyMvoyX1IRl6eQcq0DxNICbNbdvtortVMIncUhGpSqKjdKx+1ZHjXE6TUj0KcjM8zkq1oBqQzLV2mX690QI11AvQo6XH8akBmLGVy9UeelhWUuviRyUFXJo9qJT6UdrmF49ps+FxwICmY0ACAgGKKj/JujnXB0DJW4Q383+AUJ1IMTtpJsH26Afxt7c1w/jtdJtTONluh++wYjv5EnJnblTt1BBp0WYk/wlNJpZLP7Lcj1FNJZJsimsw=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "BIMSTEC excludes which country from South Asia?",
+          "options": {
+            "A": "Nepal",
+            "B": "Sri Lanka",
+            "C": "Bangladesh",
+            "D": "Bhutan"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "tIAWdT2HpjoBzganwwwzoTYENyHRAaDJofrZoYiLgOtMOqyxSqBWUnpk38Sj2AqZzEVOIr2S2HxKEYBReELUQ9MUWfbI1m1KDA0qgStHNKEeO0fWC9dvTiXx83emXZctoD+hkrCYXqFew43eAuEr+BxDR7MOQfjTNy2blUnNfrnXI8/z4Bz9ZWr4os8PfG8sDyahQA2JUR7Py/CqHA0DcZ79P6KggZKCrMpQfRu26tjT2YnEq0MXtmqJOYKw6FHfkmOiDhHEgTdPqXMlaecVUTTJEMmDMNsHWtER/5wf5NXZvBmoBrYIz7+G8cASsSJKEAvCTbN2fNIMaO/bHskmbg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hc1oWGkCd+drGJgcd6JDnJ4eRRqsq6FiP8dj3Nu2iTkAttlBl105peRVik/4MVyUCcVCW/vpJG0MeUPouYNOyNZMKtg8GqDoVd3H7N7WMOhJPotGjTh7an1b3j+TzZY9j0rwyuP6mz+b6WrhHIgTl9Y8J8/0jS3kyONopj7sZO8g8Tuhn7eq/MSzLfxvSwaPmyzkNGNXWyxputkJJh+JRSG/9BtAwnExAZ6LGVRsFQc8QaXlPeY1wviDIQyKP9k2UjJgfgMEbvZoPgHze9OJjA0Rue11Pg3e6GGoaktX/TrpOtd1aimhWIMKb9T2ZTFIyWBOZXkrjxXmZVx1gllWkg=="
+          }
+        },
+        {
+          "q_id": "gs-006",
+          "text": "Indus Valley Civilization major site:",
+          "options": {
+            "A": "Harappa",
+            "B": "Mohenjo-daro",
+            "C": "Kalibangan",
+            "D": "All of above"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "SXp9tNKoJZzUMQ/HKbUslhU6Q+Z666zI3Idb856iWUlUsF1cDFIyZtwAPKX5JsW/0Am2s8GkdsbkEIMUVgmMnAsNRmb5sqBkm01/e0liEuefjNxlC7BhF8fJ3tcKHP8DI9zdqT7NwEByZpzMXnDoWekwgh1tfKjYj69PvmA1Cvw8AvlksNmW9FFEcSgyF7hFzT7DZ9osVwOHOeCZU8zHNb9aOE82em/0+0zTLC78mOu/eF1c+aIjQSSkSb2XPRtdrUF4fSwMo5MZJ3zho9I5jazJ+SFbi3UCLM7w3u5sKReHAPy9UaQ0asTa5e7ho49YA748PEiwZ8pZiia6JCmMJQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UOYnrdRRkDpy32WtzeonHwcD/vL9ANRG1VohaIPwQdp/rlG8/0MqSUUjmqf9UVR80+ZXFSDt8qbtpjCGrmJq4Znickk6XYakx3nuNwOS4I5WaRtAhsUvtcMRpbIaZv5qRj5DNDF0aZ1I9kufeaZZwogZ9iV/LmB05mRdIyctUC9/tVUuH2BoZPTiBPdxsNOmZ4Yvjy4lMb+/kPbvMKKnw73Ll/vs6vKt1zm4qc/nen4ZyeDFnS00h/YtoP19WOTgpG38pAAm6+AbkV6LO9X5/uwJxYcglSjF9Vn1IM8sVzCv6DAQaG+EZ8lPINXWp/aW5SWd9IbfG8mmtcqsdaGmCA=="
+          }
+        },
+        {
+          "q_id": "gs-007",
+          "text": "Right to Information Act passed in:",
+          "options": {
+            "A": "2003",
+            "B": "2005",
+            "C": "2007",
+            "D": "2010"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bOEHOLWlMblSevkdbH6cmq8J2OlHu5ZBmYhYip9cYzd+C8lrj6Q2f3kTUWjjyEen1MGNVG8si9SMRuNnK7ZiUeKr9Zfw9EKqlz6ew6NKup7aJgUthONnXW5fCYsuy7gX4524BwggIbe9YdaZI1OJyzJPwkzd5zHQzsujYMovEfyE1RIt8bTJyFl1p4d3LVWoYSKm1Fg/Q8VC7mqMSqPaX9PVmMYWwwl0H2FWXbNsMRzFg88UgioTvvXRd5zrsK8wAKNRPIQ/2kmbn6ef9C8/rACLPZy4ssVt/T++QVfWeCGiEZDs3SVDqZkuLtHEdOCHhxlMXlXYPcUb9zDp8piqUA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "X/y6foDrsrcu3jEJYL4BzT+SVaGcxEJX+yK7/TIx1Tu6VXVl+CNeOeJOSXa8kJbSAvP6laKqQfEqPPx6BuEFnqE5rU1erHgzwcLvX959ieQUX/3z3t1BxAFRg5uPkLGKd1CgiQtfSEglao9igt5KCSDw35e1oDdTf7k9Jr7etiTp7+hxLyeM6P0M3Iwyt4sdf20TCDyS+6sNYmK8PH1bRsJOwAxaHFmwiwiLR8rLZHJxb/WewEtyCSXlGW1fJc8ywy5zdV6FKVyuLZNarUGmoSJj/t7ffUdTKqEp7Wk8biyhIAuLpaAD/KU303PejIKHgA2d9QQIkroi7ueAQ8AxSg=="
+          }
+        },
+        {
+          "q_id": "gs-008",
+          "text": "Bhakra Dam on which river?",
+          "options": {
+            "A": "Sutlej",
+            "B": "Ravi",
+            "C": "Chenab",
+            "D": "Beas"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XyzWJ+35VcKHhf9C9N974txSp4+udJdMdU1G4dKxrzdXyOCD1wHThm+NzjOimR7AxMAAri8Be3u65po0ac/ZKvd+ZXgtR7w+uIiPRMh+oxdOvs7JYtNOAhZAB8SOb4WzL7n6UQgeVMPvtJWoRGX45+IDNPkmJpbTojmnjgcUuCzfE2cEwBkg5nybFXl/ID4N+CukhJSR2nju6FXOQ4sQSLWprSR+Fhk96QN9J5MJ6qhqgzI/6HOhyQWAd6m+pG5eJ0w0VtPrs4exQtb51LqAvY77OGcoGK+sM9wFIcGpVCOzv/4+agg2qULUVv4CPIHqQQvfx9XBO2DhSG/0Ylr6uQ=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "E0CuPupre29/ro0h7Pnrn4he8zB10xIO+f0hz5vw0gqjKHJMPkRvz+VM15r6YFUgLXF4GVPW0YzcsP/sMehd5EeTFIypWi+59wd75tWNQpFraISHT4HOuo1hbGs8340BUBOeG5XeM81CsUIUAXn2k+gfVAHXcVSMcXp7YI77AowdqqXaxcpHECNXvQb3ZOyWrcY3fUZcZylOibSz0+pASsHrl0RG+XowR80ShPTNaqG7oPbd/WTCcafX915WxI5BXYXyfb0xj8zZVNrdNBTncv3dh+b7GLaUH1wnd9HKzJaNNkg+r6PRq/6goKs0DxsatLHoxs7CJlCMdG5GCH4GdQ=="
+          }
+        },
+        {
+          "q_id": "gs-009",
+          "text": "India's nuclear submarine name:",
+          "options": {
+            "A": "INS Arihant",
+            "B": "INS Chakra",
+            "C": "INS Sindhurakshak",
+            "D": "INS Kalvari"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "f6ez6j1xr+icKoskT5YNw9srN/KmWVhg91dR4buEhbIQbygE+6ChhXbJBUqrr3pfzLHsj+HcNM5qbhZv2lSqfHEyL+bCcOSbcYEM5u5cBkZfuORmZGAemleQMwMUScHkFFU0J1zNIqkDbalP3k0wCds9+DDUbcROXUNdGzA6s8z1YnFXHelAFshPRgi3eB0DS02iV1J1yJtdqbuNmviki8QMTyV7ahH1D1OxMuJFNSZYqKktzMm1qB06oCeUqWTn57NM3P2/eQpi2hh5C1LK2Lyc0OWy+vQsIt7u+8pBluyfdtZIPSZ+Ec793rKfPuZsOQpMSPTSYtsOqT0RZgBqng=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "rX6yxwVFaoY4I0armtETdqi9Agfm+rqD5n/+rZUncjoHs0G6Lc8WebTACv02FLE74Mth1vv8BbIYutjFq0Itb5v5rsgIHfGsKyVvDDwj4czDBHr0c3PdcGc+7RXbabTRYRd0rGbf9VsJj+teRjDESvOc1LK7jmQm1adgqn8QnADhQqc6SCxqDKf450efqKWsfe0u42OpnXLOahB0IuvG7PVuU/CycqgEUTF+rTLIfwQ2WjEB3/ileZYWsn5+5qXrwELml/oF3BdDM1WPhXioD/YHnepf0RuGQvNeWO1y/AFHgVDQDD1vV4A7J1TYfW2zaBROuVwq7HIppdzajRhhwA=="
+          }
+        },
+        {
+          "q_id": "gs-010",
+          "text": "UNESCO World Heritage Site added recently:",
+          "options": {
+            "A": "Jaipur City",
+            "B": "Ahmedabad City",
+            "C": "Both A and B",
+            "D": "Neither"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Wg+Y5rOjFye6UDhRxMs0PpmAKtEXfNCCowRrCuXG9UCP/mC/H723t1EL4XQyApCRUH1YsLuUizmq4ZUaSteCNKvlFvGtFJ7SjlBz9oHjdGahz6sxRSXNolOtZppun3BWvWiOFzSYvsg2l1UvBoB0j9CydZx2sgKVX/NEUazYrMgnhdYHIo8NvvK0squF1uxD5n3Ambt2MGpJr3yI90jmNPdb4orXwNOJ3Jkah7b4yJ4KccnBNIk/0yHEW8ILjVggu/h9T8rU6X5J4QbAU2st1R/Erv7NmbpGuNc8W28sHBzIcAMf4XqkRYHOgWlCutcxltF4+Jj/ysqG0ulgaV9GBw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "P5hAGUISpjBdxayXjnbmHu1lXBthKX/t1YnXoQOGAk6erioDCJ4Hg8jvklKIpUwAxXqb5EYmUfm42a2phVTpMpTU1+07toVQl1uc2M5fwJ9rL7YQokt2I423A4Mff/cZCG6kiXRjIwwEGZViGYNN5mr6OBS8DcJt1toKP8xu9z4nYMZK/2Q1xmPPdjI/w7Bt0WwL56jvS9INill8szmyQ2GswOhUCrgvBKHLg0sHOHys0s4VcaGH+ZNwGi8nMgFl3mKOL6jZt9eOaF/CLqUl4pxdhntlCQjJUuLJVV0g7WZ74hcCC59Flp80Ie3ndV/pL56t1UoALIjR0Z4hRYoZLw=="
+          }
+        }
+      ],
+      "duration_minutes": 120,
+      "total_questions": 100
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "exam_id": "rrb-ntpc-2024-exam-1",
+  "title": "RRB NTPC 2024 - Exam 1",
+  "category": "Railways",
+  "year": 2024,
+  "sections": [
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "duration_minutes": 30,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "12% of 500 = ?",
+          "options": {
+            "A": "50",
+            "B": "60",
+            "C": "70",
+            "D": "80"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "dmjjJKPv7uXm72gwdMVnIQRLvxPyqDyOa52owtj1JQ8ml3mHTaKvUW4JFQsASIFUZpzusHvDRz5/fHYdgJuy57TQP2o+ansRu6Wb2MDMPUmC7RDLERTIcP0Q90lUGgMH5tTxsT4ZfFPYb0hdQGOso3eDpJz0oREYeELF2DjNK86KUgg9kzKk41s1x6P3hdA8QV68G3bmEEK1X33nxHsNoclNLMiwwce9Tql2Zu6mkCOhF8iYlGiaOmT6Vl2PYkV4TEgQytSDYvjGblUJJ7WGEcBYshyfl8fmqlY+2dmOIKo2+RlxeJ7x4W0fEEnlbhsoJEoCaX4QsYlt5FRyrwGVuw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YO2fnJPG48VtnBYMkc46L4YpdM3rUjIgjkbmfqcC7rJnbXE69LHXPlP/aLcQgsFkAL6nKM6kvgV5lKqHYnD7uyKBOVWVs08JJHy/Dfbn9ikxfx6Vv55q2JvPvfErDTuuPOjO4LpNZCnZetVC8uOZ/u7yVzh0nIpNKqDbnC2rNsuVr/1wob7bVdiOGaftPE6lQLRRXQoteLIiuiGCdHbOkEjcZtW0s063buj+RkookNRM54ZGQUZwDHPQ9BKOMvMfDsQo57hXuioCCqE35zIcOEZ7Quzhwtzm4TvPilKrQJt99fOPIdB7v43Yuq4sXIjsDk6oN05Stm7ss9JoKm0tIQ=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "2/3 of 36 = ?",
+          "options": {
+            "A": "20",
+            "B": "22",
+            "C": "24",
+            "D": "26"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mvYeDYuR+kDOQVCI0SE6qjnleI6UZjeFUqlejNrgqmCe/0b1GVSi+pv51GFxAmqa1qskqgRNd7xq4rgnTDNhyjG7O+HIYBNyD8cOyflvecmbOQu4aGvmDfUJ7MlouuPAAl8iXJl6BYtdls6yN576FMw8BdBChRkpifnabWCyrhYi8wTDtBjX44GL7mrXmN2ZotuTe1oWYKZacdZ6MgaTTwQfFGlkP/Qp49gU9aWqTbdQPZaGunivY0dEnePaSFHLvjcxaZWFrTmZfILosH0UhBgFodJr6wT3hl8OPv6/cogrhk5D5JMm6zUiZgA+asC/I1r5eZr1MDTlW3X5akkGYw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Nf1aPix32t8kZ62hF2OwKZTdODP43qip9rtuszQ7/m4vTRerQBLmECGKDXFtv3OzqXNnkp9MlbQAua5pue+bGzEkGWBuN9rK6yqi8FUJhBLJzY2pEUp4I8a0P7vhgfWgY4FgcYitKcLwQemTToP7l/AFIRADLWv+r1B+xhgHyoFJ3cl6aMD8xbjsJs169akK1JHBPQzOOmLZStHiXhQS0OeonKhBd/kQhrIK9PSXADfVlKQE3dlU3gkk5qmftHYI/xWjvuEnzJRSa4Fi7yJjX/vO6wfZldgTLugBoFF09dI5NV7jI4XrB0y9+T5J+NHvtA22YMkH1yoEz8L/QgFtzw=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "Perimeter of rectangle with length 12 and width 8:",
+          "options": {
+            "A": "36",
+            "B": "38",
+            "C": "40",
+            "D": "42"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Pk7cVM83jqhq+Z4UH/eOHquYes37jYK0wt3goijOn8C4faNV9JxavqXxEEavk1EzIJIgJb7Cq6G3S3CdhfP9N46jJQnLd4BZNY8MCZ+B7KP9toNkyAmXJlAnRZmcnyWhmE+2dclkJJePnIxlCS9F19yuCE0QnASqY0dsZRwktYmG8GNww4YIrpRx8wbPj4SxPmDux/jyHfgU4WzsOPN8qYBrrwBN9OAMOFzL61G4i7zcqipW9T3ocg5TLyeBVr8k/vPSvyddUfoWI1/ZuoHgrWgrqY2o5adXJ0Bbcr6Ds8CkGEOJvE4vbgyJtkwC/Z6nMeVUOic0BjXiMbtQRyXWVg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Bggq0JrmXu0w5/7cCXAIdpQX/Sr2S6lDK2ylH2Qpogsqn5N9eELCtZ/CsV+/pvT8npVHlZqZiQn5xARlEpkvIZgIwchWvaSHYK3tzrkDur3umH7LVmRUTCaipQZz8/58oTQRNPsfcxILi7feyXJ0akt1y9HMU3aIJ2u8EuNJgJrxd2gGqmunB5YjpiQxxJ86XJ5cMMpKu1jXeJTqGSU4XB9euK5oZYpSQ/SM+CL5qUHp732YisHvzzsXn2uO4ZTGPnkqPfbV4SCKN7F2CZBANBSTJiawhq0qbZ7PglUBcSxfmcNNw6/i6hW3Zk8Ptbl07xPHlvh+531yEzHmFH6zuw=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "If x = 2, then 3x^2 + 2x - 5 = ?",
+          "options": {
+            "A": "11",
+            "B": "13",
+            "C": "15",
+            "D": "17"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XuvWPhzU+MD6MWzu9yfoVE4nefhc8n4+nE+oUMoHrpG9YfEImxfhwvJ0R1QSMR8AKMzM9tO7Nard1Wtk5mc2R07kbbWV8gJPs+VewcF0ftD5cR5lXalLGHEMFC+t3lySrdYNoErY/UU3z6yJ6vnJoPo1ce0CR/67oG+GrwU1pN6z+m+BBA1qQhSd4FhClh+uU3TlDHOGu6KmHgWwULi0vLZDN1wxopAhpkdBNtieS/25hXHNJLfqeqz4r1tvGs//r933o6+rHgloyaOq3jpCtQ9r5S/qQ+4hUvYkrnN876phJPj0sYyKgMpWypEfz5a65unfDWnNLNhHBLS4ORUwCg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "kLIgZ5sVCxPdxLvJpiWZ+CZz9MsOCn59vgRbvqFdmh8RoNIgyCIoG4eYbQAmOuVb9vtiB0nmvVojYcpfrPvCCSXEzPXkAz9+Ke/s1BuAVKlaa4Mp7LtmYj95uTmdv/CIMXUhaVfpdaPYwSFmX5/dDY5JVWLZLTGkiwCAa65w/PsO7ANtpdMKDLhSAigWzF07M6gTKbSFjFHATspUmnc0335e38n5NeEzbRML30LHfoaCJ1K2+bGu1Q9cTOcBR4/UEaGUo+GaGEo4+zMayQdKqrlGu+P11SHZvIQIOrHvpbAMKMHuhdeKWK3luPxTx7ijdF1B0MTzNeTnfyzB1OgDyg=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "Sum of 1 to 50 = ?",
+          "options": {
+            "A": "1275",
+            "B": "1250",
+            "C": "1225",
+            "D": "1200"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Khf2D3OMOIrGHNWGzFDFst8oUvsaTx9eIQPEE1df7fMHKR+tpi1zsw/y2ZK1cseMNb7lhwAAzcSDHFduY/lUsBdbMTHV+ZKh4sTOrWyQ0RxKpS7qkmzcRdF5iuYhAANa+/lxolAD5lpevIqCGTWAtMM301LbWA88LDHHfMqZ4g0/jrMZ6lEo5GLrSHE+vBNnN/ZN9xaZdaaI6AoyjU14p4d31pw/gOZK+JpG1d1Auv51n1hN0U64mdbFev9lMXo7i5LgCeIsVjxvWf51n5895fBLsL/wbZKq/M6U/M8dI5sqP9YVxjM30dVnkBXFMxQ8xfOVHOIVaj8pY2MKqRBLEg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ao3eXwbq0Y/xKUIV0LVvwLkIT0Xmhbn6fDVIrYDeC7xmHM0PafiJKF39Q3w5sOFtDCU22peKHChLzIZ4HeLCDO799/1fklB5A/g4+PBwyIqlgMGrsCgupuRFalfSBZAJX+HAeLHwDAmKoz5QCQT1gtKs+SYNVZ0Kfqov36wCymuFG+MTtkuzWijZfajrNl1/gdgfVtImnFGGMQ2TZvMiA7AgdIjMFxCGTNp5SiBljG1Fp9u+OhfZuPKLIO32NFcRyDAUOj+18+rVq7N31AVMbFIBh7crkpswJgHZErU0ZmK/OMB6cMBN09D4Pms4Sr/UlIw5yRpQ05+jU50iZiWUjw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "reasoning",
+      "title": "Reasoning",
+      "duration_minutes": 30,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "reas-001",
+          "text": "Next in series: 5, 10, 20, 40, ?",
+          "options": {
+            "A": "60",
+            "B": "70",
+            "C": "80",
+            "D": "90"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "H8Pf3TBFrSafuQ6B3u9ZX1cHgoTPpcCMa05wJ4CjRqzNcwIBbz3d/7DHFOxjk7W+6Pom/0XimPggewRTHWolorFQvpaIV4g1/OsMSpwMTYR49dlzaVvumjSgoufj7dSd19Xlw4i0oNrEfYxf7OFBidlA2da9ysUFS78uE0PMyJ4pSkK/o7y/PodGXgXxoqg2xAeq+uEzupCNKyinJGdkiY+ZLLd3dqkGQHMZc2XhtnEHj7ZJpVRHEAB8jO1OSZCOtIEGcWMgV+Rhf3EPwBPEoT/AxkNiklBs4uOolIaflvKqRUGADYQ3Aebbq0MTjIR7d2YMi6Urgk/K53cbxdmElA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "atrGqCAVklAqvesJKazg/Gh1CXg11p4Rl/bPRUH+8fLamNTVPsa8C3ENgZfgFa6U3G/3RvQDFih7hWxyWGpLW+GDFfVhYOWU9dakPp5jaJgRoGYsjSGy42TtZUHk+1xrPplQjK6IkhEKYWudBbL8Ggcl3O7Mt24uB76O37gP5fR5NE3fK3QEXm4SEZ2EvzHX5jpHezLwEYI3N7+cuhrOqkw7z6xNrq2krl8T+fT470K0oVWqpovCsqSff/mt+fvejUSthK6AYn9WsxWA0eJuNvg0gkwNV+vXn1GUpQuG26zVgSAL0QN/Fk3Cbj8YVLx9MRQAe9HN36y2ac98Kaly2g=="
+          }
+        },
+        {
+          "q_id": "reas-002",
+          "text": "Odd one: 121, 144, 169, 195, 196",
+          "options": {
+            "A": "121",
+            "B": "144",
+            "C": "169",
+            "D": "195"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mXHVq8+CMh9TN62K2ZBACTA6ugQXRnrmh1Pg3TDO0dzE1Tf1h8JFB9RbkXK6db062jebPdUN3QRRquTAq4sbDnJwa5LA+9ZRpq+f6ablTqq1m8LHoAfbFy8v++ple2GuzZhjfr0njiEVJQg1czvmDvduLaqysCXaenUCHDs8RMxDYPJu750tElbo+TXVzVc2mXDa7TWV8+CIvhtVmYNKAPa9z2Bu4icC49Hve0i/Hn2Wpj9JNEXstfYOQ0HW9yYd5kzg0BCRx5q5ywk4GtE3RUIkuiJVnB+l8ywLIJ1Mjm51+HcOaw5CBHMhqVaq3bGMiqYWF/kv20BzVYIo/X7ENw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QU40pa0bYic6277LY6EUfJfs6VUZIk3203c7lNR41OAAhkudXVICqD842YNMN6wqMjXXQLwjwqpGQcoan4qqwcyKgZVSqLfX18Yz3QQOFPQxb4sGE3J4gCA6Ajb/Bb1NMKptfxFOVGAqQILkpEP2wHRDAHW/eRIqOCIXqLKLhjZPkC/Wv3QeHJliU0ivfTUoMt3vN+vBhSA2ptWHTV053AyVpCBtHPDfgO5GgIHYAPrCnO/M1Ak/Wr6+RxcoJY5FztvRMGG3OsALAPOfp9kBu7iefptR0xbuZnEpRG38srTc70+0SL2G6OHtSX6kHvbDtVTVxhZ0rfTsFL60uK/fHw=="
+          }
+        },
+        {
+          "q_id": "reas-003",
+          "text": "If FIRE = 4, WATER = 5, then EARTH = ?",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "shmLs0Sd4GgDLM/9CPEJQrh+Gheya5uXUWmon7IRt9kDxokshxhsRnNTNHvWnSe3zgCeGw88cG22Xg9AbpgcNVSujjyvAOvJ3sGurQZVgCsCZCVDQ1KVASIbN9dPYEYPela1vA0khyXHyij2RD996bagvogiICNqe3NqGh8/nzE8QNFvPaTT35XVjtGvCsY8C5wvwb5XNdmV7gh2uw3tdaEPgy7Hu5jUMoNYeLDepsK6QqOHES3erWD2q9GJ8WHdf/iCAcXHmMSaq3xPwh+1LX0MSyua5wqRsvl9lackW/gZRAzMa4zgdvzQHLzGmuctSnJi9GRxaEIsmfO2mNg9YQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qbNvtbMB+X0bh4ESmCw/z/aIs9LsD07oPrmFXSP7GLC03zCquxFNf/9WsEtynhg8fxLeItVc5NU2plVWCvnmTZApdELQBaifpYkBeNAPymTGdJo/7aflh0frGpzZ/zqJMKJkdXqaiftOyae6Fe0CEcbC+WY9Zz47oA+lESuwP26CtfYghIi6slArRoZgXyVo+VTR8G9k3fhP+PSMvS4wrDrXwMK5ZjyC5Mv6b1qs5lis+9/2SkGp/1EV8/bU8old8XXTqP6Hlk907zF26FURt9PeEQtcgSzl6DxVeVGSO42Ya3wUA6sXs5ixyanKCG5aL+cEEeS6xIS3INw74stAhw=="
+          }
+        },
+        {
+          "q_id": "reas-004",
+          "text": "Blood relation: My brother's father is my:",
+          "options": {
+            "A": "Uncle",
+            "B": "Father",
+            "C": "Grandfather",
+            "D": "Cousin"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lg12OPdrkJ3mHCmUb8iSVOyFwicVha5AALHJr3TAd5MrVS+fsFV/YtWKuvRZ4n1cNXosC6DYRSPr6sKizdNvk5azPQrLqk4Im73+qDHYmXKQsVXPSnOqcB/abkrf1Vq789bV83V5q/BkueTW+lo9K7ax7Sx7EPSVc7PPQtew8uY7jlsRQzQY67ly3hmyRUlxMs8UKCVpzP14/YftfXQXqZFTDH3AvpetAXsxNPEMz1a1huyozxfR6r8o95s/JFFTc/lcHaSEY2uVkRNT4HHLeLiFmdd5fij7FAmXTmtilIjCKIwRc8BX/XIoz2LDXyFB+aSXh3fodjMkYc4Xj6oOng=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HejvO7JtI96CmTflpWf0Ng3o+v/BpOsAp5tpHQOOodYLFz26Q2qg4FTwTT8jJqhLo0EVdGOUgl3j1t9QeJ7nxC2DZQcJPRsZISVjHlVKTt7ie73qGjQW5xoKiDjIBsg5TBIF59OJpHWorgEw+Yg4ANzxtvxLTczBxkHZ2R/a5ejPLW65Qh+GEhXYAfmwsMgH09IJ2hMdCTnA0u1LSSxzO1QFFRVgneNSF+myiGWUIciGtHF3rYunkyiJi7wZUOPA2eGn4EdDI4UniH6Xt206k2oGqc5o4WvVyqtfRIRL2pYUwi7+CLnZUuWdTsM2lMYF9kMip7NOHEKVgT3WqLY+AQ=="
+          }
+        },
+        {
+          "q_id": "reas-005",
+          "text": "If south is up, then west is:",
+          "options": {
+            "A": "Left",
+            "B": "Right",
+            "C": "Forward",
+            "D": "Backward"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bO2FZSgN047CLzKuwOLvC/m0yj7cXZXohwD3eY7Vh26FmS7/l/aJGiFjhgj8UpCx+CjZ5+L9YPhRPFGhKnJQXU7jgY5n4NWX7Cx7XjOLZsUat29Sqf+pCgwbpnnc3TI4yS9WKgQDe7ZBIepNK7r6Ds+O64r1eF+pvJ7xNnIcT7RQxd02oZyNQ9s70VBQTbXEAbPc0BwVx+i00xH+FIYN6VxfAqcF/efl49sS/aU0KEl9RHWSVk7of18Gqf1T1vMDaDoBphBzAURWT7wEjdheGkymDT4Zg4IbVcOvD6StigF6DyteykMupS3vIjDndgG1KrLtvQhGAc4rD9PYgQDJ2A=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Qmqoox+EoD5vSFuQWr0Zk58wTzqrCeME1MLUshXy9q6kQYi0CM6wQFB8xkdggPEdj5eaa/W6Y4rrEUaTnCyoeLKMZXZdoTEfhJNLWlVu84vciG/UwEkeraXOPlzJQUbZBoSkx7GUlLZHwCMpLenhPFyAnGLtkLrUAwK5VC5z2+ld6Xo1cZK880/vb5uNCmYBzWe3gQAx5+b54f0DYG/StVKqtbZs8icEbHY2VH1wlcNGTQolajwYYKaYjCHHuEL01i7ZL5A1ZAvhvU85CZ7I8+lGJRkULaNGLXcXG/PcmDLSY3YmI8KT84xZI08BQTqCGMvMOL/UT6fUCD2LFtv4Lg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "general-awareness",
+      "title": "General Awareness",
+      "duration_minutes": 30,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "ga-001",
+          "text": "India's independence day is:",
+          "options": {
+            "A": "August 14",
+            "B": "August 15",
+            "C": "January 26",
+            "D": "February 28"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rRLcgKDWimS6rwXLx7YkoUNfZA+SNE0RyMLI+SSLZ/UdiTrUm7uy8QPJEvhgA9+9kC0ZUMsElS5OPtDRtz+nxOmL0R9EsQJj3GsaJHFRMGLSm5HfcotKY6Fb0mEB6XpDeIfP0+E+L0qtq/jCm72LWHLlUGqxfzRUESLu9ZfxCQHFtMVSbaGta3RpckTXf39X9a6rftgZHk61bKyNn7sD912/ZOjd8gwioSc5Fbkicqb6R8hvDhYDNFSgRjfPOwk4fkBHB8fqtfwl+wKtPrEQyTVZZ5sMjai2E+3EilKMG+g8yDsGJLkxau/epK3gnz47ogmHS+8/70e40+K0YO+CDg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "agt80hcXKmCkc1pGb45Z82wm5izF+Uauyl4rjVij2fgxCLed7SdGy+g0yeyeW4sUTGeY2qTMywK2oXQwjn7/bGRdSeBCP1RynXjoUZwrb+n2SrVw7Wh7ur6wpnCBHYYor74rdHu837OzW+KFZJFmYTrKtuEtSIKEi4hgPSdXtdrRU6cD4/hjJ6h+9gtEwjJc7ohDFCHTKK2Qhzn0/DrFPv6r8yB82flFDx4xalsVODpzkFS73hROyh0nWfP1x64aW2rRmLS9ERXn7MuqvKZ7XNrdeq2wWr8Xea9HKrtbNAhnkOLuL7Ni2+qNkevYD3OQvzVtQYELdfQrzVDiLLXubQ=="
+          }
+        },
+        {
+          "q_id": "ga-002",
+          "text": "How many states in India?",
+          "options": {
+            "A": "28",
+            "B": "29",
+            "C": "30",
+            "D": "31"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "o/3U9ZRK1DERfJkxwW3tMPvfnniPazh8iCtMfillUrs5FrqYCwF0jZpPv0TlwYutWO+jAu2wtNfBSoeVP419ITTr0nlzjLWJ8+LY00m3NCC1K0L29OI4Z3U8yRN0a32dmUKkAxORZ2ctvX8l1J50NbuwVDeEgbZfJHs3O8GB9fjYwYfJPWO2FodZr1NooHZjxow34MFcm1S+Zp70Y7x8bOMW2sZ1x5uqfvLp2+ztWH8Nq3Phr1+PQkfuLs2ymWqJoJvHI90HJ0b+cMFDx4stkn56sxkjaZOpNr2BrWxOyhdy8xDTTgCRlrkyBICt0Hrp18kjnWJ8iNnVPB7Mlrx7Pw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "fhn+yPz9Gt2aQrrr4AxJMP/f8Cy+dpGosJQDxYfbquC0k+zeuX0DXba3mQZHFKi9tfazFozcsx52eAPZ+N/n7LvzbdLYvykuEpxAgcaHlsrStKIbrnlpEiDw4vYBSAxDHYqub77yKnz1jXRA/AbtwWqP8MufK7VOTa/OGNzW3D4EEWJE/WhI3SuEnER67a4ItnRorL6slE4GHexCl+nru6wtkJFJMXGYBqVRdR6ngtwEMQ3t9e9nyPcCnsTUNi6PKHKb86Yh9gPEXMPur+qt/JpeXsJwRswMKiHFBHxtSY+2AUL+ntwe4vfvj/qdATHKvpzA8NNP6w7UZ06AopuuCA=="
+          }
+        },
+        {
+          "q_id": "ga-003",
+          "text": "National Game of India:",
+          "options": {
+            "A": "Hockey",
+            "B": "Cricket",
+            "C": "Football",
+            "D": "Badminton"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MAh3hwB+p/lcmYw63m1zH/hO5mzGXozlhWJuGJ+Pji363407TVKYI8t91EfOcfrnuM0mzIUZg7RtHa+h0TMkeJQdz0nYwZx4c99DaV1ZP96syXIagdptuOuDnowQ82LH0Rm5ZdB9u7LdifVkXr0iYYjyuV2DG2zr/h/qjF2rmWUw0veLtYs3ljB+Lfw39ShSfru3FukQynAEI9oD2N2I24RIusgpSOWhwRnd8J3CxjwWLx97uBp/pgt68aWVJNX1tP+gIcHUY+PNGBoAyMxX/2envaQc1K99grslN7W4B2euMA7GHKPePvlGxE4MPB006Ccsq5QZi0CdL/23O3ZFpQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YBJPiQdhslggfjaPfsYSnrr9VO2beXqif9km1JzB0pnJavmf/tpf7+E9n2pZzubUo2cClX8mVM9EmoaogAI85YGp+bE48VTjm8s8zjzg5FQIVKcqrnF32nPQxCPtdHifuLG7yTsXDSbDc1SlMGrjLsB4dwc9TJ/W3xHIYlJfUnrWadKSZuv2u4t7XR5t7Kb38T4FJWEXteIdoHIIzMSxDOQQyr6Qq18qW0y3kcuGJYUcNic8hlAN2t1JQ6RZWRXUItpOl51OmcKFUo+4lRAXKTbGv103TQEIHOCRDuUMDotm/VzvZ5SKQXVV13mMghcBbiDmAqQrJgou2oj1fiCcpQ=="
+          }
+        },
+        {
+          "q_id": "ga-004",
+          "text": "Headquarters of RBI:",
+          "options": {
+            "A": "Mumbai",
+            "B": "Delhi",
+            "C": "Bangalore",
+            "D": "Hyderabad"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lPG8JYhUsOCy9OBihHRfxUGzXLJg41/uzmcHOkv71o1coNtI/18boP8O5oiPU3VMHtYEGjDc8eF2RHxqEFdsKMA9S6Y8rvmz4AV6T4v4is7v9n+w8MvTC7yHs/+kvUxtrzNCWZhNV+t8eOnOSXD5Kvi1fUJhoI5LQC88BofU8CDlqMjI/63V+IjZAsCDvv/+q0M3i+/l9Nk6iA1l16aiTcKX458dMdk2v1EdusDrKEz+Qahdah7hUNHXLE2grYGyrsLnWq6f9K/F5hfkZtRlWMjLCEFc4hCVyi9/MpA1y8BnaGeAbYFwpGWkQ5qtoFJfQ6rTCNS8oPIneXawxHZZVg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "l0N8NbAIe7TllEcxNCtj+ZkvijpZcSDlSpVPPMk776YCP22MpJmWLwIQSpIIzNRIZ4xL5/4ZMiCk9C/EsGNcUeoLq5RTbuPgoHlhUH67g9v3Duxxl+qTB65aH0T8to8VV/B+OYkh1WDiYxG1lkl6Va/EPKU6i4hhlV5oNwW7Z0ux2BAQmpPG4l6FAR/R7pbUCVSoOYieXUM9X3zX6xOFbcg4rn97yKlwUNdkkRK3EVx6JoqWP0sPg9PwPpIHq0hUpN00tkz+WwU7UPsoX1p6UyfrcVhiQkhyyBtgCp2UPTReLMghpyKCL1qQPJZh5TBbv4tD9TgMjXvMEpI+4BpkKg=="
+          }
+        },
+        {
+          "q_id": "ga-005",
+          "text": "Current currency of India:",
+          "options": {
+            "A": "Pound",
+            "B": "Rupee",
+            "C": "Dollar",
+            "D": "Euro"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "JhCFjAlLVlohPN0TuIHfTbOwvIE95svzKYmz4u6O1ZVEiZ7BeRhPI+LqROYTaRNGVEj9NsihZDOmoM/1ht9bHfam8BNcmxBjMcNMjaInfcN9h4g4Zl4I7H8VNVh2EVMrDDnREW7+3ouTmO1V2/g+c+piIqU8xrbvn+TspoqRl+oEPIzAVSzZOZ1kKCQutSUAa1MskxnQTmnsrLWnqXoSDjsuIpW4oFuDkAZxICg1fkm5MZNyZxm+Jd0hQt2M69HkyhjfJqiNKuT2h7rp/9N5phyZs4ihxDC9akCVH1VO2vho4LFF/I/qeUNCVT0qAFFQzEH9eLf7razwSDTIUM6vnw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TEw4QOuqXLPx+81RP5bkUp1KOUZClHhlenoLwM9UIJXTozdR4xVSZCXgKYX5/mVFkuaN1ZKw7GNkJ58N1b6xf1NIB8mCKOOf2/rH+lzcq7a8h0ryvjLY6fw1BQZE4A0M8CSlKASMNSxEkSJvX1gkvkQWrEmgKsdA9UIpgKGzVUFjzzSc56/AWPe84iU7jhA3JF/QnH2WUR4EN22ub5CGUWHzuJKbZXopnPX2xSGAsTPPsylZLAOT0oKxkoL9NmShhrmuBbPxoK0Az3eHQ63XIYbIDPaidrhEZCq36r5VmFa5u3b8KaySVOSAU+cpf4D6AAuY6AWth8vxP+TuYOtHpw=="
+          }
+        }
+      ]
+    }
+  ]
+}

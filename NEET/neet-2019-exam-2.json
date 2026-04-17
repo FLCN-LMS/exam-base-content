@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2019-exam-2",
+  "title": "NEET 2019 - Exam 2",
+  "category": "NEET",
+  "year": 2019,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "The SI unit of force is:",
+          "options": {
+            "A": "Dyne",
+            "B": "Newton",
+            "C": "Joule",
+            "D": "Watt"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gOAKnVutZIMa+8frkKpDICn4K3T4CHlruUn3Fttmr5YvbJOC8IZ+t47RLTJal1MddjNKZRerne9bmsKFV9mRtIExw9mFQ5qW0Xlggdt9wOIl545g0emmstaP+C6y4PNBBXAGfNxTxLHYC9+KafDMdLfGGPP8INTFu7NVhOp8FKmB4wT5vv6i8UhWpXwZ+JfCjwNc3G1yWlCE90vPhHTF0MiJpZXhLgbv1MPClOY6821SdTywto11ZhuuR1NuxtZZtq+JTLg3ugNk4zqawqwjSV1cW9DNJsac1DTB6wAXU45GdpV6DivfI7RhF2O0X0W6nv+NxgF7Wt8JAMR2ffgKhg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dRXAEbZKXxR0PwBBStUgmYlNlv8oqcGCk4Q/OyrlFm2+XQ7xQa6hpTPkZBhOL598kfB8zgd5ZmiCeIRtQy6rWxccVvlUU8xxyzSRYLtxMC/UPub0FPto3ENWO2i76z4l8p6uuh9101/kXuSUlITQf0lf+UGz4YrAvfJFlyDMVB4v394LXbJbTj7nQ8CeDJtcwVoiqDQ4Epyk71Yrhl4TPTggbxZhKV03JuSngo91RpDjfOZMs4szGrTqKGgOsAtC9klDPutYiq6XzzVmnOB0t+snAgiyf+JSky1o0wIRuU9RuzSuzI71kHx7pOhLsWL4aBg2ciezzo1q4BCsGihA0A=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "The refractive index of a medium cannot be:",
+          "options": {
+            "A": "Less than 1",
+            "B": "Equal to 1",
+            "C": "Greater than 1",
+            "D": "Infinitely large"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XAGK9Qm1nENC582J3vEPigo5nQgQ7MpX869fExXlaGgvobYIiuo6WI4yOWXtE0xsCxSV3bdhbJ7aIitpJpyQiFJwNPddHQJmwrzutgdN/KsAZB3p3HYoMrNARlCYRaVoSz8kEcs8fMUgMsDX5fQiUVPlpYPGjnYc7y0eIIL5krIE/pk+tNs9/yTd9VPSMa4F825GvRjLDRMLyOyVlFnxDFDusgc3BAIiv2g4kxazlHpdK9LY0xO8O9kcc5qBVYm0L9UFJrUfrMOP87Bq9IdhO0rGSRwYdcgpUeBlCmpsFtJ3AhRLDqiv70oskKv+JZMp/doSocgzwXhqmfY/rPXEZw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VbENROf4FayHrtxS7f4BbRmn8gNGErx+zPsiI9Rzs8Uk7eEC5TgalmmWLxtz9/XKiuLjkBsb1hWWR4HiW5hG2ACiHThmJ5GibgOnsirDSL4eeRAphhozSxk6K3JlIWtocQh/VizThWdyOUle7m+DRH3EcoLz7njno7+YpFEwTChUTP4n/p6atLPYHP/x5kcIdBGY7OzyZK1rQiN8XD+pNsQ9xJIBW8DYV2MiM0dpgSatiltZFWpUs3gPuZ9D0ar68mVwjlmJEQQD0OX7jHs6rHjnoHsZfzoPQ1FA1G4Dpt8j3h1MUXafKmRLNQP0cOwoz9sA9sc7VnNKSzIIhK951A=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "A lens of power 2 diopters has focal length:",
+          "options": {
+            "A": "0.5 m",
+            "B": "2 m",
+            "C": "0.2 m",
+            "D": "5 m"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "T9aUHHoyaHD94kRrcPm1xDnRDlZl8s6yTjgpgJ7AaW7HArx61xy5RxARXnNkSocgy/PmjBl4tS0hHBYpGCo6sEr5UMtda9bjlFRKuhDNlc3a9eDl8Gg1+Sk3J0KqUx88+uy1j7zjUPz600sx8WhamXgXm7Lu1AqQiC/U5mSpNo5uODpnVicDl6X+YB29BBvKhMhXf+SSQYCFlWT1cyhovah9dvFct6OfSEKg03UvawDe7Fn0O2GuB6u4xn55yL72iVlGnvR4aeHdoDjr9mlqR4EIvUSngmqqWkUyHTCFGK742rR3YUYcecvk5h9HY4lM55VMuBhYtD1x53SWeSoISg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "KteQZgo6MuyDYtAivE5srIqXL9Z5MAlIzau38UV/BLlhlfbdkiFcVkIOGO4hTOryCq8EyJ70PZky3MQgV7fVLrPeXu974m0VIeW/aooTnDwE9f02tLXQFnxPvZPaCYQ+wCwsotSTpvwULSKkChQmEuB0n+uz22Ohg94SX1+9Lu6Ry0bInN922UOaqQ0ne0cAo5qADxTGcKTsaUURRKokCbjZRqL5YMa1BeLU3Ev/qe8h0Z3UmxI0dcz+I3YZDQxZqZ9edlrrXKsnEivPjuUWXaGHSNhSLIx/88IrO+E8y3KBgepYl4RwIknfcm+hrRGsMtY02JT3l72vwrh2U3SeiA=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "The rotational kinetic energy is:",
+          "options": {
+            "A": "1/2 * m * v^2",
+            "B": "1/2 * I * omega^2",
+            "C": "m * g * h",
+            "D": "I * omega"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "U7XXeJukmGozoNoImeelCdeEHXMhlXDZk0LxeZej8AjKhvNcdKcJwObcMNbnrJjfcGw/IHFhPjTMNQTqr3D8sZWVdfxvnsEqKbQcME9BWiMikwogt+b16aeMzh9NkhwlQfPqP8cNBRVrxUU+T8MGudtssi9AGhb9MGZ4YofMy3OfT/FzpFux9k6/ATm4g9Z+pO17D3rBY/VxRYMxH9Tii6JxucGWsjgWKujMYCYRg1fChNgW6VKwH29vGeC/UTnyrHBCK5SfAE6d+r7J53nmTY1b+rgbkRPAL2KWvEzvxP9uYwoJifChlvOfeZwZMn7EJ/GO+OPPoePi3URr6j1bpg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LTx7pVS0GtbJpk2ZD+OU/RQcuo+cshkypO/RWS4WBvHO9aek33VDMvdXYaC28cr7iy/TWa0ntHiygFsVQb/YXvzhihN7sfbtqK4QFOYXWefHnsOsaLBaD8+2n3aqfm04L7B5Ik561dtAzKq9mmELOy4nAPDGacdgehvFdOb1GNAgyjj8FX852L8bRB1OmMhBkWHj/XdQMfaiDgnr2rvzQlUTHjYzLSHhC77mHVP5tn+oo1Ia3FGn+atQFNa1ymQ8pcNkOtwUUmfE5RfENb6H+Q16VxZDpD2yuHhwbkGMKtFALOVUCx8eZHw3RQCpzGF/UE4MV57tHCYX+t14Yu623Q=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The universal gravitational constant G has dimensions:",
+          "options": {
+            "A": "M1L3T-2",
+            "B": "M-1L3T-2",
+            "C": "ML3T-2",
+            "D": "M-1L2T-2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "TA9wdxI8II4nda63Hoysjl2M7MkUz0tbc7OlefLYrkVdtYsUbY2q/bR3ThoYVO81YBzrjvzWgIvMKuOwbIaUakEQO4z9UXdN6v38WBppfzHXty/lrirHw0SH/B+OtIQpM60jON8BTYYB8KaRqYLR4jj8UvkgaIwVKjJmhwWYT8Bjtp74Hl3AhbVCZwsrNwjhIzHYbUAMrra+t/nzMoDAQCAlXXWvfROUgTEK3BA38DU08GtfRvAs+/G27tfFNQj/4qBfqCu0hFKVbeDjleOC1mer5/mr+XUMtel6D+9/AvTlb1T6RzuKz1jm0uPVf61u0BceCNELb9Q8M5IjnI6Dcg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "au4VRSAlJppXkOH9PzyAw2NKTXHaebsGXItXYepKd78cebJVjpozdudAVGkjERQ+lR1/SzrgbI29WLFJMW2zbfdyQjEvZjg4dWaNVLktdNVTuRbg1If6tqmK1FnDRqSKtYNzdqerbvnYVrAUAOc3LHn52Bi7c8JG3Svuk8d6VriPyvKNJFUcs5axgaFpDK4r9dvRYHdzNv/MApSloTYMvI1COy5cCudRUHg3kviCe5+ijabfd7BEbXTWSaG4PKtavNY/IS03k6FlKV0SigOrUUCzDI4PFmbcTdeemih5ujagVOSdw+Hd+K7QVtsXLzPJapgWE2zo+A2jhU1mawomBw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Which of these is an amphoteric hydroxide?",
+          "options": {
+            "A": "NaOH",
+            "B": "Al(OH)3",
+            "C": "Ca(OH)2",
+            "D": "KOH"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Vi2EuoAtbc5Dl4E5NYOIQqs8rPeB6Yi6FUZ45nvl2ElnNnhTyoWBr+CBxqDtvKPZpAmc736XX0UjNalxK/eYyFN9tFzOjuN4q42cLD08nyx+mee8nlN0bA6+1yXmNftYHGdz4mvBORCs0rhunPHc/4hZv22sxGgBchG4cPTT1hYw2asbi8h8dahBI+7+mvgaugq7z/krBc9se7fGNUPC8F+vYD2TEZi63ovOUCERsQReVoW9Bc4Yg96q+nI2bsjbW+CcVO997J0QOQDNnJA1r5LWi5oi61kPi70YqBK8m2lTk4SmFD/7NwRv9LtAPPjLXNZdcXDhBhrqz2lyzqorkA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BfPOacNOqRWkKCOD4FyHwaZVqEaOQkS2h57uHeOeqNJmETkqz9/uFZxD2UL4plHFPg0ZVMYyRDQP8SF+xgb5lzBsgTgTonUjuzhPubj46hgFsCwhkSdurL/Nbn2SzDNXakxfyzuP0RP5hVK1sSsmoNKE6if0RkYfmYEDBYUJcWHQtSZa4zWp4KYsKSdSRbWsgBVXXlaNh1odgPz3SSXwGJq8lhMcoB3Wt15ejxC8Cf3JcPyMCSyTJniMIvOdpUv/SQWRhZO7jUrB/hj5RhTuZqkJVGSJeGkVugNbevFWkBcMuMvrfhvblau7XJh+U0w9cmdBMDy0qiLkS6uUQxpGQQ=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "The reaction: 2H2O2 \u2192 2H2O + O2 is:",
+          "options": {
+            "A": "Redox reaction",
+            "B": "Decomposition reaction",
+            "C": "Combination reaction",
+            "D": "Both A and B"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AWM7NYwTm3JSRaAPvxpt+cQ1daVekYoig3O119mt+6LSCuiY/LSUdtZTuLTpLAC/uL1opDYeXDxd8tqmm9cvmKn0fo/Rxosfbe2r9ro9jFd+uTxqYo+Xs4bgtU7WTNbbpitwWntFrBkjEY+xxh88AtnlI1QIaNfjo+y+iMHjaC54WaFfSgwQGFfFrACe+WSavja9+fAfu+0VbGbajyI/MJzHe0lmxwEJimg+lyGUlvIuIrtjT8GLKopxs3ATnIybrB1n5/IwoxNtRE2B2eyQQhzfHzWo5RMoVpEouFK/RzeCGalgYBaHP9nTGq6llQ+0/pcdvinJl/xqYgeLFV0zVA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "A/wf/N549ZAuLxznphOrxPgeDGcG29g0SkbZYWdQpa1qhIR+pj8YsVQVQPD2YGBijTjMztPJbIRwLJD2IMe8BTEim0YYDocisdSDVgB8sYHp2Bpq2519QKHLAP0J193u6cyd8KK7yTJ3ICFmAjCzFq/kx0qPJF9bwg5QE1HnraObbYBuQczI/Fc5Xgnyuhqs/qIyeAN8lMQNNM3A5UkWcd3JoxJuWkjGuHHnStX/hO4wV+fTWky03qCEz3IxuSGLz7R8b5At0/85sFlNhuDJA/sTVD3yIj02KnCyvYdEHCkSXifWsi0CCogVQZpI27MmJ/UxuV6YFk4N/fUvxXeQ/A=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The melting point of ionic compounds is:",
+          "options": {
+            "A": "Very low",
+            "B": "Very high",
+            "C": "Depends on the compound",
+            "D": "Zero"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "o4orqP7U7XVuvs0rT8FEQF4mUOKzPgokg9a9Bgpm0XSimL4oS3bRPMcCJM9cpcW5Cb6/2eBUk6pKXOiYtNBj5NK8rG1fc5L44Vx3Pd4jftuKXwiWkMWuCLyN8t/1MQ4150wul1ai107qlMJyDRVsPA+LUWMOGiEc24sdLKIrrIO6FnNytlXKWMuwrjaSihANRkJgk9tPHU5Gi2ylboi5d5Bw+5y8FK16O3uQTQ0EhRw8d6hwPyY7BRqs1VCos/w1cWIjC9pNAsBSm9o7pFUVRw68cR34Kmfd5q0YJBSCgswTCZfha70c+Vr1s4HxoywVrK20jZs7DyE+na/sQIrkig=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DeW558jpitVy0CKNMuhFV4Mj3p5v3N7PZ6lEUDm87lUXS0lvYhjSmOkW6L4iEDxyg31RVjD4xD0X6k7VFyFdvOX3IBRZk9BnqscxTP55YMyWwW+bUhyVGtFVWA5rH4tP4HjYUxIRvXsqRTmrPq1Bhhykm1L2AJtqhbb7szyT/17AktJu5cv1B+mlij8DgchYzbK6tIDvVhNkAU0Vf9e/Cyfdqo9hw6FVe6Fg25Dn8h+Qo7LZ7S10Re7+RHIhnmc4QFzlPz+CKqurttF4VOQTq4ZPGmkvkg+6NEfWJ6Oa6RtRffunKey6i3dirMoJJj2vS6oQPFNaPL2eTSgPcLAAmg=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Which is the limiting reagent in a reaction?",
+          "options": {
+            "A": "The one present in excess",
+            "B": "The one present in least amount",
+            "C": "The one with highest molecular weight",
+            "D": "The one formed as product"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XvO8xoNueStejfLlRNTRXwOCaWcayGHhG82ikyegY97ZsLtpSfak9ZMZ6ktwkenBnLC5Geu7SVXNPJCOVwma7uYwv9T8y880/U7E+4vwRgMiWuwW22iRoKA18shjM1lpktpb+fNFWAkurlug8785Tibauc7oz11OyCHcm4m2PJvC65L2/gNR+Lwr3AzHKngT/FOIPxzOeOvu8/zgVdI4b5s1ZmRSL0EF2Y0ndVuxqUu4RXNgP0RrQwOXtZjS5uhx1ia9K+u/Bf1CsjP79Rj2Byrt+FTqFrcsxyTAxp1hyoO6/exbBZGztaNdarn9NroSyBj46UNjsHJSOX5KhLmqIg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "OqITHRX0G/LaIeaJ5pqErMOPiyyhgnLyZmOAmeuSYnYMler67yS347JA95diwlpQemaH4vtODS23oMrIp8JTayYwics2d3kB6TzhRbzKIY5zBIn4R2VcqEOjUkoJ52OONIujTJuP5OfAO+FcoiShdAdQapLuMSf6cq1Y5c+S1TYbynOKOKP9DJZQU0ZSih7mM7m3PmKcVwrgQkoMtYb4XFoNnyRWyK/oY7m+IcE4P45dSYbG9gu1KjJpSNAFJE4I4tVmsCNSliRHuhg/NjretyY/pxmfDlNAlJn5DSP4ye9GnaxWsAcr79lnE+NwEg9D57PqlAPEfSCZy3eRGzheEA=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The percent composition of oxygen in H2O2 is:",
+          "options": {
+            "A": "50%",
+            "B": "94%",
+            "C": "47%",
+            "D": "53%"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LxUeEdcFLH+V4gXiMHx/cvABGUefZAmY0z0SVn8c9jMykwPvh+WH5AXl3QIpgV84NLL7XNL2TI+prDyYR5aqXPNE1hpalXTz888FDXrXth/7RGqepdUV9QHBMzKUh/rypetCfm2pu6Zqs8LJh0UIFwLFKOLDdKCuWtYs4mMIpThVGKdGmmRRvUHPJR8/JYyxNONkcWVhYp9GPXOkSpvDv6OUY0cQL6T6283GIujh5hkhgMGHGZ/kWYRClPVRQ82RwdixT71Mhvoqff4kHQ8XS3QdMwalZ2PpTl5RQu8NCOpTv94y85oEXnMjIFfZ6bRwPnURge0Gn7HHVPxR38BREQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "qLYpwdPRiHXoVRRnsmqssPBo21kZBCL1gX31XOGflRykSyjJ4s2yd5f/nEviFW44vNoerT6s5fi3TROiacAtc496zY4Q3FgyUqlTEQUInLvesRmYU28hu+mdh+6/OFRkI+mmtsnP0v7KhRndwWSTA/Hq94LjyJD5rO/w7nLcjxJIgQFqPvh13T5tMAbqP45JagnSsn0XHYZ6NMLuaRFEHbxwazNsS600NAm26DLAT5iu8POqyA8Tv5wumIaeXV9ZFdQ/3XttsCiGqt/YWC12tRuwb6zysJwucXz3KN7koVpQVc2IBhaPOld8Pgaio3bS4G6J+uSaSU7o83BpUemwnQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "The branch of botany dealing with fruits is:",
+          "options": {
+            "A": "Pomology",
+            "B": "Carpology",
+            "C": "Olericulture",
+            "D": "Horticulture"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "hiRtojzOxj44Y8tbQL+9oKnz7bcbGX9ji0uXKqc0betx65AjEHYg6YHTRLsq2UOxjoHSyqX2EBDhAHfygm+n41e1EUJ05cQzs5O18581C7plBLh/LBryDWdkMdyzsX0dDD+yNXyesBQmcqWeWsp1vsxloFPD+jTzekN6ys6y63agYm86LjfuJxTlJMtZHgtn3aiWm5DGNIWTWZZ8uGLWMS2Xcc54LCZEJWCLzPmWlLaWLdH64mXLS3PzFZGxB37/92tmjUbo/GSSsVrnjc0AB3o3XVbuVg1CJLY/IzwWD1bYL6qEU1iJkC4umogXBNlf+5oQToyV2vtXA9u8CQjznA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "N9a7RufE+J1eUQh+f3r0CuPEU7AYGQzbMzjJtlXYQOdg0aVbe6kW2rHkl677YvfVsn27jTUf4PrDFSql7E5ds3EtzNUuQ+fsj36qDuvymem8Qnf+su+Mmy2xPdM61Le2+cAGJI3LQOq8/HHuYZYS5Abip7i9RruvFuLtzx/d+eShaWZB8cI0sxAe1N3Q5mp/uCdHU7fwD7cVEtg78OukY3RKTIF1a9hSyQW+/D5C60rDxLtXkdghhAndMyA9hM1bH838p4QTI73yRPt8RXTx51ZUZbPQp9kO68Zqlt4evAZ2amMRzvtqgDL52j6e6nfsNh6RLtjx8L9+JrWficqivQ=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "The tissue that connects muscle to bone is:",
+          "options": {
+            "A": "Ligament",
+            "B": "Tendon",
+            "C": "Cartilage",
+            "D": "Fascia"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "hxaogUNVSGeFDEG9xTbXEheU5JGP8l7c2/hxa4iljQI55kuRgtkPpK5xupq16mCrrKsZhrEmoaWLGGgzmWXhAkdK6pqtLQXJY4eejNJixTv1dYnUIWXyB6OGcOChF+K4z5xak4W/9FaGYaZmxrxaiDZr5L+FzHbM4N1WVw3441nddkhuNnco0nRGbmhOj28kV6efPjTzh4md4r4paVn9nO+j+GfebnWH/Dan7Chs8BJgQ3yuwLNjRdjdE753TxKqsLIzAeMO7eAER298ZhdmXus1oj5+AUJx68UeSbiUXnen9c7mwC8pWyn15zzh3V8zy0Xlt1RDa1A8JBt5YfDEKA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JAtm3K0C+pCpmexSft1Q6jGdoWxudh96JX7v6+XMK2O6BtjVodyWkchtXxUIP/nJ3yWNXDTE5Y4re1BT1g4FKmMlvgkOCAeQ9Vkdtj39vEyZzbcd1X9oVPnHzjyc8pOiW8uUqiOFukS7PSb2Xxo3eUiQhyQckB+otINu9ldK1PuyQT/OA87FdRcrQ5JcwWplBXBEprmstsCTNH8ldQoTyA2GZA+msOgKXlGbVSpoexMkMgIj+A+mUajMH8neGs1NRbikF8su8oYuabYSLyCrax6D0rYRdrOs+Chz+iwpZmIlVSgOkKLo1iszDdR/Xtek+HJqbSMSue5orHf1sjGcOQ=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "The number of male chromosomes in humans is:",
+          "options": {
+            "A": "22",
+            "B": "23",
+            "C": "44",
+            "D": "46"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gqPTi9d/YN22iMd74gSWlF0OVLjAu+K/UOYOygVT6AD7WUwlOeynoogij1/pVnIwq/Z+d9fOznBPJ6CpIiunTBy4Fpah81bLkAfLggDBLo+PBaqp/58Km5JQTIU+2GZh0n9CZgctLvqrNcaqBilApugleOdwEfTi3I+cpC4JUQlotsJFo9/+qkR8Mc2S48Msl/9SCE+JFxnSgLJY8CgiUp7RBHt6GLrAKuJE3j+6jrMX3CfwIixT2pjLt5myqeUXWcgRjiSoghyWv6ieHD+n4MqVYjOz9nqpiPe57z32h3cowTS4OlxUlIjSig168O/0j+SLoNcfFKsaru9uhQBcGA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ZHXtTeStDsk4lxvL10GatQ0XBYvtp8jafnutsgZw2BleZmzVFfvUSxkXnCL9eILtsDvvFwMY3TXKmaM3TYMNkNvqopBPnWZ2KbkiM9ftzHD+V/htyjsNZyCw0GFSUIMPMJsVjgCnn0w1lSgv/R2whcWJ3JXgHezeX4q7JCd9NClH0zPREtcLXaHppnB+KeiIJfKbu7O4dK0rv3mQsrFffscOX2wu5O4cHzYsWVCmjJ89QMpNMDtpagGDrMrVDPRFHCyaF8QeP34eHChJW3yNXl6wcmpA0RIfr1y2PpNizS87lFnj5il4sbb/eGrw8TbYfRemo1m+mhD/gkOY/NqEqA=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "Which blood type has both A and B antigens?",
+          "options": {
+            "A": "Type A",
+            "B": "Type B",
+            "C": "Type AB",
+            "D": "Type O"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AloaCzUvXI9nOzzZ04oZuHP9+2PhFfA9AN1+Vc4T0ixB/txxkXXnGlI71TNzFvvXeKYryMWcjmEBUgd+7osXQcxwyPBqBOsyQJaRs6tozRKyp5xzwlQAMcGKHqq2mRSpc2SgaGoAB/BY0wNNJtl//jUySCZ/Pvn/76tzUmQkqN1SpYPnPYCo7pOJokXBJbXsCtU3lI6YluclcFqotbsswYSmavX4B9sLQjDwBWJAS68aqLa7WRb3o19kDZKNVtEHJsJ68aB4z9K8CqnW0Y6aEn2nwNjy14LCyt7rQjkTm9vwiapJg/BXVU4NVvia62bJz66VEqQk5kPOAQaUkCgV4g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "lSxzheP+gOnxobovleVhMamxCfvtAYWpQM7CdzPoyYnJh9fhJN/oDcBRHzqufatfWAVqPwdhPtN9svvMeBq2kIGk9Bni/1K3VoPr3UyaUelVMsHKvNo/rfRDrxdj1BQtKjqX6ootgBVgWnVco8O5gzGd2xatAlqYFOtQtsax1uRGM7HOv53qBSRl0IMn0kTYJboZRuDKM5O6R7TgPoWiZzqHggsu+GXYVErHVviF8PfP3M0lApNxiN9qE28VhXlWuT0hdJO1qtfZdC5NuX1eYAwCk2NJEKocZma3gsnwhGhOXBUmCCUm2POFiWuHgJRowcJLgQfafHoRd/BmI12Kvg=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The process of aging in plants is known as:",
+          "options": {
+            "A": "Senescence",
+            "B": "Dormancy",
+            "C": "Germination",
+            "D": "Maturation"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NFIeK8A5/jM0JsCip5eHCaQ4kAyBgShLKPAbT2J68NMSGilaRto7h2C2jhOQesz5Erse99BFvTZniTNM7psiwmZ6QgJgsm8NHGWemtth2cbViknBpD1tWqc0DW5nez/2DNcMTVdLZg00xkI8W/NsS6jrUJ8YA9zcswSs697SFufpK2CeLsLju5EuvKI83rUCgq3ueZh/SG1hM1Aj08PcwWKd+tWqgOlRlyAlY2sagHJnINOuCTeyEJ7r+Y0ZzFre6Q2OJ7eTotf6mJtX3kNNsG5frO+B099GtMfpyDtNFBsCfF7Vob/lva/4tgC8/c3LMugF5gklP83D4NI789JGXA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pS7cFU+n/woNaDj+M7cBcqK2p/a+RvcBHNUSeH0O+Xy3608CtB5TyuNZp4c5e3Kqi2D59XdbmThMc+fRBIcUo52sXXe/ya/NmE5JZ9vquV25FL8XxQmMZ5VmQRvkPvOKVdaBrppIgyR8Crv5STQvcrWdJIWsD190i8R8vOKC0BYPxIMbVfhNvlcsdbAltG8E2VgzhYmG2oW1oIeIEX7mfTFEm4QENsGUlENUry6mzlDKsLmGSRilvA1CColSsGCO91RXCl0ObVR+bRlUugGPls7QZ2f6HnFaQJUpYUX0MP15p1/dx2aoGZGbMQrheISbL3C3BfevfzeG5X5EWgbTzQ=="
+          }
+        }
+      ]
+    }
+  ]
+}

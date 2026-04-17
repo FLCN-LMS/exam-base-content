@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2018-exam-1",
+  "title": "NEET 2018 - Exam 1",
+  "category": "NEET",
+  "year": 2018,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A particle moves in a circle of radius 5 cm with frequency 2 Hz. Its speed is:",
+          "options": {
+            "A": "10 cm/s",
+            "B": "20 cm/s",
+            "C": "40 cm/s",
+            "D": "80 cm/s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LBMRJnEFVKzCI0hYKaaKTEAHHobwIXEwXv0i7hdSBJPndmc0aeRxdXJiRMsUsGDEdDw6/eDDVZ/thCiEZ2pP1bz1FgDZKFgLJo0RsCvBes5dz1n8tDtZgF4/+SKb9OWcOfZuDscyVDyApdBEfRdZ/WVsLzpUYxnGJDnoQvDvDcxSszdo8nvKGbxqTDfSLTA1cfYpSeieDIR7OI+i8Xhszd8ofhldX99ufcAlD1Q7nJha5dCl3i2CqTaAb0xNb1pDxRvhr7+ddk6TxUcfLZMkPrSelX+HfOWQeNTFUnMLHfpsUj5y2jtrRRBsxI0DhuhLyr9+NmmCogFrQToj3ycjwQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "rButmjVI/irL18S6eSR6C94WHdAonOeNUrsQWTdKe1CGVROOuHlqI/68jZ/p2P4Gkm6pFy+PSt/8tQ2UG8Z6udy5R2lDQ4GSijyPhKQhRLZZwyS0GPkaPJKVe1p5XQWsVp+k5pzXbShPy6ooyXeIsewcYK/i11FQ0gkm2NvWDBkeiEcEzcKfTr9Mr1T7Wn3KVphfz2A48JEzREjwrkcFiMS7uMRMCTPrJ1i079N8Yuwhg0ECV6+TtO1HJQ4dfY2gnSj5qmk+4bA+XNTyxLFwtvQn7Hr5enMQWH9nPiJpw8RiSM1EI3iYo1OUZsVHP5SK9rk0jzEBDcyJU+AKPPRvEw=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "Young's double slit experiment wavelength is 500 nm, fringe width is:",
+          "options": {
+            "A": "0.2 mm",
+            "B": "0.3 mm",
+            "C": "0.4 mm",
+            "D": "0.5 mm"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WgT7EVSOF4ea67v/Kfoupn6D0LfWFlMwARHbveTts5fj2T+acnb1MjIoSxj7hvJUzpnDchkLXcJuHBENcn48do0WAao+/pwP8cvFwGlRJYm08KUNRd3G9rCR/fGe4TqOdkwDT9u64SR/WTIkiQCbdokruZfMvtgYAoDmj76tvhwxJ3iP8mLqGxjldyO1JgBNqAi6FNKhXxLkj2jzzpLBr6x+9Pkjs+YgigFFasMFHZgNpR1QqssPh7p8rWXQym66md8ieW3p9QdkB4B1lHMSg9DIRAjMIEzCnvIRIQGe2nTUErhhGFzIY2qXY86M9Zxc/HzafFq23yCLzqWTksoXBQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dsF54O26116iFXOe2HhHeiGbs4OlbyT2OJVxM0dnTL3fTTRaIJAlOP5TNdYQ62Iojd+9xDTX03iy6UBiRkVUEhWjVjDvr8Phy2qjgC6PH9p13165Rm8nHrNdPosR+moVgWsu5gPlLvRREvxpyYLkvJLDgdlm1SSgWWlnEOo1n60+J8IQzE/SCenqIgZnGJamSKtS39r/v46/PqWRMmAUMRNW/ZykWmj+ljKawKN4RZ6SBhk4NY2EfOz/yaDj3Q6VacqY2DcH+7073A7bQrzJq0Ivkq+qW5PhLqEY4bPnBPlrXDZ72meBHz8QMkisC+VnUJPBekekeqYhZVvm1GJZEw=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "A gas at pressure P and temperature T has volume:",
+          "options": {
+            "A": "V = nRT/P",
+            "B": "V = P/(nRT)",
+            "C": "V = nRT*P",
+            "D": "V = RT/P"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "CkNn7a/+7+IR0V/E2p2s2SpFVJm9Swp/pLjHaNERswIEcY3XKZAyAfaic5DXnY+3jkGv8lRmXjPLbhrj0obgjbkzDuSF/LaS8qZDkqNFzNm4Yjq8Ce3bkzhnFf4844A/HInhbqCmI6tCyxYYIQxc5xIgwIyNRh0h4zM5QVqQPSC9+NTtm5lxav6FvfeJ5+uLwivKTMSAa+ZcMEfO6vJWLFcCZP7ZKlL8kIcmXHIWWw5FDri65R3lE+cwbnnQtkLlDc4U6eCngteItb+9vbooeHGedlLxaVPLjE64yH4EjolUqPgbQmOwiifd4EDkQM5WkWJEcWDccbADFrChWlU8ZQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "SztzcUe8AwVcBOmu/DJBcuvvDBaXs0Ip4jcVXdg8xw1mB8KjdI6LpzvkoFQkBE+VQMZcha6fzHZ53HyIEli+EGIZ75uoRDL5ebKI0/OlkJHi/ZKjumS7DvxOqsoRS20wOgcFc7YUuhMHwqOY5t/y8KQFEiDv2q5hVco/Alt5+C0C+FXdmqbLrA3NMV3TQik5PF6IjEp2one5YhiJabdmhhkejmdsSIW2C7+rInZ8oL6GQAx3AZ8gmVHxn/XPIkez/Vhfo3a7+jfB3nPb+/b0J+AzGN4Mbue4d7RaAbpFfxIgMPHln9PT07lDFuoCtnMRNNt80qCDSaMk5+Odg8tphA=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "Planck's constant value is:",
+          "options": {
+            "A": "6.626 x 10^-34 J.s",
+            "B": "6.626 x 10^-33 J.s",
+            "C": "6.626 x 10^-35 J.s",
+            "D": "6.626 x 10^-36 J.s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "s7xQ4gAJDn/TUb2qoh1f+5v0RFD92gIKfLKmHE98ebx19eRy9SnbRjMSZjZ+FGLxnfhCZb53hvOthOYzEkekCKHpZRJfPwgPGrDyaD23vqnrrcXFD7NjTRSreqqK6zmEQRenbq2GKF+WVTDe20aA4WdA2CSM77dp/dV1Ff4sGyJ9YXvogMYlpJ1QHl3d9YNV52D1JlmzWawyCLnxbiP6j5WWd1Im72pKY3tOjNojE79832mliDkdczV3tOYouBy25DP+xXHQGOZKumrHdvxj5//Y+SXfovVKrIapI9M7LRlXA+bHkcccnyP1gNj0Fh7rbM6X1BpvtKbPHF8VvnOXJg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "KlmBQJLhDVsYz8KHVVdDYUfR5Q/0L+YzOJebZDLvPW+rPCUWlreTmz2Y0oeRkoJ29sbgMUpqbJoXb0LGUTHiqRPnZ7PiUALKFefmmd3xsPAbl/HJ9dmyQOaj37v5PtI4Kug8+W1BkzzwlLrbbS6TGlR3YD6p48cQuClmrO6I1ngK7GSJGuQcLRtLH06hG1XRBx+KnlV71f7O8JXGH6W3uVMl7vgPHCLJPKOYDo9qSQJoSegU3qL+0slbWxYcxvUr9VJbQ5k/TJiyQN5ql3KkOOKCvW1mPOdIOj+5Kt1feTghV6IUJKhHnci2owfDMXUzflcVc/IfZbeHyjvkx79LMQ=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "Coefficient of restitution between two bodies cannot be:",
+          "options": {
+            "A": "0",
+            "B": "0.5",
+            "C": "1",
+            "D": "1.5"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "stJqr+e1cMJ0J/EpXhQ1mCaazdfwFrud4QFTyYHsD7F6OdTr2C7Bc1RnLAptMtq0btfOh6ARIGIAQdWjNORHTJc60H3Z5R907UP2CwuysqiUt+9eakx+yKglH85Bqj1YztG4M18/uCm2OUQVNgeozb+BCyqm3P/0IqQjXRd4LWdTOeyBVsGceg+bXG0YcQcrNjqrfztgC8OOX/dOUYy5D2WrB3wGYMG0kRco+As79awxbkVvwBpokdC8ggxYweocQihZitcgdCGyDL7gD4lmRqWWNhUMPEwgrKfQdmDDAqsRi/PnkARylO7qYXLgJasvct8ldEwDZxlAB7dffWlN6w=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QDY92P01APByBJoNjqeuotvmzPzFKJMfzac6jhXGDBFtBGczpzcBJgyHCw+32Uze4bJ2urkm4paLa/UIT9r0Dbopaw9yBJc/1rxLxvqj22lGFpUSBtwFUQm8T84jne1HsJKwsoybWnpkfc05ZgSUPo8dV8xKUg9Afq03lwWDdZ7PQGpN0QhAA4g77ow1e1pSAcwIlC+jrVZqPGZDY8wT+hM3LM9F7wsHLrd3SpA+YFdwQD2/ZvBt2U1XnpXT1vtmtOtufuKVukP/00+NuqlRfsjNleME+xXPxXiRcL5jzlDznl6sx7Y2vMQQLu2wfmxQRZHA0KX+678FZp7KmFBlKw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Which lanthanide shows +2 and +3 oxidation states?",
+          "options": {
+            "A": "La",
+            "B": "Eu",
+            "C": "Lu",
+            "D": "Ce"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Cqy8bEbSFbarLVcpuKH5oX/H3Rbgp4v1cZU4/B6zlqXq+xwASo9t4BnpP92td0oz5nNy4b4J2ywx83MawvtXs5ts026WP1tCjL/TN+sRYrCM1AOjNLgcLvdyjzexK9a0XPWL3TPUQY+WXLY7/2cDksH6Ulur2r54fItPvlve1E478WaaEu9pm/YC8Ghu2ppA/XoJWDr4BPEEZqgaI2x6Ca/yjd7XY8cF02Uy+UB306yfP58WDjEkere7kqSRo6pCU7UKOwQ3LsCWzNPu7erUTWUQg3TcPrQDO/ZIuXgnDWkyGNj2VCKCQaENDkoqoo2nJVmeMhEQczjWMbXv3jQyfw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jzhCw/5nfxSZwDTFAtY2TomekBbgItNP0agCvifTnkRCir5X/gzbjIi5J4BUKlcgI9aFm1eMjfO1KohMFZkfKjGao28lmIkjPatNl4GEfXzak+Ka0D9xgL9sMtL4nBL6BTnSmKcrgCCql1wHuaUvhbvenORr6G+soJKqRcc264Sgv820Kyf8ybYdxgruaj7XdGeM0d0hb6lyBP1Y8meh9unTA+KEAUZiU5evJjcJD/V8gHQGZy5gRbqyA3KPvN1r2eoqFMAU8+iObNskHDU7H5lj/hDth3zhc6/Q62qa/gC51R898+bVN6PxFQfVZnL/F8/QxjfN8PO/Q27u37vGbQ=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "In SN2 reaction, the product configuration is:",
+          "options": {
+            "A": "Retained",
+            "B": "Inverted",
+            "C": "Racemized",
+            "D": "Random"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Q8lfQfd605pDHwelytLJ/QnMNoPToJIJN72I0IlP/MH/T6pMLKk9fLEVg0KchnLEjmDmMs4WHY+QKeaRMXy1U487RLbSuPx6nSaHSdcU41VEaObHav6CDl6bR/M4hY8XODl0jwNA0PAV+rohGmsJdFN7WuqZOxbtQuFqHfjM0EIFipgMvgHbgePDGY4RKdmtyUyNMUEo7AmzhKljZJ34q6uLOfLjkZL58taoWQpDhTsOlegRtJnspPiMBYRlTFek8vRzSONonnUy++dWeSPpA9KRBrZks0PuXIT2eB31IDCdX/GjAa8EmYfhB+M8NfXpyg69g5KGZiFSCBHPaqu8wA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "CTTCwsXpMVjghZUyiMOKF8tzmEnUC0fTBRhv2senaLbfM2bTmLvYjduyrF7NW8nY7oW48weM8a7CpY6M+L2j5uPaWBxCVMdigFbtAbuVgsw5wzGXld6yi6tW55Zei86GhZ+U7+lsl0NVb6DMkzqgr71b2B39tvUsNMvRx7Xe3ytFx+ZXKLPa+Z/4Qj67qqLm4ZctGBCN7HhFlJhnQQfHrP1Nb80A6V+9fJq944Z3acBUF8OFG8SbbP04U0ZB7D2yoJ++uEGC59toj5dDOxcOqHoDcZwEpl+StBN8061gocC8zELIS9kApH8dsDQsZRUW/avJ9x8txBlK/anaNN3+vw=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "IUPAC name of CH3-CH2-OH is:",
+          "options": {
+            "A": "Methyl alcohol",
+            "B": "Ethanol",
+            "C": "Ethyl alcohol",
+            "D": "Eth-1-ol"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "S1LY6c/h+qp4J1yAYtgd3vrTphwmAI4p4OO3Fkb+B6ESDF7OOSrnnXZhFnBFgVk5FEitEZ4Ro2pUmKBZCgptS7BKPouulovKfmyU7OSGoEEftzE25NgSCz4ypvUXouU7KN/Vmn/nuRobOC3RYNAWBFnBBzU35pZQnldBcio+hgiFlPkxSXj2cMoJ1BMDi7DMAY9QXBL3KFuWrs/bVru+qC4Kh4hwG7U6t7t869rKofXMcVvVg3i+wlKpkrvUHZZ4gefouiBjDYn9iPuO8mj1KKf+uiKOQu1sP0Iru+w4L1uZN07msCsIkG4CP2zNtLHEgzYm+AoCqpkPd6CtclhuCg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "eJ5d8mf09//AC0NzPvmbJKJ5QsVkOC9Ma+TVSsYlOHDY1hWm6f5GQvrV1f6oMESMfFWJaW9ophZViCvVfnm+pZKCkJ2T01K0AhTc9Dg7ay7jMY/CTUQn6f/Gr+SLWXEZ4CrE7A0YimKwbLdwW4zLgZOUXROiDDYcp57mAKgOauWeWmhunNuWuVjOZZYDgCQtDpWPEDicfzB6r3wHvRanTCSF2VZZNJbI0BiRHo8vhtp4z+GafI7VggJvFCexQxOBAT0bKTECvKlHoQBZMTMM/40cZyIwz2gLWt+x1FUOOeMEOlntnDUMcWfhkdciHJnfKdq8DkX49Rhge3+D+bKEDA=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Electrolysis of dilute H2SO4 produces:",
+          "options": {
+            "A": "H2 and O2",
+            "B": "H2 and SO2",
+            "C": "O2 and SO2",
+            "D": "H2SO4 only"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nfksHKXlBre1t8JZld8mcbchL/VqQUT++aXo4UdqQmfn5YO/Bpr+mx5oHygB72WNqEzqCpWJp01eYxs4661ZD5L26uPO9eTmwOfYmzHwwzVYvLXyvcTp7Ub9dZQ0dKEXA5tbn/HhcnqSUwz679cpgP0Pqw8AdeNsTHdHI9ggGneIUcbhWTA26SvAh8nJKNJ7XaV7aFi9LiICOtCPBAjyquYv5Qxi9ywzUy6DV1fADeB6znG38R76Qk3fm33ZHVcBOgQs+cLQNm/E3yKE2g2glQRu8A04lJtKU+e8NeRIAvnnmU122Fajjo86wRbh7PGRFyEWm99t7oSTBhR3i08Ssw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "E7lS+muSXXwt7Y1RvH50XAOV/k6f1mU8uEm3nifyRtKZWbWlIl5/nKp4iVmkgj2vPmMaJl2gZ3farBXDTnFPP44H9yPa10XkpMZnN7Zs2JFg3w+3HGWeMONISPzU6DP06XMpZhdtgSybjYUJdugeyS/10gAF1TntOhRNceY9ZZb2l5rmpLjmB4VvSpFUKszf8BV+CmqAxIoqjpnVyul943L0hZJkKc9jxwRVdRlTuV8FT0ManIrEXXSeYtL5X42bB+z8cgMXvV5zRF6s2O4FJBF2ybKsu6PMkwSqIUnMD/6xJPi/7seN2ZfnPQIw0nnMzL6f9qbRoN1TAvzQN3neJA=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "Bond order in N2 molecule is:",
+          "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "1.5"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "GMruX5MZaiNm5aAf+5Q64Uy6HanePF82kzNoxZtJLJHdl7MKLpRqHFHwx+Dr33Nnq7YN22Q2jky1+tIbLJpRo/SBj3JEkUgSn6Ze/KeSgROJ0wJCvUvLJHDj3BNPnHui8CkInFwxugWLaN2pOMsCYOMRmjsZCgmLqiCOM4GlSDdJJK8mjmuSZA2whkpb2bnUUxs6Z8ekL6XhwAJGjs5jYgs9l814E21b8TmqOTiJq/axj4m9G0ErCBqB+3dkbD177PYfg4fBvUwtGxk42NiIM4IGE/DbYSGsxdCsY/udntntq+GU03batt47n/0gEXBOeHWgq/TnbJ+6xqijxXRGBA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "A5ec8cj6nSo+NfrzYh3SdR5rYpoSqFdO5tPyiRTnLc+3q9+/UAG1NvzL9Tp+WRmLDhQq3CE7xiMq2sW05hrEfMYSO8IbyViNwfBYbxTS0gt3FkYsBJ/rIo4gDz2JN3vq9uM3DFgTBDhPtDf4qGoDBe18/dMCzd19y4RftMaUDyym9yFvhJZh165ycqlQTUdu0HwkmO6lp15540r2xpSSWRKdHVbuJQDUsyS1wXoQz7Zy6RRFEPKcK82QrBzdGNHBuj/KmtlyztOxhvikrzNURpm+52jgoxwY2AlM8tTe4s38Z/g+PmAFcF3fooNq0h0EjfVd7OhsWylGI7VZLNy4/A=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 60,
+      "total_questions": 90,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "Photosynthesis occurs in which organelle?",
+          "options": {
+            "A": "Mitochondria",
+            "B": "Chloroplast",
+            "C": "Nucleus",
+            "D": "Ribosome"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "HjUU064smqSH8Iisp82cZ/2HGfDNq5N9ECnAHkWqQd4v7SS0AxeUHojV8KF9NsnFpHIJ2L+FUE2gfIJKp9WvUssVXHTkn43jWBz+jJ/sLm6iBjsSvleDvsmTbUS1CfZzE1nFPAnxuN3KSJzJSjEobwRErba9Nt6PUuuUPGTg8MeECIG9UcbMGWPKK2MHkKN8lB3jfD5I30BwmpHgtWdJ96ESLiNt+PPPkAjMr29Mx7Yddvuxyf7AYjbfE8e7xmoFU7Jww8bH5kPlOtE8cdijxa1vqkEAaLFtV4/cqDUcIP653NrzsTqweQvN8YWu5S42W9qzTlHGIje4a+R1BeXCCA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Ovp6E2vV6rcyinMcHAK3in7KpRhpx631uSgxvEg9LlkQshme6VhNBo8l4iSs9sbdgO3CrXJ3ZMfK0LRHLOTOI3YxtaUMHsz5YO6Bu0DKLf8Mb4zCHP+aYlFakAATpH3Hb/eiSGKT9hkMWQPVxf6KFCfQhgwQj9NJEZPB7P/EHmarsF7zJ7L7zHL556uwFHRQiLN6/orN7r18YEPhC7geekGVkE1QOpmBkUEdptGt9myPQSQIcT8ZD38qAwIaooFh+ze5DsKSKhs+fGPmwwdtlurUbEfgfY8pA3vZx85ZbYRiKQrwDOgvWOUlMZWh8wBgwavNYou1vCfv2vQerxAQbA=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "DNA replication is:",
+          "options": {
+            "A": "Semi-conservative",
+            "B": "Conservative",
+            "C": "Dispersive",
+            "D": "None of above"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QyNm9kgeCQgqgIJ+eU/Gg3I+n6081IpAJZaLJ4jR+TNdAOhus+Xanb9fGTdqBmMoskitsr9WmefpVW9ohUld0F0MGAPlR26gzKQR2l1nm3vZFf6obGZEahuzsLKN54UvYJce+bLGnTy9sC434DfZCdNJe4jlAUZBKx8YfINg6j58FOSr2Xoi1r9Os6M0DT+lnDsOAsYB3HIdZgzBoSw2YFerjgSS4eZTrh5Hyc3W7XDfKc2+iYs8Z+KysH7MMr073vf/mVm20uog8hOcMLEstmuvWryG3C2cgiqyzgHqT8FebNHcHQjS0EGpp0Mp/5tJvteaaHiyuzVhMmAmUg3tgg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Bifzz+kHukLb9qqZ3b8Jhq1hqh1wFLk3LZPtne1dlvdnxJVm4dSZZere2KfDqkqqm8TXYY6GtuMBRvrBWRF0/rQlYnEKLFzZE5WSOfXRkvcxmt1RIvkDIdZBVRd60uGvZWzvVBe+STqrcJ8GpmN+7ZDFBgRwJf+B6CZM8x/9WSf5yS56O9tqAIGJG0O5IhjKBLaDfLdsgesJ6bKVt6hNWUW+b5heB77cBThCC9Or3Yit5EpX53svS4sgWwBOXeUM02tf868bmCxqyozsEoI0jkvJlkf90uTwQ6gNKpN79UFZILBVdNebKqP8N7cGpPngxB9miY/JS9cPD7KHBSsvLA=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "Main site of protein synthesis is:",
+          "options": {
+            "A": "Nucleus",
+            "B": "Ribosome",
+            "C": "Mitochondria",
+            "D": "Golgi apparatus"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "AfMisEXZkUIDDt7Ly7XyoUnfUX7bYxSLsadSEPfYkBFx5DQ9gdDjJdHo/RkwRhKXUxI/P2ufcRcn9PQtDkwrJiAQo377ZANQDw5kNyGe7vseaCPLLXkUvVEE+SfYpn79XtfZpvs9zwzkTAuglasPSYqQFBMZkolWmmYcSOiuNbP0F2Zo30y7QW2TE2mCoU1nkbvOKMolPnFLfobp+4nwLpg9l1qN20jTC5aSnuVpXry474vPALyJqGNi1M3Hjy2czrDmnm/pU+mTYG9LiLUaRp3VCCvOHmA0HMhyRr16Qz57v3m/us2BiCRnc8GbKlsqR83byHWkuBHu/hF90Cd9mQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "rTYKhbZfL3IQhFRQ9amhR7qF19phRHbgWGepzLSLtQfpsHZMvnVO9olh968woHi/RoWvL/RMaafXD347nQmMh9mbE7HR3HL/glziFcNPz+J8H6lagWt0+DnLhr7Uo076ELE2n/Hhiy/fCpuo0LFTwO374NYnTHvpUBKyr4cFEYLh8NmnD7jQzh3MEmNjStZzQ1U561HHTvrjVyeqcPCFRjE9rwW7TasfMyhxntCsHT/x8pChFUUFr/OXiKL74uxPgJjsKjfsnJnabuVWxEwBcCIsPe20WWa48BFP2GA8fDf/T5mBJ8uvjHL50cIRcY5LSHKbrG+5ZVLD0dOyf8afew=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "Which is a prokaryote?",
+          "options": {
+            "A": "Amoeba",
+            "B": "Bacteria",
+            "C": "Algae",
+            "D": "Fungi"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "S3c+7K4jTveWFmGFHqF45o6zzjvUBEhjP1gdMuA3Wg2q67D8IziGWNlj6XkvfwIsUjSFU4jwONuayn5prqh/Gty7MM9eB291k8C2K9/rkG+dgZ5+52hOUzbNCU1MiD9mI3nEAdfs0GHbDY2+gS99usfoeSZxi8QFiie8ufdVvhi+CHMUq+yvhTiLgCP1Ae3/KQ8AQTjzQjI9kC5fOpRfCff0RhiuSJeADslepD5MbWvLWgQPZafWSoZXsH5+ZQJoUxAsV+/A/mRetP+H/fUs8x1MVtA4KogP5yX4EJoAvou0njiiA7ghU0X5z/K56nLXN5rlrOWVuZ8WIYiHAa34+Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "sR4cOCKH/ZRfq7CDXTQMH5yRMfOkK+Ba0nxuatYHAZ7DxMZkyYZg4APJfQ65V0Ircdhi9iEhhyivJAjvFTTyidLykLPmoJonRDyb0yZLGAI2nuo5Dj8tZ+Dy8cZXOuZr+S2C4BE40CVXbLtfyZ8dSBPv5iDVXULv8cw6ehBm9v2fGxBLxOy6e6/oj0rPvDGht3+JAbAwu/rCcv3On455t7wIXEVWYw6aG1wGYEdaTM95VG5a0+XSbUYr6gwvGSIk7xkJMdDtTuHUcDNuzGws7oSSQK+NFPz2ShIZFZenjqcSiroaWRnzRKNuCldqON8HZPMYGvSmx1l9DrmKrUoXWw=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "Number of chambers in human heart:",
+          "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "IsDSjOT57Qp+q05HbGI/EXna1UMsEg4J/bvpO3kSyam0BZLm+oQyhOwTvQdu589+nzb4SlV73/mnBbdybsygNtmOQ5CaQM7fiIN3TtyUhC/z0dHa0aNU8U3nDuEUMuysulTGwKNAdoW5kvIIOnEZCGFqeec938LYhl2G7O4W3E8MURST6TLI6aJnZrYZN1WpLhlECzu3Jn7BySPAHm6OsxNZZhaAvtzhVNtoGcwnBqQpkl3nEa9q66ghf9Q3VYdkGARKJ3HDxGWWD1WDbLTRrA/fH254jZ/1sIeOpYFP3Tll/QDuBBDa0OwwSZ1BrOJ1qSjbomgtlgNiUHjBBYnB8Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BNTmaxpfiEUN2O9RaTbNAQZJ9uzd+rHHu5g/GcNZIs4slX8xIeNfBGwZOvP2s4Q0U4zdJ2ld/O6nrOVqowx/O6CLme6N68Y1mhXenYTWHgkbJLeDgdvZ/vc+tmbH17DJfzzRjgKINymxcSSgtgyzpXeP7TZx+WKxxfQ9MKN3i7Ry0Jj4lFcZC1CUsZw0BKoByGygNt8ZcRjArBNGKl4UB0TqApjiXMq+fu+LUn+IOLSZTf6q6DeUETufL99dZT2aC1KO6MnW8aHYxjlCRa4wZsjw+7WInHWWx1dvD6reSziHy5YfQIiyf1DoVN4KtCsIBnss7gtGdkTbT6KgdhqLag=="
+          }
+        }
+      ]
+    }
+  ]
+}

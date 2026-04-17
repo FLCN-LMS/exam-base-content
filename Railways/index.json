@@ -1,0 +1,64 @@
+{
+  "exams": [
+    {
+      "exam_id": "rrb-ntpc-2023-exam-1",
+      "title": "RRB NTPC 2023 - Exam 1",
+      "category": "Railways",
+      "coin_cost": 8,
+      "total_questions": 100,
+      "duration_minutes": 90,
+      "duration_type": "fixed",
+      "sections_count": 1,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "rrb-ntpc-2022-exam-1",
+      "title": "RRB NTPC 2022 - Exam 1",
+      "category": "Railways",
+      "coin_cost": 8,
+      "total_questions": 100,
+      "duration_minutes": 90,
+      "duration_type": "fixed",
+      "sections_count": 1,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "rrb-je-2023-exam-1",
+      "title": "RRB JE 2023 - Exam 1",
+      "category": "Railways",
+      "coin_cost": 10,
+      "total_questions": 100,
+      "duration_minutes": 90,
+      "duration_type": "fixed",
+      "sections_count": 1,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "rrb-group-d-2022-exam-1",
+      "title": "RRB Group D 2022 - Exam 1",
+      "category": "Railways",
+      "coin_cost": 8,
+      "total_questions": 100,
+      "duration_minutes": 90,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    },
+    {
+      "exam_id": "rrb-ntpc-2024-exam-1",
+      "title": "RRB NTPC 2024 - Exam 1",
+      "category": "Railways",
+      "coin_cost": 8,
+      "total_questions": 100,
+      "duration_minutes": 90,
+      "duration_type": "fixed",
+      "sections_count": 3,
+      "thumbnail_url": null,
+      "is_active": true
+    }
+  ]
+}

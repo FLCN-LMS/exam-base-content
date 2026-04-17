@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2023-main-session-2",
+  "title": "NEET 2023 - Main Exam Session 2",
+  "category": "NEET",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "The velocity of light in vacuum is approximately:",
+          "options": {
+            "A": "2 \u00d7 10\u2078 m/s",
+            "B": "3 \u00d7 10\u2078 m/s",
+            "C": "4 \u00d7 10\u2078 m/s",
+            "D": "5 \u00d7 10\u2078 m/s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "pXZvr8xdN1+64W3YIYVDJ1g3XeUYVhwGeYXTjkqKAlPJh5GHZAT2Ejkk1zPaQsrW+kZpzj2NJo1VkVjLYtlskHYCG7dCQktd/UcmOVHt+Ml5rsb4m8sgsApQhE2mTGktkZ+8L4TRBn1fSLV/9J9yxcwkDTZL95i0vSS4xKUx2P1x6o+K3Pgj2unComKEwv7XA5pbEH65rMttWSH5oRRPr/DJ0tt26QtQlg0A38SsZeIov+bIJZn4os5PcjFDhINg7eai6ivKjyJChtBKGru0F1EVbis6RUMRpgIASwaf+KbyhfE6+Jcw75ZD9Matx0h0gxIaerxBhzG074otx3PWDQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mIkkzgJAPeDapei+s9JBRTI9cLFC1aW52HC5ganWhlo7Zsj1xOtBtnkSRUFcx1pfyYt4Es3nRCro8H4wWz11+4hMS9ztXGmc8AT15efoID5oVyEO3Wo6VmW51o6lb9u1BwYxYmSedp/q/PaYa5qAin3MvlpGfxemAFuCjMtR+DutQ2lRpIOpWQjU6vlgKC01VIjnZXb94H+ce31ZiUoOASkh8UyBg+MLyLqRAfcPEj6wxd0dxuVOJUk0LwnTFaQ3wAGlMOviCqvlSmD83jp5NxlDHkrFH0b9iIPwhn3DXHpOy0sM144GEAgdfKMEgzADGxrmqne2MynssAU6llJbOA=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "An object of mass 2 kg is moving with velocity 10 m/s. Its kinetic energy is:",
+          "options": {
+            "A": "20 J",
+            "B": "50 J",
+            "C": "100 J",
+            "D": "200 J"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "B4XeKND3k/fuDPlxGVa5L/6nI0yBr1jZG2xlSm3GBrxrZUGNuKBYjg6kN7dqo/43hgdZb5FP6pGJM13s6RaRXdlAHUn3c1jmuJ6+LBjbfZwBl33rv4cH54e4wU0lxPsHc/H3dqckykQQMxM9nz8yEbYgIZ7XlKFKynEvf29eoetlEuXI11tODIuICmwXdWK/n6zeSkNHg2hvpW+biqsJ2KoJ/mq7z00S3Shc23I649VOLN/POhEQIKe35QNhr9YbS1F4PLM8otx4T7hhisFgdl1jybc7gtFvH4RVo5o00iKN+WqENTRE3Bfmsjus60eM/UHs4FoyxRTRa2GMQpJGRQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "AHqEluMj5292v1OIgNcBnnHFzzXZtlPmNFT1F+czgmDPD/D94/IfdD/Ui3wjYmgPGuSKenIV7wla47OIqPgz/q+pRzoAQId0T+xZarxZNrIGkxoBFHa1OTt4QER3ZxBEDhgqTcCmAEQh5YqAcNBos8s6teeaBUBJpK6gJU9pgvIb1mG8NIwquP49Wi2PSSJ5P+LKvbnnMHGGShtGOxInGxfW1lOXkh4Hu8xjJUKfFxdvRcTCSb3FUijYznG0E/XDRwJ3gXF2GwGcyT0ZyOHzu3Nu3sza3oZaLMIEIXJ8tbJTXjpaBCxzYM5K1EyyR8SBq2/DeGKguYJf+5+TMg0iAQ=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "The angle of incidence is equal to the angle of reflection. This is the law of:",
+          "options": {
+            "A": "Refraction",
+            "B": "Reflection",
+            "C": "Diffraction",
+            "D": "Interference"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "OVb3pdh2PTmfOAcj55YtiskUqdiDiEkYtn5Y57ezMvriFOYNeSwDD+UvylUbO84fDynOooTmyJYmABnsNF0vhfuf9ieEw4Ycm6Loal3Mkc0N/Drr/p2vuWmGnYgVhG7DDbtBrpYOlo4DSp2sQdr2qudS33xYFIWbtOooAQZvVksC8/Hyy+Ok87xvbe7VUINZWXAsNYOYLIQbwV3njs0+iwgMVHhBoIyIz15DWgAaT086hFne1TRojhZpgwC29otckJU+cFO//havjEKiboqOYfbDBt10iZ/P8jRwCIUam0JYbXVuqamtbEloYH8SD0gof4qaBOZbqY0/ti1idOF0Fw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "o3JmZU8bbxOiZ9IIpVFW+MmWLHUNFGYNmJTvYNNmUbs+w16SSmxxuaRsoQIVURtk9mwq7iQixaHP4io31xXs5kIj5dhXH0btDJpiq3A/nSgyI/ZutB4mV+3Sz0Xcbb60mkF5Y8c/3X+qSDqGooTeORxUBTu5GBodgqrhTMlGtgeI5eGHxd8cWxJ+i//JUajBHEOe32SbSbJmhqs+Tura5YAaefRom4K8FfS/ZESd6ZFjT4TzqTOuljJxqyjX7+TtPm+oaDu60cS/JSMmhZn3LIceRmbW8qUDZa56T9WgfGQ7ECovTidbSH7xMBgr5vD1vuQIpDXnhmppWsHEmwdy9w=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "The SI unit of power is:",
+          "options": {
+            "A": "Joule",
+            "B": "Newton",
+            "C": "Watt",
+            "D": "Ampere"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BJMKCQgFKS8efAgKm96toZUJ1Qlz5hHtXeUSDlfU8ZnyndsXBIDIvPiB1BI5UAajZDnsXk4ZqKPIzDnOrvmG3OJH1QgJtKKW/BK5h6ExZBMxYG9HuH6DZ2fsxJ/40twkyKwI4gixdjsHIBQLk4DdWH/rZvNSaLDx5ELIFo6v/z9Tx+fulsdnc/EFgwpG/84q2cmbs2PU49kKFOhfRHJF/qe9LKikVpIYfq4HMj0a0D6zqiWaPwE8nAkz9jcyybezFBduNa5l3dTj6FzKsMy9xt7lul09Ryua6EcA0SQ/9yowIxd3pYPVpeiIXptuj6/EtrYumuDrCHo7qd9zOUG4pw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "D4qOYQCbZvvrPp7Df+SM9SLfQKRUINTMgMj50o1vLSTP0PpQskugHLXhgAWM7FY8p4s3Z2djGtUOGRUsusCqcxuAhS/MtQ6Gk6Xyq68vmg5v4Bhy1852B+XotQq+NqzWWV7cZFdgDGxLG8nfcm3PMOMJVMTd8ualX20fF5Kup2cSK0DAnHalXfBsaXc2OIPM32zw+TmPxzSxxsAwARrYE5FjXQhmliAm7EytqqQ1t3l55b+Yr6csIJWf3zXF66l0EKYXFqv54fn4+gy0fwz9LYfXtQJdFk92z92eLY+gN+f8To6knUDQvF3KqV4bc2TiQI0Ym70eD477RgEzcY1wLw=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The pressure at a depth of 10 m in water is (\u03c1 = 1000 kg/m\u00b3, g = 10 m/s\u00b2):",
+          "options": {
+            "A": "1 \u00d7 10\u2075 Pa",
+            "B": "2 \u00d7 10\u2075 Pa",
+            "C": "3 \u00d7 10\u2075 Pa",
+            "D": "4 \u00d7 10\u2075 Pa"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "p1Q3oREdc2o6p4KJgqcB79kVsVJwalFfVej0p2oTz7IRoQA56IDxJvtcwJ5RHJMie+ppAttBy67heYCnMZ5g82Vs+OU2BGEBfqe6fJKNJ3I3b+L9TZwFPU8vfEaINjPTLObumZDh7iKD+skrCuPhFLPSyP/ycouQzkYW5/+KCiFa+xguxboqOnIOXSbxaQb4UcbVjgFV8ydPdsTGd9CnacUlMk+b3PjBKxV76+onN7CMVANzs2O72yIrH36hoLKrI2kbAqiMC5iTc/XXuEVazhDwapUo89eGh5wT+GM/Lpx6xIBAjetkQPAT+I7WTu+3MbwfTeC7aVk6j5jR3IXAAQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DA/WyD4TrargCz/ZR8ljh3PDaBgzeyS7gbG03vEzjHs/IlQxL1FCq60/fN9prBKO2+1nXKSsdQy5Vbkh9ITWDi6zcyrbLOKKoJTkf6TfxcPbDrm8emt8p3/bLTLtf3PkTfedjmpYAbwSqVA0+eoCsuhZm3bxNh9wMROSRs48qidJ1qHzFOvTja5nNwEB9pNDcrxqeh7/J/VUlGNlafGOtQWuVx3g08+V36IjoXpu5a4Chf/HBVTA2d3wraRqbsypNxLvTlvJPsVVpfp1dJ78YW6qyrBL5162QFMRrlw5uB61k2YNa45EvFna0zZ1D7t4eo9HhXevME8pRlznkEeiCQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "The molecular formula of benzene is:",
+          "options": {
+            "A": "C\u2086H\u2086",
+            "B": "C\u2086H\u2081\u2082",
+            "C": "C\u2087H\u2088",
+            "D": "C\u2088H\u2081\u2080"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LIoT648eLda2Q1PGpQdzdwX6rGOxN9Jqn/HCGl7wobYYQQ3AXuSCX2sDxYJqZ1HUYqypne38ctLxNKCWXFnVbpW4a6sjxN9kgrHh2hteIuuVDMJMmXGo7HT1fs0C48u0wSH37EqxeyUxZh47P4Jrtm+OO0j9F8XFNAHRwDtk1CGrndQpXrqTbIByj90MbLiRc8c8bv2iHQPbjCu7cgpCcYYYrdIvQToDL3IEZt2hKz0N7xOgS2sfj0eidhlzV/YAvdOMWM9vavfJ2CymkHRLIZpq1TwpfM+d4ioc7ccgVPBp59hA28qLeF4Za9421Ore+M/xXZkY8Ep83XrvdN5vPQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JDPmAvTGwryzgpBtE5bz5BKDywGq81Hljp02Mr+61Q9q99NIg6auTFe/YL/Sv68sdhdIFW2Iwv4lsez95kA2xLFIj3KrtnuH6abJtYB01yHA1S8g5WxeZe1HBb44tjD23jN4+ICY/poWSEE1piYDYD0Ct1q1OteriM8v6dxrZGt0bfJxY5AEvgQoUTQ7Q7HHW/CjoRVPH45RGdVG74XZMO3kq6qYV06uGjvrHB4EzMd+gVWv0Y+8HABF1MXgwl0DMebfZKmDYjrCFztGpmpcm3Cl/srNWOvtXvDyMHs7IrM35K/MC7g95crMVCN+1JbNeDTlVz7pFqFqFToJDTADjQ=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Which of the following is a non-metal?",
+          "options": {
+            "A": "Copper",
+            "B": "Zinc",
+            "C": "Bromine",
+            "D": "Aluminum"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MkYNulVdbqbd2QKA2sepcI0CUtww3FDv8K7LIV8lcyDtWIssURK/0oQe4RCcjx5gmdklzSZyzM0PWKI88T3PKv5gtqoMjyPlKAn8l3kZBL35DVRXR49d7rIrsZYz4unn/wCZwslo1QyMfI+KCqY5ZYH8Ut1IWcB7PcSIzySbpuvNL4vDAGqgY2Nu4BZ0WaC+aifHikbDsZUUadS3hd39YPp98WCfWIiRzRp74yCO0URHK5lUbbRVJNAdWxXNwTRzJThgPA7GivbbOIPtqL3FsgAJ1QkfAOTYfcDyDd6mC9iTHDLlb+kcgR8mbH2QKqmPFjwl+eePw6nq/5NBYF4t0Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dkMAHvhBN4/paHvEOYQV8klHucP/+qyBm66RY0h47vxg5+gBUvyOzv6VpNoiVWbzbj/3ST9UHAEnFK0//NyASavYXX/CBmDze8HNcU5a41Of6tR3bKw+e6STLM25AVVguwiJL6z4u32JDq6PL8vCwzGjPjafxBKyggAMmv18QQ+zMoM/kbJOFoREEUO0/M+HAo4EruJEnSaeSJA++47/IfhObvJRVwTDEDgwqiBuhG+XxYX8oPllUrbyouq6uenLECHk9+qjAsgYUkTmdXaCGixMmdZUyj+s0Z05kdXE0TF5hroY7bzUEUw3X996f06C6sIOJ7hBRGs/NdffEgRb4w=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The molar mass of glucose (C\u2086H\u2081\u2082O\u2086) is:",
+          "options": {
+            "A": "120 g/mol",
+            "B": "150 g/mol",
+            "C": "180 g/mol",
+            "D": "210 g/mol"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "f7AakVtUcR0CObkkWKWFkc63rWtuBeZ521/qUqLqnXx3ie/YuNMgZzVAaskCQ2SdhQdp+wpCi6iu8wgRztTtsBfEt21v2mRvWyPGQrEQaSMPv9vJUc46ajKTjwIcM1N2qaKg1gJyCJm4QaBiEUBz3T7ZPW2q6yq3lCarIvi4G1QrfGdqLEE0FTCJ6M6Jm2y28mEmB/bC4oYiNjv/2MVfxUcq/QNtbq1XL0Q+eLx2eqtTTkHZgI0r5U6HTjIz5xUQdNIkzzkQlVwv5xzIO6XhI5BK/TcXcBnJvRXf7ECKsXNvZfBu+lJFDyusfrUUU2d3XnCiNnbwCZyMRmyr44ru3Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Uc3di8CMNfHWs3VO/RUTL5z2hOKBnO7P6l7OQ8uUwR0kQFxgDbm4xR5dtu20mw+t0i4TTBygBTcfY4O21pxU53cBb5obno3ZiAh0stSqxHBDAs3MxI3lHHjgozs4N9itgFptjV+DyBf5UM4NCvQI9r1icv7IFcgay1EIe3OsBYPqvYmsjfDy1GSPpgTZJ1F5lbDha92TWa2+wGp5BsGYj0LBX2pj6eM4z7O1eFD3/EIOdFUdsQeVLj+tMOejn8qT0IK1Q01e+JXBKIbVPMR2xguFoFR5EUg+Slhd/kaB/o4tf1DD8jY9NLKIc9KAqFSiean6ixa9dDOjywK1K5j4hg=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "In a reaction, if a substance loses electrons, it is said to be:",
+          "options": {
+            "A": "Reduced",
+            "B": "Oxidized",
+            "C": "Hydrated",
+            "D": "Ionized"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "eKttZuvnxseLdzn1dW6+2zHAXMR/QT8V1h7dQs83JVYvDnjWbv9mF/rolrJ5u0yyTn1MQJ+46cJEvMIa8liqe3N4/SrFGcwLzIxLjb+NgTdu0ohFwHfBeCztxQz4bjjsh0kTwsaZcoDVsCcnYldn+7M72eLaIKFQVqyS+7CYKRBKPIYWxUdZAroiGQyyj7zc40JQCPdaYizTA5+kraaE81msorS2RrBf+Vi6AqcufRVt0mQXLjRO6yvchIadw0E368/OpCDY/YzROX4VFw/iD1/sfFhmc2UePBxiy9DOm7EeYpFxBWm/pmg+0bldtpuAWpl2vynZ45Q1CAiTE2Brng=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VfRr1A70OHFBytYiGbsggX70nHpLO32KIXRswI3RWvWFkF8jFUMZn8ZSbgIZIibXqONHdqAGYNQ4do4pd4ODdi7MUPqPligP8b1kBDmvhcdmhTnQrcdxauLpfbRti5Vg/m48wl5YXPVh5kO0A6Phht0X2M8ZN/yh10iHrh3gIGVOqLriauMD1Vc4FfK0LK/NarFikz77zKQ7Xmny2yczw5Q2xyxHKGkdyiE3/zyrHUly99LsGktxQtiysN7jhTolWOAVo0zTL9IbirXl6rMF5Le5oyOp/a8q20uLUVROcD9u19L8rA47BE+oE1PduSFzg0BbSRjF9sb2yipko2dXiA=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "Which acid is present in lemon juice?",
+          "options": {
+            "A": "Acetic acid",
+            "B": "Citric acid",
+            "C": "Malic acid",
+            "D": "Tartaric acid"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "bqXPrBNcYGYOeiCoV3+vxH+7Le0O4EsaFNAnLiRrNLsVNF3YgU4eFZownKKeS17jkwXKmJ5Q0y9A+57iRtdplcuYdNUr0//WLi1fP4CTLAyCe2QZrDnGaweWREjLa0YD3sGF8Zr4VqMK0dobvY8623GDNg655DvBfxqP8ua/CMNr1uD/IUEXf8EOZfGYY5GW2ddPJj92fgxjfRHOIeffWZYmuTNmocSZG2eWSOsA6qdgbTMYWZZIGL73jFGpybqIFVjVtFjm+cJqomyk4Ey1A354cXzndli4sO74WODKX8EIHunFMvTc4uZ1IEXufSMUJVLDJLMUABoOTeuWrQfaxQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "GL4RbYT3L3QVaB6VdCHKJ5QFvjohZnIWEhodDfvDIj4pX9YS+nDoeqGZNNsGPSgSY/g+hPxhWYi3DaHzAwQw3t2JGbZqBbSXgtORc8nq7Isch18wvkVI6dh4hfT4oJ5PXGQgFwrBYeKq13FEYjZ+EQw2lm9cf07nxHllzfrvv7cRDHf05H0dfJ+eOgsQx7gXyD6tKvLBJ1ds7S9Ey3O/9ElK0jzpOoM78aZdijxpuf4guN6hITbQ5T+a4hYnCGGb378TfRq1heNBiiWDzL8iUbUVexvnoS71L7rlfNAG2EC41FzDb5bQX5rMkh2bNBH4nhWdpcq4WjfF4lereznKSg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "The basic unit of heredity is:",
+          "options": {
+            "A": "Chromosome",
+            "B": "Gene",
+            "C": "Nucleotide",
+            "D": "Codon"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "P9dMIHAwkWYPK07d7ab7bEoepFPeWApe05DSyRVN35FSdAX4MjXtvvjW7J42MWXGjzjf351pWq1R/CtZ3ZtEdV4WXnI6nDxiAB+LFKSYlCwx0sp6jt5fhtfAMBEghVBQhCVyBu1LnYYq4DAQ4zdqgwGb67Ap/RUEpuZI9nKRBxPIa20yS6EyRJq5qVFwc7Ht6q7gPv3gYG1M+CHVgYzEnutkVdk57w97ilC2BPO8XUpMwA20GxqFGIRXFgZ2WdIXwfA4O0kC8njy8/gIlCg9/pbyRbAfPRB/mS2jcCHwPL4JB98wXUeHcLeXO7u7D1/IAXGM+C5iJozU3hTeoM40hA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "G2ESu+Y69iMP2nHzjyo23lKIfvEo8L+LME+ePMd7AbxR2jSftyTn23gaxpX4FRzyiMJkyTAqtqwDoiCE7EmgzUfyL1H/1Pm/UVc2y+13vZ22UlfZDH2DkmAvuaWSCfRHqfERoV0BNHdPdmFJZ/8dwMbnWEmpdymsdH0mH6NHbzK66qdiJASlc1C6OZGiVJCnwUIrRh+X7CvQ7dId7okDHBB95EChLiBluyzK0T84Dojo3w304Cd6nTwJR77zQyM1WpVgxPcaW0jNC+Zu/+XcdkiI0IvrzgWpxTWPWnKy3BX8QJz1pap/saKQ+ZcQC/ps/VNRJfviC7Fax0ahQD9R3A=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "Which of the following is an example of a hormone?",
+          "options": {
+            "A": "Hemoglobin",
+            "B": "Insulin",
+            "C": "Enzyme",
+            "D": "Antibody"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "HHrMN1oSo4SSuS+kgdL/zC1iwgxsQDyuia74hjM1JgtvCMNG81CcNPWt3h2gC51Xp74tDyTwAXAH75vAKj8VIdvdrc3QVKoWNlZhZVv+UuDVh6wvjch1mUHba5V8c3SVRLOxqgSnHQj4gXfQt46ye5RbEyeUutd16YvywhHOZVolacOrZ6PlAlae6JckrV0ovVf6tCSK7aiGJUIDQuSWN2Tdt27/XyvxwfovT6m7YHG7e0c5hiESaRyrVZyhq4eLglWfD7yuGWeaX/zpm+PjydPQCCBnpBz7GGZIgvseo/Kor2NC9Slw0WjwU8pecE1fDcTv1k7pd++ZHCTRuozYWA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QB1/z31aXyjEJpgvrOZj0efMSns/i+69UMcn1F+nANFx3Lsl2E0JffOLWkXiLkijhusFG9w9t+oLw7MRghzkc7jr8CTnc1zOx/ts+qd59WBVqDOeBeAkJV+Kcn/sTUXOkxUEqrm/mI6tyy+tBD5uY9XzbKQemP17gcSN3WF6Q9kVyzkItaVbLri0BYGIjS6ZkpsokGp4UVsqm9HpjqI06TZpc7xMhRfdb1iWzsnw42tj0Z71lCAZmf2tp9AIGw+gqXjmSdVTfjH3Xxtpc90SVkbwjDvM9r5ZP24a10gx9WwKKAgjb3/iWdM92xHIsDNepfU6AbrRbUYS9Df9e5RzYg=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "The process of breakdown of food to release energy is called:",
+          "options": {
+            "A": "Photosynthesis",
+            "B": "Anabolism",
+            "C": "Catabolism",
+            "D": "Metabolism"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "op/XkCctGqOEEBdM/T0lfBsxpSRVg6ObcpqxLuJs+5ch8m3Pby4gLBe7M3QD2a5ObNZgcLBFGkzUz1rhxPiAQBaWgAHyCfA9zbyGe6nuXiyi8aPY5OnTVdmvtrj0XO9iJJVhSoFqkUNRA8FdVWBKxi/tLNMLiDRUW4sMopJJsrh7P1ltJdo7zfc1xeCAywKjD/mIyq9yGk1Ny9jZABQ9Prbzw4p+aMOoC8OWSqLQQgGO9wexkzI6ppslpEEPbTPpg2EwmzmglEg1xGENsnLmSZIVWcDZJ0ZgnE/8X1cJ+DHaxgLghhCsbghr12jUNcYINJ+n6qNuyL5ym5RHt3z+zQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LqHaOn7KX0BQw315oB6RDqYloNCa7aiA3lWpHFsRaZGKh0h9r92ytYnwYORO//p/Q7v7yawjOZYlwKTfwo/y98TwIJrqqtVLetqUpSs9IGMOgYrMQguyXrs7rag3OI6TAwoe68zWvXehrxKcUggcKU8HJh38WHMNZQ7ypDwFx1Dd2splE1OwprHrV4f3DBLLc6eBAYFn/SYcF8sRKtvUvXnCpH1yAflrJR89EYPXg19Zs0gHjADSbMYJxmvRnzlU2xkmR+W2iHORAyMF1kLsm+EM6EygszzPWqvChGv77vWWLnHVqjOx144IyIin7NVIo87vpeMxfaBcH+ddqKUL7A=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "Which is the largest cell in the human body?",
+          "options": {
+            "A": "RBC",
+            "B": "Sperm cell",
+            "C": "Nerve cell",
+            "D": "Ovum"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "k5TvzLs8EE1Oc7ezPfu3L6JRv33gdkJTbmwb4vjFqCfh146ZSVNXwj9pRztqClV93ta3Q9ebuAaCB7qKs9feC309dhW9h0lcfQTqNqV0cOqHWFH5arAOKF6jRobRd57dFLijTQaL+LsNNFBksBY9oJ0i0WnHoYSlZwgL9WVlQ/sTH53sN5Fo7141WNIC9Zj1j+mYe/ComluYzj8DEsKR2jR7DNz54IllPNFf2BLGTIszj/vKnTOSAcbKSVCK1i/5YGQNbmGL2Gz3G9egKdMle7Q+TlHay25xfaUHVBGyNOBg9/O0vOfJ/nVZPRrlsH6nycES4rt1Hu77Jb7GohIjLw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "lS9ZuOiaaQyAT6OY06/5uWoqqruW/wsqOWDIjd6vtuz8XRsdsK6iydIps3u3dnjY7zorrlgCxWAV6JSFcL6eWRqdZxvuUmu4qt3rMp3QCVsgiS0mXq37dh2lM6PiW/Bf8I4o8Ci1hBG3D2ELBn4qg4csgffHJKMvKY6QfdpRKTexQVjwFY8zSpUVYfKXlsOWtBMc2K6dk9L3Xu2E2aI4La5HixsHMPcCk8dZ5gpqDdI32zEv3p/59RP9TvflUz/CPdaX0NubPVfs9C8oWRWSku2bkBEH0BPf49///Ji2tyCHMf+X7Lj7rtg2tMVjlTMxoYKepEcJ/zAUtqGWWK4kpw=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The part of the brain responsible for balance and coordination is:",
+          "options": {
+            "A": "Medulla",
+            "B": "Cerebrum",
+            "C": "Cerebellum",
+            "D": "Thalamus"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "S2gXHU8xqLTkIJsZKcjONBDiOks+oxA7loBX/b50pEpVNm9OONJeqN2mCzivSziDznbubWRsgc9Bg7OH7EfPUafupRm6wOoqX7EP/8y5MSqsBvFnzRN2phL+lFfN+QHHNHlnkn1ujQek74XYXyKsrl7UQrQtBDZE0CLtSDnfwQXWSheRMghJ3w6jyM4FITYQNF5Em1DYC+ibAyZag0UVAS2EScTsTfJkLyPwWWdm9G0YmdHgn1024/IPgwWRM26OPFHnA+We6bV8+AiwdByT7irDuVajIAOgFIfXkKFccmIgf9K6iNpUIcI7ymS/7aYciTdnGks3zD8pkdfZy5dc/g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "gEqvSFPDji6T7oNKJv7Ol+PANKZOM3+CdcWjkGwtH6EtLJchthMdRB47jbUL3sVjIyJAlwWrrh9/pSPu7BqRFQOEGcwbv6WOFXD7k/h4+vydLQp1CVPb7mGvxmQaWArBzb15PFGczB97uu8RaqsYMnsO8fJUfsuS4r7NCpfZ6JwMd3milZ6Eyc2+8P3ZyFx3Im4FsU15NO53GXUx56Yb84t/h+kq17i3AnlHJVDRs1+tOy2VgbFaVN1T3y0fRsgWsSNoXmUtaVead3y3U0OZAlHGJ6JH1G6lXnEQAlEkNpn1uaIy2wuxLLHPVEO2njwAIU9pnIeQMIc1cRfgXHsMdA=="
+          }
+        }
+      ]
+    }
+  ]
+}

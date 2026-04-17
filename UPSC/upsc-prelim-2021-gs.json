@@ -1,0 +1,216 @@
+{
+  "exam_id": "upsc-prelim-2021-gs",
+  "title": "UPSC Prelims 2021 - General Studies",
+  "category": "UPSC",
+  "year": 2021,
+  "sections": [
+    {
+      "section_id": "gs",
+      "title": "General Studies",
+      "questions": [
+        {
+          "q_id": "gs-001",
+          "text": "Paris Agreement signing year:",
+          "options": {
+            "A": "2014",
+            "B": "2015",
+            "C": "2016",
+            "D": "2017"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "YT3lYtgDsEcM+H7+Vod3zsyDLWxlIqi/XtNsKlKhe/bMhfBcFInzYP0J+5oy+PGD7lMsqXIUXCub7Q4liktCHw+SY1hj0D2vYR7699SXOy/eYGTE5YBmNtX5iJvVuxE+eQ06ovAnlXEnEC7XPC9WGSlXLOqrJy9PIIlzc++YYnFNDIiB/hDB6wYMOoEytebIon6xP/SZFsqV9fQCE415JMfQrmT2Wbyo7vSmiaejMLK3nY/j8Gt3sOTDMjpX91nTwvTzaJlQgaHBRl3QptRo9h5o9+5gQuLNcXBN/rolV1CSUDLuTRet4SQ+0PtAX3kmIP4/oK+HaXiYArvm9aDlww=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Hq5L2WRWVgdgxQyf/WcLLQ15y+zqwfOywox6ETlRr7/lcXQXvQ2GrkhvsiyN802XzK5HiuWQ2jsqKiWoU+sLwpZOA9HXLflkOgBLssvGrUY5JJj2zl5pRO6ER715SveOffBxb1V5z0Ib3Ov5Atueh0nb8JfERR4s+ranaIV8dELjqfVql7vB+q7uEroCxTUzdG0Bq3KcCR2H2WgCP+jHzozhDk5hFuWAfFVG/oMRnLSFTnsD0cCVzQ5mgZJgPBRn66BSr2osJr5cKSzXRNP8pOVEpRGcoBEJwrBB7I/Q9qTm5cd8RrZX3KS6y6rH8dwcp/9xekIzx5LPu3DUQpYCHQ=="
+          }
+        },
+        {
+          "q_id": "gs-002",
+          "text": "GATT replaced by:",
+          "options": {
+            "A": "ASEAN",
+            "B": "WTO",
+            "C": "SAARC",
+            "D": "BRICS"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lr146hvyrPcl1dvghbTklinemWiRjvBJR7Hdrcr0upV6a7F/xnJWGAQI3TMOAkHqgVEtLEl+LInSd9SyP2MqMy5R3k+WXI4uOJdcsEa9WnXEqCP2rBXD0nFBP8LIcQZ40BK3DmG6DKYhhIr5FWlcU2oLoa8px46yYj/svIDOxUaF699sYsMfD3WlDrEFFF/+Yv98OLD3b3hHthPecFGKt+6UX7GASIxZjU9OxDSYmbULt7D61gibUXwReQgY0tO/o5lhKr3wn+eb0pPBfda57sxZf6quDDEmOXMYP/17O7nvCTh2WVnJshmU4OMmb0EWi87VvFN7oNf8rRhBMGV4Gg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TTvCbl0H3XH2GYM1viKfQwURMTGnzGo571K8IRMopQNpzF5Xz8OPou1xXPnStkhPstjU7AXAm9DxR9nc4LCdaZ/984UkfDUl3UYFPbEc2e3gg9VzbtS9BZxf/5nSk9+yXX77xj/k959PmnKk2e6GfbpEpsAXZKrthZdiNxME8Z6Sw7zB5J69t6owk6v3N4UZsH9DlPQeTzS6qaWdkPpsbW80VLGO84enS0918Wmu6OrdwlRhi4AdgSxByg1ShHUxqgdFQBS52tWLfDNLWYF41Q1l6qSM3ktpWZXr9TLF1Yfyc9JGg9axtCKFhVOJCBTuzbAwvsz9Y16sgOI7fQCMMw=="
+          }
+        },
+        {
+          "q_id": "gs-003",
+          "text": "Biodiversity Act passed:",
+          "options": {
+            "A": "1992",
+            "B": "2002",
+            "C": "2000",
+            "D": "1998"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "VnAYiJ3uxOdEG9BU8R2182ILABImGC3o68kgUk2ONvfyPTc6Bg/dEsmB27jWw4LWqhjAz6XcF54LyQbTExkf/K/F8W1OuIJhme3CmN/DYOi0j7B0HQlJzESxHaNkLOJVApD6BgwXv+NWYDMHo5yCp04RolRx7ZHpp47UvC/Ikd+jGqWpRTV/7f7BYllmMOGua/KI1iB6MyW6YTEbovAWnhfFESGY22xXNOLs/6gPzqmWv54KWzSQP3EefgKD4R/5odb/FV9N+EdcYB2azQOjHF7nDgnMgthtdfLzI6WPb42svBgDZVirY4cEDQMQaj37ON1GaSmwaYQStx4VifQ5Pw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "stSv2R2snqfjeMQL/H+Q23DMNQozBYqNaXN/GDbjdX8NOfriBpJKbdgirMJ+j1nkZEBlR2hAnfKtXR83TDT/6Y8DW/0FqoHFvJwABVDiKlum99qRwWJOJWZDV/SBpEy4QSKRMz8Ax+Shxm0lEUg7HgM+6IsnjIHD1k5QfywQ20fIX74mevCCdkfq+jfqB/AehVsTECzaGcSbH2+SlRE6Z4CnqkaIGZcwV34nWFRIKQPeqQ/llaHf3S6wofB1C6cSpBJWwzZIhrdD7b/Ps1io7COTpvqa59Fax/j+RszVPgvVN2ChKw3MTiepMjiOJuBSgqdBXqngdGbDjKCUQWGD7g=="
+          }
+        },
+        {
+          "q_id": "gs-004",
+          "text": "Aadhaar number length:",
+          "options": {
+            "A": "10 digits",
+            "B": "12 digits",
+            "C": "14 digits",
+            "D": "16 digits"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "PFBHgv1UVuAeec5N7RVuAAuHWob+IwRtc3Bf3w57iEragg2XLWfemBWCw5GoEyiJDet99u4QYkaK+uneIJhW+La//aa0xSC2JPLtAxtgv3GEauXG/sM5FI4c17twFEL8Uu+l/p5Z73aLDBmkac58HWOgyCFrupAuKXlZxd0kcMyz93B2ggn8BIAhg3WT4lAeSBsm3JHaW8KYqdmTummtFZ6AhG/+/Jya4U5giveS6U4A9Bc77Y7+PMK9lBcV3Go/Mxf9hjaCCyTX6ts/kbvGIESurVOywJXaZfmZxmLjs2Yi0osW/zf6PoMWAFqGLEcl2mPGyK3H9QVuojpXNkOZLw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ALJbcMx/tWzh68OCx6ANjOCGe0uBMEpasXflsIV/jMogqlTgQnBSCJukjzJVspC2GD9pE++fKL1gR+S0otMqA8xjyMilXIAr+dRggz6kOz92D3RaIjmQ3SoCB9onPEq3fzoqtELAczeREQF0AVMfUgbWHHJViAb9er9Rf2n/oXxbavk0VvNhvO+DnkTkHVdUZA2vf7qYcKQEgqWClwnuZi84jweZYfiElw0tx7gnbP4CQZQUNg9X5FdVJ5JTpKGCI50wE7fHoXYsDQqtkV6MNGco1h9ymPp0TQhcc99XdWSqEDIOqyt26jibGPLoHzyaZHFD8Cu9tsICZZVeVzEYOQ=="
+          }
+        },
+        {
+          "q_id": "gs-005",
+          "text": "NITI Aayog established:",
+          "options": {
+            "A": "2014",
+            "B": "2015",
+            "C": "2016",
+            "D": "2017"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "LwPzyQnQDm9NU/u4Zqds+unFyQ+zXhWOltoslinQt99OqQPdAlLsdwpR8qPBMGnPPxFOf6BJmhfDbGMqrAckHg78Gj81XSeb/DYYZelskxAOysxAJt1gNcMQcZ587X8o4ZDqs23cjNUPtUj9FodrHj9FQinRUk8TB3l3mEoGPnVpyi/2cyW3dduhBahyWswMP0TL56pW6eupk+u0OyPrNpB5ep3I/go2wHqfoc7CkJJx2IHMWBBhGfLk/4lKJOqWH91RRuHnmg6B01xUQ5WPOWLpbipHj19PYxwyUljjcq6fKS12malRgQR2FWoDJGK2KNjdnsT5l2sdqujBa7jXzw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "tGgkoKePdurskmEhwpnS5k0tBNye1QlqZAN/AVD7cNvcXYXp8CBJrvWWL+joQukv7BDiBt2tNaWw/hp176bH7gopx34mZLXaD70jr6agYTwEi8sVLzW5mpufLve/d8g5Gdm+8ucyfQtEx3aZnefTdMuKh2czeyzBVSs+r63/ZhQkif8kRT90lKdgZjiIL+jLDkBE2dPHYpWNY6ooxQJJw6X59EjD4xUDLaJQ4AjgaowC3eMPL5hqwGERTSoMZBIORMfqH0KIPfEeVzM0l3KYURYEG6WRkatoQ0WIgGThqYZidvH3M7ZCJENEXysNYr34CnYgn7MGds1D8PVBhbCGCQ=="
+          }
+        },
+        {
+          "q_id": "gs-006",
+          "text": "Right to Education Act came into force:",
+          "options": {
+            "A": "2008",
+            "B": "2009",
+            "C": "2010",
+            "D": "2011"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "jPH7FPng4mXSFLrTsofGBY60yXRdewi8dp9RuzRqUvqRpYs4F0sQhC+vwVwXaJCaRBi+TolnIA/I8s3LQyx3No0GdelfnS5yOo5lFmJ+X0dNEA4gi/T7uQfJaaGaEmseDd3N9EHzZCya5JA5REM+vzAljMiNIhdNiQgFZC9/T5rRapLs2sfR2qKy9LGgNnxK2MQfhggxtrs3gVrKOJ+QRw5POXE76v4L+K2fjMHqMycTPnKfRjkGB2IQEJEbiyCZcT0FGDyU3xXE/OEDbLfIaKIk50QCiPRryUeOQuhlVvR6Q4PwPZv86KbGeryrB4OXCBf7vY4GigopM96r4aatZg=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ciQ60Q0MIl13RqiSvkE6DVLpDDWbHAP1svMAg9nBaitQzS95lYOWpKfMpRGgMb/HdpU2OlNoLCeG4T/atEobCQ0AXhEtAeiNeZyq/LJqs9aVE9UpuK12ExpRL8RAR1VlqHIjorKgAshWO06aU2lLFTIsItkpbwK8t5NpwzufmSkA1dbOmvAkjtphDqqbJL/yMmwcYUuAWGZ8+SZ/8SCBGTF0Hv3GsHd9/1OiWn4WumEZtItYqaBgvXbqgamWbKqvCcVv2Ba32Nv3FBRvYYg68NKRWs8lzLh2g7IK5KZvN1cqEKIp41Y50OeigtvpxGRI4Q3ytWsmA/W3YjGStuDJkQ=="
+          }
+        },
+        {
+          "q_id": "gs-007",
+          "text": "WTO headquarters located in:",
+          "options": {
+            "A": "New York",
+            "B": "Geneva",
+            "C": "Brussels",
+            "D": "Paris"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ABwH9+TI/Olhab1JDGZwj8E4+HEn7KLe6Xr2OjyNTwIBiUhYTqJ3KxKT1rd0L6c3faotTzU7DY30H6sZew/ojZwqZ4Nb0br0HnVr6WVG0wVubRHAOemXEiXCgjIsysrf52WaslleRtr+LkGb9aJPh6Bp0ZT/QKAjOmVxBWV+P3jzDdNV7fGZRfDI3zjssLGJBIf7Yvl8tAUWZmOQYRJUBx2rnhlBc/3zK+n32IXooeAGUQGZgNDhoLwIHXByFNnE5k/qwa4vwjQbI4nNX77BBWNLUd8KSVRofgwyfcQQm5U8apMJ7cMW8PArgq7CnWRK2yLJsyCTu+1F3rwdJCPSkA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Hy5Z0Fqq09tt0pPqjviu7YgIFWK4sU/7N9Fi+NpRk56Fz9ToItwp3Sf4K48zZD/op8I64rtbGvWFVxA+liyt4tPb7gBWqxPEmOqCht600ZkVeeCE862VkdOkCP0w7BeyBDwSutByE7nGe8QHiR6t3XzlLDhKqUaUcfMDzqrsqyAWTwlqeoNGEoPuaDraovHAK5wETRkzKkMvOWE8QiieGeYRgmCAG43GHL0ADkVEyyC85MJqAi64oJ6877PA7b/tykL9tbGHieHbA5IAbwdZTAmC9cJqbSK14rvjpRE5bc/xC3VKx5h8Awy8me0XgvFBu78+Ol6aXEoUZ3BHeCNTmA=="
+          }
+        },
+        {
+          "q_id": "gs-008",
+          "text": "Bhutan measures progress by:",
+          "options": {
+            "A": "GDP",
+            "B": "GNP",
+            "C": "GNH",
+            "D": "HDI"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Lyg77Laoqz/uz5R4uK5lrzKxvAsGUd1bh3o3MuqOFBwmmHHg8pBrMuzZijaQsKSwo8lijzHq/EQkdPPXetFoJeENSwYDJ1kZsEunHGEMFJzONu65SC6QyqUT/wszbHJRpFFULzyxdMMgmUdVZ158c2fL8qaPdthF3ndkirj4nA30GIWblQ4SlwcsjlEJ2xbYc+LmgKJn3Grfp3DA4ugE2Xxdx5Y5gejs1ETFgd50fh7DSGbxkec3aGQd5g1Dm0QhfE+4pRPGaU3koku01ddanc1VpseQJk1KTnau4KUUZZuQ7qOwN8zI1IpC3X/Qxmo2/rwHyehPjlGmYY0Ecw2fLw=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VXxpwm8uThQGtgRmHBLkoruiFOmj+zhLbIYh8fQWlvZqxSvuVWFXLlAkue8t0gbn+G7UrC8Vbn//lmK16tbV3m91PczI3pHWzp6kJ4CPUh9O3Q/wTRz2dFzXw3BWyocl+3VtU3HJSLF3wj8ez60blheRSmxkqRWxnUIeV3pvBRNvlW4NO9RqH390mRDCNw6pkgguWNNHmFsabg6Hbchu9yRCR1BP0O4IwkbzEYnk3dIiH6lg09fvi0CyaPVEGtInxZoVdd8N+asZ3gRVpn9DglXyMphqT1BgPgCRAdPAoCeG7zz14AMTIhets1QbnptLHqwBHWRA4YrEXV/of5izMw=="
+          }
+        },
+        {
+          "q_id": "gs-009",
+          "text": "National Emergency declared most recently:",
+          "options": {
+            "A": "1975",
+            "B": "1990",
+            "C": "2001",
+            "D": "2004"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "HYG4XR8Hr4QME4Jzb1+ZDiVSYvp8voB1vvDrmAT3/85B5f1MP+bFdG4zyhUcprdXRG8QwMUyDuvZVewZZ1op7A4C6wKCn0xrYrZIonGdHn71wtkY+G4xhjLDu8FZgztwTQbm9ezrny8q7m6/gBURxc4QWx1RmffrpJADfW88/2q9Tt9yCykG1y0RrmqscXME8iC03hKXfNhKO9cr/Fc+weUi+ELaiB7hZo/4K7/etiQdli+l0kBjd9TYubg1+2kmpGI5X8RyxUP3/TT7Em389/XOZZsnp+GkIUvdS36A9cKgAnXy93zFelqyGp9NdeioarJyUiGa/4mt+igBibxk3Q=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PqcgJTXqjahgKQ68WQJKlFQ3yGi+NvxhKxtTId0cccDYzrlTleSqo8JImLmhaq8XkXsqEq5JjL+MZCuO26lcbKmCVGtVjU4tOtgx/usn+1X27g+zByYfkzTbshifyCzx0N1GqZf3XZmMzuFGnQFHt6ebFDp1uxJbkLWz3gdN9xrDJefYkd1qaMES6jqZVEM4ldvGb/2kBytuilDCcGxaJSIsouSDqwmKfOaq5mtiTihPMozNusBAT//JeShRZKHZkfJPjCHOOzdvr7iMaMHO93gmE+JJLLCIN6xl3pvLww3/I2X6vyxGDKhSw/bExYlV3Q5gp2Lm9rqqbFlyzisNWg=="
+          }
+        },
+        {
+          "q_id": "gs-010",
+          "text": "Census of India conducted every:",
+          "options": {
+            "A": "5 years",
+            "B": "10 years",
+            "C": "15 years",
+            "D": "20 years"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "dGdkTHvCyzE58tNpKqZ2mDfCENIt5EmQOZyUXmnk2xFL9i2WaR0m3JYLmhDGc4gFfT1bNPLvojCLI+8fpk1WlB74h3Eu78UR9REDcWJ6K5RXxHVhIucrzkjOetivgujRTuux9vlgBmx+NVx1Vgrlb3ZWdozIs0jCuN8i1zUbkyWygXvwWhw4kJ+3Zr2Rd7tgB91Qhkb/87/jEDHqgk9yJCbX76J16jxYooS8VWQtax1RA/mhoO3iNYmLkrTzr7Fum+Lal8F1GC8/7WrzdUT4o1jg+hRAO8WwtSMlfvm1HMusR7jMRw9cyJX5aRmDIkdwIL9QVBEHKkWkIWYPytGWeA=="
+          },
+          "marks": 2,
+          "negative_marks": 0.67,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "jL2zooGahPTLIVfC9CTQS0KgTeDMsZSulGIxk5sjSA7c0rM9EzyFtIFejCPaiXxfb0d+hTJYeKvVMEqZfAKg/4IvcVtZFK+t3V5xJcAtcm76RXbNsrrKlWudHEdm/IP+r7QPKY7EzyH4Oi5RTItcEA9GBtbr2i2tseo98yojIZIuTXvKdCox/01Hb8g4l2cjks6xQdE5roVuIknbMcYRX9wzAEiSTJmMuz+XXBWn9GAJET0i0gnM7AYh/dG4LaCi04KpgRHyhUyviQKQNp+ItUgcztYnrS/p7HjTy4BGW4h/BEKYNgUuSc9pN5dN0UIksCax0TI0l6iNcAu1SrIDwQ=="
+          }
+        }
+      ],
+      "duration_minutes": 120,
+      "total_questions": 100
+    }
+  ]
+}

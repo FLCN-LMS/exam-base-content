@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2017-exam-1",
+  "title": "NEET 2017 - Exam 1",
+  "category": "NEET",
+  "year": 2017,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "Dimensional analysis gives us insight into:",
+          "options": {
+            "A": "Accuracy",
+            "B": "Precision",
+            "C": "Relationship",
+            "D": "Error"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "g2CLR/gy/ETGAHOCco8gXq7IfvuXheDm8eHocqBrqQYFfGiavk0U0cxMXEMvZe8b0y2l0hjamL3LUt7dHKSSN0bHG3Q3liaHrPulIrVTt4uoAb72sB1tjEFwVcKTJ+KAENTtG2JLjQjhoYS5kwVqMR3aEVVnJee+et8cCmt2TUIKuq7wyUWsBbhTX8CvpNx4ouErBRjGdklTOp6ZXCI8JyNuZbYv7rCjK0Xnez1xmaBROqXmgbmGjgRs4/OuRWmNRRBwCMIw0w0BOF5tKH2MsYUyeGeF8NsGIGdJgCVOTS+fxMZczfk1lhI/dB1q1b6bdpufbAqaDZ1sVCxq+r4QJg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hL7nnr5TJtsWezgXpLkRPy6uE9qtmiXbdyqUrxeCdUF6/0+JiN/cZkq/TUwnsbmKCmtmfZQXmMvrXA/q8cfLRAZp/3TtkU0pGqb7biQR4Q2r/sGlGQHYh20am0m1bDVN/DRiBOjRGmktZumKtAB1cYHPZfrWB7z2RxuFlQWfoCydksBnXwmBryE0EHb+yQfohZtQlUKeBqlbGwFLSjhKkrzTZJ7r1poNJI0GjNUehlDx/C6ZzoZHV7ysRZBzQ20PyfeNhp9K98rwYhsYT2H+bl87bcTlO72BI+biDiTq2rUnWG5SzHeLmtrcVTkbBkxnyZ4EzXxFOa4RiDpgCcl9Zg=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "In free fall, acceleration is:",
+          "options": {
+            "A": "9.8 m/s^2 down",
+            "B": "Constant",
+            "C": "Variable",
+            "D": "Zero at top"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RIkCx3iEmQYlSA3DArGxSbf//oHEK+XCoBDQqj2mpWyanZvYMWNy5/isJCDme7OZMzXZtNUI0sKXAfMQYZhEgL51GD8+YhT1ubvtUNrEOwu3Drq1Jjhz6YdGmpJTjlRMTob83feXKO25HlQBEFW57hNBvXNaq3amkkfefGe/6UpIUMm5Vn/JtdwkAiz3rzDdPAoTPz36PXqBSFFg6zSg2h/cR/I23ARLxtR71mtDzSEdID1aWrCDlAyCEU01AQheba2uU2Mm1Mx2C1istrj5XSVpNi8v4SnZZcGf9fMgsNTmj+uN8JOEfmwj3W/b/Q9VOXmICLkADbMePP/0EdpBJA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WYqTTUdGDVDt2kkb8kXsLQpuZuPC9jY4HxkUhbo7Jn/RyzayxAgQj416WaLE+PFF1rfXjUb6Tr6CdzZckPfGx8iVbIFnryjJHFIenuskQ995rjaSnkbts91BaflrlCfclDs/OMwjXkHkqnwjjptAQ/TvoE/9o4G5Be7ucuIpJ6lz3YrjzK33WmRn8N7chu+UbDm7lrKBsKU7DHWH14e0VsUua3WgnW34fs/V5Ze8VNdsrSIo+u/1SeNIQvqs9LL23gd+8vg0k3W3TdYgTLnU1zb2gLiKziTDLMqGL6JDsGG5kdRlkqS1o2h4UTudHIfvaDPO63bIKLP+jcc4t2nCzg=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "Work done by friction is always:",
+          "options": {
+            "A": "Positive",
+            "B": "Negative",
+            "C": "Zero",
+            "D": "Variable"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MHWRa3w4dapoSaaX2Zzk1R4Lls2Z2eUBImLpunt4rbSmI6G5prWKsRhVzKDJw9FnC0mqokk+gDyH6cf2B6VEg1tCDGbui1tBGdAepcHQT+1nVZoZ4ejrqSBJRRSdgCBxuwuyK17iBbjE8OLoL/bSgBv41wODdtz9EhtAwkKmrybwOiyXyJ1sstetuzkyP0VahXAAF/q30DJ2wCYARq+Oz2R/LaAFpwjA/DIt+/YnRDnTpKQ2lhai0aOXOUyzJfM9dm+TCVbCjvo5Z8xJ1yyhpF77b48F1WzzKh7P0mAkcK4tmjJzpbpkkbtx8NWTJLK3GQmdNn74mhKboQSEzLiVTA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "i0h7IHuw0T45jH5ahwEVbGGF26gudl+lXbSyUJC1ptrdklScAY3vIOSToCpdCZMTthiei4HgJq7GkxGy83ektUEH73uOeUNN/hIHTqvUtf6tW2PlbVdb+gFD3Hns8OpvRudx0FKrcK0IZef6lFVIiRllDOjvVSU+m//j+Le/s64FMK3bI3lyIOwFP8HiT9qvcwx4XePqQjXRluTZE8vLH2FqvqLrSaMEyAtiqjnxH6tKGEn9x7X4wyiAM8trX30SxfMwXZbfF4OzEiePw5036b7TTDAnsECrgYq+0GjGkbPVNM4yWdK52GeelAUDl5NaFS0iLNnVTXNnEUNlmYalYA=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "Pressure is measured in:",
+          "options": {
+            "A": "Joule",
+            "B": "Newton",
+            "C": "Pascal",
+            "D": "Watt"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "cDmZuzy0JlEiA6pe/C/kaxsptbOBbRWat9Pesp8dQWfclkr+uCzKVJfR9ch+IpAlXV0gmnMaDnFXWXyJHwYMrkhHnSabzX79zk8byFCsPUdqXEZ4ukYKkuUrhwmCCNAuS411Prki7fOJeUtvItiBWGOsXrac5aTpzOlGGPW06GpVhcxueb8eGRpzzJqmHrZnh19B4ASrl2dz9+zqDclEatFCHssBuaP8Yl0THJ+ow4U0XaTUI9zlt3DFG2G7A1rEuq/F75evBgdluOD3TlEA2g6iaWKob2e7y1xJeDIjuVmd3BZpiW/bBCvQZ8UHoFF9Co4Fe+FjA2Ztmi30imQ5IQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Gx33U5x1kMhKsOxsDx9j0E1dzBlXhS3lFpyzMhatd1D1QinpI4wTH3br6GreLVcGiAVoHtDhjGrvDOpn9gXudmBFWOeX5CYg3cNsXnEL3p8J3mPx5CL0vhZ6ADqcjT4x4yhrjTpLcLFMhoK1q/zeoQxpUMZMIQr23spzZZ1h8m5zv7Y5DivbllDWbE/ojZCl5KWT/saYSp67YDzikcGOmxA8Lz1GiRQ3Qrf/hkzhcbr45RX/UlRvHsXzOf1WPQrVIyGXMcyDfSjQFxllxoWWkefdV8Zm4QFEIfxMcBBD7Z1IylXSKkvE1S571sFQffQ+1cftwxdTFAh2Q9RL5/P18A=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "Speed of sound in air at 0 C is:",
+          "options": {
+            "A": "300 m/s",
+            "B": "331 m/s",
+            "C": "340 m/s",
+            "D": "350 m/s"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "VEfb+zLZtEh7H7CblNy4wvia1+VYaBZE31Hz5OFl4mrlcecslUQEV15+wnMoJOtcTmztucOkFVvEyy2mX8SfudWn3fgqBMHezKmi/nH1YFNlo7+JI/r0xIe5FGUFc5ldD+ZbrEGyuTINKPXgBF5rfrHgxIZjbQg0qxCZW3tKNayWV+RDWnueR1qAWoSAPAZDxKRhdomXfjj4vVIwDGHmxSHgJr0I0TcC59dNCBdtpZoylLbn0Ws0EjuJul0b2yG3fBi26H9nuuaX6PX2CUI0ZgkSy1oh+V0pOgIqsOa5F+T6EK1icWyMKrKPdz+jpMs3s3R97vcsVV5NLaMWacn8Vg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TkNzRnwkvnRFK0AMAyV8rH3oQtI02s+Aav64pofzwboPeVkN7iZTih5uqkCqc3kP3oAxsfdtORoGAzY0d6GOEnsBaFMeitYbxGhy2Uv/o5SpthUlXCSn1q917IV4mqDW3jwuHVCHc6Yu8Y2hgfGbieNpRPmKb1AoPt5AdWSIG9aciNVy1YSRbb6bmbaHnR473784Pb7LMgt5x1YEjXc4PJomLrTBhYfEpDgHFXCu0f4eAksNJGCpJagsmoa2jk/WjssGtyaMJr2GSavsja36v1xWW1klzHO+zczkQQ2PRl0bxSgkCwbTaheaL9DgV6jAxHVEi6jjYzc46Zt3thzZGg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "Isotopes have same:",
+          "options": {
+            "A": "Atomic number",
+            "B": "Mass number",
+            "C": "Neutrons",
+            "D": "None"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "BMBsvwixI3JEtynUN0+Zz0+wduuqbf7UYnBiLoMQKKwAq22gE2vBV6X5zzdy0Dq4sObng4RpZeSXdWb+uoD5EzofmUEn7/xeuHtE2pWatymTQmTyNfZMiimLoSj4dtdGbjRREw/WOoEGKvX9C4AMpA94tuQYAo3KrXaklcJyhWfzk/TnL1NThcXAyy9L5GinE+REsRcBjck26VEKvRvzclf8MOszxcH7XNru3VEzpTrunHNyPwNwKIrwxjasofGAHe3RrCjcNCtSkKdeAZaN26NgRXUoCDuiAfYmdcf7IPuc+ZaobVHDpR0EakWpVibfE+lPNqCvGZGsx4D0vrf3xg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "n28Q3Y42Ru9xaTpXvmI1FrxAqFLI/jrb1I8GrqwJ1h8KwnZFprCEqVQLpV8zuHvgeE5+u/gCgJUtGVyM/vh+12AQdbr3w7VS+8TB2DlQI2VzTB2xrJyRtp2peU5pfCAJdJ7iieQdriIFQeANsw+NSQ19XFgaJMOGsOjKh44Hl4ZhZbRPzhZ+0A9qwL9J65okHdiDNEZ+vbb85osQ5qWk43PIVcAZX7pH3hxI8i0zL6BCS/wRHaIX0vEqm27ljTsQUe1k1AKvEnqFmree53NophMKNgdiXSpYHBTk7qC5QcHMzU/W3Nqn5ZhSnsR8p3qAOqoobQy/lf8vAkWHqXiTdw=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "Oxidation state in O2 is:",
+          "options": {
+            "A": "+2",
+            "B": "-2",
+            "C": "0",
+            "D": "+1"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ER3MRqkKmgj19jiXLBdEVnHPiKD8mTZwZQ7Byo9TBRo4MT2apIglf8z9E3AXjvpB8V1u9T8LFyKM7DH/HXoAUH5/4IF/yvB1hQGFVsLBAoI+4ubQlVNi4i8nwY+7xeS2/kfTBuK0XyB5u48RO8hIWGGhlyWIsqb61rk0lYmgsuz6dRsy4L36xoJ0/4Y8KBjoxNW7xVxD0AlTXQIisokrRcWoeZ1YjijaLGLU6vFQfS4+wBbC/+MPzGUr8vZhs5CTmswZ8a7IwigSdZBgOoYJvRMkMiID2cUwCInkosavWcC3tU4UkG8hazSYy/swQUvlFjiC+JIT7fLV7eemG1zQHg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "EUFO0GiT5rui6ztvN2E8bqLY2gPmPS3o0cLf4ykg3NMft3XtPWtV2BdNnvtjFvh6gTkL/pD5tjiEXlyPWV0iu/1rg1W/l/UyySSkL1UFmssFV8pl/joLUFOQETfhXIvtUafBH4gbwZZRg3k/Q+1wus7f0pw0x/CFc+/W/YOFEVpzGfzkPI4mh3FVMc86zDMYjmxHTdvHPmt+4HcVoSMkU41xm9zscjz5h1H0s0KSY2YifvRE8DBBNYp6z09QKPRTFlV8dS37I1MyvjQlTGF72XhjmvISGfKagJ7G5T2kCqh8XttIh0jPT/swcxSWNG/A0rxT6F8eNKLxbAL55Ipo1g=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "pH of neutral solution is:",
+          "options": {
+            "A": "0",
+            "B": "7",
+            "C": "14",
+            "D": "1"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "hYV2Z0edvaT5O7H/xSy3s/GCzhjsSHm7z6u78Gfc0FxoQ1PXj0SfDMP8mA0Wig0wzZB2n2MKSQ9pDKW9/c2pMSpPS5TLLXQy6WLfSnIlGBjiB9CoEVV+M/clG2E3vb05I3Hr+fZRoeTFODaLq1Vobnfi1pstQb/J/HypIdYfnhd5IUytpcpEuZ28gAOVP/lKB6nuIkL2Zr4ly63wJ553hwPBs3gRvHxOUxecq84VMV6ieyyNojpCVKuYh6aTemKulB7FihrnAU0DX+P+LLQhBh4BqAGH3ECyh/LCeGtenI4VLkTUkOTk98/a8Y1xCk+WpQyTd07RjcLVWjc2sxLWwA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "YIYjK8txDTGncjWp+pzT5Ai1R0FoRiZbIZDfYHWHjL3uoCn9fr3ucPRk7kjabAieVgBW9JzVrR1XIEIogwN5QAhaxcblD+8u7tgNjzu4sJdpTxdM/1NNkQ0EtQ+kZpUVaCFURgrRIV5fZP4gXLRSlZIUthl891QhJQ9REpge068feKautU/8B2RubazPC7A6JGWxpilM1oVyKmBo/gK07hFAIktrBTW294ai6wL4DFjQQ15CjfSFAQNQflphXILgegYc3TN6xONgee73S1tzbcjXyXrOPl4QJ0f1fhH3nxFbiSHu7mWTXq34N63Gue89iwDC/JPcVQJ7rUG4eD9zXQ=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Which is strongest acid?",
+          "options": {
+            "A": "HF",
+            "B": "HCl",
+            "C": "HBr",
+            "D": "HI"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "a/8KhsyZYWEWdIFSzOqykR66z92KMtDshGUAvGbHTb3eSfr2SxioDfFKdfTCBonl/EQMZGhnI3VICg/HXoL2IOIHyfe0FgwRV4/+XnPzamuECrKsiGw0uImflIQrl18YKL4LDCvOIXf4YOVI2n23twOwPFDfhHmRFNbMie/vBg0bQ71Qy0E63td0tFhGCb8RT1QVIzmRKLB1PKSKqBaHZcItD1LhqVSSspPdDOuseGJFsGt575ErQNwbqrywVTHTMYyQkBlioQbFVkihdPA8/t4jlZ5nA31mqnVaoXEtEi/IpxQUvQ2cH2Xz36ZDtsHcuc2djHA9KyvJMnwBcNLnCg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "b6msn+pVpXqFbXyRIAJWl7mGUHgW0sBy2cS51f1+JH7bGZwbG/feLMTgnfymlyX57Rq/zHBxevgP3xo/Mk5u0CJF+QtItkZu/73M2C7Fm3F0PUozLMa+YMoFMEmGr09meWYGxMhvB8nLQpyETFRjGKv8AHSzQIRBTlvB52raCsv/+xTckld5vc3wF/vxB16qWVCinwXAuRA2nKAjzqPRZG12o7IOF4jeMSY0VEocVY0VNNUCZ5iC0O2FtgAHADPuIGIoD1m5CIacfQv1kCbu8afR+jMWa+Lb5WS/4dpr5QiCpLvyJGE0tyMHnfGbOr4rjTIG4RRtdWkq8vEd7zcR/w=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "Molar mass of CO2 is:",
+          "options": {
+            "A": "44 g/mol",
+            "B": "32 g/mol",
+            "C": "48 g/mol",
+            "D": "52 g/mol"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ilemp3qFPxI434QPWxkJcyMnZgUJKgEjLhZ9ZGMeD5YSrwtW6oCvfoHGIRVJORyVUn3vbcSoxwBnd27r+e18GlTirC8tX2qg2rVZ8ixFXJXdKJi1+TrE1rwtJa63yOjTNnOQgpD9O/pyf+Ga4d4wwBOCLZUCammJerCDKMEFj6TRWJKm2c7qSXUfYCwTAH6gUMdTaXiAPdwNdmmPE9sND+LF6m41uOwUlsYVtatywmyl1GTjxG2KklJaMWlgzGykC/Q9aX9uaGbLEcpcnpAVVm+hu79v+/oZVQonH4QsaIoLm7+q0qeZwFqKizXaOJpDQpHJw11GBNyiKp16K8LxTQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "XKaPCtpPTP9ZBLtbzmRoQPKzck4QGiZiPf5TL7eSWG+CewpNATq42IgUV3JXklluhqzlTtIS/Sv1AuFKcfuHKGexVD0S6lfwQaZPfaB3ZxoiPy2TUx7yE9YnKJ0u05HpXm2deWukJqvt26qzwU25mvhLvl1sCrt2UJ1Um0ftfw3G/8RMcJVwLW0pkD8AHJZgr3ruYNzb1gzOSUDDKAY91FHnlJbepdtKSAQnbP4XYERZu+ADqkEf8YsMtB+KDUDJK3Yh7Jo4cb+aGK85wk+liornQ7WM2lJtmCPf345WEcDnFKjjuHubIMkpUL/+W0LLREsoEVgo1nW4fSRTBY0C0A=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 60,
+      "total_questions": 90,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "Mitochondria is called:",
+          "options": {
+            "A": "Kitchen of cell",
+            "B": "Powerhouse of cell",
+            "C": "Brain of cell",
+            "D": "Heart of cell"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "h496lYYhVhSOOWGO2NytPp/Xm1YU811AQjVBkTjy5yrVQ5Sr7etwLaZmVMQKBBzIC5NlzEzffsLnLNDgsU4du9ogoY/hIrAfTqiS6mk+LjBhV65ETR3P4PjhAqM5p0Dp1uWASD97iHu8a6fKlKkf08VSHLUQ5s+VNb5/YhTlV6EbOyeWZGlp3f8E55OzlVMAwDxhxx7S6RLkRan4ZUv899GONEzBaJoYYh+TvP5ZQ6SH2MHAbdqi5pmGPuiO8k72Gf4GHTqkM5ANKbZknxeXcIlzTFx7T8PPIZLsjyabuMYoR00OEk6jhaEFx0bNY/J0Pasden88DNiNjDeaZQKshA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "gotrh8X7+zA3WKI9ahyaKCQD0dusZH8i+IPeZVUK4j2iFol3dnLXr2eKWd7K7E6qOF86NfN1B11YJEckoV5K5hQEcdB08yStpw2Naw1apk2FE3TaOahOexvvdLt10It37YgrNstiT10YSZOLK1IGcOpJSW+vzYcYaXSBehOVnyLeLEr5x4WC5q3n0q/0yukf5wChfr2FJJyQVLEmlsIOc11qYwlf5D/UsFCGxS0K5V0mcIsBwCrFm7yA96TFNwtXuMKLbo0tgKiRkwlZ9cQVazj4j4N12tvvmRBWTcjqCFSIc/oAI0l4D9e2pdOIga4gEfjEfYbp5O1vebCf9sMVmA=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "Chlorophyll absorbs which color?",
+          "options": {
+            "A": "Green",
+            "B": "Red and Blue",
+            "C": "Yellow",
+            "D": "Infrared"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "gAKXFEHrDNkTCnOY2g8ITOAylUgUMycpsocKR8xB36BcX6UCgDvgUE6+ByqUis1OsaMh7fq2ksYAYMzoQE6PnGZ3jc/hbDdbv7lv6BbWVKnjStiCDc/VNNy/rE3RGIds0HNAKijog35MFpUQ3tltK0bNprRKJqtwE9HuAkm9BBPOBQwboAteoJrYSgHIjHpAgwlEjnpKP5c9VR5SpBKQrjugrXR80Tntkz4DfeO/GsHOa37Cd5g4gsCEQZ2AC3eYq28NIFTHvkw5jJqRvNZodKZI3BHwFT6rsXH/lEz/d8AfKK9Ud+gDTwOveG0A6eh+zs2LuvDW9x7XTRkWtJHRIA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "E4sHhHHDhSFPGSJukrP5Ufaw710CndN6xIhqCx4kh+3OXJ1mbNOgL3RcK7MVB9/43VmbM1uc9StUp0zVe0G5K2hh4JR4MDhh1lNmkWywCSiEP7RSCeKRSgNitBOjenL/glwtYPlgkAylgAu7zRC4fzReGMdPlNLLIar3WeG7fXT8AmlyR6qxy4jRnzkmfxTisld+RVn1RHLWR3aibK+/UggiLRJSSgF3S3WR2qkcaQ3EkP90qzCNIHgwQqih6GN1DlZe2xApRqTQiyS3lBfg2oPJQPTVab76IYD7mLKlfdfRlBQhLCanknhcG8y4QNmEnNmh0h6qa6Y/H3hAmwxlWg=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "Enzyme is a:",
+          "options": {
+            "A": "Protein",
+            "B": "Lipid",
+            "C": "Carbohydrate",
+            "D": "Nucleic acid"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "VkmkQu1LFV6jmMz9oKmZ2VodtBnWdLoxoV7QfY1ItSs5Ee1KSkhqqno/ZQUOqbR2ppKWL9QB7iqWr8UrP5UOfb7qpjQDzTEGjmv9ufV8SH86v2/I/rKpG5THhzz07CJaNikyCbw679I0Bii4JYfjcW5ycRqe8UtzunS5ZeXEe2IWS4yVf6c9vMFEpPzGd5zRrDDf5H1+WfdRvFApfEONdoWccuX7cRPi1vJokwIcyhnr7OeTNV958EfIG2CeyWxn7qXn0sPABK+efkEz9mE+giwYbi39WOdTuOu9FVt80dTMIFbBw87sCbTbOivpDb06OYHuiQ5C9p3sL68eLEnMzQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DVYJ92MmxITpikPH0bwULBNdhXHcQOtfMkWg0w4T8ON+6HtBcQ/IpqfRm4/IFz1S5G1ZnbRDq0L27vgaS8oG8ChAwT/TnYqdSCDIIqggMw1Cs8ONZio/m49IO2u0J/DfjqUclthBHA1cXfFiDvCTosoozEWXES/Q+tetvJUJLoiRO0Qq2h+s3HORhvFKTAOG12bsoXnKbpuPCHDIrA203N0sbsPdeKQWHD9kTKEPvwj+fOT3QdKUpC6R4FKuxpXLgClZWZyZBquxRMxlzNaeNjJoR6tiLZkYfVAOJrja5nO7Qe0CXwcE5IOAkvKAjzlKj8c2s78LM2LnvhiCwv4Rpg=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "Bacteria lack:",
+          "options": {
+            "A": "Ribosomes",
+            "B": "Nucleus",
+            "C": "Cell membrane",
+            "D": "DNA"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "MWHyfzxxYXRlo4SXNhSfGO4RnsOkzLAdWLKxS45hDwVfN7yh84rMWXYFpAk4qvrXPHdmO4cF3jbynzxRg4S1KNQL/5//kbE+8qX8B/oSVnzHHSNaeIULjJ2ED8XEo2cq8t4TOwbwp+NtQB2KfG6Hyz8TP2Aetwk4rgFufahEI4CrzRN0eDfEtrgI36q/qjvsUqyBnjcPa5QCyDroqNGV4vhTG1eCsc7fEqskWpt3EEY3/d9JMhyt0+TP+GDYpUu6TnTtggNcn90KbotHEWsV+wyBbf8K8loKaA9uytY1u0VxCYNS5smBGmngKi24pX0GFBNVM0NiW5aE2qLN/jXeUA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ajtcb6y3LAQ8dXWoFU40ru87G8Lf0If6LWG6KKIEqFR8uUL5P3fWLy2hyk5CYsiPClfTf0/caBbHQXnfEsY1UWrZmDiUy0cw9kucm7BTJ9fHz47fklkOjbXHX8v3vXp0DmviC3guYbtlNPYMZtas73RBdRylpxN6pYGfvDgjnMKKsxz+7MXrkp8Ls3r59WEhhvWVV9C9y5i4HWUTaijM26j3P6Er8XX8VgNfGEv+T7F6vMuUFuPdey20YTjJRwWT0HOz7vmpT8TlMUM4Kx4nf18K9vadctqD68l/bd4kjqzr0zOYPkIvdaGe9knqpiUSsvQGHy14OQOeUZN+SmUcxw=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "Insulin is produced by:",
+          "options": {
+            "A": "Thyroid",
+            "B": "Pancreas",
+            "C": "Liver",
+            "D": "Kidney"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "p/uthASjfGTJfnYsMCeiZ46SgFmsFDI5VGAslTOS/e/asUJTfM8Sd8bia90bcqqKMHhf/j7ScR/RlbUElocd3Vj0CKEA5rjVtKw0fU9nVmJKAveCxmR9jTfnlJL/AFN2DBj/KFMce80KFjVlKUFLhUNmYQMkk3qoWWtpLqgg0BL8lfPn/G4t0JZmL1Sm3vTMx1wfvEvVVyi0bENEkmlW2bWz/fXQbJLqRO+BUGy9Q2nKWIKxqmHkqUx3SCmPBS2EfWE9t/HZjSCYUPerWys+Ay2ZCBgXbeDUf5mCpCLr+lLWewPdG2mnYoolnhAyWxcekgBgWp6W9TU7pxesYlEC7A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "UX+S3a+nCWQP1O9pgsj82N68GO+6FZhI7Q3flaJQwENAXgl+IHu8BHuakwJaCWsSYxJ5IrzK8uCMaT5oePYMyVPjnMFUu/804v8dLqR3gKSmvGo/x3CaeB0pUBkvaxhiCmqtDUrH9qLPflNrUaUov0d4HHCisKAie4Tjh2PdzT2nLVaaDLeabH6Gfn+lkObP3UdJgKAGjgfk7fn3m3yGlm57AWecpAzqfkLmYVbqdWtp8RG0CmQbqxVUo4iG7LsELmc0GCAi4LpQgdlSGEVuFCoW+xx7zQtuPBgohSAJYyCxli7hXMgsiODMrKNy4qT39+qQHFqFqWy1KiwW4yyBsg=="
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "exam_id": "jee-2023-main-session-1",
+  "title": "JEE 2023 - Main Exam Session 1",
+  "category": "JEE",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "The velocity-time graph of a particle is shown. The distance covered in 4 seconds is:",
+          "options": {
+            "A": "16 m",
+            "B": "20 m",
+            "C": "24 m",
+            "D": "28 m"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "YcdiOIodlTB43nHKUFiaY7klX61NKskaL4TqB3W1BDPb2SOK0lAvfOa5+5/56kc1PbNpQNUCHRUfXppaGDGC+IzCpVfdi+kp7dJ5dn2joJpxZfKJjGtLrlqjgT1JR1kBzOULdXo3RkADLT3YvVMixwq/tEXh4/nJ2Sj9f+8IwWUfTsYywixtwlco3gKPjlDsogpMKX/tchvkjxlJYgKcdXIfXSlh0zFaHnv/yMUp0oglukaIg0ww4euWwyYoZTVO5AHvd6psF0IbhRymWyoNwjdWCbp1rv4izWz5LhyLlkAUdda7ezke8uos/ytDdsdKPlxCReK1nV2LIcHYffW9PA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "h1SqNK6z+0eG5kUMs/lIzRnG6ZHjMJqXpBAJg7H+lt7ekdl0i2tbxi5tBb4cSB2cmIK3mfiVZ4aCyzru3ANlUw/Tba68ljysZ6ivKBgrHf1VyfdRJOFmiQu91frfSfNJ34/tS3erkvQY35IjdxVA7Uc2Y3Q/PcfAqJr6iwszSkJ7lW0bTv/Gks03JGCoHraIk8n2Rn07TaNM9LHvRtnQKzoI/jykZorkzPFNxguOwMMPUlq1TXBdlfCf53gnsOifeIhidh84v5seqSwSwRd/bDQbZBpxv+5DjPbD3Ruq/6545xez1WDNXcI9zu0vWkhLzegj5DtSpYpXf4qDXvRy1Q=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "A particle of mass m is attached to a spring of spring constant k. The period of oscillation is:",
+          "options": {
+            "A": "\u03c0\u221a(m/k)",
+            "B": "2\u03c0\u221a(m/k)",
+            "C": "\u03c0\u221a(k/m)",
+            "D": "2\u03c0\u221a(k/m)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "otPQ5YkyMaSlJLJCAxtsaguITpQU8rG7aXC9IPAPnvqsEKeWOZQqjEBZLhJHlRRhNrIPz7SwTc0HjzqlqWukF4TBoX74fgsFnN9+fI0C3Cu06ParJuoLKtNT2HS/+hx66GiVBiLz4CvtqfuJ9HFIZt2HC+OS3Wgn7IwKf7kBlEB4ky/uFhGvJiuuZ7DvsVyUGlWV4EqkG+63W+5mJVIfwmTs+iHzPUuDd1ze5S/02C/R1PhyA7K4juqqwYX75XWOUOmDDBqwVhCyM41dN3uDoGa2WCEhaYU7Wxc4EZ3H2AA2kBsaRIMEgSbY4bas4+jdCqb1wAyGLKZYjS1uWxjZEw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "N/3z2x6N5yReg9xbY/rcHQXScp4IHTpzQdTxrgvztxWw+eLvAlYBGSPJLZpmMPevncPA/CZTtJtGYxFoEkZG1xLKmZL4PsPb18QmTu5oJcmYWflcEnhXv94on7Cc5+NPWcW+Tx+3qthNm1A/rqwxy+AemHHm7FIPQBd5zCZoIcB3oKH8WOjhMd9nELj9TIc8STcPfoqmbssqgC1cifoOwjjVAWFWp03V6qP2wRp4CZ3X4uXEQ9JpqdwODuc9OiaQRqxTtG54b6W78yM/JO2ow0B80lA5ADFBlk781V87QjiWJx9UqubhO7YspZ0hF/1oyKU3EDXKwCMd6ApSPiazmg=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "Two identical capacitors are connected in series. The equivalent capacitance is C. If connected in parallel:",
+          "options": {
+            "A": "C/2",
+            "B": "C",
+            "C": "2C",
+            "D": "4C"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aCYYh/E/gHAwo/fgJycpUVdOV6Kxo1T8fJ2Seb7atbeMx25ynxOyriTCtgCZ0wEiIONyEz0Y6EsuCHPQFn3yAmIP15NhNRvRa7IdpLlEDnpUebGQd2qMrVBNn0cakHkf3K8u2c0uFG0p8U1nqbUoHB/AIlFbgvzI5HuYwOMfXOeTY7vVhcAL63kQ9yUyczgW9y0gXesb//MIeXYZxAMk8FvHeIaylIqP6t753APchX6zuzFS8UHGkaU0J4iqfafwCvi0/aa6Cc3uPxpIqmtvEfMd/wZVoWSojknsVZ6AR2Qy3CDlm6yA42GdxoIiNRqF2C+LBSORHyU6SPIXaXpkcQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "l5or8x2MdEM8gaoTxOs88XxeZgy6He8w/TStOMCyosY4SUqZ8Z4tljRCVkhAtLn8y+H+gjVElPWlCh/RQM9M7u3ZParTH4IfNdXGRbRK4SqpYDaw2sxJpO3KB2D22oagK+gA6a83SKgpCx6FPwnGicJTRuDwm/SeTDQr/0lYriRpdhuuOqXnZTFz+PJMfmHbVrUHD4Ejob46d3SxaHDkke/ZvUt51RAEhkt6qP6GhKtYuSR+v5NO8Rj+sXMZfhPrsT5/DZWeyP6aScuWN8cx7a8b2krz1Vj5HJQckhUJCwrByWFn0yNR0XBHMwDncDpcDzUiqKcvKkdcG5rtqmOKBA=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "The efficiency of a heat engine operating between temperatures T\u2081 and T\u2082 (T\u2081 > T\u2082) is:",
+          "options": {
+            "A": "T\u2082/T\u2081",
+            "B": "1 - T\u2082/T\u2081",
+            "C": "T\u2081/T\u2082",
+            "D": "(T\u2081 - T\u2082)/T\u2081"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "anG0erUgkDB7nTTE3Da4DS/QnK9kAEnxtv7Xgd64oHucnBDbj6BKGv5WIWX+43MPbiRMfKIUoyhAE7u9BwQcUkBN1pB6+UVJRGt833zOxr3ESfEa1GIJtTwXybRF3/JHj0VpqFMuBgAsYDNAUFQjt3y41JXkQT97xGGhM6XMuSRZ+o361vIQoENfueqDYEhpGtNmkPQT/1WUcmWOtGt+LYhn8eMb2r4+X3l1yaS4esd5wwC7nO6INOC8d4rjkDxt2xx9epo0TqDVorOqWa9A+8VVAP3gMKTiZ3zCrxnRSVFtZJvp4fE4FyYTcOSwIY7feyxsyU+FNzPyrd4LtEdT0A=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dTlVvUP3RloIOnFB6v4bTPdHxAXDEOBUyoozStF6acFDYdAljklLXFc96E3FBaE2DJEPeK9qq/6qPnN8c8rYd4LlrVjFXH7OpuvgePGCdemubsQnNaCLFXCfuaKRycDnB4nRGmXujfVJjk8SjK6Bt3Ijmoy3h2qOE3CVIQUubI8R9eiz+jMUfjiNW2TCCwaPNHwl1OUztxpIsFr/UIBYBXqg01XZWb96cEkAw+3hLet11skp2svXHAa1GWfYNgJiwUNld/mc7SQfkRzvTzmS+UbZ7DG+CvKQP5YrtvH7wL7EdeaeQX6dfZxKozPkiQSJrxpZW2gT+7h8e33a0y1aJA=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "The magnetic force on a moving charge q in magnetic field B is:",
+          "options": {
+            "A": "qvB",
+            "B": "qvB sin\u03b8",
+            "C": "qvB/2",
+            "D": "q\u00b2vB"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "cHFTLG0hP9Gpo6eNMbQZjHTtguTQYcNxnH9zfRUfmRBJsJtRn4N5LauAT8mMI4UTBemdKuGzJEIsRfshdg32Lld8bO/6Ka1Z10NGtCl8VWjAhB+psZB+sDXOmUcaAGUQCeP60GvSA1wNL/w0vmf8Lk6ojz91MIgsFEt51OEvOIpzDE0cKKK2pxJtBV6XyviUIHptFiYjPSxVY1eFanffX7hekVlxhUJ59BWT/mW57mTNqMbzxH79GE/LY08KF3G1pZOU9WNO/d+0pzbNxxYE32lO2NSigrjkORscxPAkDqjwgpu3d3QpQcCuZouBkuKTaanwrMpshYhNkQuxCHVyMg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "JF/4zgBue19HnncXxAsqxudGJWf/1Jl9kQMxOpJv6/rPNXCUIBow8oEhlNhurc+izATdRXJ/xp35ZhLmZ5lQ2mYe++ufEFkIwihrmHXS3C2NZnsS7W3ITp0w4xxvmDRWyXNwCBJ1N6pJ01dk+lAS5nmetPvu1uj91atnSlEfEktPlQaUScNo7zIZXC/QyepF8d4rVOFDdqXpPE4XF0Z8uHcusXRTx5BJYHiX6MT1pa6ww4xSqs/M+sLQLL5TPEgpp8v5iu9FmJKQjrXNPUoJ5co79WJb1cBxl3JCP52h92hSFMDIua7P+iOoMvptVMFDsepHz8apocrZfwl49SUSwg=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "The hydration enthalpy of Li\u207a is higher than that of Na\u207a because:",
+          "options": {
+            "A": "Li\u207a is smaller",
+            "B": "Li\u207a has more charge",
+            "C": "Li\u207a is more polarizing",
+            "D": "Both A and C"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "rlKnoZng/HcZB4L5nFZ/+zsuMIWMxtD3/nCFq7vCZfgGMNtgDivxf2MLjz+6qRwBRHKh38akbfLrV68uGIIAgk2c8l/DM2SgFSjCLLMlWW4jKvTF/KYog3TPTTa962sAOAQ3zc/Py41ASa5M0DJux4OKNF/zFI6Qx5a/bfvdc1RG6X6Kqzn+gwY94gpATRgpQnVrpViMPCn6Lr0gymVjUuUKptVzbCol+ZCWAGauF2cCOpxwpy+19/3IrL8V1F8ic/dCBz7HSP8uc9MkWTEX46Sty4AaCvcfGoCayTeZKmQHvRcJPNATi/+qM21M4erY62QY3nddnPUOwLNtrYwF1g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "lkHAsnSA14/Ts8AsSLiEyivGKGB4JOsu02C/68W+zcU7iVP/AAOF4BWHnqNEKPMeaEwvKa6UZz0rco2l1CEER1jemzsu8uJuK8pXxE7b+NLKJFtcf4KfVwOuTYR9U7OeLqOwCJUrnMZ8g0RgFsfur10c5nE4Z3HhIFnwDIE1miTh6NJtRHtFSLXcjYJrE+LoWvK2KLxaS5dFQTwpBviyMYhJJJIZFNnuy9jr0bxAzuav3Z4SMNDLyu9gnBKSvTQ9/RLml0bsZj3p3tq4YqnjIYFWIh7iT4MdzyWIvM7BHUg/VuyR1210gphQrMqiRpCO6tj3qAUJl/pGeanK3XfW6A=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "The bond order in O\u2082\u207b is:",
+          "options": {
+            "A": "1",
+            "B": "1.5",
+            "C": "2",
+            "D": "2.5"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "j2xBoel2e2Nf1DUcLgnsWnagJA8gNNqNZO17AyliJxDYcQ2yKu76VLVEXZjnkuqaR4tfxYt/QUH790e0ab1OYvUARQcN4mn6OScuJO0ldMRy7PyUHsNwDRxf5r8Sg9ru94B2VzX3D7XoVMhrcZj/6E/YLpQMbrGk3AcHCVCYusCK8t1fu1Y6kVoLwapts+F2Ch7ibTIRoWbryRM6kxq3LXxa0bhwR4Z8qcB9avUn4faBNLwpTGK30t04bF5mbywjRuf+rR0pH+hH2O8y+480NzcBrWsX7+eSDyf0cqVchxeb5t06E3VxDxiO17IfYf1FAIWGUXRXsqPgeJG6Co2Mxg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "SfmJU6f9cEFfB7WSmxcfjCGfZEmuuLHoi0jkNohtIb5p1fLj4zQXswu9rUTK9InaFQNEjsD0Htlw+DvMX4tf5ed2G1Lyrr6pjROpI4ggmLJmqaRp78aoirJBwyxwUzre4XMPX7eS7FTZ1RDRvMznn9Bz0b8BOl3tVz+dUw4EtXuTpftsD+/OyWH+yafn+gCGkaWru1KdsE7kR8e6Emx/HG6PidhA3EjS8dKstGNI+RY0j5Cxh+/oPD9Q/zB1aP1cppkPxFGqRa29wvJVT3ejYWfOZPuSjVlDQz6NYC+I/Rgca+/5iikgaLqWjPbE9J1hyIge7bdrSYo59Xhd+nrG0A=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "Arrange in order of decreasing thermal stability: NaH, KH, LiH",
+          "options": {
+            "A": "LiH > NaH > KH",
+            "B": "KH > NaH > LiH",
+            "C": "NaH > LiH > KH",
+            "D": "LiH > KH > NaH"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "W0Ct7zsqKgW97u4l1kAjXfHmq7lH9sV/Q/iDhYBt4HXmoCbisQtAR5pGHVhOiTZ5FyP3zWmLK970yLVzpzeEhwbKQ+JjDShhGchWfBocKlzvDAT3NPOMDvInsSCo3kP4Sms2ZXD2XyaoXZgpBPyM1eYFyqUEARB5jTtSMQPErcqrNMTUpDWVuYpOs0wKUuSR/wtW4oX7EYg4li/UEveo5s+J5AlvciVprXoc1MMq7LRHvFUk5wD4OWHWShth3Jvwbt/+Mz0pXULRNb6Vdte0f2ia6D2Ki9YBGAwPhnZYPBBg3348GQX5AHdIImFoOLAe6gtMooDYyZKevniqo1Sqlw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "IP6RjB+DJ7zn9iu/gLRC2A/z4xvN9blTbw9TPA0dIEsA7Q3c6f6xQnzr1Myrx8qWBeeUMdshUGjtj5snFmDqoP2YnKRlUexpqcKq3Ujfz8hHOX7yTzjhUuvNvTFvs2ZS78yiYEyNextqXOsfoMV8oETI3H8uNHCMAX4bRDBHH543RloVIph+Fxt8N8gZiBmLuu0E1pvUHPw0ywmtLaSUrrhSNzQSXosm7T5PMAe2YDPCEwtPPyVhbh8kTYL1OjceeEo9vkQ/dPBtITsps3GkjXLpyxwhB5aR4JiWYp+DTsBLwjp6WSw76w3d8QYDiCAGsrFQZaSWJG7C5eN6lviTQQ=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "The rate expression for a reaction is r = k[A]\u00b2. The half-life is:",
+          "options": {
+            "A": "Independent of initial concentration",
+            "B": "Inversely proportional to initial concentration",
+            "C": "Directly proportional to initial concentration",
+            "D": "Depends on temperature only"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "XBAFE4oMfoCkZ2Qkpsec9ZVT58qUcn3tZ46rNN4tleXtd2AJ1HU575myTn1RKIYmBHaAez4ICKCZtlpgF6WdI+L3o4V7kgW00Hm2LjmUSbalnGEeFwu2si2dAAYfEYjT7Pc4jPTzJFKXG/oifXu4SLWnijGY00cO9VEaOGRSvK+DRxYoG8k4rpJsX/kRE8KTt+E8Jp38ChiqoxFq/7a0ETrpk7rk06uznwdY6BJcN7gcLrmho424PoUQM4SINq0wOOpWZi8gf1Vu/lD4T8fn6KLuwWgHMhQA4dwLqCNsbEp1p6x+eDpWhKJ893VtqzqHA6UUAbgI1KVPvDA6/SJaYQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WU4sZ9mdAbhdgiTzAOt1UnzHdgdlsM8eA7+uYyMfZQa71aeCbUobHfqr8FPKkRs4+aHaWhsa53CBg9+kCzXGg8qVJ9v+SeuZAvu0nvudBIMWq6ALS/rv7hbBzY1SkRkSharutF1QLU2OkSKYhNzFYb/7f/Os4tfQPFbcYJUEzqx88ugNTELODj9poKhEgiWUk97a8UK/3dsPebs0Hzfp4Z33nMntB+17kj4KS+8t1dvIE1XCehDvqvqO3d+5JYSDXgV+KP5wsIaGVH5KR7SiClG79u7pRyKaz2T4xGDoXIjXnJee/JLUotsk0Fu49/AnCmbzmx2PE7ND7FmXl4J+GA=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The geometry of [Ni(CN)\u2084]\u00b2\u207b is:",
+          "options": {
+            "A": "Tetrahedral",
+            "B": "Square planar",
+            "C": "Octahedral",
+            "D": "Linear"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ZdZERgIpnycOfZtKtqbnriQyF8zBIjl4GT9EVyXtbtK97W+vFTzkqgP4VxjFu+H53OC30Cyrow078VwpeHSRrq3cGgzIgg0Zc4BMWW4MwT/TenZMZ8MF2Weerj4/LXduvs7y2jxJi3glwBBoR4GepvZkJAleyTXdK7+FnPVCyov6h9v++69HIh7lszITqoQUPjngmfwqdqiTJ388AgruneSzXnwol7SzNZiEvzZfsMaZEc8QAHvvNAbZfoQ5IU/RvrSt5XigVe+HqU1uG0V3DXndVn/VSb1Ld37NXIFUv79RQu9KBSobqihJ/6z3aPA7yXNvVNHZX1VkPnQVE2+JGg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "aay2rxjp5TCszQ4b1xD6VjwzwvXUtj56a1Q7HubuEhTnh5ehDtea/Mz7chi7azCJaehR8J/gN4MwTcYdL5l3YrlWC+OZVqxt/NavOWNubmx/5qJtYnsZXRj7TNOIGdYufA3uA/zbwHT9/Hrr+cdWYS62DfTpvoRGyjfQ0qT/3kEkI4GMPEeqbAJnRrcjoekrW1njhUoLSB6ZUrdduGKolIwS1skuzc2hy/BzjQzLOSJXscjUErhJ78XztDOJm2e/P+fXCbSzyAqLVaYQZdsbG8bJEQtpV9z/VjwTdhgh5BAoJuGatrtCgnJr4Rse3SVBrAP56Vwdq16mWf/ZPc5LMw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "duration_minutes": 60,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "If sin \u03b8 = 3/5 and \u03b8 is in first quadrant, then cos \u03b8 is:",
+          "options": {
+            "A": "3/4",
+            "B": "4/5",
+            "C": "5/3",
+            "D": "3/5"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "NMz4VtCYWua9bfPB2YpnR8Bb/nvtWbIqR1Q3QUNOb6Vik4vtEOmIyv0WDb7c4FrPRvcysfVa0LgPWjsxFZJVWkHSK8yJADmrYU4ZvhhYGCmi4zkfeBvQ7lpHq3jZH9AvTa+ZDeflof8uDnpgcprcGc7HzRYrLH2EG8KLRKYozhJ8rVH76Fe3vFAP0f5A8erHSc4d3z/Lm0MM7v+MCBI0erlIgGOuiSDgRGt5jlv4P0P/nhY2xXh7fAwT0uWmHRK2gmtOMx080KFBb6CADBAu8FWCAIVmLnsM97h136CmMkAAoNVV7OFhBo5xuawTBqp4F8cfcBCPDYT8BiwzmCXS6Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "U3323ul5xxVQuRMBqwTQ5gEkP4LGlCSLcYq7/z/HSlkQeL2VBKTZnVg1XhTA1FKRmpa3G2D4/+9MOkvDUVQzohQk1UMjmFj6ziVzR64bGz57BpdavX6S9qmULShIrzyvjHIC5a74Nw3IJvlBiXLrrI03pxP43qNNIeKt6IXIYxEQc0/7kWjgr2XrzGJx/CwcPQzhIxeEc/4p9PDSSYIOglvrcSMqCBF8xr4AaojI6N5Cdko+91IJ1W1Mpk8RrdOjflnx6K7dRv8LhZYk6Rhytal1r54qa7fmORDDSUIF6CKXr5y864GX6zDusvaBNstnCuTpPY8JA16kQYK5VWFCXA=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "The sum of infinite GP with first term a and common ratio r (|r| < 1) is:",
+          "options": {
+            "A": "a(1-r)",
+            "B": "a/(1-r)",
+            "C": "ar/(1-r)",
+            "D": "a/(1+r)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "sw0t45KHBrd5LooWIjw1SkJ4bXah51FUncGm9IuTASRz+0E/Qh54JDQEMWEo5SJ145PaKP1tJ4vkXe7P4WT4eJSdwtpFFco6wvPmDoeK0n8hHB7KqhIeisgIumZmGLO+oPn69PPtcy1K7iVahKf57YWmplpElOUAcDX/3GMET6KtjGB7j0y3tGpkWwoSP+1ta2xXdoQL9EUHje3qRV0zm4Ago1IY5i380ZfjFwhSiGGfe2J7dgOckkg0Fk5GvSG1bvqGVE4ku4duFX7DSPg4855DQkKwKfQFLgswGw4j5KYtg/bG6+fcXRklC/qPRiqxQ5h55zb8E6XRl+4RnX61uA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "hLd0YkZdcyZMKaU0g6FKpC8sbzjetiVH0IrB6lKt7R57QhhbiB7wZyX/8pWDFvtpl/4gH1UJ/OSKu5htL3mvyV46Gi7a/mM3XbdQYI32cPEeO0N+1vmSoFBaRWMRLVy3gqWlJmpT6JPdhLSBUq6U/Qnh2IdclLYEm0nnVoa0yCb6z9vLwrahMhTXttTUHfbdbE2z1noZ8Mq+O/UvGTlZnvCBER0wCn9HsDDhRPWPPovo5TxQs4RUTnSffXxj7THwdfworPbZZqBq1kJ+blowbwx0hZrH5aJ9rDpzTzMwFYgJIpg8xsHvr4xa7GWRrH2i4Jhn4tzgNh4BtTp7nYtGjw=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "The number of roots of the equation x\u00b2 + 2x + 5 = 0 is:",
+          "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2 (real)",
+            "D": "2 (complex)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Z7a7fnntDFTiyFRwx3+7HCagRU6cFjkW2fQsEgyhoBxOQ+CzT2Yj6Jij2FMoVei9rpPks3n/cfqb8oe3bmGNW+qNdy2O8fPPa1SqRdwxxi+/uyEhKgE/dhSmeR3V958GXBNKLh0hqIx3cQvJWahPIbQYH+hvvgx03xf7Lgr739ktkhVqE7soi8UgFf7nTYu+Q8VW6pLQv10rffZCuDs9Mb20YvgGrjg1xkuRoSLGIOZFgvTy+AUIqOF53Nk9IN6fP3Jm6iHFeAOVDXxcTH24CpCD3GXkcCh1ikmiNRWbl/gfyHIFGRzNHOumeMic8QwnNWi27299dar4eR9O87frdQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TRrLaZ4C/WRQ9yz3dghphanXZhIEDR4QLOPQzL1orbDXBthVoFpSmIw02BxBP5S4T1mflvED9yigOZl94ppZe9LTcxwGdsBITLK0sgIA5zOpuOkEH6KAJR+817dS+YU6QGiiH72BV3nHtRwReL6h7ZxxZW4ePJn6KI3PosLLYkR8+6ueFlN1/yuSq5TNarGbldbD11SJwI2rlcMplWWFZyj2R6S80WqCNGFGDqeknkRCGx5gzKJJvKi3TqCzu3fO34yO2QiTJf9cJ8PUXHdyLM9rRw9sRvgyYAqHCZVLtLRyrBTVoigwl89WoJxggApVGnDg4N90WuDojSmC9GGw4A=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "If A = [1 2; 3 4], then A\u00b2 is:",
+          "options": {
+            "A": "[1 4; 9 16]",
+            "B": "[7 10; 15 22]",
+            "C": "[7 15; 10 22]",
+            "D": "[1 4; 3 16]"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "V8IxOZ301fhcT+2qsZtzhH9o8GuUSLbmVkJNdUh/Zy6y8akdvuK5HZ04QsT9NVYFcW/wQLAvvCxzf2ybcS3966mkUBHfPArjpV5bTIYffFR9JfiWynjjiRTOHJbQMGRKS1KoolS8XW+o/CL0ZrEdl4dTyk2+xpTE17GsC6O8QKmCrC0zG1bYEdioArYdM6HOnJ9X8Dd2qTOg/tTjfule1JvgKfgTDIuuVfjnmd4NLjxJJJbCi+qy2QgeVlIDzOJOe52I3cHy06QHp6A1k3Ll1+1qEEbzm0J5w8Ke0XW6J+13/CkZST44GJAU8wv4ZcJPYRYokI4BSSdOIQl9HP1M4w=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "LVQHMeWwR1vaOr4fVYBxyk9wX9tcI+z2prT20FhEpYLsCf7iLh1K749NOLFw4PsdmifHvijnqxUNa+oueoqYyq97se5JRiW/4tn4wjg9sKe2EUb6D7pqX8UuntZnLXDNfJXaTDpT/fiE8XGO3VpsUjFqHmUswPxcfHEQuz8RHz03R2ORGNsYhvDKj3V/xHAZ4sEU71wNFXSejQdcQKYvwh2PPrzcCZnTO1ieH0boAUzpqcpRR1pGdIA8zQbWsbtkdXplXfUQ4BtX3kOCX2LDXPsAH14Ph0+R3/dk7znfux2fYyfieU6j8V/YD//zdeJb8g6m51BTckhws/PrJ+rHug=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "The derivative of sin(x\u00b2) with respect to x is:",
+          "options": {
+            "A": "cos(x\u00b2)",
+            "B": "2x cos(x\u00b2)",
+            "C": "x cos(x\u00b2)",
+            "D": "-2x cos(x\u00b2)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nM7u0d38MlPF12uJXJ0tnEFQXwCKVjSSZeiLMyxhi8vYB5VNTuXg/n4R4hoMRxAlxvRau25NNLD9EhXuwMUEt0FcYSgBbD9qTIGora+LejA8vUhYfO1wV//MnhtElU3bAU+AxSgIjwnC+rQFcPjTrnoArx+G/+tvVuzPHDpl2t/W7rbrJHiS3MaCfj+wuVJWuKkxiulJBXjYjDAPR1b8JV2QcGQwmnOS1EWYHAnuz6Aj9txHgJ7AvVUUqVCuiDbe3371FEzVCfwuh8oCkMiSVk5Z2wO2OdL2c226GbDHn6cK4Hu/hR29//upeVzfpI71y2Phfk+Nk1Qt6SpZihPYmA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BtcOUNGSb3ZCUi+vtcsZrH6uqdHb4KVZ4wqpEHfRlag6u74PJxju8M1/0sVnbz31UTgOM7n7pqyfzJr196hqhHhd9Uze7EjDKxz24tMC2um2BN75jXom/yJhTOj6UTWBJFuO4XBShMKByG/BQELI5fjuOkaUYgdQZcyGOXIfGtl02lz3w+cwyAvowHIXngrhZlmJPHYhix201n7CuvJuTh+7oL6Zy4HEXxBPURVcNuO4yH2BuJsR2eW4ghAmpaR+7fpquWj/6b4Me7fHfXApmGDPk+FGZfvleHfxADNHmAgKuiPTOE1NQcrDEryc+u67jzOAJh64ouUg9GJf4jXYmQ=="
+          }
+        }
+      ]
+    }
+  ]
+}

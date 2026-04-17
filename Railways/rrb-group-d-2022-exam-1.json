@@ -1,0 +1,332 @@
+{
+  "exam_id": "rrb-group-d-2022-exam-1",
+  "title": "RRB Group D 2022 - Exam 1",
+  "category": "Railways",
+  "year": 2022,
+  "sections": [
+    {
+      "section_id": "mathematics",
+      "title": "Mathematics",
+      "duration_minutes": 30,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "math-001",
+          "text": "What is 25% of 320?",
+          "options": {
+            "A": "70",
+            "B": "80",
+            "C": "90",
+            "D": "100"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "sZyD1E+x0vKLpkLreWf3w6Vfw14cCZukexV8ohiDGp9lj2lO6MPezB+x1R6Mtrn9/M0DTYLuolJ/EKpq67enomH2SYfV4dXDjXtrDUd3AtQeufNjNkqkZC9S8Pc116OBqz9cEBVIQOs4svJhLb/2dI7vHDoEry3KEQs5eN3wIyhmItIuPDjtdYSBSvbfCwn9QHodBjStOgbKAQQ9hC3nzNDkVy6HyGd3QqPq4ZXYSxwYRSmJVO9HWh19DpgTERCE36QI7O/+ZXvoN8zxfrrW+ev9+HXCPg9Py3PEYn1fQsyb3RbveeYWnMAYXrUCHRLRrRTJMe4OK8kb4AnkEuPsbg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "KlEG9uTkFJ9+SBK6Hd9YicLPV3y9dzQMben0R2j9vNIrZeodn7ofZIPaYq4M5KXHNLSKaeBdHqpjvaMTfhx+qA2auMx4ku2i2aCKgm0ZJHVcuM0gn54VbvDY1FSheiy6T17609HLliugk7ZCNsv6+qcU4RAML3kuBymBCuVeOWggindF8G8pL7RWcCsOkLFvowmuErOOm9C6aAxVtajKlOYZZf47LB4Ce2Yam4rJf6GKchOEondv30ZCInfPV3frS3qqNN3wwrN5LbKdXCXPHCejl+SQ+iONqEMulHzZwvX9cBIV6tpArGGzxco4kOYGuD4iM1z5R70rVZ0u0wqgwA=="
+          }
+        },
+        {
+          "q_id": "math-002",
+          "text": "3/4 + 2/5 = ?",
+          "options": {
+            "A": "19/20",
+            "B": "17/20",
+            "C": "15/20",
+            "D": "13/20"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "h5ym5grqzgKftmMZ2zKjMfXPcLtPl5zhJg5nWhYS8YWr39b+4HhiWRCw0AyoXqRH2Yk7DR9Md5DzMPFKBQQj0TwmSPizMJ2cXgPeU8A5Yz+580Od/Ej+s/9KI3SrCK5XhvJt2Cgzs6yAqBcyoCBgG5dAd1F4Fxzg/dk9Q/5wP3qhsiPk8Lox75ycf99lh8JBuZEc9CB9UC7MFjcN4zsXvIA/l9cXpgELae1cYqzhjiQpAk5aCSiwpURGwLXhctABuVkXIOPqUtCtYF1qFURJlv4UiK6ZJPYnasn2iLGm8EIDd92Zyhg29VEMxUADJluaDxEwIoJr+MRRxp3HVr3rAg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "Z/GL4Sk11PMz6rBwQQZZL0El89NxRJ5eBd3BoCesrdYPRqyJzqVDypoadbx++OrmNc9ywCnnP32vtcSeKOAAF+ShhSTWis1Wyrf/oiAXCemhz5ix/me7whrQPXs+LW/MVLxUNRNYrLoRKcbzPZBJV4SV87C7jtKl/mVfOzsiW7y6P9bAv9NqLo4E4Qb5aW3kSIBTVVx/JDVnx+Ba9LVPhroIK3lDtekjv5e17zwy35YFdP0V/BN9SxdOAj2+N1+fzKrmiWVac6AJJb+LFrvcQf+7DGQyw2zB7D2ljTm2Q5XMWdzDjQntYNo2xXSKxifsoeID216i2WJ5NXDltlj7Dg=="
+          }
+        },
+        {
+          "q_id": "math-003",
+          "text": "Area of circle with radius 7 cm:",
+          "options": {
+            "A": "154 cm^2",
+            "B": "153 cm^2",
+            "C": "155 cm^2",
+            "D": "156 cm^2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RU8yZpnfj1+C+yIyHYmQ+7sAwC8/MMct+YKCB70vyci6Tpv9nNvexVcV1j85nKVlbxoIV5EMQtk31VF1o2cwIJJSpGLT6y+pfesdrUfPRrhnvGTO5Bq+S1xYx5OHJgUdGDJkUJxvJXmhy3qsKQ+9q+aG7Pq5yw/dX5D6HM5VBOwNm/Bv4E30ODfvfem1/CdA3ZvxqwYg8YpF85AetmE8WfsKwld3a2WHPCjblbrPVgf2BgrGYpObTctU7blilUtH5CFhLp0+DG71XEiIrRfgvhJ+1ikY72QPLh4u2Bw20jpvEq5BWEBjFCkHFFVMXAmG6OobomDhFBsBz1MBWh8fpA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "WNgHQ/fWt3d1l+gs6DXlMEApig3gELMwyj2F/KdrCVfPjFRGxBZ6ds+f2ci13jywofX/FufhGgX7aQZcQBFJrQCDGaybV8uT9kHiYWBjl2o8pPGBQrz3phNxVN5bGsVccXqVSX61r1bqkRFLpNMMRtkqNO3cJWU+MFesfAYiSjwK1U81bsU2T8zz4OGKTF/bi5KOkKk6rE/LNcVE1D4E5rMn2K5WcDmO/QZlzO+nlY3DlL8Qy8L92m7qfhkYdnRQ0651L4BuNNWSSW21Oz306IcCm2S/sOutd0B/konsvWIV5RKWWEY/Dox7UQ6PExyqU5qWahFXhPH5oXrTTXwWjg=="
+          }
+        },
+        {
+          "q_id": "math-004",
+          "text": "If 15 workers build wall in 20 days, 12 workers take:",
+          "options": {
+            "A": "18 days",
+            "B": "22 days",
+            "C": "25 days",
+            "D": "28 days"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "PT2nO5hQ23i/CBb3n/WYW90w1L0OkUQGIKNkuQLi354UDcPmybq2RoH42VtXbZX5g8hH8KSwHLvArkZlRsadzz1J4mm66E/WL6N4N0p2+hF2it7MArIfNMQrbQCE6IByHMX4Djzq5sPiHKvry9ppXkRgmd+KrmH9AqNpLrhTMPitUrqYIrVnOK+WIjHty6vyIjCmN+egidfrpvNLCcIii6FoZ4NO+ZWGWJxD8Fx7RkXHMjWt1r94gWUpRYoQsXCBrLQkdpnJAYc8Yoh4QL6Fmb+Oz95qg5K/F7Pf44iGQbzzm9A9M81d5r5pDKrXfaDZ9zsXpyHg37/ICZDSwU3a7Q=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "QA0mjW/Zz5BvlEfV5JxT4y1PcPUiuFnth3+kEf8MU7zrOHlicwOGhATq6g1WUehSWVG0iDzpL8lVxwyQK6+7p/xD2MnX9FLzsZf9X1bRHWgrBr5f858+EYh57gLQM6+CaTzpjE9DpUezvVq9YhuZhQ/pQT5Ff3vLbBQAUf0pkFSf+LHv/o6ltXVIVG4fQnH2AqWr5WLW0bq0+8VPxKPJzSxZPO2G2My12ofmpvr4nvWNOsSiV9QaP1b0F7P+ZUeOHi+EWtT3xOss7E6s/4w1yvkTSSX29B1gjPILgAZYJg+KEg7IR9Gk0DoNxunMSRjss9RoqvJ6gAJeiG458QryPg=="
+          }
+        },
+        {
+          "q_id": "math-005",
+          "text": "Speed = 60 km/hr, Time = 2.5 hrs, Distance = ?",
+          "options": {
+            "A": "140 km",
+            "B": "150 km",
+            "C": "160 km",
+            "D": "170 km"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "IGeQPqWjCBdJdajUwzt02ylWsLSkgyit3RzRzCPb19S7jVjTGO6cgmB7WbeSCZGqa7/MdZABUOPvEPW6r2awGMFXxRzxCTnvreO1ID6CJaTNO9Jp8GNO+055lPyStCE6uVlLayT/Uvw4ywaSUupnwYZ/j7pxzpBoz0jVOEblugy9Eo0KgnD12WpHYKyfaSn4hjdOlp0/C1kUopONSk2DYlZckykZssDqUcrAdhcG5tJgSaOkDteUCQIkj9E+DsJlrLKV2gF6ZS146+exTWPckPHQQbff+BQP2waHF962u9IymeLdHEdtv2rmQBNhlre0DEw2535zVj9BvPghJLZ0zA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HU8Tc3v8uuVCnpxgCjMpYwczh6zq5WPRd7WCbjhxUPymDj8j4lQdp5sJbUG1xusVEjbsBeyqU19aQ3I0ulVk64f7WNEamRqUkukmQVkA4HOKHIKM5bdgOhsbYLoHOXZg2Z77gtD60DWGoTS74SeVlzatF2/Q0GaH96Vj29cg/RUljyu2KVi344g9QKc+pl/r6Y420gBamyPzHo7XdORZSN4FcJBD4ryFI9qjPOf1K5hzivvSGvhRogNd0y5bhkMRJL+CIjjUC3P3ALnYJf597PhfuT1Qn/yKxP56A1FVmjkY3HkmDwLtwtvd8PFFYyzkKrtFCmjQlXJFwtw60A86LQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "reasoning",
+      "title": "Reasoning & General Intelligence",
+      "duration_minutes": 30,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "reas-001",
+          "text": "Odd one out: Delhi, Mumbai, Karnataka, Bangalore",
+          "options": {
+            "A": "Delhi",
+            "B": "Mumbai",
+            "C": "Karnataka",
+            "D": "Bangalore"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aQhMbbwnGhg3NRUPGHHsQvAHwE1rXoXxkoFY7jJ44xfeUq87NI2dHtkvH28S23WiV31hawEyc30D8A3aGV45h9wffmIl42ATchdHQmWiDjcVfgOIOqCisZnMmT/lfF57OCr8eAF47d7lOxyAtOtouh6Rx1jxLRhVTR7D69W5qB/3tuewyTQlFe4YUnTLhR/5axfFASUwpovpIunKJFkN+G9RuLaZ3OFt7/7tdyVOx5bOhsLbTVm3itkWFJVgXw5KQglzr3Xw+F/BeecuQijtoQAskEEtET7SYeJ4EgiE0yt0PUuRuqBrM8xmL2vfSveNI1zPnaankz6ZoUpCsYOWdA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "cPbJgYSy2IZwlrhaz3UDWATjJ+K/+hX4+PcPheKzcRCzHNjyh66xC162bb9GNJSazoXInnUSF547ve082Po6LzAfCMq49JbMTvKBSEAyCkykCuMDchjC9Tm5620po5mkk2+1VDgMyw9+jExi+iAydShlMOp9DMbyWIlS24hF/13Yp5rczl7Z3bgEJV+san0Vl5TYzVq2ANgaPAVsgW9fpiCVUtntXLTi+oUegSNn6O1s+M81M2xXpXeZCWKK9us9NdpMj0uxFcIqiGTpqB+JEFEsdEsu/irKa2UqNXAA5SzlFQfEQm3znAzLVUL/8+64e2TxUixElycMcocgY6sf5Q=="
+          }
+        },
+        {
+          "q_id": "reas-002",
+          "text": "Series: 5, 10, 15, 20, ?",
+          "options": {
+            "A": "22",
+            "B": "25",
+            "C": "28",
+            "D": "30"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "RlRfApZOUjChdRxj9xnzkRyOM3GCh4izSDs2Q5kOwuzwztX/Jehh94qeBvOBrTwA3oTDQhNOFp/4DphXxvhL1+nzEZ9SkbDgcBXGJPOlj71t080pSehhrsR7UcrdLk4QMmuSginPoQdSCcaCdCEbcb53xMUCE7fq06GLnQTzuRrk0u5B6+lBSiF7VOTfhSsVXCIMuEMJlzF4fNVURxSBweqrkhVsByaNtOo+YhjzuNW/oh2U8p3JCp/QrxtW44r2m52MaiGzQdoHLn2x5GU/9XkuKYvg77oXpJvP8o9+wpLSW2HJ1jFSTtP6R/5ZuXCmObyhpoTJcMAJ1yXpcleykg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TJ7VCcFHAQlHRGRSiJh/xV88c1pn7f3DLOR0bPNfrrfPl1uHBz8h8eS3RMIjIdBNoNNKzv8yHm/n9AojSepxq627mQUCyRIK+7xKCHMfqrJS8YM4IGUSM0nhrugmMQZuYvOaBxiNSu313fXMVB88eTMbbf4ZfVEVOpQlJuXta5M8C0LsUo1mteLQTXqk0w1G422Jv+OhQjpN6ZU90hQRQY8ZGSVKbZ9u+Mk0zwz3A4dVCuVrKUGtG8/BwBIOBlIGBjHJMBkY5DRUMlMRDRRUVPMoobStYGn625zJk9R0p23A19qclWgYCR+PMS4ojtrrJkae0kypM+E1jdejm0GOCQ=="
+          }
+        },
+        {
+          "q_id": "reas-003",
+          "text": "If E is 5th letter, then S is:",
+          "options": {
+            "A": "17",
+            "B": "18",
+            "C": "19",
+            "D": "20"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qyyxJAtqmsSC3UDC3qpXAH4UTojIUSe9zjJ7tRswVPfc/q1Epa3MWFvrNrE4KBeey+bYnUGL13RFToEJZj7Yvjbdpmj3XSGC5ExYXycZrV/OJKzLkQaTo6QI4OXxVWDHjX0qUGmJMUBGsBGwoFy0yOkVUOrkDIWpFBPKRAteqOYLJSOKmSVwaLfQLsVRUiTthzZwc0ENh5q053jvZfWLqjGYO3RRl+1MjlhvtubyxT3+Ww6mF2LjvKbHVS1PE5MXvA3By4d9bLthEOKHhQBZZFRNJrw0lS04Ty785lDMfeajUgrCRREM7xM199wH4ZnOIx0fLVf8CCYCn5TlSZ+BhA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "BEn/IOE2ebbQgnFHobb88AQluIm6KvrI1ifZc216gNtSr/FLZs0o5J6KlQalSe3BWwvdlkmQXWglqm1YWLj77fVBV86vJg03mFg68qMRySWXACzIfRV1704TsTZV5hPYOaOotUUVB0dW3vX9VyEkBW2ZSqn/n0dbuYtfXAlsMrT3vAM3hYzbREsZLmd9hnVuUhBbRV4IBLb7ySB6upoOEnkHCZPUGW8sZm+x95S/vrHVNrIMxdHjOH3CwwOT1cbUQR4xe1wZtEhlnvKsuyiil6rVqZ6apURyueyXXSpy0qPAvtWynRxNy+GgmbxPauXZuGF58khccLQe7AxK4kPocA=="
+          }
+        },
+        {
+          "q_id": "reas-004",
+          "text": "A's age is twice B's age. Sum is 30. A's age:",
+          "options": {
+            "A": "15",
+            "B": "18",
+            "C": "20",
+            "D": "25"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "FNmeegzcBp2x5bawqbaI7BQlh3jkDCYCigWrbuRgCGZfTcvKMXhLFbUhWeVpxng1QqzEOBzCl7h1y3i4UYsi3PNI2+Q6/ZH+zMGe+h7TfjBoSypZvWgIy5hUdvtCkwcerEhsqHA4tuv6YytNUgEScXAKYRLkPIoa4gws9TDVOsaJeoCpOW4FbCdziiZGVRxbopnWmIpUEZQaFsWiyWkxaboaHWaysYq11Z7VfLjot5QshDC9TiLym1jztF2kausHd7LPWr7xa+PsbWkAOOdDYpNXOvoHtaLLLY+pVzHjUKm82BUCNjTxofVuO8QXtbpzLcZJ+4B4z1E89gUhavHGGQ=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "fo7NYICNz/kGd69aTCFAkvQ35AiNftiEvOHx/2yVB73+61snKZ5S9+SIX08YLT0nLhQM1gA5LCtAhHjFgb9dUrgKhtYqrmamaKuXTy/N0ByraZaF891rf3xHLbkZuWekoyYJNzpAkP5MWHHLV0g/wZwdt5yHGyocAMj2yyhyGp1UPQcPsKY8y36XWo+OGFrz/C6HKcquLWVDt177vIvQN9E246ijr96XY7f5xZqw5kyNxZJMDdOwF3XTKcKjzyYvKD1P3ZcHLAe8JJBz6QtY9VVzLrf2MaXhuwEkTyFPcMOvJrgAAwn390og24DqM2EI6V660TPGYYl+JMAtlwX23Q=="
+          }
+        },
+        {
+          "q_id": "reas-005",
+          "text": "Which clock shows 12:30?",
+          "options": {
+            "A": "Hour at 12, minute at 6",
+            "B": "Hour between 12 and 1, minute at 6",
+            "C": "Hour at 1, minute at 12",
+            "D": "Hour at 12, minute at 12"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "cba/J/zlAZNSPTvHwfSH7e58gHnSDEkaZgYaKjjwA3pPb0+WHqA3N+teJIlBo64FVSNjWzRW3os/xK7Td4CD57lHwSkFjB7nHcdK37bkzm8MS9JiDYHfhD9VH2uUOfw9By88P4OblOgJobXX6Bsng5M/PKw1lA+E3UzWNHkxXUWGNdjoEaPppxGclyeEZ7Ap0l80ihU4GZKYagjX+UCA9swE0W3eXA1nKleO091c+cpM8dj8OENfBXxEx2wAL7oWKWxzsSlKjul+sKxzJqVn53Z2iI2559JWGRjZm/vbV8fH1pTKQ5ruK3HjbreXqxA1bsUZPvo8qPSLug7zHoYSxg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "RuTUsFWtNGYtQHHuRrnK0mfJ93XIXIS9q9xLJTPJsCU2zu0jNKQKi4yqB/w1P9vqzhpsFMez1NzwtJj6lAynIciJSOgNUpFZFANHZ6eUcG74ARgptok3XHt4Nx7mTpmMOSa6qENPt6vwfWmYeiGc4cJLyTVlERaVa4p+V81DSPjv1+iqljkiFEL+Uunaiaoi5Zt+WXdCQSO/K53AvkNleQfxdTEvRf1SPyrCcDA/r6SLlUcu2E3p4Jl6yJDeiJ9HoBiBGyilmabgTDg+5QlCo+usSWb7bh/yAk82VismwvhTR9ezuSGz36xSMv9ms1mjY0u69ww2AJnwUehYen/QjA=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "general-science",
+      "title": "General Science",
+      "duration_minutes": 30,
+      "total_questions": 30,
+      "questions": [
+        {
+          "q_id": "sci-001",
+          "text": "Photosynthesis produces:",
+          "options": {
+            "A": "CO2 and H2O",
+            "B": "O2 and glucose",
+            "C": "O2 only",
+            "D": "H2O and glucose"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "GhS7FniVvw+Erx51WxFxagJ1+7JDoazRKgKKKpl9zusNlSNnFYteF9122BUNQyvlZVYEbAEt5wW+g4ZYm8cxg9UquBV0CqzmdZMfRW3X6pbPK5BN+5OD3U2UKTsXlmiJEw1xScO5pl9wdglZgxVkYbF74yEk3imuccAFRGuuu1nMme5mk0mrr/L41oDS+lbi2FZjZOlcg4kK0lM4TLSHnVx5JNoXkJFekleVm+56+NwUHgPF12mwjCsCpyW3l7yF4iabM/fLDZVOZeGK+PTMxe29/2y0Hug/0tgbLLgZoUN/Q96TJJENtPSp2mL9Vv6OsWBwrqQEo2VujtrIJdtyGg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "gNJdHy/nljzVzWGhxFYX+TZekSwqP0+98/zvbMl9zxBt5WCk3yl/e7Wu+dSTrEcW0/EyDfKjBVOt8rKuZ1qKeFx5bmHG5bMC25pSIx6rBXFkYgiZWcB5M+C/1jbBNWp18xFjH98vC5Kr9h3ODxEW0DK7T3XAJLo52npVqeQCI8LWmTdWWL0Ajk5iO6YI8XW6IY+vtBWv5ac0DIjqBWCod/2e11iPrUM6eAiob3QS/zwv+C+oyAmKS8W3WfL1AZjwxTN942tsjv/1B6VJNQrFlvDVY+f53XlvV0dforumFxTlqmaC8FYEuiN9PyajVQiO+rYx//T8V8GUzn+WrWsKIA=="
+          }
+        },
+        {
+          "q_id": "sci-002",
+          "text": "Sound travels fastest in:",
+          "options": {
+            "A": "Air",
+            "B": "Water",
+            "C": "Steel",
+            "D": "Vacuum"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "hWK+vVFK4VEeKHUQ/DNDoGCafT294Wpec5IkZ9sepZzAghbNkLYZZRIXeZHivIs80m16zUXOVRc/aE/0jJF0+fjmTVZo49z7pW1EfxqC2afBPzP99y1PiupoFrfj+tVFShyfJeuhnkDCKhTageJrAw7NxkAJosrtr7UQB7tO6Zdav8mV3NcMPOpYbNcC5HHnMGVqtAw7bsqsWzBm5w0ru+0yYeh7JHvBD50yMoUmecocNl5p2U1t4tDVfYr0fSbqSmq+S8YtnA4yUOPqZByiIY8OvXfFrLJZ7N45ivFDKHYBREe/mz0fdpNAoPC+C2LsKs9Mnh/NC6dMWfASuHaLNg=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "PcIsCUMm+PYulruh1m8yqx9bQ9yP6exVYCi8RQUuiigFiWEry32688ik2nLv2Air/fyoSi9uiyyBho0n0S436Jtn95kcUafL1lrtg5WQbGS+Bj9x4sHlrqozGAby/0PsoqH+Jh4HcBDkCpi9nZYbqhYipxfUwkOiSNRL0R39OP8jFw+nTUC5aP/WNeBe44Q49TG2tuuHGxj580Yp2CJLw6UEyETTCAmQuRh8NDZ9NtYO6LLMFexT5YKx+yOJX+3OsJnvipVmwIwvcx7xXrCHR9xZXInstYTMGOmu7fIW1IhgOyad7hbFpop6dXho8AdIDNLU+Rizk1lbbqi+PC4A0Q=="
+          }
+        },
+        {
+          "q_id": "sci-003",
+          "text": "pH of pure water is:",
+          "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QClPWioQM0WGqpdY6jxYkvTMyxhP3W/08yPYKEINF7PuhWq9CnuJ6JPkOGfLLfH9pmucaalKz0VQy4TFl9fSD669BRRj54NhYa4+yRlFpXh2ZQl5hZoNbJ96zKnivLHXukUFLNIYSDm/zN0dZa97FaNJAQDgcez/PMoNU7Fl3K6NoTtJiUxbQtXC5EDdywk8JBu6Wqel7VnrxfJHR6AdezbraM9kAfCLyy+bZoJn566dmCKlWY0SvfhWiWiyazDJInHWb5ccuJia9DpYAC7BCGdavcRzFPOCQqRubSBLUAXhxruM3vUqaHJLgvv7Yx+W4/BDnqWO56c2eZF7mjIf1Q=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DeS6Yo8OAOKAXhxAFNU6eZySm0iU3t5XTb+ewyd82B2gGCbzUGeF7aFxjyKt0uF56KsDHeVgi984oKxi1N0dsvEPvMqMKOq7GPJolH195z43gqySTJeQ2XFDbrBy5fSlKdUmLbRaRNoGLTBkOEaCyanOXCHIZRm5GNLVYS/d7l7eSzSMg/D9L845AU+LVyBErpJhRCgNHi41IK9JrdCyldYqfrNTSqagHM6ss8UbznRNsQfc1Is+ZRZX45HU9G8TU3PRwvADpio0aqRVGqIUCuPrgIpKoBaZ0VBlxasokr2DCsVn1gfStUisE64UbOdXhEzPO4iRcqFpXpT3RCumsw=="
+          }
+        },
+        {
+          "q_id": "sci-004",
+          "text": "Largest planet in solar system:",
+          "options": {
+            "A": "Saturn",
+            "B": "Jupiter",
+            "C": "Mars",
+            "D": "Neptune"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "sU2T/k1i9SzttsFX8ps+pZxfR2sjKfMaaZHPHfrucSb17WjjWqb3FOQaMlkfNevxEsKOYU2oCfjWZKYiZK/hLZ1isC34AxjUC++iOGQ7BxceGC4sDNZMIa42/QUMueKqlSGw8AMhmIegCp20BqtFAowgDzgN/r6M7vcs8662bGj732ftPb9rZR9/5B8eUO3WkslKD48W+2A4F8E1p3K2JPqdkv6B/K7G1OVgbWXh8dhhwsw+wOycP3LFQTbrOA5BRG63Syvn+RqmYJGBR4obQSY5obU5JsyVpi081FG0cmPePZCdeJQkCywmsNk3CqAUGperlYyOypWYUuuuTmvoww=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "pV3PvECb2GENd8VqeU9USXiOpmRKVMeCZIDLtOcTs/te7QWdIkeOj9zmLbl9uUS11YJ0vdie8rTq3xTOg8A+yb32yaUdFfF3nnRtCueHHS39WdRrViylDSEH7WcxMB22Wj6BSEdD0KK7mVM9zNdnzeDhCAUtLmhgzheKXoXJlJbFyXhZxeN/vSZ55hJ0bteFwQ1Krdd+SAN4V8u0LkWd5ohaleCq5h1JdSve0eui4BuluaiTHzdOe7Ik2AqEw4+WeSyRuuJisCfTGr7pXlJ+bEBcwsA4hRdAQUweb2roaFu8ngDpoO8ChkuxfxPgR02lTwjxacBRTnfBr5ruXAd2UQ=="
+          }
+        },
+        {
+          "q_id": "sci-005",
+          "text": "Vitamin C deficiency causes:",
+          "options": {
+            "A": "Anemia",
+            "B": "Rickets",
+            "C": "Scurvy",
+            "D": "Beriberi"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lU8vRElYBJ8IBEEQPUwduI3BJkW7utbzcHbdUBR8gga4fK0FKu7SpX41WC98JXlK6AY5wqzQiRs3klG78AXehBgndPY3N0l3fl0/Xe8aXqIgVFsNKhOhRGcozQg3NSvbgUmi3Xwait88B42c2ezZZwj/t0HSBpFSQ3TqZnEJZy4+Rmy3ntUjEqOl/LsnxROiXfCwcsnN5TiJCr2tLhze7AYpxMK/g8LOvOAA0YiD+UjNWo1FV8VRQSjh2HAyatnVLc33W1p9Q4lLJSO1eZDQ6YyXA5EmlnMSt8DwRU87oU2UMUd9b3cvagVlz3h2HTkWLNSTYh0RzO9tTIIa6HEt0w=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "p8iATc5XFEofqDae4gfbqteBivxmYUj/qQv3g/2d6GyLi0TP7Wq/tTSEn8wu4hWKZ0fWNTAPIEpmN1FzcblKci4BWufrrhT681wwteke3lIHqi4HxWqQ+JK1VhJhwlwaUi40n/+J0CSrlRxfdxnGcPs8+cmgf1BbhWxAk7ZFW7BCXGb49wIaY5y6iw38aM5yJMKUt9tGPDjSIK1nw4RWChC14BnBEvSalhicsD/41euxOnYhTxvxD3MMUCSvYyqk2mzQEuejgEPLifE7+udr/AB1e1AHpEUV5Ga1rlUYozdqcr6EjwhF2JKDyXZCefly0lOGLReiWShIicCN3S1gNw=="
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "exam_id": "rrb-je-2023-exam-1",
+  "title": "RRB JE 2023 - Exam 1",
+  "category": "Railways",
+  "year": 2023,
+  "sections": [
+    {
+      "section_id": "general_awareness",
+      "title": "General Awareness",
+      "questions": [
+        {
+          "q_id": "ga-001",
+          "text": "Indian Railways divided into zones:",
+          "options": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "17"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "P7gtIJmRqiNVZkgfG/0elo99POKoBz9Zntw/+ubx3jQ8eU2XcE4MO3HNJxtaHvXtWj6dwxD4Qoi/EWz7PfVHsQ1ZTmzwg7K86DM+la6qn69FNkGnhgOXVDCBATWUKEKzFTArXTMUSUwyN6e2HovQNmNpEMWXbDIteA/kN6+rRxpZmU1pclNqH6Rl5a82X/dbrg/miseNK2pDwmaY+pJgW7NKDHAWHkupVBreZ9x55J1rPNS8qNvI199nmiQc/RnGD7nLypJkzRahNy/if1IQFr3NFl5DM8cZzGE5V862O5ccc9dEY0/QeRTXgXy1jBzkwMCaEUV8+KlZ64FT7EBRWw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "k5lJYdRLa/VbVm1QwUINCsbQqfl9qUyeEZdF0YpyqawaRh5gM06L+cR/FIteESudktAjUm+c5hQ1dpdrwgGUJodYx8PB7795I+4mAuMIUmbodfuG8cf4Nl/tbb4Gsz73URKjnewAy7hJZzxFmDSwVSmHXQbehpES+CdeS/3peoKLuY+M/EE6nDcRDlsjyP1AvXiyDfYbCflNDOuKgjtnGqxYfKUSDFpbLIn/fjnQJ85hNHcAjSt4QdH94Tq+xTXCyrYUS3d6nPXjZJcl8zVFMI8c0xjHAb86MjGbTiW9ub/a1aNGbJg0BjzKBdb4Rr7mtFvt5z9KXE6oDWGeVrG6gQ=="
+          }
+        },
+        {
+          "q_id": "ga-002",
+          "text": "Railway Budget separate since:",
+          "options": {
+            "A": "2014",
+            "B": "2015",
+            "C": "2016",
+            "D": "2017"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "qHHO8QOc2uBb0zFKSeEfIeMNdley5dAJ2BW01OdXa0LqYemFkya/Mj9OtdFAKNgqqnEVZ4D8gaZf7zzsc15ANg/RIGX1+1kAneDdo/D3lzDFt4Z0g24Ey1/nkxmUx3cJqA7DkWgIFw3eh7lXTsM1QQBeJctq9+JbdC5VrKTZqGOtdRQ+3OZ9a04cGHboc5k4QcUmJC9/G9CyFmsdTjVk9Pt8qSSk4GefhCoMq7aGMNVD5MAM0+McA6eY3fy9xlACVNYU5Prcve1pBx2aq58pLaz+ccqbvQtxsv3krUYx8UBkUK33D8PG/iAwCv8symcdktYnmo0FIo9xc9vPoLIwow=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "W7fAcTIbcwJq/cI18ZNFHwIYNxIshkTmY+d6HnBA5atbchKstmOaKdypRKPJt8n14bXRFqtLph5Zug9yBbDBhLK7Gc2MSmsnc0CxuFbyZsYa+eUgilR+oGTt6quqFFD0iSVNFv18GbdJSZy9Xdq5uzsfHZ7yHiKqLYJNKB9tOgetjgMW4xB1xKyyi8WEgwINY9FP/jjuZ+2wXGZ5WgLLdSx2hFPxnn7fwWS/w7f+GT4i8ku6whjSgdJZ8Y+jF0YBqPXh3UuTh2x7B4pobGag1MwboFfZOBzdebetBBwDcbJBgswtZ1/e9H4W/oZOHgKw8Zuem+ZMgRlXxpUi1wRPMg=="
+          }
+        },
+        {
+          "q_id": "ga-003",
+          "text": "Konkan Railway passes through:",
+          "options": {
+            "A": "1 state",
+            "B": "2 states",
+            "C": "3 states",
+            "D": "4 states"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "QXzcukfM/dZkwyOuKnz/FFer4v9nN4vbWmNmv0FH6SW49PrQ7bcvsEfsNgci36GmOQ8M2a97gFDA9KRxl75vwZgHWPWlUeMeXfkEGs8K+RFiZClUIqNOLFrdcFwoKxGVto0vlKHys/X/Qf9C1oP8f/bnGlupien9GeutLnqNYqzvXWzcAUlF8Qg/yGDvEd93TkRgzkZbnpB9jRVdQwTCPZdDT5DR/+JSbMkLbRkyVL+0HJXr83tRP4rXoTomzi1YzTzyBU3kqu3pPNo00IyZbv4tGp7/utWF3Lj1sVWeUyFmEPNQcutWw+KFBe4uPn8MfXxPY0MKEYLvB/83zhLX6Q=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "VnxQwbN4S+QpQnTRKkXaCEI+BotBy8+9Nx9jyF4xlHntjGD0uHut/sX17++IsNBwKC5WWcTW81fVvDoiJKUvqmQOF+15Jm/sAKQOAXowXAMAgm0uPC7svz1z4hxl6xtqWal86uD3lzTue1diU5UbUJFCbGr00uOUd+TD7W6SX+DIXNyM203J0faCKCbvOHDHcDwxyHmMTmU0r/0K7ZcmKHKliu1PDrlKSfP84h3tQ8C8h/zKd/M7QGjSGzkOX881FZLUE3UdzBY0lVnoRIoVBmXt0LTH5D31gBlkLVEJie4ZLwpciZY7xaQKkVCPurGPw+u9VWehFrLo8aJJDMLniA=="
+          }
+        },
+        {
+          "q_id": "ga-004",
+          "text": "Longest railway bridge in India:",
+          "options": {
+            "A": "Bandra-Worli",
+            "B": "Pamban Bridge",
+            "C": "Bogibeel Bridge",
+            "D": "None"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "aZDSljcysFkPn00XQ3zZLj9lya33UeFDe9IdL/AIRBbunJ1yOKXAcUWFnJIEqWry6Z3zcUwdjbTEuK9+qNVB0MP+jLY6PEy04mAj2WRcw6GfLRXwEpdSHbiC4/d1Pu+ZewcXvMg+qn+HCRa4l+NJwPgnoE8VOjwEWKFRmR6ybijzzwvJ+g5vZjIZO8/l950XBljg+fTUG1GAUBD3zEQIT2Fgol9LiuKT2Kk8xkstjpJ+VwOqsnIJ5RBWG0BIj9r1hUYr/2G/qX5VaJChl2IOG47N52wwuwCazMuDvlIfP/cgbCBzHQCrDEDyIErAlSFUpngcQL+RXI4KWfr20CW5YA=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "mnhn+pVJ42xspLgH+bxQZjQG/pUzA6c1v8fOOO2K4aJDGPdXSDd/ZaSHnMYeXHyEdrRIF0XT25825t3MlwISUcYI6zgtWgMTEpGun/JsB0eGlFM79OfBqy474Liil+4OG/4CyBhxKO+hlbzRndUy6F6x33wZqEH190EXKCI2od6csHmvur1tmh927xaFckXdnRYrqf6Meo80m1BITfyew5J4QmXnI444CcLZiqNe2AWwshOJnQvsDM6ek+UulSfEQ+t5XWonKIlxY/nOgYeD31bzQZ/V/F0lkqhULW5kIU3nmfdzBW7sJRuSdu4VlKFM2n2w4SoXyC0JoZGAZayFyQ=="
+          }
+        },
+        {
+          "q_id": "ga-005",
+          "text": "Historic railway line oldest:",
+          "options": {
+            "A": "Grand Trunk",
+            "B": "Darjeeling Himalayan",
+            "C": "Kalka-Shimla",
+            "D": "Eastern line"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "so/cyqX3gRfzS5EOTDpRm7E1cdLTBPDsHxSuCrHKBgrnQKKyoYFlSfESGnQdLgwngUZmqW3CCpzIT29QHVw5gkC5x0reBeHP490zuEANMseOPw2L9dCyi3qmWSnytJg3AvJdar29CI14vPjOny4qiARHzlGM62S5XljvkuQG/FXy/i3pGymqKPuWOdXld+qX0ue8NsjRvZ9ZpEofevSnhfG0YVDVq5suH/uKxoEQ+hd9YW0OkLdGhRZjfhafyipm9wwDVsUjNcW3oHneBh+jgvyIVfjYmVStzBvQYJCYKldQ2rSdWIbjejU58diBTv25DKGX03E9DtNifDdVtYhhGw=="
+          },
+          "marks": 1,
+          "negative_marks": 0.33,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TqrUYbUM3dDGtvrKQR3RoVjHXQQHKEiVQQd/hBFUeySkUgSI4P0CXdYPWAe1bO756dDCLHtWnDyox2vKEZ6LnW06LWGjy1Y6pgUs/AYMDE6iWnQvIM6aq00sh3O3YbymTT2N5xpQ+05bd7KC6rG4myID8UnOY522bYjGLjjJeXW60TCqG+LowC+ZbtVBzjYYgov2UNFJ7FEY/WnvvTZYj1I17MJNNfOGtR91rEWC/r8jqLfiOW5gJQdS6k7ANJ/Q4w2DNgycR+xHczWkYaNqrcZPF9QloLcO/fl5qm/8AT/HFeGEGz+rpYXPo6thkde08x/fXqNrl4FJYruLiTv/6A=="
+          }
+        }
+      ],
+      "duration_minutes": 90,
+      "total_questions": 100
+    }
+  ]
+}

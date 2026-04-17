@@ -1,0 +1,332 @@
+{
+  "exam_id": "neet-2019-exam-1",
+  "title": "NEET 2019 - Exam 1",
+  "category": "NEET",
+  "year": 2019,
+  "sections": [
+    {
+      "section_id": "physics",
+      "title": "Physics",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "phy-001",
+          "text": "A ball is thrown upward with velocity u. The maximum height is:",
+          "options": {
+            "A": "u/g",
+            "B": "u\u00b2/2g",
+            "C": "u\u00b2/g",
+            "D": "2u\u00b2/g"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "nrH0J/WW7/e2Jkq4O/4q9VNH2EFgMO0gmnCWdXqOg5h3xFTE/+OcGSac9Y9J8Re4dnNGgmzQF5ax7jUUA8KEobmCNeZ0j7Tg+6hNn9bLCHCRWKgvJmmr14x56U6Mu6Q+aNiOS0SGQTIQkvYlV/Idwx69DI/qUtJOOiPdOFspvhWwO2kCARWTisHiuOt2HroGdYbUinuLyQAptya5Toy2aqmpY9hFpM5RYCyAQNnlXjI7cSbkuI53CCF4ng2OAHiFW4s9NjfJYoaHfjaBHwWZKiC1PW0YloxCVIynqDn1+Cs/YLzuRAaDDYGjc/IXg27ck8tYrst1njRWdBozGmHtag=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "RNvzWDdIgSBL0B2ebOU4bJH3C+s5+ggNsP6IVSD+PLClxDmz+bcmE3xzP3nhRMEwtieDY6QNeo1hzoN7AP0T4p4lNko3gqQKClb/V6Ue50F2stPtKWn7DMgGZR2T+f3At4tBPMreCapoMBZURcZTFH4ZXjBVmaexbvDWVMfYh2pSuYxJU9f63cC97Zp/zQ1e+FsZOF5jfG7j62f/0BH/a+9XkCeZUoO/A3taq97yNWkmlenhJYBVq9D/NeqjfoVFQfoHMATfiHidOZ3kwuC02G8Ux/tD8GzlyLoUaXmtXpidZQEo0Zr9PUKh+z5aBa6B0wF1yiFa4HNyb259GWPFwg=="
+          }
+        },
+        {
+          "q_id": "phy-002",
+          "text": "The time period of a satellite orbiting Earth is independent of:",
+          "options": {
+            "A": "Mass of satellite",
+            "B": "Mass of Earth",
+            "C": "Radius of orbit",
+            "D": "All of the above"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ANxZr485oPeq0z31Po5CYNq+HF4VV0oIby0ErneqHwhjZbddlsbW8TtwyxFceIP00jolmrakMGFRRW4JJGaO/dDH79Voe+vuFPDm4GhCJSdO5XApbFWfYFu4v9Bzfg8y/xzVG/wRtgN6HnEvcXQMOSwg3/9NWlD5hWqoOovFtwm/8Plm+CocWAnmODzkpRXlj1CbJSFgqmQoeCQDXe+mV3wW49C3sSBl06RTpoJzPSRT0K7NDHvrIx4WbQzy7puTiDtsr6gJIQpLwrqe1n/s5K6LGJVz4xx42kF7D0S3Tqd8YGxR6k9u8a8COCs4kewfCrhieB09bNvZeW/Yg0NNAg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ss0vzjTe2yTdB/rAkjSdSG1Xg3HtlimOIvCxT/DM+t0ulwnXvLMx0yYMsv6iv2qfYFaiENj8BO42EYz9jHfKqL+Rj15IqVrl7DYB9WcDv8e42dZTTBM4dnAzCQ+0WVg6FaYH9w3yVMZaieaSskISmQTe791ncATeNBmxHESEkB7KOOnDbX1sv58vO9ZBoFcnDLtMshPTFR4Ee0/rSd3bnsl9/ojAIfImZ+Rrm+a81yKMdOPJIFTLYcXo0XPjm6LJlcrNXHko+tfl2A2AJ0mU6Ub5rDRChQWAw24G9+ewJZxwsWJmPBWCdnzzc2GVpLSWpSBe/+PnVXERL9wbS1t8RQ=="
+          }
+        },
+        {
+          "q_id": "phy-003",
+          "text": "Which color of light has the highest frequency?",
+          "options": {
+            "A": "Red",
+            "B": "Green",
+            "C": "Blue",
+            "D": "Violet"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Gyz17sRjBbfnDQ+7LAHoIUts5cHu/US86JwE9SjUlPBh0cAl3znxKWZ/zaStEbIpeF8LKKoK33ExipSHGJfaxiqPHdbxbNVovDsjs7wWx0+2g4RuXOgYzdxyaM8L4VxApIagoDYnQa6yX9WXFjfJsEcA9b5nHkvNyqfwOrv5diVSwEPiH+jIurNNwTId9l2sKCdPflZzxRDjUX8WIaj/BTbjLWvJ1i1V59YOHmEByBo0yztPMs2KGVRvK7hVzBgHIitNuj2p67cmU91uOM1aBo6KyFlIr9/zXamEDcmVPnd8JNXDP+gEq29RzLgmONzHJMvr7Zwl5ISrsit5R+zMuw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "d8Yv82LjpOMpHgYXp+lBR+g5mH/Kwnj1YQap2XYxF2drbPdkL1hUjYJe5aGAdAsHO3oqDKN3UPiTWQtJGhH4KbwnVFR5im2+EX0V0e2MMee8gIXFGGSk9R3hrOvoF6LNWDv6YeKBez7hwuhJ7GclBllIb/aRr/I5iheiipv3pPsw21KL1JmiqJhmT2Z7VhHHe+3vBiC6eoyBJMcqI01ZIWMRDnBqKUBCmtKjB4mmIs+pInnG5kUE4rPYhtooDC+JvRDevz72Nb5dSitWMhyaKd1WpRmepsmSRyaE6N3d0aG6gupKCWcsz7ObpE0Lw/l704MEnzrtdAhhJhShTeKb+A=="
+          }
+        },
+        {
+          "q_id": "phy-004",
+          "text": "The resistance of a conductor is inversely proportional to its:",
+          "options": {
+            "A": "Length",
+            "B": "Cross-sectional area",
+            "C": "Temperature",
+            "D": "Density"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "J1MQVF+FCMn9VfmV7IOxF249OucnlAhXoFt8rIMlF/uU7dIPZSbMBZoLga3kkJNO8AiHruDUk92igRAwi0Rj5u83N/sKK2RIpl5f65/6nS/OuSainGNKaGa3OHHFZ7Oud354IXbIaMKGQscq0uKMzf/Tt007SoGtqFty+kpczAtMypAnvE1to/q8Qv0y4BGPXbv1o7ezyw7UXlKIyImzhtGXq5mNzvjWWmjOX9r1ADjY6BDAqd9/Ueu/kxD/4wrIZGbtLAvMWj5v8LpmSL5qD/wSjGSMeY00hiGoWKe3E2a4LQSr/iPimZRgnJ/hlyLGuAj20fbv7jE1NhyhzK+NBw=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "dxY+4mE3/6UpmHAjsB3Gh7U1ZrleM2b9wcdVDQBfYkGKDYEEgGsLVzdVuhSoHbf9w1/Q27pmsnO61kNeuP+f61EvdH/hKaOhowACe29T3+2F+PAmtnHpIPtiIgJFV+rAtYEDo4yP3GPHh38DDJVfhIiVjmzeEt936ZPsq+NY7LOZcg0azy3f2INUIR3jRl6wRyu/i1O8C2VhON/MHr/c9INgLiUXumcPO7qCx/ew2VLaKrdLDQmav+6g/vCgQHST39xHyiQrgZ9PDMH4BoPzOjdJWVY+JVc3FfssIM8LmNSoFyiz1e/9EwWwFk6+opbVP17kwJpnREsn/H9D/If/YQ=="
+          }
+        },
+        {
+          "q_id": "phy-005",
+          "text": "In an AC circuit, impedance is:",
+          "options": {
+            "A": "R+L+C",
+            "B": "\u221a(R\u00b2+X\u00b2)",
+            "C": "R+XL+XC",
+            "D": "\u221a(R\u00b2+(XL-XC)\u00b2)"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mw0yTmwYvKMesx1jk2oPYtzwa9nPuGfdY/isPKDuKZQe2uBQCadqSaYPFBqRVU2YT5ZYeaaeQ+V17WGM3Lsy2F9XMC0lpe3QUWK+I+o4EsMveQoTrZcV0TactHAWSGOPEwbJ9X96oh/ob2p3EKhg5ehRtCagjRMA7i8yEWcaHj9reLiXHjZ5uZXt94bSfKCzoNP40oMHnv0YP5XkY/GDtb0omsx71sUQi0mPdr+HeVtrcBLMtY0D1CJ5Zqi3tiNRJGZbXopuRXUiEmZELBfUdMOwvmIDwdhNGzFHfK+cwqanTiib0qNxnnKFVba38mfZg4zsbplzHVJyX1+WbW3cXA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "kTjAyfvqD8O39YakNuvHzmav1yo6YfcA2GSUeNc2TJv6EYIewAWH+lvFxdxYzJi9ulBBGrsWbGA5aGGLnPd1Kb28ajZB90lm0Y/cKsE1nn4TpCpeDvy3xTzoZ7SlSeMHhn1KI/I4p7w2iohlmJ/uQ7JT/E9fhOx1ZW7wak2B3o7ySJ4+rU3lBDNt9ssB8CWQ0g0v08wjMtslkTjo305bAlFn54I8XoFqbeV1pK6v6OSDiHkBxWaJm1impvhNOU+0cxtAv0H+aJnhVIaVn84Q44hN7E3AJxLUuuOxXuf6OWgbKJp0iolOcdAyugPi+PItjhS9cumkQMGDy1Tx7D4FLw=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "chemistry",
+      "title": "Chemistry",
+      "duration_minutes": 60,
+      "total_questions": 35,
+      "questions": [
+        {
+          "q_id": "chem-001",
+          "text": "The enthalpy change of a reaction is denoted by:",
+          "options": {
+            "A": "\u0394E",
+            "B": "\u0394H",
+            "C": "\u0394G",
+            "D": "\u0394S"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "Bb9l/hHDRQt0vhuiybZsBWFkmNLE0V+TcwKzj2PtQSrzwFoH14teREaKFq+Xxt7vK/fSEEdY2CdVTINYGCDmAenIuS/m7AA+TlWJiGOko+8siz3ncTsJXKbv9WjwAGgygtdDrnZA1bsQSyMBvv4KJDFjCClohmzvNGo+qtEA9MFqr6g/ptfm3l3au4oQXPp+w1erq70C0UwQDlASKSMtGgq30zbXUhjmJCwJXq0+nAbqwY+YJx4Je4qEIKvT2M3tdZTAJ098kFstzB4dB7kJWHL6MOstiXGlrlAfeJXCuyeV92SHguwpgrLs/YOvXHHLfbr4xiY93Wv/GP4W1ifhpA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "XZTH63aZqTTkKd1WknAJgjJyQ+8jmn0X2ueSPAX9CZI5OvlYJTqYJ9VBLQRnqPebPTIwf4CntGnL5gBshBtusx2vHQCgIscDwUhQBrmwbv9qZtdTvOgR4UAwPG3tUkk+4GyoW90P6c7a3Ufif8kEY/l1m5Xa6j5PziHvbRfy4ag0MyBvjFciaUYzpM/JAYScmtIBnkGW1sRZZsyIIY9nSHbXc3N8pZxznEmh0ES2CtJqlCTUZ2IrYB2zMAR6ieqARLOjiPAAxBfxsVp9hSU/Ec1P+yudcMTSQc9kZovvUbYUySp43su4ly/eG3xK+nz60MIRPHsmxB2Bna2XhNKmeA=="
+          }
+        },
+        {
+          "q_id": "chem-002",
+          "text": "The compound with maximum covalent character is:",
+          "options": {
+            "A": "NaCl",
+            "B": "MgO",
+            "C": "CaO",
+            "D": "KCl"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "lwoE2V8h79RCQUgNsmur2H9DQtI7Tx+MmMd1GphE22pp0/MPNkhq5SNz7LFqBdptqKLQz3q4WVHW1rstnnqzb+PjufvnMfkq5oP6ERGRhRLCygSNdZVR2Dr6rjRaPN3hwpFoWOgntazG4TWEZqG29fB+QuFzWfYPpjxvjJL1B67yoxkp9AuEh+hNmk1LdpasKix2W9AAMhTkvHRKx/01JgDtwLJrRg/ZGrAmK9sUWkv0BNX6qnFL4wNWsW/bhpvySMndRiRtvPNSejO34U2bVisyC/k6BpvAhyEshcD2S7f8/6hYWkOBm7OMbcdNEZ12sEWeZ/vbR8v96ENOSuq48w=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "HIK60nplBEALrYdBkcEVz0Qpqt3a5q2/N9x/Sure2HpzGNIPpb2+yK0M5/md4oKSodBjtWZWgsboSk03O96l67HvF+K53NL0v69XvVizJenOXLajkho5n3BwM9dzF/Ro69oXI9NaiMEJ2adf+WVWHFojnkMUOzAJ9+Y6F4TMpbVcRJ2h0tm73CJV39F3IU0y1iDG5Etn8TmbXkBPpyvEB+rnuCuhAQlm/WZuRthd4A5Mkpm3XNdTqDKBUZ5cZ6lGSMsn95trSkDc7HiOWPEplM1632ycJKGuMhkeVa+GgFBwCPDLb/9qcyRFOJ/yqGAqAUNvRrx9sdnFlLYFmGJ1vw=="
+          }
+        },
+        {
+          "q_id": "chem-003",
+          "text": "The conjugate base of HCO\u2083\u207b is:",
+          "options": {
+            "A": "H\u2082CO\u2083",
+            "B": "CO\u2083\u00b2\u207b",
+            "C": "H\u2082O",
+            "D": "CO\u2082"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "mhl8foaCq8QbWY35Nz10XfhqqQ1zvRnr4Zkovh2C3XBx5rITdABqL+1Cn0tkmgQ7amBNm1Sh4/VOinegDcR/HEUZbcLZ8J21wqeyrTCR02+BE0kFobrvRITD5mHBABpt38pT5KqrnCeeNm0NzHnyXA1ceIDea1HlXchzpau05dcbknOANMfIZFxY0CGR0TwlmQUMploqvL67PZoa7y2jucn/P0s7of4y709/kPYz/Q9Ex1mX+jeYh+vwlzu820LNAv/QgN8uOK8YxmFpPV47gORPVnbvRr6aK3n4JVu6UUOi80oNRQEyTUWnmlorTqYKgXzIbvfRbPKKo0ViqwmXRA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "R04iiA4wdUbxuok/h7LtxIfVSum4N8YpoVItXhnjGrzeEaqeZ+QSY4yscM0ZuQvMYZuwe/WwWP92cefQ6fDBOcA0J/3Suupk0/Fp7JuSWXK4366xntel7y/2wk2kEccA+ncub5tHbYf83BlFgXV0kuZ24jXhGibZHALuKMifcE0267JDfGpkSLBQiA3wQeR+VOAyXWzeoiAW3Yhr3O875nCQIFxtMqq+dGhHsDSAa4sYCfeZlnICHOmy8ntP/hHtnGg6GwJ1KQPnXBBuqYl9nA1GKdU7tT7FWtcuwMxAx35twYO1I9BEL2Iq03SPx4g37ZlMnwItKIv+bnffqpRvsA=="
+          }
+        },
+        {
+          "q_id": "chem-004",
+          "text": "Isomerism is NOT shown by:",
+          "options": {
+            "A": "Alkanes",
+            "B": "Alkenes",
+            "C": "Alkynes",
+            "D": "Aromatic hydrocarbons"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "pHOZYOPlvNSEnLNyns29540QkoZI1bQX+LWt8gBwXViJlNJ6N4z8QHsxx0gegIf5wdehdo97BhNTBSUUg91/SaY5sSsQGQl0HOvp/BRxKglv3PZwDuV2YKYJEy6aIIr1lGOzgYkyUkbD8OOnFKbaOcjX4PP23B7knCyOKWveuz2Wv9Puh13cwAya7zRlu4f/+hhZFejtzv12rRvvshbEs2OO8yR5JTgVgWVe+J8uWj1eEsu/lQMLP/s7rIfK43OIoR0GLX7XjffvK2+DHvsXK4PK+Gpfb2QHl5j+rIPiOipvtEzTwsagVuuAynUYKc2EpsKeukWzMo2fBS2S2MimLg=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "TyBI20YMw2iRN2cbJ50J3okUWFpeHY9IZ+F+yoWuGaDRxSJ6REjkTCAtD+Ys3mGGmtu1xX2jUp67JoangvSU6FhlgbXjNujycbWkR9+gtCbhYxYxtvelGDJAY2syF8MrH4+bmdzbMn0MC/HnmLJKS25ViKXkWqAA2Bm2ErFhv+dah3ENbn3H9PM11dZ9t49Wdf6VbYBktqTfpovhQanX5NUQOLsEiMUVCEI3E9we1hJbLeCUwlk9T+gwIftg2GoQR/yJCfyZAUfSyDPGZnGXbqsUV7UafD0hfIfPB5VTIxTgMdKuEaR7vb52qnRHZFi+G7Vc1tCmEEDtk0/EKVXcgw=="
+          }
+        },
+        {
+          "q_id": "chem-005",
+          "text": "The oxidation state of N in HNO\u2083 is:",
+          "options": {
+            "A": "+3",
+            "B": "+5",
+            "C": "+4",
+            "D": "+2"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "CcC0EtX9kfXWItZcK0nqaQ/WoNgGWY38TQJOWAvuUD8iRsExZ47Zs2fRcW2AA03ZlS3YsT+dTjA7w/VRmsx13oVJM09tIZ9v2aMlu/K4m7h0umlZZm9wE5393Y+yhljHdUvk898nExuIBYDoT64Xh5nc0hCOKI/9zP9k6oK2vP0AClmSXTo+JiyH5RxLiOatRKk4ZGOcKyRv89bZ2YC2NLS/FpQYSIqksEPH6Wv6nN5Wn29Ngx+BlfFOSIhm71pKyK8HtjyI20WyQ+0tSPvx3rxlZV92rCF83kIiFPDEemJueGim0iGiCGE6MkuvZz6zFQ1xnsSblZG60XWdz49A0Q=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "ijzFowpy6G5bP821zXE/KuewVrya1YsyZzstUBvMcSmkZ/IdKD+3OdS2G5JEL/wELP+68Vdp89lIEfBqFQqA+trC+bADy3Ao4Kr2OsDyExE4i/JZl7zs2KlcgX6NrmDZDy0oTJsaOGNrM6f352nrUD/qN2ru5r26orOF/nqEiky2sKJb1UocpRMquQ/lIDF5dpLFXsfrY/OHu97ASKIYDLgKtl8xuNIWddIjDairMycEwrg4PJHMcXbjxW2aARsF7Nm/oKicKMngO/iLbpDrqur91SXGaP1mcZXiuQW0EXjYFzN1dTxLKg/QAXjFP1F02EJ840LxeVLHUJrB7xGNfQ=="
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "biology",
+      "title": "Biology",
+      "duration_minutes": 80,
+      "total_questions": 45,
+      "questions": [
+        {
+          "q_id": "bio-001",
+          "text": "The theory of evolution is proposed by:",
+          "options": {
+            "A": "Lamarck",
+            "B": "Darwin",
+            "C": "Mendel",
+            "D": "Pasteur"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WSemi+mTKmRW6a9fQeLfEUOr9USu4NsHM7Vivywi4+FtS9zMiYMRx7JfWFZuwF729Pt3SCAv8N70n1UfVQl2vWF6wFrUWF4yZxjVx0pp555T97lGwaWZf0GPueFHAhP1xHpy6OAcHgXcKmnaIX2+JSZOGidxNerFw+zeSbfFc6S7ABkLY0Yksa7gKLqO8J8AbUxVCnTEieJID66lNYLB126fSQh3Ag7XOKkfuXwdU+nuzGqKM0NNRdrRpGi77NqPvl4YNIw5IYR2T2fz7HrPOndHmGSVV764ZiktddM/ixpqtF2zdy1/iupj6Dwf2KV4w8wLp8FZva1cavIOzVrXTQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "tK8JbmxsF4g5fGHdb88zIEIz1UEAOUv/+5EOQoRJHhYVLw5JcUMEDRedr3AWB4VYO5OjKv/TR2FUzsFd53+OS/aY/Y5hnDtxYh5qTqfhS9KFN4nyi2Kma5U+Od8WZm4S8qAoP4euTIbwHPVTWx5MaZ8e7kn7ULVqGoh1r7tsUnvE3u4KaR7mIxoAsRr3RDq8sV+c8iKcV38BNu4IJ6a+Ty+j3Dg3kh6zQAzpU0T3r1X2Yl3wcgBs7ccMq4bJxgJSDmVm8yjDUejaPXCHiDDQcaUCLcqeW1krmUMy0TLls6PdBqKhGd3vVa96OY7yF5rI6unnJwl4U3hCGxAxz4z4OQ=="
+          }
+        },
+        {
+          "q_id": "bio-002",
+          "text": "The primary structure of DNA is made of:",
+          "options": {
+            "A": "Nucleotides",
+            "B": "Amino acids",
+            "C": "Glucose",
+            "D": "Fatty acids"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "c38XOchHKYCZ+hV/GVAj0WXUvTPh+MvCH8xnZMcISC7U+8Q2p5b0HkEuTT4PlSBNz6NDazJMqAadW5i5No8AZGGpvVn7Hekko97Yc521uDCbfGvME5dUfcuBn8WftpOMHq+Fg+BJXEl63GbGNuXMLKWShQFQH6I4H1aVy0uZ4RcMzCj+FXFSN2t1+hLlD7C6XYjIUaxQdQZpUeMisN8AEFEnCQx1Hk87VitdxizR9/riRXu9MRYuR2HmWJVInpFpDScsihzmx4rT4g3/CNus7gVXjcj1+guU5Lt69vEzRPleAmGN9nSvhFTx8aAgyr54DsUTpSQEQ4GuKjq9ryy4mQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DCJLI9YTLmjMfBACJuMDk6bNv5SoFW7buSyZGhx+2+0iEgr8WMBhvcCpTyFE2e4B9fY83co0/tCFMCQZZQE6NfAhylEhi4BC4bWMwDo6mKsd8aFXUIet6H9WU0BAKOYVHzem8W2QS6C2NN+yWduA9m+w7u3hKaDX8t9wun3an5HNWGYXpLivAA0g3GqNupfTEpNKwl6mDa9ycxcJC1SYzxkxt3nI/bNrlychBdodXuTJmsjYWy1Yb5Ch/878YsIPa4+a4XBY5DW6ds6Um9pl2gr2h9L6Q6MadDS1LmKog9+kNAIwW8qNWVAhYWOPQHpHslsQhHoBpb1PrRsFjekBcg=="
+          }
+        },
+        {
+          "q_id": "bio-003",
+          "text": "Which organelle contains enzymes for cellular respiration?",
+          "options": {
+            "A": "Nucleus",
+            "B": "Ribosome",
+            "C": "Mitochondria",
+            "D": "Chloroplast"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "WVv/aq/EpJfSRFzsbtKJ039YJrz0fgMx5O7aRgaGn92jJ5eBQwWIfUu14zfqalbZTalWkmGyKofmUCDwyU+U9lWgllJxJz3gLGBNcRmcrehQjQrQxrQ/9I7x1FYpzzMcK76ebDxoMnCexD59DBjCig2wnrpAoJxywfGLiYkPlOXbt/UDmk75AWszqN4+Li3eb0++zJkbtLYtIfuyfVT33Ug8TtepZLUTvImJ1EfHu5YxUksxwS0lotszF0ehO4Ic5BlixrHQNMtEdidLJQ/C1dAQq4uU+43lAYd2C2vBgFTfP0aTsU7R2boaIRCO62W0/FFQlFapmNLGof2Nhg19EA=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "DfDXZhJ/3vIRDUlr0onM0sv6kHwZj5imSYQnDjMJ72di2Pvv439GsOEmi/eRVozx4Nr6w6p8LVEHllWKi7vRm0iJ4c0dXL9edd1m09UeXW4X9lP4YFxlm3ep91Nx7S19BBeEk23vA0Un9NCTeHulVC4EehCbMzyqJroWyT0KPZPaNQNwzvHFU5xBQFLjLqcFDnk3ZdHxRKmCBO+/V2v7248iMWD/aaRe0eICEIiK6fsL7TBD3L9xYpD9r45VKxdqFkCnVWERNBNDM9KLjeChYDyVVyIZ8/wUdTbTvaWbcz4tGpAvet39GQ6xi6z2frFAe6ltVk8i27zlSrekj1htmA=="
+          }
+        },
+        {
+          "q_id": "bio-004",
+          "text": "The study of tissues is called:",
+          "options": {
+            "A": "Histology",
+            "B": "Cytology",
+            "C": "Ecology",
+            "D": "Physiology"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "ldMHBTgMS014sBVS1wWd5AkCIIVvYkwLT7WkiLkaR+jE24j5iNNL+/4bKJrqtsHAPHhh9DknZd/u/j3FgrdtiLrVQJNqikxA06L5dw4wYboN02RcGuQjcMsls7IvDoMUDojcKPpJtQ7r0ee/2bMQoCc0zIAJgGtMfNX7vQruRRM9Mr+Nl/1nt1aj87dQm+HlI9cweew7w+g+PVeXPCIA5iIDwxV9sk2jSsI1/M6dto7GZ2x+YsRJ4DHgTGgevgxN1VeKBxu7WvAmPC0uO/9ECBHNmb/rALEpdqLIWEcbhLksmm3KVyb5Fp6oDpM11Qh2/snStm0EEIjQ+tTUXC0/0g=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "XktkrgapaBMRgVGFBU0P/17MJwuM+5OJH3oDGcT4q/qHPj7mND5705IlnVvTxed1l8GcAWP2aMCZfJquUre98UjIWRkX2WxPEbQs1FCqOIY1YvJv3Yps9Hu9diI+C1uyVuS5ecxuFrws1SAeYMa9hj1jsGtf6VzPUrnH7SAYbavO1DLpb0cvY2ptg4WDAQcMDmRAvFBNp/ZE2Pu1YvDs9id1iNWcw6b1lTvIhEV25iJs5Qwzg4a4505vPEq/TFIMpse82sxZYZP+Ga4y8/xYFkBZBcTpl97wuvqXSd6gZa4g1c9VP9n8uREoVo9FHVo13+NbMmoKIFjS+EEANFWJpw=="
+          }
+        },
+        {
+          "q_id": "bio-005",
+          "text": "The immune response to a pathogen for the second time is:",
+          "options": {
+            "A": "Primary response",
+            "B": "Secondary response",
+            "C": "Tertiary response",
+            "D": "Latent response"
+          },
+          "correct_option": {
+            "__encrypted__": true,
+            "data": "UFYsZ1al6/bqR0A/qxKHffM3bbKD0sIE7BXgs/hp426YQjnrP83S9rXE95H+Ciszw5ZpvODOhj4h57i3J00gvCqv7u8yfDqqJJMkbYy4s6XJTm77CTUGImylXaTF/DmUx7/qUJPJO4lV/TZ3eZ3iwTvBVcrGCQZBp77H4nDT5GOGZb0KsVM71ahQ27uLzSQf5PWFPFfZ/S37UOiM83tMRRZm6IY0Tf84hhQapi6mSQAi7U4G0wWT6Svy/h9ZM8C7oISq0fTZjsa0D1VAoMCNKiRXKfEfnSflav3hrSa8V1QjS8m03IwBA0QYaT+NafiWlHatlo5tWYP7DFkdD7bHbQ=="
+          },
+          "marks": 4,
+          "negative_marks": 1,
+          "explanation": {
+            "__encrypted__": true,
+            "data": "J2GaA2EeSJEg3UKTlH38rNYLpl3hpQiW/wHyZYWtRreiKxHZG2RFi/Qd9NcmQwdmJxK6QlQwQ/ge920LF+pE0Z8k+0vGEzu9ubeJb2w5XtjFEFhJCFghdCqiTjoiGtJ3scUBWMC8dGoGnp88KkOw02rtxr+S19eROZWZlRgX3XIadOePUHa73X2S4jhRVBw3dK7Ld7SJ1MamOjlGriczDa6an89bF+sPzBXh8s3VJzE9NpV3pbC8uFMeyLXdKqwbURbz6C4WN1/Yoih08sH+xZGEtWUg9Y36o0LUz8xjyT4KPbq2BikWh6A4+xw7l3OdJ9+MNAtBzh/HuxVDmWaoAg=="
+          }
+        }
+      ]
+    }
+  ]
+}
